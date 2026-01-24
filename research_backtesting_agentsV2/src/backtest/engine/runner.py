@@ -64,6 +64,7 @@ class CodeRunner:
                             end_date: str = None,
                             optimize: bool = False,
                             tunable_params: Dict[str, Any] = None,
+                            optimization_target: str = "Sharpe Ratio",
                             file_suffix: str = "") -> Path:
         """
         Generates the executable Python script.
@@ -144,18 +145,18 @@ def run_optimization_loop():
                 bt = Backtest(data, GeneratedStrategy, cash=1_000_000, commission=.001)
                 stats = bt.run()
                 
-                # Return Sharpe (primary metric)
-                # Handle cases where Sharpe is NaN or too few trades
+                # Return Target Metric (Dynamic)
+                # Handle cases where Metric is NaN or too few trades
                 trades = stats["# Trades"]
-                sharpe = stats["Sharpe Ratio"]
+                target_val = stats["{optimization_target}"]
                 
                 if trades < 5:
                     raise optuna.TrialPruned(f"Too few trades: {{trades}}")
                     
-                if pd.isna(sharpe):
+                if pd.isna(target_val):
                      return -10.0
                      
-                return float(sharpe)
+                return float(target_val)
                 
             except Exception as e:
                 # Log within trial if needed, but mainly Prune

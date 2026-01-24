@@ -167,7 +167,8 @@ async def optimize_strategy(
     timeframe: str = "1h",
     n_trials: int = 30,
     timeout: int = 300,
-    days: int = 365
+    days: int = 365,
+    optimization_target: str = "Sortino Ratio"
 ) -> OptimizationResult:
     """
     Run Optuna optimization on a strategy using TURBO MODE (Internalized Optimization).
@@ -239,6 +240,7 @@ async def optimize_strategy(
             end_date=train_end_date,
             optimize=True,
             tunable_params=tunable_params,
+            optimization_target=optimization_target,
             file_suffix="_turbo_opt"
         )
         
@@ -255,7 +257,7 @@ async def optimize_strategy(
         best_params = result.get("best_params", {})
         trials_run = result.get("trials_run", 0)
         
-        logger.info(f"✨ TURBO OPTIMIZATION COMPLETE: Sharpe={best_sharpe:.2f} | Trials={trials_run}")
+        logger.info(f"✨ TURBO OPTIMIZATION COMPLETE: {optimization_target}={best_sharpe:.2f} | Trials={trials_run}")
         
         return OptimizationResult(
             success=best_sharpe > 1.0,

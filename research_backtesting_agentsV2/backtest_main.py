@@ -296,7 +296,8 @@ async def process_strategy(strategy: Strategy, session):
                         timeframe=tf,
                         asset_type=strategy.asset_type,
                         n_trials=20, # Reduced trials for speed since we test many combos
-                        timeout=200
+                        timeout=200,
+                        optimization_target="Sortino Ratio"
                     )
                 except Exception as e:
                     logger.error(f"⚠️ Optimization failed for {sym} ({tf}): {e}")
