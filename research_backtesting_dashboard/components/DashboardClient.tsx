@@ -227,7 +227,8 @@ export default function DashboardClient() {
                         <div className="flex flex-wrap gap-2 text-xs">
                             {filters.searchTerm && (
                                 <span className="bg-primary/10 px-2 py-1 rounded flex items-center gap-1">
-                                    Search: "{filters.searchTerm}"
+                                    Running agents consume significant RAM. On a 16GB machine, it&apos;s recommended to keep total concurrency under 5-8 agents.
+                                    The &quot;Smart&quot; model (Gemini 2.0 Flash) is used for coding, while lighter models handle research.
                                 </span>
                             )}
                             {filters.status && (

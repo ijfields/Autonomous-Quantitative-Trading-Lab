@@ -26,10 +26,11 @@ interface AgentInstance {
 }
 
 // In-memory state (Note: resets on server restart, process managers like PM2 keep this alive)
-let agentInstances: { backtest: AgentInstance[], research: AgentInstance[] } = {
-    backtest: [],
-    research: []
-};
+// In-memory state (Note: resets on server restart, process managers like PM2 keep this alive)
+// let agentInstances: { backtest: AgentInstance[], research: AgentInstance[] } = {
+//     backtest: [],
+//     research: []
+// };
 
 // Helper: Find lowest available Instance ID (e.g., if 1 and 3 are running, return 2)
 function findNextId(instances: AgentInstance[], maxLimit: number): number | null {
@@ -192,7 +193,7 @@ export async function POST(req: Request) {
 
         // --- RESET ACTION (Clean Backtests) ---
         if (action === 'reset') {
-            return new Promise((resolve) => {
+            const result = await new Promise<NextResponse>((resolve) => {
                 const process = spawn(VENV_PYTHON, [RESET_SCRIPT], {
                     cwd: PROJECT_ROOT
                 });
@@ -205,11 +206,12 @@ export async function POST(req: Request) {
                     }
                 });
             });
+            return result;
         }
 
         // --- RESET DATABASE ACTION (Nuclear) ---
         if (action === 'reset-database') {
-            return new Promise((resolve) => {
+            const result = await new Promise<NextResponse>((resolve) => {
                 // Pass 'yes' via stdin to auto-confirm
                 const process = spawn(VENV_PYTHON, [RESET_DB_SCRIPT], {
                     cwd: PROJECT_ROOT
@@ -227,6 +229,7 @@ export async function POST(req: Request) {
                     }
                 });
             });
+            return result;
         }
 
         // --- KILL ALL ACTION (Uses same logic as individual Stop) ---
@@ -459,7 +462,7 @@ export async function POST(req: Request) {
             try {
                 // 1. Kill entire process tree (all descendants, not just direct children)
                 // Using --full to match command line and -g to kill process group
-                const scriptName = type === 'backtest' ? 'backtest_main.py' : 'research_main.py';
+                const _scriptName = type === 'backtest' ? 'backtest_main.py' : 'research_main.py';
 
                 // First: SIGTERM for graceful shutdown (gives agents chance to cleanup)
                 exec(`pkill -TERM -P ${instance.pid}`);  // Children
@@ -478,7 +481,7 @@ export async function POST(req: Request) {
                             // Returns true if signal sent (alive), throws if not found
                             process.kill(instance.pid, 0);
                             resolve(true);
-                        } catch (e) {
+                        } catch (_e) {
                             resolve(false);
                         }
                     });

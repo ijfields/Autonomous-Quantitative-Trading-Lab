@@ -3,6 +3,7 @@ import logging
 from dataclasses import dataclass
 from typing import Optional
 
+from pathlib import Path
 from dotenv import load_dotenv
 from pydantic_ai import Agent
 from pydantic_ai.models.gemini import GeminiModel

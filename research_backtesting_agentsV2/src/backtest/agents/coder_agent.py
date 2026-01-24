@@ -5,6 +5,7 @@ import re
 import ast
 from dataclasses import dataclass
 from typing import List, Optional, Any, Union, Dict
+from pathlib import Path
 from dotenv import load_dotenv
 
 from pydantic import BaseModel, Field, TypeAdapter, ValidationError, field_validator
