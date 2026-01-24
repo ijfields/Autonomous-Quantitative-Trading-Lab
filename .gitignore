@@ -1,0 +1,61 @@
+
+# ----------------------------------------------------------------------
+# 🛡️ GLOBAL .gitignore
+# ----------------------------------------------------------------------
+
+# --- Secrets & Environment ---
+.env
+.env.production
+.env.local
+!example.env
+!.env.example
+check_connection.py
+
+# --- OS / IDE ---
+.DS_Store
+.vscode/
+.idea/
+.fleet/
+*.sublime-project
+*.sublime-workspace
+
+# --- Python (Agents System) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+htmlcov/
+.mypy_cache/
+.pytest_cache/
+
+# --- Research/Backtest Data Artifacts ---
+# We keep the folders but ignore contents usually, 
+# unless you want to ship cache. Generally stick to ignoring large data.
+research_backtesting_agentsV2/logs/
+research_backtesting_agentsV2/db_data/
+research_backtesting_agentsV2/temp_backtests/
+research_backtesting_agentsV2/data_cache/
+research_backtesting_agentsV2/searxng-data/
+
+# --- Node.js / Next.js (Dashboard) ---
+node_modules/
+.npm/
+research_backtesting_dashboard/.next/
+research_backtesting_dashboard/out/
+research_backtesting_dashboard/build/
+research_backtesting_dashboard/coverage/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Docker ---
+docker-compose.override.yml

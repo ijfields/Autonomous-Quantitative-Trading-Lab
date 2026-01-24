@@ -1,0 +1,52 @@
+# ===================================================
+# 🤖 Autonomous Quantitative Trading Laboratory
+# ===================================================
+# Complete dependencies for the research & backtesting system
+# Python 3.12+ required
+# ===================================================
+
+# ===== Core Frameworks =====
+pydantic-ai>=0.0.14          # AI Agent framework
+pydantic>=2.0                # Data validation
+python-dotenv                # Environment variable management
+nest_asyncio                 # Nested async loop support
+colorama                     # Colored terminal output
+
+# ===== Database & Vectors =====
+sqlmodel                     # SQL database ORM (built on SQLAlchemy)
+sqlalchemy[asyncio]>=2.0     # Async database engine
+asyncpg                      # Async PostgreSQL driver
+pgvector                     # Vector similarity search extension
+alembic                      # Database migrations
+
+# ===== AI & LLM =====
+google-generativeai          # Google Gemini API
+docling                      # PDF/Document parsing with OCR
+sentence-transformers        # Local embedding models (MiniLM)
+scikit-learn                 # ML utilities (cosine similarity)
+numpy                        # Numerical computing
+arch                         # GARCH volatility modeling
+
+# ===== Networking & Utilities =====
+httpx                        # Async HTTP client
+httpcore                     # HTTP core library
+aiohttp                      # Alternative async HTTP
+
+# ===== Backtesting Stack =====
+backtesting                  # Event-driven backtesting engine
+vectorbt                     # Vectorized backtesting (optional)
+pandas>=2.0                  # Data manipulation
+pandas_ta                    # Technical analysis indicators
+ta                           # Alternative TA library
+yfinance                     # Yahoo Finance data
+ccxt                         # Crypto exchange data
+pyarrow                      # Parquet file support
+
+# ===== Optimization =====
+optuna>=3.0.0                # Bayesian hyperparameter optimization
+
+# ===== Development & Testing =====
+pytest                       # Testing framework
+pytest-asyncio               # Async test support
+black                        # Code formatting
+ruff                         # Fast linter

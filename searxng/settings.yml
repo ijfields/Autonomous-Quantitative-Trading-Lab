@@ -1,0 +1,46 @@
+use_default_settings: true
+
+server:
+  secret_key: "rodrigo_research_agent_final_v1"
+  limiter: false
+  image_proxy: true
+  bind_address: "0.0.0.0"
+  port: 8080
+
+search:
+  safe_search: 0
+  formats:
+    - html
+    - json
+
+engines:
+  - name: google
+    engine: google
+    disabled: false
+  - name: bing
+    engine: bing
+    disabled: false
+  - name: brave
+    engine: brave
+    disabled: false
+  - name: duckduckgo
+    engine: duckduckgo
+    disabled: true
+  - name: arxiv
+    engine: arxiv
+    disabled: false
+  - name: google scholar
+    engine: google_scholar
+    disabled: false
+  - name: wikipedia
+    engine: wikipedia
+    disabled: true
+  - name: wikidata
+    engine: wikidata
+    disabled: true
+  - name: currency
+    engine: currency
+    disabled: true
+  - name: bing images
+    engine: bing_images
+    disabled: true

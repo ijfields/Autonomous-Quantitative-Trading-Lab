@@ -1,0 +1,66 @@
+services:
+  db:
+    image: pgvector/pgvector:pg15
+    container_name: trading_postgres
+    restart: always
+    environment:
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypassword
+      POSTGRES_DB: trading_db
+    ports:
+      - "${DB_PORT:-5432}:5432"
+    volumes:
+      - db_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U myuser -d trading_db"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - "${ADMINER_PORT:-8080}:8080"
+
+  redis:
+    image: "redis:alpine"
+    container_name: searxng_redis
+    command: redis-server --save "" --appendonly "no"
+    tmpfs:
+      - /var/lib/redis
+    cap_drop:
+      - ALL
+    cap_add:
+      - SETGID
+      - SETUID
+      - DAC_OVERRIDE
+
+  searxng:
+    # image: searxng/searxng:latest
+    build: ./searxng
+    container_name: searxng
+    restart: always
+    ports:
+      - "${SEARXNG_PORT:-8081}:8080"
+    # VOLUMES COMMENTED OUT TO GENERATE DEFAULT CONFIG FIRST
+    # volumes:
+    #   - ./searxng:/etc/searxng:rw
+    environment:
+      - SEARXNG_BASE_URL=http://localhost:${SEARXNG_PORT:-8081}/
+      - SEARXNG_SECRET=rodrigo_ultra_secret_key_generator_v99
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - SETGID
+      - SETUID
+      - DAC_OVERRIDE
+    logging:
+      driver: "json-file"
+      options:
+        max-size: "1m"
+        max-file: "1"
+
+volumes:
+  db_data:
