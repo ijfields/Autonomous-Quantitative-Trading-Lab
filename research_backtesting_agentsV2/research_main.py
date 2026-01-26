@@ -230,6 +230,8 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps):
             
             try:
                 command = parse_agent_output(raw_text)
+                # Reset backoff on successful API response
+                key_manager.reset_backoff()
             except Exception:
                 logger.warning(f"⚠️  JSON Parse Failed. Asking retry.")
                 history.append("SYSTEM ERROR: Invalid JSON format. Output strictly the JSON object.")
@@ -353,11 +355,12 @@ async def get_recent_strategy_names(session, limit: int = 50) -> List[str]:
     try:
         from sqlalchemy import text
         # Get diverse set of names, prioritizing those with higher quality logic
+        # Fixed: PostgreSQL requires ORDER BY columns in SELECT when using DISTINCT
         query = text("""
-            SELECT DISTINCT name 
-            FROM strategy 
+            SELECT name FROM strategy
             WHERE status != 'REJECTED'
-            ORDER BY created_at DESC 
+            GROUP BY name
+            ORDER BY MAX(created_at) DESC
             LIMIT :limit
         """)
         result = await session.execute(query, {'limit': limit})

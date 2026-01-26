@@ -14,14 +14,18 @@ class KeyManager:
         env_var = f"{key_type}_KEYS"
         keys_str = os.getenv(env_var, "")
         self.keys = [k.strip() for k in keys_str.split(",") if k.strip()]
-        
+
         if not self.keys:
             raise ValueError(f"CRITICAL: No keys found in .env for {env_var}")
-            
+
         # Track usage times: { "AIza...": 1715000.0 }
         self.usage_history: Dict[str, float] = {k: 0.0 for k in self.keys}
         self.current_index = 0
         self.min_interval = 15.0 # Seconds between using the SAME key (Safety buffer for Gemma)
+
+        # Exponential backoff for rate limiting
+        self.consecutive_failures = 0
+        self.max_backoff = 120  # Max 2 minute wait
 
     def get_next_key(self) -> str:
         """
@@ -53,11 +57,16 @@ class KeyManager:
 
     def flag_key_limited(self):
         """
-        Call this if a 429/Quota error happens. 
-        It forces the manager to skip to the next key immediately.
+        Call this if a 429/Quota error happens.
+        Implements exponential backoff to handle rate limits gracefully.
         """
-        logger.warning(f"⚠️  Key #{self.current_index+1} hit a limit! Skipping...")
-        # Since we incremented index in get_next_key, we are effectively 
-        # already pointing to the next one for the next call. 
-        # We just add a small penalty delay to the system to let things settle.
-        time.sleep(2)
+        self.consecutive_failures += 1
+        backoff = min(2 ** self.consecutive_failures, self.max_backoff)
+        logger.warning(f"⚠️  Key #{self.current_index+1} hit a limit! Backing off {backoff}s (failure #{self.consecutive_failures})...")
+        time.sleep(backoff)
+
+    def reset_backoff(self):
+        """Reset the backoff counter after a successful API call."""
+        if self.consecutive_failures > 0:
+            logger.info(f"✅ Resetting backoff counter (was {self.consecutive_failures})")
+            self.consecutive_failures = 0
