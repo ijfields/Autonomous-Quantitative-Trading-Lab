@@ -188,7 +188,15 @@ def parse_agent_output(raw_text: str):
             raise
 
 # --- EXECUTION ENGINE ---
-async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps):
+async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, model_type: str = "smart"):
+    """Execute the agent loop for scout or sniper mode.
+
+    Args:
+        mode: "SCOUT" or "SNIPER"
+        initial_input: The initial prompt/input for the agent.
+        deps: Research dependencies (db session).
+        model_type: "fast" for high-quota model (scout), "smart" for reasoning model (sniper).
+    """
     system_prompt = SCOUT_SYSTEM_PROMPT if mode == "SCOUT" else SNIPER_SYSTEM_PROMPT
     
     # --- NEGATIVE PROMPTING (Scout Only) ---
@@ -318,9 +326,9 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps):
                 # 2. Get fresh key
                 new_key = key_manager.get_next_key()
                 
-                # 3. Update Agent
-                update_agent_model(new_key)
-                
+                # 3. Update Agent (preserve model type)
+                update_agent_model(new_key, model_type)
+
                 # 4. Retry loop immediately
                 logger.info("🔄 Retrying step with new key...")
                 continue
@@ -375,10 +383,10 @@ async def run_24_7_loop():
     await init_db()
 
     while True:
-        # 1. Ensure we have a valid key before starting cycle
+        # 1. Ensure we have a valid key before starting cycle (start with fast model for scout)
         current_key = key_manager.get_next_key()
-        update_agent_model(current_key)
-        
+        update_agent_model(current_key, model_type="fast")
+
         async for session in get_session():
             deps = ResearchDeps(db_session=session)
             
@@ -394,15 +402,17 @@ async def run_24_7_loop():
             logger.info(f"\n🔭 SCOUTING: {niche}")
             
             prompt = f"Find a specific, novel trading strategy in the '{niche}' niche.{avoid_context}\n\nFocus on verifiable alpha, not generic advice."
-            scout_res = await execute_agent_loop("SCOUT", prompt, deps)
+            scout_res = await execute_agent_loop("SCOUT", prompt, deps, model_type="fast")
             
             if not scout_res:
                 logger.warning("Scout failed. Skipping cycle.")
                 break
 
-            # 3. SNIPER
+            # 3. SNIPER (switch to smart model for deeper analysis)
             logger.info(f"🦅 SNIPING: {scout_res.topic}")
-            sniper_res = await execute_agent_loop("SNIPER", f"Analyze {scout_res.topic}", deps)
+            sniper_key = key_manager.get_next_key()
+            update_agent_model(sniper_key, model_type="smart")
+            sniper_res = await execute_agent_loop("SNIPER", f"Analyze {scout_res.topic}", deps, model_type="smart")
             
             if sniper_res:
                     # --- DEDUPLICATION CHECK (Database-based) ---
@@ -516,10 +526,11 @@ async def run_24_7_loop():
                     except Exception as e:
                         logger.error(f"❌ DB Save Failed: {e}")
 
-            break  
-        
+            break
+
         # 4. ZERO DELAY (The Manager handles timing)
         # We just loop immediately. If keys are hot, Manager will sleep inside get_next_key()
+        key_manager.log_usage_summary()
         logger.info(f"🔄 Cycling...")
 
 import signal

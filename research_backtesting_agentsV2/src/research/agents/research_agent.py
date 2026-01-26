@@ -69,9 +69,17 @@ class FinishScoutCommand(BaseModel):
 AgentAction = Union[SearchCommand, ReadCommand, FinishSniperCommand, FinishScoutCommand]
 
 # --- 4. MODEL FACTORY (FIXED) ---
-def create_model(api_key: str):
-    """Creates a Gemini Model instance with the specific key."""
-    model_name = os.getenv("MODEL_SMART", "gemma-3-27b-it")
+def create_model(api_key: str, model_type: str = "smart"):
+    """Creates a Gemini Model instance with the specific key.
+
+    Args:
+        api_key: The API key to use.
+        model_type: "fast" for high-quota model (scout), "smart" for reasoning model (sniper).
+    """
+    if model_type == "fast":
+        model_name = os.getenv("MODEL_FAST", "gemini-2.5-flash-lite")
+    else:
+        model_name = os.getenv("MODEL_SMART", "gemini-2.5-flash")
     # Avoid global state mutation for thread safety - BUT GeminiModel requires env vars
     os.environ["GEMINI_API_KEY"] = api_key
     os.environ["GOOGLE_API_KEY"] = api_key
@@ -91,11 +99,15 @@ _current_model = create_model(_initial_keys[0].strip())
 universal_agent = Agent(_current_model, deps_type=ResearchDeps)
 
 # --- 7. KEY ROTATION HOOK ---
-def update_agent_model(api_key: str):
+def update_agent_model(api_key: str, model_type: str = "smart"):
     """
-    Called by main.py to hot-swap the API key.
+    Called by main.py to hot-swap the API key and/or model.
+
+    Args:
+        api_key: The API key to use.
+        model_type: "fast" for high-quota model (scout), "smart" for reasoning model (sniper).
     """
-    new_model = create_model(api_key)
+    new_model = create_model(api_key, model_type)
     universal_agent.model = new_model
 
 # --- 8. PROMPTS ---
