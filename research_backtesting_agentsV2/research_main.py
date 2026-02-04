@@ -234,6 +234,89 @@ def sanitize_json_str(json_str: str) -> str:
 
     return json_str
 
+def fix_invalid_enum_values(data: dict) -> dict:
+    """Fix invalid enum values in parsed JSON before Pydantic validation.
+
+    This handles cases where LLM outputs values outside the allowed Literal types,
+    such as asset_type="multi-asset" instead of "crypto"/"stock"/"index".
+    """
+    # Valid enum values
+    VALID_ASSET_TYPES = {"crypto", "stock", "index"}
+    VALID_TOOLS = {"search_general", "search_academic", "search_github", "read_content", "finish_sniper", "finish_scout"}
+
+    # Fix tool name if needed
+    if "tool" in data and data["tool"] not in VALID_TOOLS:
+        # Try to match partial names
+        tool_lower = str(data["tool"]).lower()
+        if "sniper" in tool_lower or "finish" in tool_lower:
+            data["tool"] = "finish_sniper"
+        elif "scout" in tool_lower:
+            data["tool"] = "finish_scout"
+
+    # Fix result object for finish_sniper
+    if data.get("tool") == "finish_sniper" and "result" in data:
+        result = data["result"]
+
+        # Fix asset_type
+        if "asset_type" in result:
+            asset_type = str(result["asset_type"]).lower()
+            if asset_type not in VALID_ASSET_TYPES:
+                # Map common invalid values to defaults
+                if "crypto" in asset_type or "btc" in asset_type or "eth" in asset_type:
+                    result["asset_type"] = "crypto"
+                elif "stock" in asset_type or "equity" in asset_type or "share" in asset_type:
+                    result["asset_type"] = "stock"
+                elif "index" in asset_type or "spy" in asset_type or "qqq" in asset_type:
+                    result["asset_type"] = "index"
+                else:
+                    # Default to crypto for unknown types
+                    result["asset_type"] = "crypto"
+
+        # Fix symbols - ensure it's a list of strings
+        if "symbols" in result:
+            symbols = result["symbols"]
+            if isinstance(symbols, str):
+                result["symbols"] = [symbols]
+            elif isinstance(symbols, list):
+                # Clean up invalid symbols like "ANY"
+                cleaned = []
+                for sym in symbols:
+                    sym_str = str(sym).upper()
+                    if sym_str in ("ANY", "ALL", "MULTI", "VARIOUS"):
+                        # Replace with default based on asset type
+                        asset = result.get("asset_type", "crypto")
+                        if asset == "crypto":
+                            cleaned.append("BTC/USDT")
+                        elif asset == "stock":
+                            cleaned.append("SPY")
+                        else:
+                            cleaned.append("SPY")
+                    else:
+                        cleaned.append(sym_str)
+                result["symbols"] = cleaned if cleaned else ["BTC/USDT"]
+
+        # Fix timeframes - ensure it's a list
+        if "timeframes" in result:
+            tf = result["timeframes"]
+            if isinstance(tf, str):
+                result["timeframes"] = [tf]
+            elif not tf:
+                result["timeframes"] = ["1h"]
+
+        # Ensure quality_score is an int
+        if "quality_score" in result:
+            try:
+                result["quality_score"] = int(result["quality_score"])
+            except (ValueError, TypeError):
+                result["quality_score"] = 5
+
+        # Ensure is_duplicate is a bool
+        if "is_duplicate" in result:
+            result["is_duplicate"] = bool(result["is_duplicate"])
+
+    return data
+
+
 def parse_agent_output(raw_text: str):
     """Parse agent output with multiple fallback strategies.
 
@@ -244,37 +327,41 @@ def parse_agent_output(raw_text: str):
         ValueError: If parsing fails after all attempts, with diagnostic info
     """
     json_str = extract_json_str(raw_text)
-
-    # Attempt 1: Direct parse
-    try:
-        return TypeAdapter(AgentAction).validate_json(json_str)
-    except (ValidationError, json.JSONDecodeError):
-        pass
-
-    # Attempt 2: Sanitize and retry
     sanitized = sanitize_json_str(json_str)
-    try:
-        return TypeAdapter(AgentAction).validate_json(sanitized)
-    except (ValidationError, json.JSONDecodeError):
-        pass
 
-    # Attempt 3: Python literal eval (handles single quotes)
-    try:
-        py_dict = ast.literal_eval(json_str)
-        return TypeAdapter(AgentAction).validate_json(json.dumps(py_dict))
-    except (ValueError, SyntaxError):
-        pass
+    # Strategy: Parse to dict first, fix values, then validate with Pydantic
+    parsed_dict = None
 
-    # Attempt 4: Try sanitized version with literal eval
-    try:
-        py_dict = ast.literal_eval(sanitized)
-        return TypeAdapter(AgentAction).validate_json(json.dumps(py_dict))
-    except (ValueError, SyntaxError):
-        pass
+    # Try to get a valid dict from the JSON
+    for attempt_str in [json_str, sanitized]:
+        # Try json.loads first
+        try:
+            parsed_dict = json.loads(attempt_str)
+            break
+        except json.JSONDecodeError:
+            pass
 
-    # All attempts failed - raise with diagnostic info
-    preview = raw_text[:200] if len(raw_text) > 200 else raw_text
-    raise ValueError(f"JSON parse failed. Preview: {preview}...")
+        # Try ast.literal_eval as fallback
+        try:
+            parsed_dict = ast.literal_eval(attempt_str)
+            break
+        except (ValueError, SyntaxError):
+            pass
+
+    if parsed_dict is None:
+        preview = raw_text[:200] if len(raw_text) > 200 else raw_text
+        raise ValueError(f"JSON parse failed (could not parse to dict). Preview: {preview}...")
+
+    # Fix invalid enum values before Pydantic validation
+    fixed_dict = fix_invalid_enum_values(parsed_dict)
+
+    # Now validate with Pydantic
+    try:
+        return TypeAdapter(AgentAction).validate_python(fixed_dict)
+    except ValidationError as e:
+        # If validation still fails, provide diagnostic info
+        preview = raw_text[:200] if len(raw_text) > 200 else raw_text
+        raise ValueError(f"JSON validation failed: {str(e)[:100]}. Preview: {preview}...")
 
 # --- EXECUTION ENGINE ---
 async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, model_type: str = "smart", reporter: StatusReporter = None):
