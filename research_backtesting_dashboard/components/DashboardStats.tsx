@@ -5,6 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Activity, BarChart3, TrendingUp, AlertTriangle, CheckCircle, XCircle, Skull, Trash2 } from "lucide-react";
 import { SimpleAlertDialog } from "@/components/ui/simple-alert-dialog";
 import SystemMonitor from "./SystemMonitor";
+import ErrorFeed from "./ErrorFeed";
 
 interface StatsData {
     status: { status: string; count: string }[];
@@ -36,6 +37,14 @@ export default function DashboardStats({ onFilterChange }: DashboardStatsProps) 
         startedAt: string;
         cpu?: number;
         memory?: number;
+        // Heartbeat data
+        agentStatus?: string;  // idle, scouting, sniping, coding, backtesting, error, stopped
+        currentTask?: string;
+        currentNiche?: string;
+        recentErrors?: Array<{ type: string; message: string; timestamp: string }>;
+        apiCallsToday?: number;
+        strategiesFoundToday?: number;
+        lastHeartbeat?: string;
     }
 
     interface AgentState {
@@ -208,6 +217,27 @@ export default function DashboardStats({ onFilterChange }: DashboardStatsProps) 
         }
     };
 
+    // Helper to get status color and label
+    const getStatusStyle = (agentStatus?: string) => {
+        switch (agentStatus) {
+            case 'scouting':
+                return { color: 'bg-blue-500', label: 'Scouting', textColor: 'text-blue-600' };
+            case 'sniping':
+                return { color: 'bg-yellow-500', label: 'Sniping', textColor: 'text-yellow-600' };
+            case 'coding':
+                return { color: 'bg-purple-500', label: 'Coding', textColor: 'text-purple-600' };
+            case 'backtesting':
+                return { color: 'bg-indigo-500', label: 'Testing', textColor: 'text-indigo-600' };
+            case 'error':
+                return { color: 'bg-red-500', label: 'Error', textColor: 'text-red-600' };
+            case 'stopped':
+                return { color: 'bg-gray-500', label: 'Stopped', textColor: 'text-gray-600' };
+            case 'idle':
+            default:
+                return { color: 'bg-green-500', label: 'Ready', textColor: 'text-green-600' };
+        }
+    };
+
     // Helper to render agent grid
     const renderAgentGrid = (type: 'backtest' | 'research', title: string) => {
         const instances = agentState[type] || [];
@@ -224,31 +254,58 @@ export default function DashboardStats({ onFilterChange }: DashboardStatsProps) 
 
                 <div className="space-y-2">
                     {/* Active Instances */}
-                    {instances.map(inst => (
-                        <div key={inst.id} className="flex items-center justify-between bg-card p-2 rounded border shadow-sm animate-in fade-in slide-in-from-left-2">
-                            <div className="flex items-center gap-3">
-                                <div className="relative shrink-0">
-                                    <div className="w-2.5 h-2.5 rounded-full bg-green-500 animate-pulse" />
-                                    <div className="absolute inset-0 rounded-full bg-green-500 animate-ping opacity-20" />
+                    {instances.map(inst => {
+                        const statusStyle = getStatusStyle(inst.agentStatus);
+                        const hasErrors = (inst.recentErrors?.length || 0) > 0;
+
+                        return (
+                            <div key={inst.id} className="flex flex-col bg-card p-2 rounded border shadow-sm animate-in fade-in slide-in-from-left-2">
+                                <div className="flex items-center justify-between">
+                                    <div className="flex items-center gap-3">
+                                        <div className="relative shrink-0">
+                                            <div className={`w-2.5 h-2.5 rounded-full ${statusStyle.color} ${inst.agentStatus !== 'idle' ? 'animate-pulse' : ''}`} />
+                                            {inst.agentStatus !== 'idle' && inst.agentStatus !== 'stopped' && (
+                                                <div className={`absolute inset-0 rounded-full ${statusStyle.color} animate-ping opacity-20`} />
+                                            )}
+                                        </div>
+                                        <div className="min-w-0">
+                                            <div className="flex items-center gap-2">
+                                                <span className="text-xs font-semibold">Agent #{inst.id}</span>
+                                                <span className={`text-[9px] px-1.5 py-0.5 rounded-full bg-opacity-20 ${statusStyle.textColor} bg-current font-medium`}>
+                                                    {statusStyle.label}
+                                                </span>
+                                                {hasErrors && (
+                                                    <span className="text-[9px] px-1.5 py-0.5 rounded-full bg-red-100 text-red-600 font-medium">
+                                                        {inst.recentErrors?.length} err
+                                                    </span>
+                                                )}
+                                            </div>
+                                            {(inst.cpu !== undefined || inst.memory !== undefined) && (
+                                                <span className="text-[10px] text-muted-foreground block">
+                                                    CPU: {inst.cpu?.toFixed(1)}% | Mem: {inst.memory}MB
+                                                </span>
+                                            )}
+                                        </div>
+                                    </div>
+                                    <button
+                                        onClick={() => stopAgent(type, inst.id)}
+                                        disabled={!!loadingAgent}
+                                        className="shrink-0 text-[10px] text-red-600 bg-red-50 hover:bg-red-100 hover:text-red-700 px-2 py-1 rounded border border-red-100 transition-colors"
+                                    >
+                                        {loadingAgent === `stop-${type}-${inst.id}` ? '...' : 'Stop'}
+                                    </button>
                                 </div>
-                                <div>
-                                    <span className="text-xs font-semibold block">Agent #{inst.id}</span>
-                                    {(inst.cpu !== undefined || inst.memory !== undefined) && (
-                                        <span className="text-[10px] text-muted-foreground block">
-                                            CPU: {inst.cpu?.toFixed(1)}% | Mem: {inst.memory}MB
+                                {/* Current Task */}
+                                {inst.currentTask && (
+                                    <div className="mt-1.5 pt-1.5 border-t border-dashed">
+                                        <span className="text-[10px] text-muted-foreground truncate block" title={inst.currentTask}>
+                                            {inst.currentTask}
                                         </span>
-                                    )}
-                                </div>
+                                    </div>
+                                )}
                             </div>
-                            <button
-                                onClick={() => stopAgent(type, inst.id)}
-                                disabled={!!loadingAgent}
-                                className="shrink-0 text-[10px] text-red-600 bg-red-50 hover:bg-red-100 hover:text-red-700 px-2 py-1 rounded border border-red-100 transition-colors"
-                            >
-                                {loadingAgent === `stop-${type}-${inst.id}` ? '...' : 'Stop'}
-                            </button>
-                        </div>
-                    ))}
+                        );
+                    })}
 
                     {/* Start Button */}
                     {instances.length < limit && (
@@ -276,14 +333,25 @@ export default function DashboardStats({ onFilterChange }: DashboardStatsProps) 
         return acc;
     }, 0);
 
-    const researchingCount = stats.status.reduce((acc, curr) => {
+    // Count agents actively researching (scouting or sniping status from heartbeat)
+    const activeResearchAgents = [...(agentState.research || [])].filter(a =>
+        a.agentStatus === 'scouting' || a.agentStatus === 'sniping'
+    ).length;
+
+    // Count agents actively backtesting (coding or backtesting status from heartbeat)
+    const activeBacktestAgents = [...(agentState.backtest || [])].filter(a =>
+        a.agentStatus === 'coding' || a.agentStatus === 'backtesting'
+    ).length;
+
+    // Fallback to strategy status counts if no agents are reporting
+    const researchingCount = activeResearchAgents > 0 ? activeResearchAgents : stats.status.reduce((acc, curr) => {
         const s = curr.status?.toLowerCase();
         // Research Agents handle: researching, coding, and freshly scouted
         if (s === 'researching' || s === 'coding' || s === 'scouted') return acc + parseInt(curr.count);
         return acc;
     }, 0);
 
-    const backtestingCount = stats.status.reduce((acc, curr) => {
+    const backtestingCount = activeBacktestAgents > 0 ? activeBacktestAgents : stats.status.reduce((acc, curr) => {
         const s = curr.status?.toLowerCase();
         // Backtest Agents handle: backtesting
         if (s === 'backtesting') return acc + parseInt(curr.count);
@@ -405,6 +473,9 @@ export default function DashboardStats({ onFilterChange }: DashboardStatsProps) 
 
             {/* System Monitor Area (CPU/RAM Graphs) */}
             <SystemMonitor />
+
+            {/* Error Feed - Shows recent errors from all agents */}
+            <ErrorFeed agents={agentState} />
 
             {/* Multi-Agent Control Center (Spans full width) */}
             <Card className="bg-muted/30 border-muted">

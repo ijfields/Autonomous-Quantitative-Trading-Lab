@@ -2,14 +2,26 @@ import { NextResponse } from 'next/server';
 import { spawn, exec } from 'child_process';
 import path from 'path';
 import fs from 'fs';
+import os from 'os';
 
 // --- CONFIGURATION ---
-// Read from environment variable, fallback to default for backwards compatibility
-const PROJECT_ROOT = process.env.PROJECT_ROOT || "/home/rodrigo/Documents/research_backtesting_agents-Project/research_backtesting_agentsV2";
-const VENV_PYTHON = path.join(PROJECT_ROOT, "venv/bin/python");
+const IS_WINDOWS = os.platform() === 'win32';
+
+// Read from environment variable, fallback based on OS
+const PROJECT_ROOT = process.env.PROJECT_ROOT ||
+    (IS_WINDOWS
+        ? path.join(process.cwd(), '..', 'research_backtesting_agentsV2')
+        : "/home/rodrigo/Documents/research_backtesting_agents-Project/research_backtesting_agentsV2");
+
+// Python path: prefer PYTHON_PATH env var, then detect based on OS
+const VENV_PYTHON = process.env.PYTHON_PATH ||
+    (IS_WINDOWS
+        ? 'python'  // Use system python on Windows (relies on conda/PATH)
+        : path.join(PROJECT_ROOT, "venv/bin/python"));
+
 const RESET_SCRIPT = path.join(PROJECT_ROOT, "reset_strategy.py");
 const RESET_DB_SCRIPT = path.join(PROJECT_ROOT, "reset_db.py");
-const PM2_PATH = "/usr/local/bin/pm2"; // Absolute path to fix 'command not found'
+const PM2_PATH = IS_WINDOWS ? "pm2" : "/usr/local/bin/pm2";
 
 // Hardware-aware concurrency limits
 const MAX_LIMITS = {
@@ -23,6 +35,14 @@ interface AgentInstance {
     status: 'running' | 'stopped';
     startedAt: string;
     type: 'backtest' | 'research';
+    // Heartbeat data (from DB)
+    agentStatus?: string;  // idle, scouting, sniping, coding, backtesting, error, stopped
+    currentTask?: string;
+    currentNiche?: string;
+    recentErrors?: Array<{ type: string; message: string; timestamp: string }>;
+    apiCallsToday?: number;
+    strategiesFoundToday?: number;
+    lastHeartbeat?: string;
 }
 
 // In-memory state (Note: resets on server restart, process managers like PM2 keep this alive)
@@ -49,19 +69,35 @@ function getScriptPath(type: 'backtest' | 'research') {
 // Helper: Get process stats (CPU%, RAM in MB)
 function getProcessStats(pid: number): Promise<{ cpu: number, memory: number }> {
     return new Promise((resolve) => {
-        exec(`ps -p ${pid} -o %cpu,rss --no-headers`, (err, stdout) => {
-            if (err || !stdout) {
-                resolve({ cpu: 0, memory: 0 });
-                return;
-            }
-            const parts = stdout.trim().split(/\s+/);
-            const cpu = parseFloat(parts[0]) || 0;
-            const memoryKB = parseInt(parts[1]) || 0;
-            resolve({
-                cpu,
-                memory: Math.round(memoryKB / 1024)
+        if (IS_WINDOWS) {
+            // Windows: Use WMIC to get process info
+            exec(`wmic process where processid=${pid} get WorkingSetSize /value`, (err, stdout) => {
+                if (err || !stdout) {
+                    resolve({ cpu: 0, memory: 0 });
+                    return;
+                }
+                const match = stdout.match(/WorkingSetSize=(\d+)/);
+                const memoryBytes = match ? parseInt(match[1]) : 0;
+                resolve({
+                    cpu: 0, // CPU tracking on Windows is complex, skipping for now
+                    memory: Math.round(memoryBytes / (1024 * 1024))
+                });
             });
-        });
+        } else {
+            exec(`ps -p ${pid} -o %cpu,rss --no-headers`, (err, stdout) => {
+                if (err || !stdout) {
+                    resolve({ cpu: 0, memory: 0 });
+                    return;
+                }
+                const parts = stdout.trim().split(/\s+/);
+                const cpu = parseFloat(parts[0]) || 0;
+                const memoryKB = parseInt(parts[1]) || 0;
+                resolve({
+                    cpu,
+                    memory: Math.round(memoryKB / 1024)
+                });
+            });
+        }
     });
 }
 
@@ -83,31 +119,64 @@ function execPromise(cmd: string): Promise<string> {
 // Helper: Discover running agents via process list
 async function discoverAgents(type: 'backtest' | 'research'): Promise<AgentInstance[]> {
     const scriptName = type === 'backtest' ? "backtest_main.py" : "research_main.py";
-    // ps -ef lists all processes. We grep for the script name.
-    // We explicitly exclude 'grep' and 'ts-node' (if dev mode confuses things, though usually python is separate)
-    try {
-        const stdout = await execPromise(`ps -ef | grep "python.*${scriptName}" | grep -v grep`);
-        const lines = stdout.split('\n').filter(line => line.trim());
 
+    try {
+        let stdout: string;
+
+        if (IS_WINDOWS) {
+            // Windows: Use WMIC to find python processes with the script name
+            stdout = await execPromise(`wmic process where "commandline like '%${scriptName}%'" get processid,commandline /format:list`);
+        } else {
+            // Linux: Use ps and grep
+            stdout = await execPromise(`ps -ef | grep "python.*${scriptName}" | grep -v grep`);
+        }
+
+        const lines = stdout.split('\n').filter(line => line.trim());
         const instances: AgentInstance[] = [];
 
-        for (const line of lines) {
-            // Parse line: UID PID ... CMD
-            // Example: rodrigo 12345 ... python backtest_main.py --instance-id 1
-            const parts = line.trim().split(/\s+/);
-            const pid = parseInt(parts[1]);
+        if (IS_WINDOWS) {
+            // Parse WMIC output (CommandLine=... and ProcessId=... on separate lines)
+            let currentCmd = '';
+            let currentPid = 0;
 
-            // Extract instance ID using regex from the full line/command
-            const match = line.match(/--instance-id\s+(\d+)/);
-            if (match && pid) {
-                const id = parseInt(match[1]);
-                instances.push({
-                    id,
-                    pid,
-                    status: 'running',
-                    startedAt: new Date().toISOString(), // We can't easily get start time without more ps commands, defaulting to now/active
-                    type
-                });
+            for (const line of lines) {
+                if (line.startsWith('CommandLine=')) {
+                    currentCmd = line.substring('CommandLine='.length);
+                } else if (line.startsWith('ProcessId=')) {
+                    currentPid = parseInt(line.substring('ProcessId='.length));
+
+                    if (currentCmd && currentPid) {
+                        const match = currentCmd.match(/--instance-id\s+(\d+)/);
+                        if (match) {
+                            instances.push({
+                                id: parseInt(match[1]),
+                                pid: currentPid,
+                                status: 'running',
+                                startedAt: new Date().toISOString(),
+                                type
+                            });
+                        }
+                    }
+                    currentCmd = '';
+                    currentPid = 0;
+                }
+            }
+        } else {
+            // Parse Linux ps output
+            for (const line of lines) {
+                const parts = line.trim().split(/\s+/);
+                const pid = parseInt(parts[1]);
+
+                const match = line.match(/--instance-id\s+(\d+)/);
+                if (match && pid) {
+                    instances.push({
+                        id: parseInt(match[1]),
+                        pid,
+                        status: 'running',
+                        startedAt: new Date().toISOString(),
+                        type
+                    });
+                }
             }
         }
 
@@ -123,12 +192,19 @@ async function stopAgentByPid(pid: number, instanceId: number): Promise<boolean>
     console.log(`🛑 Stopping agent #${instanceId} (PID: ${pid})...`);
 
     try {
-        // First: SIGTERM for graceful shutdown (gives agents chance to cleanup)
-        exec(`pkill -TERM -P ${pid}`);  // Children
-        try { process.kill(pid, 'SIGTERM'); } catch { }
+        if (IS_WINDOWS) {
+            // Windows: Use taskkill to terminate process tree
+            exec(`taskkill /PID ${pid} /T /F`, (err) => {
+                if (err) console.warn(`taskkill warning: ${err.message}`);
+            });
+        } else {
+            // Linux: SIGTERM for graceful shutdown
+            exec(`pkill -TERM -P ${pid}`);  // Children
+            try { process.kill(pid, 'SIGTERM'); } catch { }
 
-        // Also kill any temp_backtests scripts that might be orphaned
-        exec(`pkill -9 -f "strat_${pid}"`); // Clean up strategy runners
+            // Also kill any temp_backtests scripts that might be orphaned
+            exec(`pkill -9 -f "strat_${pid}"`);
+        }
 
         // Poll for death (Wait up to 2 seconds)
         let dead = false;
@@ -149,11 +225,15 @@ async function stopAgentByPid(pid: number, instanceId: number): Promise<boolean>
             await new Promise(r => setTimeout(r, 200));
         }
 
-        // If still alive, SIGKILL
+        // If still alive, force kill
         if (!dead) {
             console.warn(`Force killing PID ${pid}...`);
-            exec(`pkill -9 -P ${pid} 2>/dev/null`);
-            try { process.kill(pid, 'SIGKILL'); } catch { }
+            if (IS_WINDOWS) {
+                exec(`taskkill /PID ${pid} /T /F`);
+            } else {
+                exec(`pkill -9 -P ${pid} 2>/dev/null`);
+                try { process.kill(pid, 'SIGKILL'); } catch { }
+            }
         }
 
         return true;
@@ -163,20 +243,69 @@ async function stopAgentByPid(pid: number, instanceId: number): Promise<boolean>
     }
 }
 
+// Helper: Fetch heartbeat data from the database
+async function fetchHeartbeatData(): Promise<Map<string, any>> {
+    const heartbeatMap = new Map<string, any>();
+
+    try {
+        const pool = (await import('@/lib/db')).default;
+
+        // Query heartbeats from last 90 seconds (considers agent alive if heartbeat within this window)
+        const result = await pool.query(`
+            SELECT
+                instance_id,
+                agent_type,
+                status,
+                current_task,
+                current_niche,
+                recent_errors,
+                api_calls_today,
+                strategies_found_today,
+                last_heartbeat,
+                started_at
+            FROM agentheartbeat
+            WHERE last_heartbeat > NOW() - INTERVAL '90 seconds'
+        `);
+
+        for (const row of result.rows) {
+            // Key format: "research_1" or "backtest_2"
+            const key = `${row.agent_type}_${row.instance_id}`;
+            heartbeatMap.set(key, {
+                agentStatus: row.status,
+                currentTask: row.current_task,
+                currentNiche: row.current_niche,
+                recentErrors: row.recent_errors || [],
+                apiCallsToday: row.api_calls_today,
+                strategiesFoundToday: row.strategies_found_today,
+                lastHeartbeat: row.last_heartbeat
+            });
+        }
+    } catch (e) {
+        console.error('Failed to fetch heartbeat data:', e);
+    }
+
+    return heartbeatMap;
+}
+
 export async function GET() {
     // Dynamic discovery instead of memory state
     const backtestAgents = await discoverAgents('backtest');
     const researchAgents = await discoverAgents('research');
 
-    // Enrich instances with real-time stats
+    // Fetch heartbeat data from database
+    const heartbeatData = await fetchHeartbeatData();
+
+    // Enrich instances with real-time stats AND heartbeat data
     const enrichedData = {
         backtest: await Promise.all(backtestAgents.map(async (agent) => {
             const stats = await getProcessStats(agent.pid);
-            return { ...agent, ...stats };
+            const heartbeat = heartbeatData.get(`backtest_${agent.id}`) || {};
+            return { ...agent, ...stats, ...heartbeat };
         })),
         research: await Promise.all(researchAgents.map(async (agent) => {
             const stats = await getProcessStats(agent.pid);
-            return { ...agent, ...stats };
+            const heartbeat = heartbeatData.get(`research_${agent.id}`) || {};
+            return { ...agent, ...stats, ...heartbeat };
         }))
     };
 

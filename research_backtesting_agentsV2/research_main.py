@@ -8,6 +8,7 @@ import re
 import json
 import ast
 import hashlib
+from datetime import datetime
 from pathlib import Path
 from typing import List
 from dotenv import load_dotenv
@@ -15,9 +16,10 @@ from pydantic import TypeAdapter, ValidationError
 from colorama import Fore, Style
 
 from src.common.database import init_db, get_session
-from src.common.models import Strategy, StrategyStatus, StrategyEmbedding
+from src.common.models import Strategy, StrategyStatus, StrategyEmbedding, AgentStatus
 from sqlmodel import select
 from src.common.key_manager import KeyManager
+from src.common.status_reporter import StatusReporter
 from src.research.agents.research_agent import (
     universal_agent, 
     update_agent_model, # <--- The function to hot-swap keys
@@ -43,8 +45,13 @@ import argparse
 # --- ARGUMENT PARSING ---
 parser = argparse.ArgumentParser()
 parser.add_argument('--instance-id', type=int, default=1, help='Unique instance ID for this agent')
+parser.add_argument('--debug', action='store_true', help='Enable debug logging mode')
 args = parser.parse_args()
 INSTANCE_ID = args.instance_id
+DEBUG_MODE = args.debug or os.getenv('DEBUG_MODE', '').lower() == 'true'
+
+# Global StatusReporter (initialized in main loop)
+status_reporter: StatusReporter = None
 
 # --- CONFIGURATION ---
 load_dotenv(Path(__file__).parent.parent / ".env")
@@ -68,6 +75,19 @@ for lib in ["httpx", "pydantic_ai", "httpcore", "docling", "rapidocr"]:
     logging.getLogger(lib).setLevel(logging.WARNING)
 
 logger = logging.getLogger(f"ResearchAgent-{INSTANCE_ID}")
+
+# --- DEBUG MODE LOGGING ---
+if DEBUG_MODE:
+    debug_log_file = log_dir / f"research_agent_{INSTANCE_ID}_debug.log"
+    debug_handler = logging.FileHandler(debug_log_file, mode='w')
+    debug_handler.setLevel(logging.DEBUG)
+    debug_handler.setFormatter(logging.Formatter(
+        f'%(asctime)s | [Agent {INSTANCE_ID}] | %(levelname)s | %(name)s | %(message)s',
+        datefmt='%H:%M:%S'
+    ))
+    logging.getLogger().addHandler(debug_handler)
+    logging.getLogger().setLevel(logging.DEBUG)
+    logger.info(f"🔍 DEBUG MODE ENABLED - Verbose logging to {debug_log_file}")
 
 # --- INITIALIZE KEY MANAGER (SOLUTION A: STATIC PARTITIONING) ---
 # This loads only RESEARCH_KEYS from .env
@@ -169,26 +189,95 @@ def get_agent_response_text(result) -> str:
     return str(result)
 
 def extract_json_str(text: str) -> str:
+    """Extract JSON from LLM response, handling various formatting issues."""
     text = text.strip()
+
+    # 1. Try markdown code block (```json ... ```)
     match = re.search(r"```(?:json)?\s*(\{.*?\})\s*```", text, re.DOTALL)
-    if match: return match.group(1)
+    if match:
+        return match.group(1)
+
+    # 2. Try to find JSON object with balanced braces
+    # This handles cases where there's text before/after the JSON
+    brace_start = text.find('{')
+    if brace_start != -1:
+        depth = 0
+        for i, char in enumerate(text[brace_start:], brace_start):
+            if char == '{':
+                depth += 1
+            elif char == '}':
+                depth -= 1
+                if depth == 0:
+                    return text[brace_start:i+1]
+
+    # 3. Fallback: greedy match
     match = re.search(r"(\{.*\})", text, re.DOTALL)
-    if match: return match.group(1)
+    if match:
+        return match.group(1)
+
     return text
 
+
+def sanitize_json_str(json_str: str) -> str:
+    """Clean common JSON formatting issues from LLM output."""
+    # Remove trailing commas before closing braces/brackets (common LLM mistake)
+    json_str = re.sub(r',\s*}', '}', json_str)
+    json_str = re.sub(r',\s*]', ']', json_str)
+
+    # Fix unescaped newlines in strings (another common issue)
+    # This is tricky - we only want to fix newlines INSIDE quoted strings
+    # For now, just remove literal \n that aren't escaped
+    json_str = json_str.replace('\n', ' ').replace('\r', ' ')
+
+    # Collapse multiple spaces
+    json_str = re.sub(r' +', ' ', json_str)
+
+    return json_str
+
 def parse_agent_output(raw_text: str):
+    """Parse agent output with multiple fallback strategies.
+
+    Returns:
+        Parsed AgentAction object
+
+    Raises:
+        ValueError: If parsing fails after all attempts, with diagnostic info
+    """
     json_str = extract_json_str(raw_text)
+
+    # Attempt 1: Direct parse
     try:
         return TypeAdapter(AgentAction).validate_json(json_str)
-    except ValidationError:
-        try:
-            py_dict = ast.literal_eval(json_str)
-            return TypeAdapter(AgentAction).validate_json(json.dumps(py_dict))
-        except:
-            raise
+    except (ValidationError, json.JSONDecodeError):
+        pass
+
+    # Attempt 2: Sanitize and retry
+    sanitized = sanitize_json_str(json_str)
+    try:
+        return TypeAdapter(AgentAction).validate_json(sanitized)
+    except (ValidationError, json.JSONDecodeError):
+        pass
+
+    # Attempt 3: Python literal eval (handles single quotes)
+    try:
+        py_dict = ast.literal_eval(json_str)
+        return TypeAdapter(AgentAction).validate_json(json.dumps(py_dict))
+    except (ValueError, SyntaxError):
+        pass
+
+    # Attempt 4: Try sanitized version with literal eval
+    try:
+        py_dict = ast.literal_eval(sanitized)
+        return TypeAdapter(AgentAction).validate_json(json.dumps(py_dict))
+    except (ValueError, SyntaxError):
+        pass
+
+    # All attempts failed - raise with diagnostic info
+    preview = raw_text[:200] if len(raw_text) > 200 else raw_text
+    raise ValueError(f"JSON parse failed. Preview: {preview}...")
 
 # --- EXECUTION ENGINE ---
-async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, model_type: str = "smart"):
+async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, model_type: str = "smart", reporter: StatusReporter = None):
     """Execute the agent loop for scout or sniper mode.
 
     Args:
@@ -196,6 +285,7 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, 
         initial_input: The initial prompt/input for the agent.
         deps: Research dependencies (db session).
         model_type: "fast" for high-quota model (scout), "smart" for reasoning model (sniper).
+        reporter: Optional StatusReporter for real-time dashboard updates.
     """
     system_prompt = SCOUT_SYSTEM_PROMPT if mode == "SCOUT" else SNIPER_SYSTEM_PROMPT
     
@@ -219,30 +309,70 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, 
             logger.warning(f"⚠️ Failed to inject negative/memory context: {e}")
 
     history = [f"USER_GOAL: {initial_input}"]
-    
+
     max_steps = 6 if mode == "SCOUT" else 15
-    
+
+    # Parse failure tracking for diagnostics
+    parse_failures = 0
+    total_api_calls = 0
+
     for step in range(max_steps):
         logger.info(f"🤖 {mode} Step {step+1}/{max_steps}")
-        
-        history_text = "\n".join(history[-6:]) 
+
+        # Adaptive history trimming: trim more aggressively after parse failures
+        # This reduces context pressure which can cause truncation issues
+        history_window = 4 if parse_failures >= 2 else 5
+        history_text = "\n".join(history[-history_window:])
+
         full_context = f"{system_prompt}\n\n--- HISTORY ---\n{history_text}\n\nYOUR NEXT COMMAND (Return ONLY raw JSON, no text):"
+        total_api_calls += 1
         
         try:
             # Run Agent with Timeout
             result = await asyncio.wait_for(
-                universal_agent.run(full_context, deps=deps), 
+                universal_agent.run(full_context, deps=deps),
                 timeout=600.0
             )
             raw_text = get_agent_response_text(result)
-            
+
+            # Debug logging: Write raw LLM response to file
+            if DEBUG_MODE:
+                debug_response_file = log_dir / f"agent_{INSTANCE_ID}_{mode.lower()}_step{step+1}_raw.txt"
+                try:
+                    with open(debug_response_file, 'w', encoding='utf-8') as f:
+                        f.write(f"=== {mode} Step {step+1} Raw Response ===\n")
+                        f.write(f"Timestamp: {datetime.now().isoformat()}\n")
+                        f.write(f"Context Length: {len(full_context)} chars\n")
+                        f.write(f"Response Length: {len(raw_text)} chars\n")
+                        f.write("=" * 50 + "\n\n")
+                        f.write(raw_text)
+                    logger.debug(f"Raw response saved to {debug_response_file}")
+                except Exception as write_err:
+                    logger.debug(f"Failed to write debug file: {write_err}")
+
             try:
                 command = parse_agent_output(raw_text)
                 # Reset backoff on successful API response
                 key_manager.reset_backoff()
-            except Exception:
-                logger.warning(f"⚠️  JSON Parse Failed. Asking retry.")
-                history.append("SYSTEM ERROR: Invalid JSON format. Output strictly the JSON object.")
+            except Exception as parse_err:
+                parse_failures += 1
+
+                # Log the parse failure with more detail
+                preview = raw_text[:150].replace('\n', ' ') if raw_text else "empty"
+                logger.warning(f"⚠️  JSON Parse Failed ({parse_failures}/{total_api_calls}). Output preview: {preview}...")
+
+                if reporter:
+                    await reporter.record_error("json_parse", f"Parse failed: {str(parse_err)[:100]}")
+
+                # Provide more helpful retry prompt with the malformed output
+                error_feedback = (
+                    f"SYSTEM ERROR: Your output was not valid JSON.\n"
+                    f"Error: {str(parse_err)[:100]}\n"
+                    f"Your output started with: {raw_text[:100] if raw_text else 'empty'}...\n\n"
+                    f"REMINDER: Output ONLY a raw JSON object. No markdown, no explanation.\n"
+                    f"Valid format: {{\"tool\": \"...\", ...}}"
+                )
+                history.append(error_feedback)
                 continue
             
             # Execute Command
@@ -303,11 +433,13 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, 
                 history.append(f"CMD: read_content (x{len(urls_to_read)})\nRESULTS:\n" + "\n---\n".join(result_entries))
 
             elif isinstance(command, FinishScoutCommand):
-                logger.info(f"✅ SCOUT SUCCESS: {command.result.topic}")
+                failure_rate = (parse_failures / total_api_calls * 100) if total_api_calls > 0 else 0
+                logger.info(f"✅ SCOUT SUCCESS: {command.result.topic} (Parse failures: {parse_failures}/{total_api_calls} = {failure_rate:.1f}%)")
                 return command.result
 
             elif isinstance(command, FinishSniperCommand):
-                logger.info(f"✅ SNIPER SUCCESS: {command.result.name}")
+                failure_rate = (parse_failures / total_api_calls * 100) if total_api_calls > 0 else 0
+                logger.info(f"✅ SNIPER SUCCESS: {command.result.name} (Parse failures: {parse_failures}/{total_api_calls} = {failure_rate:.1f}%)")
                 return command.result
                 
         except asyncio.TimeoutError:
@@ -319,13 +451,17 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, 
             # --- KEY ROTATION LOGIC ---
             if "429" in err or "quota" in err.lower() or "503" in err or "403" in err:
                 logger.warning(f"⚠️  API Limit Hit ({err[:50]}...). Rotating Key...")
-                
+
+                # Record error for dashboard
+                if reporter:
+                    await reporter.record_error("rate_limit", f"API limit hit: {err[:100]}")
+
                 # 1. Mark current key as exhausted
                 key_manager.flag_key_limited()
-                
+
                 # 2. Get fresh key
                 new_key = key_manager.get_next_key()
-                
+
                 # 3. Update Agent (preserve model type)
                 update_agent_model(new_key, model_type)
 
@@ -334,9 +470,12 @@ async def execute_agent_loop(mode: str, initial_input: str, deps: ResearchDeps, 
                 continue
             else:
                 logger.error(f"❌ System Error: {e}")
+                if reporter:
+                    await reporter.record_error("system_error", f"{mode} error: {err[:200]}")
                 history.append(f"SYSTEM ERROR: {e}")
                 
-    logger.warning(f"❌ {mode} Failed (Max Steps Reached).")
+    failure_rate = (parse_failures / total_api_calls * 100) if total_api_calls > 0 else 0
+    logger.warning(f"❌ {mode} Failed (Max Steps Reached). Parse failures: {parse_failures}/{total_api_calls} = {failure_rate:.1f}%")
     return None
 
 # --- FEEDBACK LOOP HELPER ---
@@ -379,8 +518,16 @@ async def get_recent_strategy_names(session, limit: int = 50) -> List[str]:
 
 # --- MAIN LOOP ---
 async def run_24_7_loop():
+    global status_reporter
     logger.info("🚀 SYSTEM LAUNCHED (Continuous Rotation)")
     await init_db()
+
+    # Initialize StatusReporter
+    async for init_session in get_session():
+        status_reporter = StatusReporter(INSTANCE_ID, "research")
+        await status_reporter.initialize(init_session)
+        logger.info(f"📡 StatusReporter initialized for Agent #{INSTANCE_ID}")
+        break
 
     while True:
         # 1. Ensure we have a valid key before starting cycle (start with fast model for scout)
@@ -389,30 +536,51 @@ async def run_24_7_loop():
 
         async for session in get_session():
             deps = ResearchDeps(db_session=session)
-            
+
             # 2. SCOUT (With Feedback Loop)
             niche = random.choice(NICHES)
-            
+
+            # Update status for dashboard
+            if status_reporter:
+                await status_reporter.update_status(
+                    AgentStatus.SCOUTING,
+                    task=f"Exploring: {niche}",
+                    niche=niche,
+                    session=session
+                )
+
             # Fetch "Post-Mortem" Context
             failures = await get_recent_failures(session)
             avoid_context = ""
             if failures:
                 avoid_context = "\n\n❌ AVOID REPEATING THESE RECENT FAILURES:\n" + "\n".join([f"- {f['name']}: {f['desc']}..." for f in failures])
-            
+
             logger.info(f"\n🔭 SCOUTING: {niche}")
-            
+
             prompt = f"Find a specific, novel trading strategy in the '{niche}' niche.{avoid_context}\n\nFocus on verifiable alpha, not generic advice."
-            scout_res = await execute_agent_loop("SCOUT", prompt, deps, model_type="fast")
+            scout_res = await execute_agent_loop("SCOUT", prompt, deps, model_type="fast", reporter=status_reporter)
             
             if not scout_res:
                 logger.warning("Scout failed. Skipping cycle.")
+                if status_reporter:
+                    await status_reporter.update_status(AgentStatus.IDLE, task="Scout failed - cycling", session=session)
                 break
 
             # 3. SNIPER (switch to smart model for deeper analysis)
             logger.info(f"🦅 SNIPING: {scout_res.topic}")
+
+            # Update status for dashboard
+            if status_reporter:
+                await status_reporter.update_status(
+                    AgentStatus.SNIPING,
+                    task=f"Analyzing: {scout_res.topic}",
+                    niche=niche,
+                    session=session
+                )
+
             sniper_key = key_manager.get_next_key()
             update_agent_model(sniper_key, model_type="smart")
-            sniper_res = await execute_agent_loop("SNIPER", f"Analyze {scout_res.topic}", deps, model_type="smart")
+            sniper_res = await execute_agent_loop("SNIPER", f"Analyze {scout_res.topic}", deps, model_type="smart", reporter=status_reporter)
             
             if sniper_res:
                     # --- DEDUPLICATION CHECK (Database-based) ---
@@ -523,17 +691,41 @@ async def run_24_7_loop():
                         session.add(strat)
                         await session.commit()
                         logger.info(f"💾 SAVED: {strat.name} [{status}]")
+
+                        # Track strategy found
+                        if status_reporter and status != StrategyStatus.REJECTED:
+                            await status_reporter.increment_strategies_found(session=session)
                     except Exception as e:
                         logger.error(f"❌ DB Save Failed: {e}")
+                        if status_reporter:
+                            await status_reporter.record_error("db_error", f"Failed to save strategy: {str(e)[:100]}")
 
             break
 
         # 4. ZERO DELAY (The Manager handles timing)
         # We just loop immediately. If keys are hot, Manager will sleep inside get_next_key()
         key_manager.log_usage_summary()
+
+        # Update heartbeat and set to idle between cycles
+        if status_reporter:
+            await status_reporter.update_status(AgentStatus.IDLE, task="Cycle complete - ready")
+            await status_reporter.heartbeat()
+
         logger.info(f"🔄 Cycling...")
 
 import signal
+
+async def graceful_shutdown():
+    """Cleanup handler for graceful shutdown."""
+    global status_reporter
+    if status_reporter:
+        try:
+            async for session in get_session():
+                await status_reporter.cleanup_on_exit(session)
+                break
+        except Exception as e:
+            logger.error(f"Cleanup error: {e}")
+    logger.info(f"{Fore.YELLOW}🛑 Research Agent Stopped Gracefully.{Style.RESET_ALL}")
 
 if __name__ == "__main__":
     # Handle SIGTERM (Docker/PM2 stop signal) by converting it to KeyboardInterrupt
@@ -541,6 +733,5 @@ if __name__ == "__main__":
     try:
         asyncio.run(run_24_7_loop())
     except KeyboardInterrupt:
-        logger.info("🛑 Research Agent Stopped.")
-    except KeyboardInterrupt:
-         logger.info(f"{Fore.YELLOW}🛑 Research Agent Stopped Gracefully.{Style.RESET_ALL}")
+        # Run cleanup
+        asyncio.run(graceful_shutdown())

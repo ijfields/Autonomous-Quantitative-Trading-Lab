@@ -35,6 +35,16 @@ class StrategyResult(str, Enum):
     UNPROFITABLE = "UNPROFITABLE"
     CRASHED = "CRASHED"
 
+class AgentStatus(str, Enum):
+    """Status of an agent for real-time dashboard tracking."""
+    IDLE = "idle"
+    SCOUTING = "scouting"
+    SNIPING = "sniping"
+    CODING = "coding"
+    BACKTESTING = "backtesting"
+    ERROR = "error"
+    STOPPED = "stopped"
+
 # ==========================================
 # 2. TABLES
 # ==========================================
@@ -150,3 +160,31 @@ class BacktestResult(SQLModel, table=True):
     is_optimized: bool = Field(default=False)
     optimized_params: dict = Field(default={}, sa_column=Column(JSON))
     optimization_trials: int = Field(default=0)
+
+
+class AgentHeartbeat(SQLModel, table=True):
+    """
+    Real-time agent status for dashboard monitoring.
+    Each running agent updates this periodically.
+    """
+    id: Optional[int] = Field(default=None, primary_key=True)
+
+    # --- IDENTITY ---
+    instance_id: int = Field(index=True, description="Agent instance number (1, 2, 3...)")
+    agent_type: str = Field(index=True, description="'research' or 'backtest'")
+
+    # --- STATUS ---
+    status: AgentStatus = Field(default=AgentStatus.IDLE)
+    current_task: Optional[str] = Field(default=None, description="Current activity description")
+    current_niche: Optional[str] = Field(default=None, description="Current niche being explored (research only)")
+
+    # --- TIMESTAMPS ---
+    last_heartbeat: datetime = Field(default_factory=datetime.utcnow)
+    started_at: datetime = Field(default_factory=datetime.utcnow)
+
+    # --- ERROR TRACKING ---
+    recent_errors: List[dict] = Field(default=[], sa_column=Column(JSON), description="Last 10 errors [{type, message, timestamp}]")
+
+    # --- METRICS ---
+    api_calls_today: int = Field(default=0)
+    strategies_found_today: int = Field(default=0)
