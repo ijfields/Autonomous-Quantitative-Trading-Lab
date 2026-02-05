@@ -105,44 +105,71 @@ NICHES = [
     "Volatility Breakout Strategies", "Adaptive Moving Average Logic",
     "Turtle Trading System", "Golden Cross Optimization",
     "Parabolic SAR Trailing Stops", "Ichimoku Cloud Edge-to-Edge",
-    
+
     # --- 2. Mean Reversion & Oscillators ---
     "Mean Reversion Bollinger Bands", "RSI Regime Switching",
     "Statistical Arbitrage Pairs Trading", "RSI Divergence Strategies",
     "Dual Thrust Trading Algorithm", "Supertrend Pullback Strategies",
     "Williams %R Overbought/Oversold", "CCI Commodity Channel Index Reversion",
-    
+
     # --- 3. Volatility & Pattern ---
-    "Volatility Risk Premium Harvesting", "ATR Trailing Stop Strategies", 
+    "Volatility Risk Premium Harvesting", "ATR Trailing Stop Strategies",
     "Inside Bar Breakout Pattern", "Pattern Recognition Head and Shoulders",
     "Machine Learning Alpha Factors", "Kalman Filter Mean Reversion",
     "GARCH Volatility Forecasting", "Implied Volatility vs Historical Volatility",
-    
+
     # --- 4. Advanced Squeeze & Channel ---
     "Bollinger Squeeze with ADX Confirmation",
     "Keltner Channel Breakout", "Volatility Contraction Pattern",
     "PnL-Based Exit Management",
-    
-    # --- 5. Crypto-Native & On-Chain (NEW) ---
+
+    # --- 5. Crypto-Native & On-Chain ---
     "Perpetual Futures Funding Rate Arbitrage", "Liquidation Cascade Reversal",
     "CEX-DEX Arbitrage Opportunities", "Token Unlock Event Volatility",
     "Stablecoin Depeg Mean Reversion", "Bitcoin Dominance Cycle Rotation",
     "Altcoin Season Index Rotation", "Exchange Inflow/Outflow Signals",
-    
-    # --- 6. Order Flow & Microstructure (NEW) ---
+
+    # --- 6. Order Flow & Microstructure ---
     "Order Book Imbalance (OFI) Scalping", "VPOC (Volume Point of Control) Shift",
     "Bid-Ask Spread Capture", "Iceberg Order Detection",
     "VWAP Deviation Mean Reversion", "TWAP Execution Logic",
-    
-    # --- 7. Statistical & Quant (NEW) ---
+
+    # --- 7. Statistical & Quant ---
     "Cointegration Pairs Trading", "Hurst Exponent Trend vs Mean Reversion",
     "Ornstein-Uhlenbeck Process Modeling", "Kelly Criterion Position Sizing",
     "Fractal Dimension Index", "Shannon Entropy Volatility",
-    
-    # --- 8. Event-Driven & Sentiment (NEW) ---
+
+    # --- 8. Event-Driven & Sentiment ---
     "FOMC Meeting Volatility Straddle", "Earnings Surprise Post-Drift",
     "Social Volume Spike Reversal", "Fear and Greed Index Contrarian",
-    "Weekend Efficiency Gap Fill"
+    "Weekend Efficiency Gap Fill",
+
+    # --- 9. STOCK-SPECIFIC STRATEGIES ---
+    "SPY ETF Momentum with Volume Confirmation",
+    "QQQ Tech Sector Rotation Strategy",
+    "S&P 500 Index Mean Reversion",
+    "Dow Jones Industrial Average Trend Following",
+    "Russell 2000 Small Cap Momentum",
+    "Stock Market Breadth Indicators (Advance/Decline)",
+    "Sector ETF Rotation (XLF XLK XLE XLV)",
+    "VIX Volatility Index Mean Reversion",
+    "Put-Call Ratio Contrarian Signals",
+    "Stock Market Seasonality (Sell in May)",
+    "Presidential Election Cycle Trading",
+    "January Effect Small Cap Anomaly",
+    "Santa Claus Rally Strategy",
+    "Triple Witching Expiration Volatility",
+    "Ex-Dividend Date Stock Strategies",
+
+    # --- 10. INDEX-SPECIFIC STRATEGIES ---
+    "NASDAQ 100 Breakout Strategy",
+    "S&P 500 200-Day Moving Average System",
+    "Index Futures Basis Trading",
+    "Cross-Market Index Arbitrage (SPY vs ES)",
+    "Global Index Correlation Trading",
+    "Index Rebalancing Front-Running",
+    "Index Options Expiration Pin Risk",
+    "ETF Premium/Discount Arbitrage",
 ]
 
 # --- FINGERPRINT FOR DEDUPLICATION ---

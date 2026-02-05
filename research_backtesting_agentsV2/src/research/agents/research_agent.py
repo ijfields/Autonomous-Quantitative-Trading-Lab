@@ -8,6 +8,9 @@ from datetime import datetime
 from pydantic import BaseModel, Field
 from pydantic_ai import Agent, RunContext
 from pydantic_ai.models.gemini import GeminiModel
+from pydantic_ai.models.anthropic import AnthropicModel
+from pydantic_ai.models.openai import OpenAIChatModel
+from pydantic_ai.providers.moonshotai import MoonshotAIProvider
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy import select
 
@@ -68,30 +71,72 @@ class FinishScoutCommand(BaseModel):
 
 AgentAction = Union[SearchCommand, ReadCommand, FinishSniperCommand, FinishScoutCommand]
 
-# --- 4. MODEL FACTORY (FIXED) ---
+# --- 4. MODEL FACTORY (MULTI-PROVIDER) ---
 def create_model(api_key: str, model_type: str = "smart"):
-    """Creates a Gemini Model instance with the specific key.
+    """Creates a Model instance for the configured provider.
 
     Args:
         api_key: The API key to use.
         model_type: "fast" for high-quota model (scout), "smart" for reasoning model (sniper).
+
+    Supports:
+        - Gemini (default): LLM_PROVIDER=gemini
+        - Claude:           LLM_PROVIDER=claude  + ANTHROPIC_API_KEY
+        - Kimi (Moonshot):  LLM_PROVIDER=kimi    + MOONSHOTAI_API_KEY
     """
-    if model_type == "fast":
-        model_name = os.getenv("MODEL_FAST", "gemini-2.5-flash-lite")
+    provider = os.getenv("LLM_PROVIDER", "gemini").lower()
+
+    if provider == "claude":
+        if model_type == "fast":
+            model_name = os.getenv("MODEL_FAST", "claude-3-5-haiku-latest")
+        else:
+            model_name = os.getenv("MODEL_SMART", "claude-sonnet-4-20250514")
+        anthropic_key = api_key if api_key.startswith("sk-ant") else os.getenv("ANTHROPIC_API_KEY", api_key)
+        os.environ["ANTHROPIC_API_KEY"] = anthropic_key
+        return AnthropicModel(model_name)
+
+    elif provider == "kimi":
+        if model_type == "fast":
+            model_name = os.getenv("MODEL_FAST", "kimi-k2-0711-preview")
+        else:
+            model_name = os.getenv("MODEL_SMART", "kimi-k2-0711-preview")
+        kimi_key = api_key if api_key.startswith("sk-") else os.getenv("MOONSHOTAI_API_KEY", api_key)
+        return OpenAIChatModel(model_name, provider=MoonshotAIProvider(api_key=kimi_key))
+
     else:
-        model_name = os.getenv("MODEL_SMART", "gemini-2.5-flash")
-    # Avoid global state mutation for thread safety - BUT GeminiModel requires env vars
-    os.environ["GEMINI_API_KEY"] = api_key
-    os.environ["GOOGLE_API_KEY"] = api_key
-    return GeminiModel(model_name)
+        # Gemini (default)
+        if model_type == "fast":
+            model_name = os.getenv("MODEL_FAST", "gemini-2.5-flash-lite")
+        else:
+            model_name = os.getenv("MODEL_SMART", "gemini-2.5-flash")
+        os.environ["GEMINI_API_KEY"] = api_key
+        os.environ["GOOGLE_API_KEY"] = api_key
+        return GeminiModel(model_name)
 
 # --- 5. INITIALIZATION ---
-_initial_keys = os.getenv("RESEARCH_KEYS", "").split(",")
-if not _initial_keys or not _initial_keys[0].strip():
-    # Fallback to GOOGLE_API_KEYS if RESEARCH_KEYS is missing (legacy compat)
-    _initial_keys = os.getenv("GOOGLE_API_KEYS", "").split(",")
+_provider = os.getenv("LLM_PROVIDER", "gemini").lower()
+
+if _provider == "claude":
+    _initial_key = os.getenv("ANTHROPIC_API_KEY", "")
+    if not _initial_key:
+        raise ValueError("CRITICAL: ANTHROPIC_API_KEY not found in .env (LLM_PROVIDER=claude)")
+    _initial_keys = [_initial_key]
+    logging.getLogger(__name__).info("Using Claude (Anthropic) as LLM provider")
+
+elif _provider == "kimi":
+    _initial_key = os.getenv("MOONSHOTAI_API_KEY", "")
+    if not _initial_key:
+        raise ValueError("CRITICAL: MOONSHOTAI_API_KEY not found in .env (LLM_PROVIDER=kimi)")
+    _initial_keys = [_initial_key]
+    logging.getLogger(__name__).info("Using Kimi (Moonshot AI) as LLM provider")
+
+else:
+    _initial_keys = os.getenv("RESEARCH_KEYS", "").split(",")
     if not _initial_keys or not _initial_keys[0].strip():
-        raise ValueError("CRITICAL: No API keys found in .env (checked RESEARCH_KEYS and GOOGLE_API_KEYS)")
+        _initial_keys = os.getenv("GOOGLE_API_KEYS", "").split(",")
+        if not _initial_keys or not _initial_keys[0].strip():
+            raise ValueError("CRITICAL: No API keys found in .env (checked RESEARCH_KEYS and GOOGLE_API_KEYS)")
+    logging.getLogger(__name__).info("Using Gemini (Google) as LLM provider")
 
 _current_model = create_model(_initial_keys[0].strip())
 

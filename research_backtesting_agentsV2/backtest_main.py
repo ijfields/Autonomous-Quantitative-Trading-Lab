@@ -12,8 +12,9 @@ from colorama import Fore, Style, init as colorama_init
 colorama_init(autoreset=True)
 
 from src.common.database import init_db, get_session
-from src.common.models import Strategy, StrategyStatus, BacktestResult, StrategyResult
+from src.common.models import Strategy, StrategyStatus, BacktestResult, StrategyResult, AgentStatus
 from src.common.key_manager import KeyManager
+from src.common.status_reporter import StatusReporter
 
 # Backtest Components
 from src.backtest.agents.coder_agent import (
@@ -48,8 +49,13 @@ import argparse
 # --- ARGUMENT PARSING ---
 parser = argparse.ArgumentParser()
 parser.add_argument('--instance-id', type=int, default=1, help='Unique instance ID for this agent')
+parser.add_argument('--debug', action='store_true', help='Enable debug logging mode')
 args = parser.parse_args()
 INSTANCE_ID = args.instance_id
+DEBUG_MODE = args.debug or os.getenv('DEBUG_MODE', '').lower() == 'true'
+
+# Global StatusReporter (initialized in main loop)
+status_reporter: StatusReporter = None
 
 load_dotenv()
 log_dir = Path("logs")
@@ -73,6 +79,19 @@ for lib in ["httpx", "pydantic_ai", "httpcore", "docling"]:
 
 logger = logging.getLogger(f"BacktestAgent-{INSTANCE_ID}")
 
+# --- DEBUG MODE LOGGING ---
+if DEBUG_MODE:
+    debug_log_file = log_dir / f"backtest_agent_{INSTANCE_ID}_debug.log"
+    debug_handler = logging.FileHandler(debug_log_file, mode='w')
+    debug_handler.setLevel(logging.DEBUG)
+    debug_handler.setFormatter(logging.Formatter(
+        f'%(asctime)s | [Agent {INSTANCE_ID}] | %(levelname)s | %(name)s | %(message)s',
+        datefmt='%H:%M:%S'
+    ))
+    logging.getLogger().addHandler(debug_handler)
+    logging.getLogger().setLevel(logging.DEBUG)
+    logger.info(f"🔍 DEBUG MODE ENABLED - Verbose logging to {debug_log_file}")
+
 # --- INITIALIZE KEY MANAGER ---
 try:
     # Uses BACKTEST_KEYS from .env
@@ -95,7 +114,7 @@ def extract_error_context(logs: str, trades: int) -> str:
         return "\n".join(logs.splitlines()[-10:])
     return "Unknown execution error."
 
-async def process_strategy(strategy: Strategy, session):
+async def process_strategy(strategy: Strategy, session, reporter: StatusReporter = None):
     """
     The Core Pipeline: Code -> Validate -> Review -> Execute -> Retry
     Medallion-grade: Static validation + AI feedback loop.
@@ -103,7 +122,15 @@ async def process_strategy(strategy: Strategy, session):
     logger.info(f"⚙️ Processing Strategy ID {strategy.id}: '{strategy.name}'")
     
     MAX_RETRIES = 3
-    
+
+    # Update status for dashboard
+    if reporter:
+        await reporter.update_status(
+            AgentStatus.CODING,
+            task=f"Generating code: {strategy.name}",
+            session=session
+        )
+
     # 1. GENERATE CODE
     # ----------------
     deps = CoderDeps(strategy=strategy)
@@ -133,15 +160,21 @@ async def process_strategy(strategy: Strategy, session):
             err_str = str(e).lower()
             if "429" in str(e) or "quota" in err_str or "503" in str(e):
                 logger.warning(f"⚠️ Coder Rate Limit. Rotating key...")
+                if reporter:
+                    await reporter.record_error("rate_limit", f"Coder API limit: {str(e)[:100]}")
                 key_manager.flag_key_limited()
                 await asyncio.sleep(5)
             elif "parse" in err_str or "json" in err_str or "validation" in err_str:
                 # Parse/Validation failure - retry with same key
                 logger.warning(f"⚠️ Coder Parse Failure (Attempt {attempt+1}/3): {e}")
+                if reporter:
+                    await reporter.record_error("json_parse", f"Coder parse error: {str(e)[:100]}")
                 await asyncio.sleep(2)
                 # Continue to next attempt
             else:
                 logger.error(f"❌ Coder Error (Attempt {attempt+1}/3): {e}")
+                if reporter:
+                    await reporter.record_error("coder_error", f"Code generation error: {str(e)[:100]}")
                 if attempt < 2:
                     await asyncio.sleep(2)
                     # Try again
@@ -261,7 +294,15 @@ async def process_strategy(strategy: Strategy, session):
     # ------------------------------------------------
     # Use the explicitly defined Test Universe instead of strategy.symbols
     timeframes_to_test = strategy.timeframes if strategy.timeframes else ["1h"]
-    
+
+    # Update status for dashboard
+    if reporter:
+        await reporter.update_status(
+            AgentStatus.BACKTESTING,
+            task=f"Testing: {strategy.name} ({len(TEST_UNIVERSE)} assets)",
+            session=session
+        )
+
     logger.info(f"🌏 Running full backtest suite on Universe: {len(TEST_UNIVERSE)} assets, Timeframes={timeframes_to_test}")
     
     final_code_str = f"{generated_code.class_parameters}\n{generated_code.init_indicators}\n{generated_code.next_logic}"
@@ -452,13 +493,21 @@ async def process_strategy(strategy: Strategy, session):
 import signal
 
 async def run_backtest_loop():
+    global status_reporter
     logger.info(f"{Fore.CYAN}🚀 BACKTEST FACTORY STARTED{Style.RESET_ALL}")
-    
+
     # Handle SIGTERM (Docker/PM2 stop signal) by converting it to KeyboardInterrupt
     signal.signal(signal.SIGTERM, signal.default_int_handler)
-    
+
     await init_db()
-    
+
+    # Initialize StatusReporter
+    async for init_session in get_session():
+        status_reporter = StatusReporter(INSTANCE_ID, "backtest")
+        await status_reporter.initialize(init_session)
+        logger.info(f"📡 StatusReporter initialized for Agent #{INSTANCE_ID}")
+        break
+
     while True:
         processed_count = 0
         
@@ -477,10 +526,14 @@ async def run_backtest_loop():
                     strategy.status = StrategyStatus.CODING
                     session.add(strategy)
                     await session.commit()
-                    
-                    # Process
-                    await process_strategy(strategy, session)
+
+                    # Process with status reporter
+                    await process_strategy(strategy, session, reporter=status_reporter)
                     processed_count += 1
+
+                    # Update status to idle after processing
+                    if status_reporter:
+                        await status_reporter.update_status(AgentStatus.IDLE, task="Completed - ready for next", session=session)
                 
             except (KeyboardInterrupt, asyncio.CancelledError):
                 logger.warning(f"\n{Fore.YELLOW}🛑 Interruption Detected! Cleaning up active strategy...{Style.RESET_ALL}")
@@ -498,13 +551,32 @@ async def run_backtest_loop():
         
         if processed_count == 0:
             logger.info("💤 No strategies ready. Sleeping 5s...")
+            if status_reporter:
+                await status_reporter.update_status(AgentStatus.IDLE, task="Waiting for strategies")
             await asyncio.sleep(5)
         else:
             # Small cool down between runs
             await asyncio.sleep(5)
 
+        # Heartbeat at end of each loop
+        if status_reporter:
+            await status_reporter.heartbeat()
+
+async def graceful_shutdown():
+    """Cleanup handler for graceful shutdown."""
+    global status_reporter
+    if status_reporter:
+        try:
+            async for session in get_session():
+                await status_reporter.cleanup_on_exit(session)
+                break
+        except Exception as e:
+            logger.error(f"Cleanup error: {e}")
+    logger.info(f"{Fore.YELLOW}🛑 Backtester Stopped Gracefully.{Style.RESET_ALL}")
+
 if __name__ == "__main__":
     try:
         asyncio.run(run_backtest_loop())
     except KeyboardInterrupt:
-        logger.info(f"{Fore.YELLOW}🛑 Backtester Stopped Gracefully.{Style.RESET_ALL}")
+        # Run cleanup
+        asyncio.run(graceful_shutdown())

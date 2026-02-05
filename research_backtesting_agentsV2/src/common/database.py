@@ -5,6 +5,10 @@ from sqlalchemy.ext.asyncio import AsyncSession, create_async_engine
 from sqlalchemy.orm import sessionmaker
 from dotenv import load_dotenv
 
+# Import models so they register with SQLModel.metadata before create_all
+# Use relative import to avoid duplicate table registration
+from src.common.models import Strategy, StrategyEmbedding, BacktestResult, AgentHeartbeat
+
 # 1. Load Environment Variables
 from pathlib import Path
 load_dotenv(Path(__file__).parent.parent.parent.parent / ".env")
