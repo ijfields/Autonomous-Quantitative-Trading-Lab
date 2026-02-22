@@ -1,0 +1,341 @@
+Welcome back to Trading Wars and thanks
+for joining me today. Today guys, I
+wanted to share a strategy that has
+really changed my life. It's one of the
+easiest strategies and I wish I knew
+about this a long time ago. For those of
+you that don't know me, I'm a CPA. My
+name is Rich and I've been trading for
+almost a decade primarily with
+Fibonacci. And uh it's funny thing is
+guys, going to school, no one ever
+taught me about selling options. You
+learn about options, you learn about,
+you know, buying them, but uh selling
+them is kind of a gray area. So this is
+a very important video and I hope you
+enjoy it. Drop a like, subscribe, let's
+get into it. So, can you make passive
+income with just 15 minutes on Sunday
+night? Right? And the answer for me is
+yes. I've generated over $42,000 selling
+over 400 contracts with 100% win rate,
+guys, doing these strangle option
+strategies on Sunday. I'm going to walk
+you through this step by step and then
+I'm going to explain it and give you
+some examples and I hope that this can
+change your life. I'm also going to show
+you what to do if you have a small
+account. So, stay tuned. So, guys, this
+is my performance over the past three
+months. As as you can see, the income
+generation part of it, selling options
+is not my full strategy. It's a part of
+it and it's a key part of it. The income
+you generate from selling options, you
+can take this, reinvest it, buy leaps,
+buy shares of companies. You can take
+it, you can pay your bills, but the
+income part is I want to get in and out
+pretty quickly and take my money. First
+of all, guys, my goal right now is to
+generate at least $2,000 a month selling
+options. So, you can see this is my
+performance selling options specifically
+on the S&amp;P 500. I'm using the futures
+contracts, the microe mini mees symbol.
+The reason I do that is because you have
+access to the market after hours. The
+futures market is open at Sunday at 6
+PM. So, literally at 6 p.m. on Sunday, I
+take 15 minutes to set the strategy up.
+What we're doing is we're selling out
+the money options. All right. So, just
+to take a look at the performance before
+we get into it. Um, for November, I hit
+my my greatest month uh in terms of
+gains over 11,000. For December, we're
+on track for a record-breaking month.
+Again, I increased the size a little bit
+because we started winning more and more
+and I got an extra income that I want to
+reinvest and actually make more money
+selling more options. Okay? And you can
+see here, guys, I have a 100% win rate.
+I'm going to show you how I did that. I
+managed these positions a little bit
+with Fibonacci as well as using the
+deltas. The deltas are very important.
+Okay? So, let's get right into the
+overview of the strategy here. Okay, so
+the strategy guys revolves around
+selling out the money options. Generally
+speaking, guys, out the money options
+right here, um, they they expire
+worthless. And the way you learn that is
+if you trade long enough, try trading
+zero DTE. And you'll realize that most
+of the time you're going to lose. That's
+why I don't trade zero DTE. So, instead
+of being the person that's chasing the
+out the money option, why don't we sell
+it? That was my question. So what I
+learned over time is selling out the
+money options you can look at something
+called delta which is a measure of it's
+a it's a Greek uh part of the options
+Greek and it's a measure of the
+probability okay um it's approximate of
+the probability of winning so if I sell
+a 20 delta option it has an 80% chance
+of expiring worthless therefore me
+collecting the premium so think about it
+like this I am selling these contracts
+to people I'm selling options most of
+the time companies institutions will buy
+puts are a form of protection for their
+portfolio and I am the person that's
+selling that put or selling a call. Um
+either one where I am basically writing
+insurance. It's like you become like
+this insurance person. You're selling
+insurance. Okay. [snorts] The edge is we
+become the casino. The casino their edge
+is they have a high frequency of uh
+people gambling and losing their money
+and they don't really ever pay out a big
+jackpot. Okay? It's very rare. So this
+is the casino edge in trading is
+basically being the person that writes
+the options and sells options to other
+people. So, my mechanic is I sell three
+layers of out the money puts every week.
+This is the core. I also do uh some
+calls. We'll talk about the calls.
+They're a little bit different. And um I
+have some management tools. If I get
+assigned on a position, how I will
+manage it. We will talk about that. But
+basically, Sunday market opens at 6:00.
+We go into the broker and we sell these
+layers of puts. Okay? And I just want to
+give you a quick overview here. Yes, you
+can do this with a small account. All
+right? If you have a small account less
+than 5K, each microcontract is going to
+be worth, you know, between $2 to
+$3,000. You could get a little bit less
+depending on the broker. Um, but you
+want to just do one contract, okay? And
+try to get $50 a week and you build your
+way up and so on and so forth, right?
+Eventually, if you have over 100k
+account, you can really start making a
+lot of money. Um, but the mechanics are
+the same. It's just the size that
+changes. Okay? So, for me, 8 months over
+42 grand, it's about 1,200 per week. I'm
+averaging 2,000 plus a week now. And,
+um, the reason is in the beginning, I
+was very skeptical. Uh, so I really
+started off small. You can see in May,
+June, I was going very small because I
+was skeptical. I was like, "This is too
+good to be true." And you know, there
+are some risk involved which I'll talk
+about, but guys, I have not lost a
+single trade and I really felt like I
+needed to make this video to talk to you
+about it because no one wants to talk
+about these things. So, make sure you
+drop a like and make sure you subscribe.
+So, what I'm going to do now is I'm
+going to take you through a typical week
+and what that looks like. I am back here
+on the chart and we're going to go over
+to the Discord here. So, this channel,
+Rich Live Alerts, premium selling and
+Fibonacci indicator setups. This is
+where every Sunday I post my trades.
+Okay, so we could see here this we're
+going to use this one as an example.
+Sunday, November 30th, where I sold
+these layers of calls and puts. And you
+don't have to do the call side. The put
+side is a little bit easier because if
+you get a if basically the put side goes
+bad, you're going to get assigned the
+S&amp;P 500 at a deep discount. We're
+talking about like 5% plus. So, it'll be
+a good deal if you you can buy and hold
+the position from there. But I'll talk
+about that a little bit further. So, I
+sold three layers of puts and then I
+sold one layer of calls. And these are
+between 10 to 20 delta for the puts. And
+then the calls I adjust it. I do very
+far delta. Sometimes five, six, seven
+delta. And the delta basically means you
+just the further it is. So if I sell a
+five delta, it's very far away. I have a
+95% chance plus of making the money.
+Okay? And you can see here 900 bucks,
+700 bucks, 1,000 bucks. Every cycle,
+every Sunday, I'm trying to get between,
+you know, 2 to 3,000. I started off with
+just like a few hundred bucks, trying to
+get a few hundred bucks. And then as I
+got more confident and as the account
+grew, then I said, "Okay, let's take
+some more." So let's walk through an
+example. So these lines on the chart,
+let me just move these over. This these
+are this is an example here, right? So
+we are selling Let's go right here.
+So this is the monthly chart. Let's go
+to the weekly chart so we can see it a
+little bit easier. Here we're selling
+three layers, right? So we're selling
+the 6700.
+Okay? So I'm going to double click here
+and I'll put 6700.
+We're selling the 6660 and the 6600. So
+each one of these have different um
+prices, right? The further away you go
+from where the market is, the less money
+you're going to get because the, you
+know, the probability of having this
+kind of crash, if we look at the
+percentage drop, that's over a 4% drop
+in a week is very low. So you're going
+to get less and less money. But you can
+see as I go lower and lower, I sell
+more. Okay? So, as long as the market by
+December 12th, so this is a, you know,
+I'm making this video in the first week
+of December here, uh, going into the
+second week. So, by December 12th, as
+long as we stay above these three lines,
+I'll collect all of this money
+basically. Okay. Now, what's the
+downside? If we break through these
+lines and we close by December 12th,
+okay, on that day below any one of these
+lines, I have to buy this position. But
+this right here, guys, feeds into my
+strategy because if I'm buying the
+market at a 2% deal, 3% deal, you know,
+4% deal, that's where I want to buy the
+market anyway. So, you're basically
+getting paid to wait. Okay? You're
+getting paid for when the market really
+does pull back. You better be ready to
+buy it. Um, and and in the meantime, you
+can get paid. Okay? And then I also sell
+the calls. So, I'm selling calls at
+7070.
+You can see this is really, really far
+away. Okay? All the way up here. This is
+a rally of approximately 3%. Okay? And
+in a week, guys, that's very hard for
+the market to have like a straight up 3%
+rally. Okay? It does happen on the S&amp;P,
+but you know, not often, right? So, I
+sold that for 740. So, as long as the
+market stays between these lines, I'm
+going to make profit. Okay? And that's
+how I uh do this for income generation
+by mixing around with the deltas. So,
+let's go back to the monthly chart here,
+right? And then I just wanted to talk a
+few key points about it. So, what's the
+risk? The risk is if we go below these
+three lines here, you're gonna have to
+buy the position. So, what I do is I
+only sell uh the amount of puts that I'm
+willing to hold in my portfolio, right?
+So, if you have a small account, uh you
+know, 2500, 3,000, just do the math in
+your head. For each microcontract, you
+can only uh it requires maybe 2 to 3,000
+in margin. So, if you're less than 5K,
+don't do more than two of these at a
+time. Try to generate a 100 bucks a
+week. And then as you grow, you do more
+and more and more. Okay? And because I
+mix around my deltas and I have them so
+much further away, guys, I've been able
+to achieve the 100% win rate. So, just
+going back here to the table, guys, um
+what I do when I sell these on Sunday,
+there's a few ways you can manage it.
+Okay, the easiest way is to just let
+them expire and you collect all the
+profit. But you can also have a profit
+target. You can take like a 50% profit
+target, 75% profit target. Um or you can
+also uh just hedge your position. So,
+there's multiple ways. is I can make
+another video on that to talk about
+managing the position. But I just wanted
+to really uh open up your mind to a
+different view in the market when it
+comes to selling options. And um I
+actually track all of this in my tracker
+here. So you can see these are all the
+trades here. And then I also have the
+broker screenshot here, but I actually
+have my free I have my free Google Sheet
+tracker where you can follow along and
+you can see all of my positions. I
+update this one to two times per week.
+And then I also send out my Substack
+newsletter which updates the performance
+every week. Okay, so I wanted to just
+bring this to your attention guys.
+Obviously follow along in the Discord,
+you'll get the live alerts, but I hope
+that this video is like a good
+introductory for you understanding how
+the option premium game works and you
+can actually visually see the chart.
+Okay. And I also wanted to show one more
+example of this. Um I actually have a
+really good image that I wanted to show
+here guys. So, this is another visual
+way to see this. So, let me just pop up
+here in the Discord right here. Okay.
+So, I wanted to show you guys this image
+here so you can see um we can have a
+potential profit target here and as long
+as we stay above these strikes, we will
+finish with uh locking in that profit.
+All right. So, guys, thank you so much.
+As always, check me out at
+tradingwarss.com. And um just start off
+with just doing one of these. Sell one
+put per week. See how you like it. Paper
+trade it, guys. And if you want to, you
+can also use a spread. All right? I
+don't really recommend that because
+you're not really going to make any
+money if you use a spread. Um, but if
+you just sell one put, then if you get
+assigned, you hold that contract and you
+can actually apply the wheel strategy,
+which is a topic for another video. So,
+comment fib king below if you like this
+video. And I'll also be doing a lifetime
+Discord giveaway. So, please comment fib
+king. I'll be announcing the winner uh
+by the end of this month and drop a
+like, okay? To follow me, guys, don't
+forget follow this tracker. It's all
+here for you for free to learn. Follow
+the substack. You'll see the link below.
+and check me out at tradingwarss.com if
+you are interested in following along on
+the live alerts. So, I hope this video
+added value and take care my friends.
+Have a great day.

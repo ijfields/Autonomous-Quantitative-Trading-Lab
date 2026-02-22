@@ -1,0 +1,300 @@
+In one day, I made 45% ROI with just one
+zeroDT credit spreads. So, first, if you
+don't know what credit spreads are, make
+sure you check out this tutorial linked
+in the upper right hand corner. Pause
+this video, watch that, then come back.
+So, first, let's take a look at the
+trade. I sold a credit spread on S&amp;P,
+the S&amp;P 500 index, put credit spread at
+5775,
+5770.
+So, a fivepoint spread. I traded six of
+this and I collected $155
+of credit for every single one of these,
+which means that my total credit
+collected
+is
+$930.
+Now, at the end of the day, SPS ended
+out way out of the money, around like
+5,800 or so. So, we were out of the
+money, which means that we made max
+profit.
+of $930.
+And we know this because anytime SPX
+ends above our sold put, which is the
+5775, so it's greater than 5775, we'll
+make max profit.
+And if it's below
+5770, which is below our bottom leg, our
+protection leg, we'll take our max loss,
+which will be $3,000. 500 * 6 - 930
+which will be $2,070
+which is our max loss which means that
+we can calculate my return on investment
+since I made max profit of 930 which
+means that it will be 930 / 2070 which
+will equal 45%.
+Actually just in an hour or so I made
+45% return on investment. This looks
+great and all right 930 45%. But how do
+we actually trade this? And this is
+where we're going to talk about the
+strategy and this will transform how you
+guys trade credit spreads. In order to
+find these great trades, there is four
+simple steps that we have to follow that
+I like to call max. M stands for market
+trend. A stands for area of interest. C
+stands for criteria of entry and S
+stands for stop-loss.
+So what is M? M is us identifying the
+trend because we ultimately want to
+follow the trend whether it's an
+uptrend, downtrend or going sideways.
+Once we know what the trend is, then
+we'll move on to the next step, which is
+finding an area to potentially trade at.
+But at a high level, what we're going to
+do is we're going to look for these
+areas of supports and resistances that
+have higher than average implied
+volatility. Once we identify these areas
+of high reward, we're going to move on
+to step number three, which is criteria
+of entry. All because it enters an area
+doesn't mean that we're going to take
+it. We need to make sure that there is a
+good reason to take that trade. This can
+be candlesticks patterns such as bullish
+engulfing candlesticks. Lastly, after we
+enter this trade, we're going to set our
+stop loss, which is our S. We want to
+give out as soon as we know that we've
+lost so that we can minimize our losses.
+So, we're going to see these four
+principles in action by reviewing that
+trade that I took and applying these
+four principles. If you're enjoying the
+content right now, make sure you guys
+like and subscribe to the channel to
+make sure you never miss a video about
+building those passive income streams.
+First thing that we have to do is is to
+look at M, which is market trend. So the
+trade I took was on October 23rd. So
+we're going to jump over to October 22nd
+after hours to just see what the overall
+trend is. So you can see right here the
+market is in a pretty obvious uptrend,
+right? Go from a low to a high to a
+higher low to a higher high again to a
+higher low again to a higher high. But
+the overall long-term trend is up. But
+we have to also identify what the
+short-term trend is. And what I like to
+do is I like to drop it down to the 30
+minutes. And what you can see here is
+that in the 30 minutes the market is
+actually consolidating and running
+sideways to a certain extent. We go from
+a low to a high to a low to a high the
+same high actually and then to a lower
+low to a higher low again to the same
+low and now to a higher high. The
+long-term trend is up and the short-term
+trend is kind of stagnating going
+sideways.
+But how do we know when to trade? So
+this is where we would then start
+identifying areas of interests. One
+thing I like to do again is to identify
+areas at a higher time scale because
+these areas are usually more impactful.
+So here we will start drawing areas of
+resistances and supports. So the first
+thing you'll notice is that there's an
+area of potential support around 5770.
+Right? Why this is the previous swing
+low that broke up to a higher high and
+if it retraces it could also potentially
+be another swing high. So this is an
+area of potential support around 5775.
+Our area of resistance would be at 5878
+because that is the last high that we
+hit. We're going to draw two lines here.
+One and two. Okay. Now we're going to go
+drop it down to 30 to just reconfirm
+these levels. There's another area of
+potential support that would be around
+that can act as a short-term area of
+support. So, if it ever retraces into
+here and it bounces up, then we can
+trade in the bullish direction. If it if
+it breaks this, we can potentially trade
+in a bearish direction. Now that we have
+the areas, let's talk about some
+criterias. And I kind of already alluded
+to it. If it enters these areas and it
+shows something like this, for example,
+right here, that is a very strong
+rejection of this 5880 level, which
+means that you can potentially trade in
+the bearish direction, right? Because
+this is a large candlestick. At the same
+time, this could also act as a bullish
+confirmation. I actually wouldn't take
+this trade because the candlestick's
+length isn't tall enough or even
+something right here, right? This is
+what we would call a hammer with a
+another shooting star that ends up
+higher than the previous candle. So,
+this can also be a confirmation of
+bullish intent. And so, if you see this,
+you can potentially trade in the bullish
+direction. So, these are three
+relatively solid examples of what
+criteria of entry could be. So, now that
+we have this game plan, we're going to
+move on to the day of the trade, which
+is the 23rd, to see how we apply MAC.
+And then finally S. So let's talk about
+this day. There's two trades that I
+would have taken. So let's talk about
+the trade that I took and then also as
+an example the trade that I missed
+because I want to trade the trend
+usually speaking, right? The trend is in
+an uptrend. I want to trade in the
+bullish direction. But as you can
+clearly see at the day open, the market
+is kind of in a bearish trend now. Broke
+the previous support and it continued
+all the way down into our level of
+potential support. And once it enters
+this 5780 level, I'm actually interested
+in trading in a bullish direction. But I
+need to get is a criteria of entry which
+is a bullish confirmation that the trend
+will continue up. So we're going to look
+at this trade and this is the trade that
+I took. So at 11:00 this is what we
+would call a hammer. This is a very good
+bullish signal in an area of support.
+Areas of supports and resistances
+usually accommodate and account for
+higher implied volatility. If you don't
+know what I'm talking about, make sure
+you guys check out this video linked in
+the upper rightand corner here where I
+explain in depth what that means. But
+here below is an implied volatility
+chart. So you can see one that the
+market is telling us that this is a
+potential support because implied
+volatility has spiked. But for me I need
+one more candle to understand that this
+is a bullish trend. And what I like to
+do is I like to wait for the next candle
+to form right at at 11:30. So my
+criteria of entry my C right because we
+already talked about T which is up. We
+talked about A which is this area of
+support. Now C is I want to see this
+second candlestick break above the high
+of the previous candle. So right here at
+5777. Once it breaks up above that then
+I'm going to enter the trade. The market
+has confirmed to me to a certain extent
+that the bullish trend is starting.
+We're going to we're going to take this
+candle right here this dryer and we're
+going to drop it right above that. And
+we'll drop it down to the five. You can
+see that I basically traded right at the
+money 5775 5770 because I'm anticipating
+that the market is going to go up and
+for that I took on $155 of credit. Now
+after we enter this trade we have to
+then figure out what S's what is our
+stop loss. So I like to trade a lot on
+the 30 for this pattern. So we'll go
+back to 30. I'm going to set my stop
+loss slightly below below the candle
+that was formed the formation about
+5772. I'm going to set it around 5770.
+So if the market ever retraces back to
+5770, then I want to get stopped out and
+I want to exit this trade. And the
+reason behind that is really simple. I'm
+trading this uptrend here. The market
+doesn't necessarily have to respect the
+uptrend, right? I can be wrong. And so
+the fact that this is retracing back
+down, I don't feel comfortable about
+that this upswing is going to happen. So
+I'm going to exit first, reevaluate, and
+see whether or not the market is going
+to go up again. So you can see the risk
+and reward is actually pretty solid. If
+I were to lose around five points in
+this case, I'd probably lose maybe 50
+bucks per spread, but I'm planning on
+making 160 give or take, right? So, my
+riskto-reward ratio is around 1:3. But,
+as you can see, the market went all the
+way up at the end of the day, and I
+exited. So, the results really not that
+important. You'll end up losing some
+trades, you end up winning some trades,
+but the thought process and strategy
+behind it is the most important thing.
+We're going to do one more on the trade
+that I missed earlier in the morning.
+So, we know for a fact that the market
+in the short term is consolidating. If
+it breaks past this area of support,
+then it could potentially be in a
+downtrend, right? It go from a high to a
+low to a lower high and now it's forming
+a lower low. So, a good trade for us to
+take is that if the short-term trend is
+now down because this area of support is
+broken, you see the same principles M,
+A, and C is if it breaks this area of
+support and starts dropping below it,
+you can enter this trade. So, because
+this is a short-term trend, I like to
+drop it down to the five. So, here,
+right, it's still in this level area and
+it breaks right here. This is our
+criteria of entry because it broke the
+area of support and it's closing below.
+So, after it's broken the support, we
+can then now trade on the bare side by
+entering a call credit spread basically
+right at the money. Why? Because at this
+point in time, we're anticipating that
+the trend will continue to go down.
+Therefore, we're allowed to be
+aggressive. What is our S stop loss? One
+thing you would do is you would set it
+slightly above this candlestick right
+here. And I would say right around if
+this is 5221, I would just set it at
+5224.
+If it loses, you'll lose again like 50
+bucks. If you win, you'll make maybe
+150, maybe 200. And you can see the
+market then would continue all the way
+down and then you would have made max
+profit on the day. If you guys have any
+questions, let me know down in the
+comment section below. If you want to
+see how you can apply the MAX principle
+to 1DTS, make sure you guys check out
+this video linked in the end screen
+right here. Right, until next time, stay
+safe in the market.

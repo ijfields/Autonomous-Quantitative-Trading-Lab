@@ -1,0 +1,163 @@
+Hey guys, welcome back to another video
+and in this video I will show you how
+you can set up OpenClaw or Cloudbot with
+Discord as a communication channel. Now
+in this video I will only show you the
+Discord part. If you want a full
+step-by-step guide on how to set up
+OpenClaw or Clawbot as a complete
+beginner, I will link that video in the
+pinned comment below. And then once you
+get to the part where you need to
+connect a communication service, you can
+come back to this video and just connect
+Discord. But again, this will only be a
+Discord connection guide. So the full
+setup video will be linked below. And
+now let's go ahead and continue. So to
+connect Discord to your clawbot or
+openclaw, you would need to first open
+up your terminal uh on the device that
+you have installed your open claw bot
+on. So for me, I installed it on a VPS,
+which is the safest option and I would
+suggest that you do the same. So once
+you in the setup wizard and you came to
+this step right here where you need to
+choose a communication channel with your
+uh open clawot here just use your arrow
+keys and select discord and press enter
+and then it might take a few seconds to
+load for this short guide to be visible
+to you. So this can be a bit confusing
+as you only see the text but I will show
+you what you need to do to create a bot
+on Discord and then connect it as a
+profile for your cloudbot to live on.
+Again, if this is confusing for you, you
+can just watch the full setup guide and
+then when you reach this step, you can
+just come back to this video. But
+essentially, from here, let's go ahead
+and first set up our Discord bot and
+then connect it to our open clawbot. So,
+for this, I will link the discord
+developer portal in the uh description
+below so you don't have to search it
+because it can be a bit tricky to find
+uh the specific page on there. So, this
+is the uh dev portal and here you would
+need to go on the application menu. Once
+you're on the dev portal under the
+applications, just go ahead and press
+new application right here. And then
+let's go ahead and choose a name for
+this. So for example, let's just name it
+open claw 2 because I did one test run
+before. And then just click uh this by
+create you agree to discord uh dev
+terms. And then let's go ahead and
+create right here. Now you just need to
+do a quick verification for it to
+initiate. Then you will see this. So
+from here, just go ahead and select the
+bot option at the left menu, left-hand
+side menu. So once we're here, what
+we're searching for is this token right
+here. So you can only see this token
+once. And if you miss it, you would need
+to create another bot. So let's go ahead
+and get our token by clicking reset
+token, then confirm yes to do it. Then
+you would just need to quickly uh verify
+your Discord account before continuing.
+And after a quick verification, the
+token will be visible. So just go ahead
+and click copy here to copy the uh API
+token. And then let's go back to our
+terminal. In the terminal, just go ahead
+and paste over the token right here and
+press enter.
+Next up, we would first need to create a
+Discord server or add our bot to uh our
+Discord server. So let's go ahead and
+quickly do so. So on discord what you
+need to do is just click add server
+right here to create your own server.
+Then just click create my own. You can
+select for me and my friends and then
+just name your server and click create.
+From there your server will be created.
+And next we would need to invite our bot
+to our discord server. So let's go back
+to our intro documentation page where we
+created our bot. And here you can just
+copy this. And here you can also back up
+this to a notepad for safekeeping. And
+also before continuing you can customize
+your bot settings. So I will just leave
+it bare bones as it is and then click on
+O authentication too. On this page just
+go ahead and scroll down a bit. And here
+just select bot for the uh bot
+permissions to load. Then you can uh
+enable any permission that you want for
+your bot. So I will just give it the
+administrator access which is the
+highest general permission. And here is
+our URL that you can just copy. And then
+let's go ahead and paste it uh in the
+search bar. And this URL will just bring
+you to the uh generic bot invite page.
+So because I have Discord installed on
+my PC, I got uh the redirection message.
+But you can just go ahead and click on
+this. And then you would need to uh
+select a server to which you want to add
+it. So of course we would need to select
+uh our server that we just created. So
+it should look like this. Add to server.
+The selected server would need to be uh
+this one that we just created. Then once
+you have that set up, just go ahead and
+click continue. Uh here you can leave it
+as administrator and then click
+authorize.
+And there we go. So I will open our
+server. And as you can see the bot that
+we created has joined the server. Now
+when we have that set up, we can go
+ahead and finish the open close setup
+page. So here you would need to
+configure the discord channel access. I
+will just go ahead and select yes. Then
+you can uh choose specific channels that
+you have set up in your discord server
+which openot would be able to access. So
+I will just click the first option which
+is allow list recommended. And here you
+can just list all the channels that you
+want your uh open claw bot to have
+access to. So I only have the general
+channel. So I will just write my server
+name which is open close server and then
+/ general to give it the general channel
+access just like this. And now let's go
+ahead and press enter. So we have our
+channel configured and then that
+finishes the process of setting up our
+open clawot with discord. So from here
+on now if you would like the rest of the
+setup you can continue watching the full
+setup video that I linked below. But
+essentially guys this is the uh discord
+section done. We just invited our bots
+to our discord server and connected it
+to OpenClaw. So now OpenClaw will be
+using this bot to communicate to us in
+our server. And essentially guys, that's
+how you can connect and configure
+OpenClaw with Discord. If you found this
+video helpful, don't forget to leave a
+like and subscribe. Thank you for
+watching.
