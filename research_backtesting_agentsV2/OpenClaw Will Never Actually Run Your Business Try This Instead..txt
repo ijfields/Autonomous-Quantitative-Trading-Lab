@@ -1,0 +1,501 @@
+So, if you are a business owner who's
+been using OpenClaw and you think you're
+at the cutting edge of this technology,
+I can promise you you're only getting
+maybe 5 to 10% of the potential out of
+this kind of technology at the moment.
+And on the other hand, if you're someone
+who's maybe been less impressed or
+struggling with using something like
+this, there is a reason for that. And
+I'm going to be revealing in this video
+why that is. The system that I've
+created and I've been using that ticks
+all the boxes of OpenClaw and far
+beyond. And the reason I'm making this
+video is because I've been running into
+so many successful and smart
+entrepreneurs who are excited about this
+technology naturally and the potential
+it has for being able to actually get
+them some time back and actually be able
+to do things for them. So them as a
+founder aren't just change their
+business like a job. But the thing is
+Open Claw is open flawed. There are
+major issues with it that are going to
+stop you turning it into the true AI
+assistant that runs your business and
+does things for you. And in this video,
+I'm going to be breaking those down so
+that hopefully I can convince some of
+you to make the transition to the system
+that I'm going to talk about so that you
+can truly realize the benefits of this
+incredible technology that is now in our
+hands. And if you guys are new to the
+channel and don't know who I am, my name
+is Liam Mley and I've been building AI
+businesses for the past 3 years. I've
+been in business for the past seven. And
+this stuff I'm going to talk about in
+this video is by far the most exciting
+thing I've ever seen in my career as an
+entrepreneur. I've barely left the house
+this week. I've barely slept at all
+because for the first time for me and
+the friends that I'm here with who are
+also nerding out on getting these
+systems set up. We can actually see us
+moving towards a future where we can use
+a system I'm going to explain here to
+actually automate our entire business.
+And over the next 30 days, I'm actually
+documenting my process of automating as
+many of my tasks as possible. And so
+long story short, the main difference
+I'm talking about here is not using open
+claw or open floor. We are using clawed
+code.
+And if that sounds scary, stick with me
+because yes, this may sound like a dev
+tool, but it is actually the most
+powerful AI assistant and productivity
+machine that I've ever seen. And in this
+video, I'm going to be breaking down why
+you must make the switch. Now, I'm going
+to do a side-by-side comparison of all
+the things you love about this and how
+Claude Code beats it in every realm. And
+at the end of the video, I'm going to be
+explaining what it actually takes to get
+started on building the system that will
+go like this rather than open claw,
+which is going to go like this and
+plateau for you. Okay, so the first
+thing you need to understand is what
+open claw actually is and what clawed
+code is. So it starts off with a model
+of some sort. We have the model as a
+sphere.
+We call this our model. So this might be
+uh anthropics uh opus 4.6. It might be
+open 5.2. Whatever it is, this is some
+kind of LLM or model. That is our
+starting point. Now what Claude code is
+here is a harness. You may have heard of
+ChachiBT rappers. That was kind of a
+slur term used by people to throw shade
+at basic applications that took the
+underlying model and put a thin layer
+around it and called it a business or
+called it a SAS. So that's like a
+wrapper.
+And this will all make sense in a
+second. You have to understand the
+difference to this to really
+fundamentally know why you must make the
+switch now because once you realize
+this, you cannot go back. So we have a
+wrapper here. Recently we've had the
+emergence of what's called a harness.
+Now, I've still been trying to figure
+out where we made the jump and and why
+one took over the other. You don't hear
+much about rappers anymore. You hear all
+about a harness. So, I don't really know
+how to draw a harness, but recently I've
+been drawing them like this. Think of it
+as this big uh we have this powerful
+orb. And you guys can drop a like for my
+drawing skills cuz I think that's pretty
+damn good. We have this powerful orb
+here, which is the model. so good at
+understanding text, understanding
+images, being able to generate things,
+generate code, uh reason through things,
+analyze large amounts of text and code.
+And what we're doing is we're putting it
+into a harness where I mean, this is
+maybe a nice way of putting it. We have
+this harness holding it in place and
+giving this model a whole bunch of new
+features and abilities in a very robust
+way. So, I haven't really figured out
+how to draw these yet. We can maybe put
+them as like this.
+So it gives it these very powerful arms
+that stick out and allow it to do things
+in the digital world.
+And the best example of a really great
+harness is Claude code where Anthropic
+has poured billions of dollars into the
+engineers and people behind building out
+and training their harness to be able to
+do things like uh these actions being
+like reading files, creating files,
+deleting files, searching the web,
+spinning up sub agents to do deep
+research or spinning up sub agents to
+dig into file systems. The harness that
+Anthropic has created for claw code is
+so well created and so adapted to the
+digital environment it lives in. It is
+it seems like an absolute genius. It can
+plan everything out. It can open files,
+edit them, search the web, pull things
+in, write code, write text, read images,
+and read PDFs and basically anything you
+throw at it. And that's what has made
+this such a powerful and explosive tool.
+Now the thing is
+when it comes to openclaw it is
+essentially a wrapper or a harness that
+has been built by an indie developer to
+do the same thing as this but also
+connect it to telegram or to connect it
+to something that's handy for you. So
+we're going to go into the features in a
+second but I want to just point out that
+we've taken essentially the same model.
+One of the one of I guess perks of open
+core is that you can swap the model out
+but at the end of the day if you're
+trying to make a really powerful system
+would you really want to use anything
+but the most powerful models opus 4.6
+six on it. The new one just came out as
+well. So, we have instead of this really
+robust and powerful harness that has
+been had hundreds of millions of dollars
+poured into it, we have instead
+something made by an indie dev. How do I
+make like a janky looking harness here?
+Barely even hanging in there. And no
+disrespect to the dude at all. I I'm not
+saying I could do any better. It's just
+the reality of one dude making something
+that just trying to replicate what has
+been done by a one of the most valuable
+AI startups or technology startups in
+the world right now with the best talent
+in the world. And so it's essentially
+clawed code and you've ripped off all of
+the the arms. Say you've ripped these
+off. You've taken away all of its
+ability to read files, view files, uh
+search the web, etc. And you've stripped
+it back to just this model and then
+you've dumped it in a crappier harness.
+Again, no disrespect. and then tried to
+kind of Frankenstein and duct tape on
+the same arms. For example, there's a
+whole bunch of great stuff that comes
+out of the box with claude code, like
+web searching, which is super native.
+They spent tons of money training it and
+and doing post training to get it to
+really use these web search tools very
+well to be able to spin up deep research
+agents to go out and search the web uh
+separately, come back and feed you
+information. and all of this stuff you
+now have to like kind of plug in using
+uh third party tools and try to recreate
+this with a inferior harness that has
+not been trained with nearly as much uh
+effort and resources. So that is the
+clear difference and that is why out of
+the box this thing is so much more
+powerful has been refined over billions
+of dollars and this thing is made by an
+indie developer where you have to
+basically plug in all of the things just
+to get it to baseline and by nature that
+means it's not going to perform as well.
+Now I hear what you're saying you may be
+like oh but I can connect this to
+Telegram. Cool. We can do that, too. Oh,
+but I can set up chron jobs and it'll do
+stuff for me. Cool. You can set that up,
+too. Everything that you could do with
+with OpenClaw and that you you love
+about it, you can do with this in a
+completely custom setup that ties into
+all your own workflows. And ultimately,
+it is far more controllable and scalable
+longterm than something like Clawbot
+where the performance is going to
+flatten out as the complexity scales.
+I've been building my system now for
+coming up 2 weeks and I can assure you
+the levels of complexity that I'm
+reaching now with the workflows, the
+layers of data, the documentation.
+There's no freaking way you could
+achieve what I'm getting out of it right
+now. And I've got a video coming down.
+It might have already been out, but you
+can see all of the stuff that I built
+and also the things that I'm looking to
+build in the future. So, understanding
+what a harness is that this is a great
+harness proven with lots of money and
+this one is fundamentally not as good. I
+think the best way I put it is you've
+essentially taken a Ferrari's engine.
+Well, you've got a whole Ferrari here
+and you've taken the Ferrari's engine
+out, ripped the model out, and then
+dumped the engine, the really powerful
+model into a crappy chassis. So, you
+chuck it in a Honda. That's the best way
+to explain what has happened here.
+You've got the incredible power of the
+core model, but it's just in a really
+bad structure to allow it to do what the
+the model or the engine was intended to
+do. Okay, so I just quickly want to riff
+through some of the things that when I
+try to convince entrepreneurs that I
+meet to make the shift, they're like,
+"Oh, no, but like I've got it working
+and you know, I can put it on my
+Telegram and I've got this and this."
+So, let's just run through a few of the
+the the best the biggest sales points of
+something like OpenClaw and why you can
+do all of it and better with Claude
+code. So, firstly, Telegram,
+WhatsApp,
+etc. deployment. You can access your
+open claw through a platform of your
+choice. Cool. You can do that too. In
+fact, because it's custom and you can
+control everything. I have created mine
+on my phone to be far more powerful. I
+can't go into it into this video, but
+where you can have layers and layers of
+complexity where you have orchestrator
+agents, you have separate subtopics.
+I've fully customized it to have daily
+briefs coming into the Telegram and
+different channels. Full customization
+of my Telegram setup and that is
+ultimately where we're trying to get it
+where we can run our business from the
+phone. So secondly, chron jobs.
+This is a core feature of open claw that
+allows you to set up recurring jobs. So
+it'll ping, it'll say, "Hey, okay, can
+you please do this thing?" One, the way
+that it's done open core is very
+confusing and in my opinion, not that
+great. And two, you can set it up in
+claw code yourself fully custom. You can
+have layers and layers and layers of
+them. And just like everything else,
+it's much more controllable and you can
+fully understand what's going on much
+more easily. So that's tech. Third is
+memory.
+Uh, another great thing is like, oh, it
+learns about me and it updates. And the
+thing is, it's a memory system that is
+kind of opaque and harder for you to
+maintain yourself and and make
+modifications to. Not only do I have
+memory in my cloud code setup, I have a
+very structured context OS that allows
+me to continually keep that updated also
+via documentation of new features. Very
+importantly, I have a full database with
+all of my business data condensed into
+one place. So, I pull from all my data
+sources into one place and my Telegram
+assistant has access to be able to query
+that data, get any information I want.
+So overall, I have a more comprehensive
+memory system that I have full control
+over and I have it connected to a
+database that has all of my business
+data in it as well. Fourth is web
+searching.
+This is a pretty easy one. Claw code has
+native web searching in also deep
+research agents that can be kicked off.
+Uh so the web searching and claw code is
+native. It's been trained on it is
+categorically better than using some
+plugged in third party tool uh to
+provide web searching capabilities to
+your open claw. So we win there as well.
+Fifth is model agnostic.
+Uh, sure. Open claw allows you to plug
+in a whole bunch of crappier models than
+Opus 4.6 or whatever the latest one is.
+Personally, I'm using this thing for
+some really complex business processes,
+analysis of data, researching trends,
+uh, strategy. I want the Ferrari engine.
+I don't want the Civic engine put in
+this thing. And Anthropic does have
+three different model tiers, Haiku,
+Sonnet, and Opus. I use Haiku for my
+Telegram orchestrator to keep the cost
+low there. And then I only bust out Opus
+for the big task when I need it. So, I
+mean, sure, you could maybe say you beat
+us there, but at the end of the day,
+this is going to be used for very
+complex things. I want the best engine
+or brain driving that. And if I want to,
+I can always downgrade to a cheaper
+model and bring my cost down. You can
+plug in your anthropic plan and pay what
+is it 50 or 90. I think 50 bucks is one
+of the lower plans. I'm on the 200 plan
+and I'm absolutely smashing this thing
+every day. I've only hit limits once or
+twice. In which case, it is well worth
+the $200 I'm spending. Okay, so I hope
+you can agree here that this is clearly
+the answer. But what does it actually
+take to get this set up? What does it
+cost to make the transition? You might
+feel like you've sunk a whole lot of
+time and effort into this already. And
+just on that note, you really need to
+understand this graph here. You will get
+quick results with your open claw. But
+as complexity scales and you want to
+build more and more and more into it, it
+is going to suffer. May it might even
+start performing worse over time.
+Compared with something like clawed code
+where when you use the proper template
+to get things set up a good base and
+build on top of that in the right way,
+you can see compounding benefits. There
+is no limit that I have found so far to
+the scale and complexity that I've built
+into my system. Unfortunately, to get
+started, this is not as easy as just
+running one command and getting things
+off the ground. There is a bit more
+setup involved and a little bit more of
+a technical barrier, but that should not
+stop you from pursuing this. I've
+literally been sitting here. We're doing
+this generational cla code lock in here.
+If you want to see the behind the scenes
+of me and my friends absolutely geeking
+out on this stuff up till 3 4 5 a.m.
+Absolutely nerding out, going all in on
+this stuff to build these systems for
+our businesses while I've been here with
+them. Some of them are completely
+non-technical, never touched line of
+code in their life. And by using my
+template, which is the right folder
+structure set up to get you started in
+the right direction and also the right
+commands to use where Claude code is
+forced to become your assistant in
+getting this set up where you just say
+this is what I want. It's going to walk
+you through a bunch of questions to
+figure out exactly what you want and
+then technically spec that, search the
+web, figure out how to do it and then
+from there it can actually build and
+implement it into your workspace. The
+other thing you're going to need aside
+from a good starting template is to be
+surrounded by people who are also doing
+this. That's why I'm supposed to have
+left Cape Town already, but I decided to
+stay because my friends are here and
+they're also all over this and we are
+just sharing learnings around. When I
+build something here, I just tell my
+agent to pull it all into a markdown
+file, air drop it over to them, they
+tell their agent to install this, and
+within a few minutes, they can have the
+same functionality that I just created,
+and it took me a few hours to do. So,
+with all that in mind, I'm actually
+running a webinar that's going to be
+kicking off next week, depending on when
+you're watching this, but there'll be a
+link in the description. There's far too
+much. I just did literally did a
+workshop with my accelerator community
+today, walking them through it. There's
+just so much to get through. So, I'm
+going to be doing a full free webinar
+for any business owners who want to
+understand what this is, see what my
+system is and how I'm running it,
+understand what steps I need to take to
+get their set up, and also to be able to
+grab my free template. That is exactly
+what you need to get started and moving
+in the right direction. Also, as part of
+that webinar, you'll get added into my
+Telegram channel, the AIOS or AI
+operating system, which is what I'm
+calling this. You'll get access to the
+Ground Zero Telegram channel where I'm
+constantly dropping in my learnings and
+findings that come from my friend group
+here, that come from the workshops I do
+at my accelerator and the community
+there, too. and you'll also get put on
+my newsletter list where you'll get an
+email every single day breaking down
+what happened in that Telegram channel
+direct to your inbox so that you can
+apply it to your business. So, I'd love
+to see you on that webinar. It'll be the
+first link in the description. I really
+want to help like tens of thousands of
+business owners to see and understand
+this stuff and apply it because the
+future is already here. This is it. This
+is how businesses are going to be run in
+the next 2 3 4 years. You can have it
+right now. And I'd love to be able to
+share with you what I'm learning. As you
+can tell, I'm pretty fired up by it. And
+if you are impatient and you want to get
+access right now rather than wait for
+the webinar, you can see if you're a
+good fit for my accelerator program
+where every single day, Monday to
+Friday, I'm doing an hourong workshop
+with my community, showing you what I'm
+learning here, doing live builds, doing
+buildongs, workshops with the community.
+It's community where you can go to be
+around people who are at the tip of the
+spear and pioneering this new future of
+business. And that's all for the video,
+guys. I hope I've been able to convince
+you to at least be open-minded enough to
+consider this because I can tell you,
+you definitely want this outcome, not
+this for your business. If you want to
+watch something else from me to get more
+context on how I plan to automate my
+business and get 60 to 70% of my work
+automated in the next 30 days, you can
+check out this video up here where I do
+a full breakdown. But aside from that,
+guys, hope to see you in the webinar.
+Hope to see you applying this stuff and
+subscribe to the channel for more on
+this because I'm going to be absolutely
+ripping it over the next few months for
+you guys. I'll see you in the next one.

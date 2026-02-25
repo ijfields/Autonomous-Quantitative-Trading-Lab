@@ -1,0 +1,145 @@
+{
+  "strategies": [
+    {
+      "name": "RSI(21) 50% Bounce Trend Following (Pullback to Role Reversal Zone)",
+      "description": "A trend continuation strategy using RSI set to 21 periods combined with support/resistance role reversal and optional Fibonacci confluence. In an established uptrend, wait for price to pull back to a former resistance level now acting as support. Confirm with RSI(21) bouncing off the 50% zone (staying above 50 in an uptrend). Optional additional confluence from Fibonacci 61.8% retracement aligning with the support zone. Enter on a bullish confirmation candle at the support zone. Minimum 2:1 risk/reward. Add to position when price breaks above the prior swing high.",
+      "strategy_type": "trend_following",
+      "trading_style": "day_trade",
+      "instruments": ["any"],
+      "asset_type": "equities_forex_crypto",
+      "timeframes": ["15min"],
+      "entry_signals": [
+        {
+          "indicator": "Established Uptrend Identification",
+          "condition": "Series of higher highs and higher lows confirming a bullish trend structure. Price trading above recent support zones.",
+          "value": "higher highs and higher lows pattern",
+          "timeframe": "15min",
+          "parameters": {
+            "trend_structure": "minimum 2 consecutive higher highs and higher lows",
+            "direction": "bullish for longs (inverse for shorts)"
+          }
+        },
+        {
+          "indicator": "Role Reversal Zone (Former Resistance as Support)",
+          "condition": "Price pulls back to a level that previously acted as resistance but now acts as support. This role reversal confirms the level's significance.",
+          "value": "former resistance level being tested as support",
+          "timeframe": "15min",
+          "parameters": {
+            "zone_type": "horizontal support/resistance from prior swing highs/lows",
+            "role_reversal": "price approaches former resistance from above"
+          }
+        },
+        {
+          "indicator": "RSI(21) 50% Bounce",
+          "condition": "RSI(21) pulls back toward the 50% zone and bounces off it (staying above 50 in an uptrend). This confirms the trend is still intact.",
+          "value": 50,
+          "timeframe": "15min",
+          "parameters": {
+            "rsi_period": 21,
+            "bounce_condition": "RSI approaches 50 from above and turns back up",
+            "invalidation": "RSI breaks below 50 = trend may be reversing"
+          }
+        },
+        {
+          "indicator": "Fibonacci 61.8% Confluence (Optional)",
+          "condition": "Fibonacci 61.8% retracement of the last swing aligns with the support/role reversal zone. This adds confidence but is not required.",
+          "value": 0.618,
+          "timeframe": "15min",
+          "parameters": {
+            "fibonacci_type": "retracement from most recent swing low to swing high",
+            "alignment_tolerance": "Fib level within the S/R zone"
+          }
+        },
+        {
+          "indicator": "Bullish Confirmation Candle",
+          "condition": "A bullish candle closes at or near the support zone, confirming buyers are defending the level. Examples: hammer, bullish engulfing.",
+          "value": "bullish confirmation candle at support",
+          "timeframe": "15min",
+          "parameters": {
+            "candle_types": ["hammer", "bullish_engulfing", "strong_bullish_close"],
+            "entry_timing": "at close of confirmation candle"
+          }
+        }
+      ],
+      "exit_rules": [
+        {
+          "exit_type": "take_profit",
+          "condition": "Minimum 2:1 risk/reward ratio reached. Example: $50 risk target -> $100 profit target.",
+          "value": "2:1 R:R minimum",
+          "parameters": {
+            "calculation": "distance from entry to stop x 2 = minimum profit target"
+          }
+        },
+        {
+          "exit_type": "continuation_add",
+          "condition": "Price breaks above the prior swing high after initial entry. Add a second position for trend continuation.",
+          "value": "prior swing high breakout",
+          "parameters": {
+            "action": "add position on breakout of prior high",
+            "new_stop": "below the breakout level"
+          }
+        },
+        {
+          "exit_type": "stop_loss",
+          "condition": "Price breaks below the confirmation candle and support zone.",
+          "value": "just below the confirmation candle / support zone",
+          "parameters": {
+            "placement": "tight stop below the zone to limit risk"
+          }
+        }
+      ],
+      "risk_management": {
+        "position_size": "not specified",
+        "risk_reward_ratio": "minimum 2:1 (explicitly stated)",
+        "additional_rules": [
+          "If RSI breaks below 50 during pullback, trend may be reversing — consider switching to divergence reversal strategy",
+          "Stack multiple confluences for highest-probability entries: role reversal + RSI bounce + Fibonacci"
+        ]
+      },
+      "filters": {
+        "trend_required": "established uptrend with clear higher highs/higher lows",
+        "rsi_above_50": "RSI must stay above 50 during pullback (trend intact)",
+        "role_reversal": "former resistance must be tested and held as support",
+        "fibonacci_optional": "61.8% retracement alignment adds confidence"
+      },
+      "metadata": {
+        "confidence_level": 0.65,
+        "missing_elements": [
+          "Minimum number of higher highs/higher lows to define 'established uptrend'",
+          "Position sizing rules",
+          "Win rate or backtest data",
+          "Maximum number of continuation positions",
+          "Bearish version details (shorting pullbacks to resistance in downtrend)",
+          "How close RSI must get to 50 to count as a 'bounce'"
+        ],
+        "assumptions": [
+          "Confirmation candle = bullish candle closing above support zone",
+          "Role reversal = former resistance tested and held as support",
+          "Fibonacci drawn from most recent significant swing low to swing high",
+          "15-minute candle close used for entry timing",
+          "Standard hammer/engulfing candle definitions"
+        ],
+        "source_quotes": [
+          "The 50% zone is the most critical level",
+          "Stack multiple confluences — divergence + support/resistance + Fibonacci + RSI 50 bounce",
+          "Use order blocks as targets — they represent levels where institutional buying/selling originated"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "strategy_names": [
+      "RSI(21) 50% Bounce Trend Following (Pullback to Role Reversal Zone)"
+    ],
+    "transcript_quality": "medium",
+    "extraction_notes": "Well-defined conceptual framework with clear entry conditions and minimum R:R requirement. No backtest data provided. The multi-confluence approach (trend + role reversal + RSI bounce + Fibonacci) is thorough but may produce infrequent signals. Strategy 2 of 2 from this video.",
+    "video_title": "The Only 2 RSI Trading Strategies that REALLY Work",
+    "video_id": "69KIET86unE",
+    "channel": "ChartCodes",
+    "primary_asset_class": "Any (demonstrated on unnamed asset, 15-min chart)",
+    "primary_trading_style": "Trend continuation with pullback entry at role reversal zones",
+    "automation_feasibility": "MEDIUM — Trend detection (HH/HL pattern) is well-defined. Role reversal detection (former resistance as support) requires historical swing point tracking. RSI(21) calculation and 50% bounce detection are straightforward. Fibonacci retracement is a standard calculation. The main challenge is programmatically identifying confirmation candles. Adding positions on prior high breakout is a simple condition.",
+    "key_insight": "The RSI(21) 50% bounce acts as a trend health check — if RSI stays above 50 during a pullback, the trend is intact and the pullback is a buying opportunity. If RSI breaks below 50, the trend may be reversing and you should switch to the divergence reversal strategy instead."
+  }
+}

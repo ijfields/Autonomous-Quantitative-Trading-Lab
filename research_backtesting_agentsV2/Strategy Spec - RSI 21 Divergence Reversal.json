@@ -1,0 +1,118 @@
+{
+  "strategies": [
+    {
+      "name": "RSI(21) Divergence Reversal (Bearish/Bullish with S/R Confirmation)",
+      "description": "A mean reversion/reversal strategy using RSI set to 21 periods (not standard 14) combined with price action confirmation. Identifies divergence between price and RSI (price making higher highs while RSI makes lower highs for bearish, inverse for bullish), then waits for price to break through a support/resistance zone AND RSI to cross the 50% level before entering. Targets previous order blocks. The speaker explicitly warns against trading on divergence alone — confirmation via S/R breakout and RSI 50 cross is mandatory.",
+      "strategy_type": "mean_reversion",
+      "trading_style": "day_trade",
+      "instruments": ["any"],
+      "asset_type": "equities_forex_crypto",
+      "timeframes": ["15min"],
+      "entry_signals": [
+        {
+          "indicator": "RSI(21) Divergence Detection",
+          "condition": "Bearish divergence: price makes higher highs while RSI(21) makes lower highs. Bullish divergence: price makes lower lows while RSI(21) makes higher lows.",
+          "value": "divergence detected between price swing extremes and RSI swing extremes",
+          "timeframe": "15min",
+          "parameters": {
+            "rsi_period": 21,
+            "divergence_type": ["bearish", "bullish"],
+            "lookback_swings": "minimum 2 swing points for comparison"
+          }
+        },
+        {
+          "indicator": "Support/Resistance Breakout Confirmation",
+          "condition": "Price breaks below support zone (bearish divergence) OR breaks above resistance zone (bullish divergence). Horizontal zones drawn from recent swing highs and swing lows.",
+          "value": "candle close beyond S/R zone",
+          "timeframe": "15min",
+          "parameters": {
+            "zone_source": "swing highs and swing lows",
+            "break_confirmation": "candle close beyond the zone (not just a wick)"
+          }
+        },
+        {
+          "indicator": "RSI 50% Level Cross",
+          "condition": "RSI(21) breaks below 50 (bearish confirmation) OR breaks above 50 (bullish confirmation). This confirms the regime change.",
+          "value": 50,
+          "timeframe": "15min",
+          "parameters": {
+            "bearish_cross": "RSI crosses below 50",
+            "bullish_cross": "RSI crosses above 50"
+          }
+        }
+      ],
+      "exit_rules": [
+        {
+          "exit_type": "take_profit",
+          "condition": "Price reaches the previous order block — the origin zone of the prior significant move in the opposite direction",
+          "value": "order block level",
+          "parameters": {
+            "target_definition": "origin candle/zone of the last significant directional move",
+            "minimum_rr": "not explicitly stated, but examples show 2:1+"
+          }
+        },
+        {
+          "exit_type": "stop_loss",
+          "condition": "Price moves back beyond the broken S/R zone, invalidating the breakdown/breakout",
+          "value": "slightly beyond the broken S/R zone",
+          "parameters": {
+            "bearish_stop": "slightly above the broken support zone",
+            "bullish_stop": "slightly below the broken resistance zone"
+          }
+        }
+      ],
+      "risk_management": {
+        "position_size": "not specified",
+        "risk_reward_ratio": "minimum 2:1 implied by examples",
+        "additional_rules": [
+          "NEVER enter on divergence alone — always require S/R break + RSI 50 cross",
+          "NEVER buy just because RSI is oversold — market can stay oversold and keep dropping",
+          "Overbought/oversold zones are NOT entry signals by themselves"
+        ]
+      },
+      "filters": {
+        "rsi_50_zone": "above 50 = bullish regime, below 50 = bearish regime — key dividing line",
+        "confirmation_required": "divergence + S/R break + RSI 50 cross — all three required",
+        "overbought_oversold_warning": "do NOT use overbought/oversold as entry signals"
+      },
+      "metadata": {
+        "confidence_level": 0.65,
+        "missing_elements": [
+          "Specific timeframe recommendation (15-min demonstrated but 'any' claimed)",
+          "Position sizing rules",
+          "Win rate or backtest data",
+          "Max concurrent positions",
+          "Handling multiple divergence signals in quick succession",
+          "Specific instruments recommended"
+        ],
+        "assumptions": [
+          "Standard divergence definition (comparing swing extremes of price vs RSI)",
+          "Order blocks = origin candle/zone of significant directional move",
+          "S/R zones from recent swing highs and lows",
+          "Entry at market on confirmed breakdown/breakout"
+        ],
+        "source_quotes": [
+          "I use the RSI on a period of 21, not the standard 14",
+          "The 50% zone is the most important level",
+          "Never buy just because RSI is oversold",
+          "Divergence is a signal, NOT a trigger — requires confirmation"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "strategy_names": [
+      "RSI(21) Divergence Reversal (Bearish/Bullish with S/R Confirmation)"
+    ],
+    "transcript_quality": "medium",
+    "extraction_notes": "Clear conceptual framework with chart examples but no backtest data or performance statistics. RSI period of 21 and emphasis on 50% zone are the key differentiators from standard RSI strategies. Strategy 1 of 2 from this video.",
+    "video_title": "The Only 2 RSI Trading Strategies that REALLY Work",
+    "video_id": "69KIET86unE",
+    "channel": "ChartCodes",
+    "primary_asset_class": "Any (demonstrated on unnamed asset, 15-min chart)",
+    "primary_trading_style": "Mean reversion / reversal with divergence + S/R confirmation",
+    "automation_feasibility": "MEDIUM — RSI(21) calculation is trivial. Divergence detection between price swing points and RSI swing points is moderately complex but well-defined algorithmically. Support/resistance zone detection from swing points is standard. The main challenge is defining order block targets programmatically. RSI 50 cross is a simple condition.",
+    "key_insight": "The 50% RSI level is the critical dividing line between bullish and bearish regimes — more important than overbought/oversold zones. Combined with the non-standard 21-period setting, this creates a slower, more reliable divergence filter than standard RSI(14)."
+  }
+}

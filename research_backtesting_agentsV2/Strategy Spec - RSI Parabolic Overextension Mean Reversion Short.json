@@ -1,0 +1,225 @@
+{
+  "strategies": [
+    {
+      "name": "RSI Parabolic Overextension Mean Reversion Short",
+      "description": "A high-conviction mean reversion short strategy that identifies parabolic blow-off tops by using custom-tuned RSI(20) with an 80 overbought threshold across multiple timeframes (daily, 130-minute, 30-minute). When all timeframes align as overbought simultaneously, with 3+ consecutive up days and a gap-up into the trade day, the trader shorts the opening range breakdown to capture the violent snapback. This is SMB Capital's most profitable desk playbook, producing millions in P&L annually, but it is rare -- yielding only 1-2 A+ setups per quarter. The key insight is measuring acceleration (parabolic slope increase), not just extension, via multi-timeframe RSI convergence.",
+      "strategy_type": "mean_reversion",
+      "trading_style": "day_trade",
+      "instruments": [
+        "SLV",
+        "GLD",
+        "MSTR",
+        "SMCI",
+        "BYND",
+        "Any stock/ETF/commodity exhibiting parabolic blow-off dynamics"
+      ],
+      "asset_type": "stock",
+      "timeframes": [
+        "daily",
+        "130-minute",
+        "30-minute",
+        "weekly (optional confirmation)"
+      ],
+      "entry_signals": [
+        {
+          "signal_name": "Daily RSI(20) Overbought",
+          "description": "RSI with a 20-period lookback exceeds the 80 threshold on the daily chart, confirming the instrument is overextended on the higher timeframe. Standard RSI default of 14-period / 70-threshold is explicitly rejected as producing too much noise.",
+          "indicator": "RSI",
+          "parameters": {
+            "period": 20,
+            "overbought_threshold": 80,
+            "timeframe": "daily"
+          },
+          "condition": "RSI(20, daily) > 80",
+          "action": "Context confirmation: daily overextension confirmed",
+          "lumibot_note": "Use self.get_historical_prices(asset, 30, 'day') to compute RSI(20) on daily bars. NEVER use self.get_data() or self.register_data()."
+        },
+        {
+          "signal_name": "Intermediate RSI(20) Overbought (130-minute)",
+          "description": "RSI(20) exceeds 80 on the 130-minute (or hourly) chart, confirming intermediate-term acceleration. This shorter timeframe being overbought simultaneously with the daily proves the move is accelerating, not just extended.",
+          "indicator": "RSI",
+          "parameters": {
+            "period": 20,
+            "overbought_threshold": 80,
+            "timeframe": "130-minute"
+          },
+          "condition": "RSI(20, 130min) > 80",
+          "action": "Context confirmation: intermediate acceleration confirmed",
+          "lumibot_note": "Use self.get_historical_prices(asset, 50, '130min') or equivalent. If 130-min bars unavailable, use 60-min or 65-min as proxy."
+        },
+        {
+          "signal_name": "Short-Term RSI(20) Overbought (30-minute)",
+          "description": "RSI(20) exceeds 80 on the 30-minute chart, confirming short-term parabolic behavior. All three timeframes being overbought simultaneously is the 'screaming' signal that the move is ready to reverse.",
+          "indicator": "RSI",
+          "parameters": {
+            "period": 20,
+            "overbought_threshold": 80,
+            "timeframe": "30-minute"
+          },
+          "condition": "RSI(20, 30min) > 80",
+          "action": "Context confirmation: short-term parabolic behavior confirmed. All timeframes aligned.",
+          "lumibot_note": "Use self.get_historical_prices(asset, 50, '30min') to compute RSI(20) on 30-min bars."
+        },
+        {
+          "signal_name": "Consecutive Days Up Filter",
+          "description": "The instrument has closed higher for 3 or more consecutive trading days, indicating sustained buying pressure reaching exhaustion.",
+          "indicator": "Price action",
+          "parameters": {
+            "minimum_consecutive_up_days": 3
+          },
+          "condition": "close[t] > close[t-1] for at least 3 consecutive days",
+          "action": "Filter confirmation: sustained directional momentum confirmed"
+        },
+        {
+          "signal_name": "Gap-Up Into Trade Day",
+          "description": "The trade day opens with a gap up above the prior session's close. This final burst of euphoria is a critical filter -- the model is expected to perform significantly better on gap-up days than flat-gap days.",
+          "indicator": "Price action",
+          "parameters": {
+            "gap_direction": "up"
+          },
+          "condition": "open[today] > close[yesterday]",
+          "action": "Filter confirmation: euphoric gap-up into potential blow-off day"
+        },
+        {
+          "signal_name": "Opening Range Breakdown Entry Trigger",
+          "description": "After all contextual signals align, the actual short entry is triggered when price breaks below the opening range low (first 5-15 minutes). This is a specific intraday entry pattern the desk calls a 'U-turn setup'.",
+          "indicator": "Opening range",
+          "parameters": {
+            "opening_range_period_minutes": "5-15",
+            "direction": "breakdown"
+          },
+          "condition": "price < opening_range_low",
+          "action": "SELL SHORT at or below the opening range low"
+        },
+        {
+          "signal_name": "Weekly RSI(20) Overbought (Optional A+ Confirmation)",
+          "description": "RSI(20) exceeds 80 on the weekly chart as well. This is an additional check in favor that elevates the setup to the highest conviction level.",
+          "indicator": "RSI",
+          "parameters": {
+            "period": 20,
+            "overbought_threshold": 80,
+            "timeframe": "weekly"
+          },
+          "condition": "RSI(20, weekly) > 80",
+          "action": "Optional A+ confirmation: weekly alignment adds highest conviction"
+        },
+        {
+          "signal_name": "ATRs from 5-Day Low (Supplementary)",
+          "description": "Measures how many ATRs price has traveled from its recent 5-day low. This quantifies the magnitude of the extension and was proposed by Tim Belden as a key variable for a quant model of this strategy.",
+          "indicator": "ATR",
+          "parameters": {
+            "atr_period": 14,
+            "reference": "5-day low"
+          },
+          "condition": "(close - lowest_low_5d) / ATR(14) > extreme_threshold",
+          "action": "Supplementary overextension confirmation"
+        }
+      ],
+      "exit_rules": [
+        {
+          "rule_name": "Stop Loss Above Opening Range / Session High",
+          "type": "stop_loss",
+          "description": "Place stop loss above the opening range high or the session high. If price reclaims the opening range and makes new highs, the trade is invalidated.",
+          "condition": "price > opening_range_high OR price > session_high",
+          "action": "Cover short immediately. Never overstay in blow-off trades that fail to reverse."
+        },
+        {
+          "rule_name": "Invalidation Exit on Reclaim",
+          "type": "stop_loss",
+          "description": "If price breaks back above the opening range after initially breaking down, exit immediately. Blow-offs that fail to reverse will squeeze shorts violently.",
+          "condition": "price reclaims opening_range_high after triggering entry",
+          "action": "Cover short immediately. Do not wait or hope."
+        },
+        {
+          "rule_name": "Mean Reversion Profit Target",
+          "type": "take_profit",
+          "description": "Take profits as price reverts toward the nearest key moving average or prior consolidation zone. The 'meat on the bone' is the gap between the parabolic price and these mean levels.",
+          "condition": "price approaches key moving average OR prior consolidation zone",
+          "action": "Cover short (partial or full) at mean reversion target"
+        },
+        {
+          "rule_name": "End of Day Close (Day Trade Bias)",
+          "type": "time_based",
+          "description": "For commodities and instruments with strong fundamental drivers (metals, etc.), close the position by end of session. The desk treats these as day trades, not swing trades, because the underlying macro trend may resume. Swinging overnight is only considered for fundamentally overvalued names (e.g., zero-revenue meme stocks).",
+          "condition": "market_close approaching AND instrument has fundamental macro drivers",
+          "action": "Cover short before session close"
+        },
+        {
+          "rule_name": "Swing Hold Exception (Fundamentally Overvalued)",
+          "type": "indicator_signal",
+          "description": "For instruments that are fundamentally overvalued (no revenue, no real business catalyst like Beyond Meat), the short can be held as a swing trade because the price dislocation from fair value provides additional edge beyond the technical mean reversion.",
+          "condition": "instrument is fundamentally overvalued AND technical short thesis intact",
+          "action": "May hold short overnight as swing trade with adjusted stops"
+        }
+      ],
+      "risk_management": {
+        "position_sizing_method": "grade_based_tiered",
+        "sizing_tiers": {
+          "A_plus": "Full size -- all checks confirmed (all timeframe RSIs aligned, gap up, consecutive days up, opening range breakdown triggered)",
+          "B_grade": "Half size -- most checks confirmed but not all (e.g., RSI aligned on 2 of 3 timeframes, or some price action checks missing)",
+          "speculative_stab": "Minimal size -- early signal, used as a probe trade before the actual top occurs"
+        },
+        "stop_loss": "Above opening range high or session high",
+        "front_side_discipline": "May take 1-2 small probe trades before the actual top. Keep these small. Accept small losses as cost of not missing the big move.",
+        "never_overstay_rule": "If the trade invalidates and price reclaims, exit immediately. Blow-off tops that fail to reverse create violent short squeezes.",
+        "trade_frequency_discipline": "Only 1-2 A+ opportunities per quarter. If trading this setup weekly, the quality bar is too low. Go back and review playbook.",
+        "max_loss_per_trade": "Not explicitly specified. Implied as opening range high minus entry price.",
+        "notes": "Risk allocation is the single most important aspect of execution. The desk constantly recalibrates the 'grade' of the setup to determine how much risk to allocate. Being patient on the front side and controlling risk during early stabs is critical to long-term profitability."
+      },
+      "filters": {
+        "acceleration_not_just_extension": "The move must be accelerating (slope of price increasing), not just trending linearly higher. A stock grinding higher in a straight line is price-accepting and has no edge for shorting. The parabolic curve is the required characteristic.",
+        "multi_timeframe_rsi_convergence": "All timeframes (daily + 130-min + 30-min, optionally weekly) must show RSI(20) > 80 simultaneously. A single timeframe being overbought is a different and weaker setup.",
+        "outlier_situation_required": "This strategy targets outlier, extraordinary extensions -- not normal overbought stocks. The custom RSI settings (20-period, 80 threshold) are designed to only fire on extreme situations.",
+        "commodity_patience_adjustment": "Commodities (metals, energy) tend to extend further than stocks due to fundamental macro drivers (central bank buying, supply squeezes). Adjust patience and do not assume the top is in as quickly as with stock blow-offs.",
+        "keltner_channel_check": "Supplementary: check how many ATRs above a moving average the price sits, using Keltner Channels. Compare to historical blow-off examples in the same instrument or sector.",
+        "gap_up_filter": "Require a gap-up into the trade day. The model performs significantly better on gap-up days. Flat or gap-down opens are not the same setup."
+      },
+      "metadata": {
+        "confidence_level": "high",
+        "missing_elements": [
+          "Exact opening range period not specified (described as first 5-15 minutes; exact bar count unclear)",
+          "Specific ATR-from-5-day-low threshold value not provided (described qualitatively as 'extreme')",
+          "Keltner Channel multiplier and moving average length not specified",
+          "Exact profit target levels (how many ATRs back toward mean, or which specific moving average) not provided",
+          "No explicit max loss or dollar stop defined; only structural stop (above opening range/session high)",
+          "Position sizing as percent of portfolio not quantified; only described qualitatively (full/half/minimal)",
+          "The 130-minute timeframe may not be available on all platforms; 60-min or 65-min proxy suitability not validated",
+          "No backtest results provided; strategy described purely from discretionary desk experience",
+          "Options execution details (0-DTE puts, overnight calls) mentioned but not systematized for automation"
+        ],
+        "assumptions": [
+          "RSI(20) at 80 threshold is effective across different asset classes (stocks, ETFs, commodities)",
+          "The 130-minute timeframe is a reasonable intermediate between daily and 30-minute for measuring acceleration",
+          "Opening range breakdown is the optimal mechanical entry point for this discretionary setup",
+          "Multi-timeframe RSI convergence is a reliable proxy for parabolic acceleration",
+          "The strategy is primarily a day trade; swing holding is the exception, not the rule",
+          "3+ consecutive up days is the correct minimum for the sustained momentum filter",
+          "Historical examples (SLV, GLD, MSTR, SMCI) are representative of future opportunities",
+          "Lumibot can access intraday bar data at 30-min and 130-min (or 60-min proxy) granularity"
+        ],
+        "source_quotes": [
+          "No other setup has made more money on the desk than this strategy.",
+          "I'm changing the length or the period from 14 to 20. I want it to be longer. And I like to change the thresholds to 80 and 20. And that just requires it to be more overbought for me to get that signal.",
+          "We don't want it just to be up a lot. We want to see it start to accelerate.",
+          "Those default settings are for normal stocks. They're for stocks that are behaving like normal children. And we are looking for a devious child that's going to get kicked out of the kindergarten class.",
+          "You might get one or two a quarter. But when you break down your P&L at the end of the quarter, you realize, yeah, a huge percent of it came from a trade like this because it's so powerful.",
+          "So once we had all of those aligned, you have a really strong contextual signal.",
+          "What we really want to see is not only something that has high velocity, but high acceleration. We want to see the parabolic nature of that price path increase.",
+          "The shorter time frames are what are telling us about that acceleration. So the daily chart is telling us that it's up a lot. And then if it's also up a lot on the 130 minute chart and the 30, that means it's accelerating.",
+          "I would start with ATRs from the five-day low and I would use RSI as a green light metric and I would use consecutive days up.",
+          "You would require a gap up into the day we're looking for a trade. I think the model would perform better than if you were trying it on flat gaps.",
+          "I think you have to have it on multiple time frames. That's how we trade these.",
+          "You can try it, take your stab, but if it invalidates your trade and reclaims, you want to be getting out because these type of blowoffs are what you would stay in if you tried to just hold it and be stubborn.",
+          "We're always recalibrating the grade of the trade in our head so we can figure out how much risk to put on.",
+          "These commodities can go on a lot further than we think.",
+          "It's a very different thing when it comes to commodities... there is some reason behind the move."
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "transcript_quality": "high",
+    "extraction_notes": "The entire 25-minute podcast is a deep dive into a single strategy: the RSI Parabolic Overextension Mean Reversion Short. No additional distinct strategies are described. The presenters (Garrett Dryen and Tim Belden of SMB Capital) provide extensive context on their custom RSI settings (period 20, threshold 80), multi-timeframe alignment methodology (daily + 130-min + 30-min + optional weekly), and specific historical trade examples (SLV Christmas week, GLD October, MSTR, SMCI). They also propose a quant model design near the end (ATRs from 5-day low + RSI multi-timeframe + consecutive days up + gap-up filter + opening range breakdown entry). The strategy is discretionary at its core, but the presenters provide enough quantifiable parameters for automation. Key risk: the strategy relies heavily on subjective 'acceleration' assessment that the custom RSI settings attempt to objectify. Options execution (0-DTE puts, overnight calls purchased on the front side) is mentioned for the SLV and SMCI examples but is not systematized -- the core strategy is stock/ETF short via opening range breakdown. Lumibot implementation should use self.get_historical_prices(asset, length, timeframe) for all data retrieval."
+  }
+}

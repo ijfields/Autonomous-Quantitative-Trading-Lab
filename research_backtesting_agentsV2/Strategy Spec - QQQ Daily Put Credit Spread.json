@@ -1,0 +1,129 @@
+{
+  "strategies": [
+    {
+      "name": "QQQ Daily Put Credit Spread (80%+ Probability of Profit)",
+      "description": "A simple daily options income strategy selling $1-wide put credit spreads on QQQ at strikes with 80%+ probability of profit. Select a short-dated expiration, sell a put below current price at the 80%+ probability level, buy protective put $1 below. Scale contracts to reach daily income target. No technical analysis or directional bias used — purely probability-based strike selection. The strategy is extremely simplified and missing critical risk management details.",
+      "strategy_type": "options_premium_selling",
+      "trading_style": "day_trade",
+      "instruments": ["QQQ"],
+      "asset_type": "etf_options",
+      "timeframes": ["0DTE", "1DTE"],
+      "entry_signals": [
+        {
+          "indicator": "Probability of Profit Filter",
+          "condition": "Select a put strike with 80%+ probability of profit as displayed on the brokerage options chain. This corresponds to approximately 15-20 delta.",
+          "value": ">=80% probability of profit",
+          "timeframe": "0-1 DTE",
+          "parameters": {
+            "probability_threshold": 0.80,
+            "approximate_delta": "0.15-0.20",
+            "direction": "sell put (bullish bias)"
+          }
+        },
+        {
+          "indicator": "Spread Construction",
+          "condition": "Sell the selected put strike, buy a put $1 below for protection. This creates a 1-point wide bull put spread.",
+          "value": "$1 wide put credit spread",
+          "timeframe": "0-1 DTE",
+          "parameters": {
+            "spread_width": 1,
+            "short_leg": "put at 80%+ probability strike",
+            "long_leg": "put $1 below short leg",
+            "example": "sell 481 put / buy 480 put when QQQ above 481"
+          }
+        },
+        {
+          "indicator": "Contract Scaling",
+          "condition": "Scale the number of contracts to hit your daily income target.",
+          "value": "variable based on income target",
+          "timeframe": "0-1 DTE",
+          "parameters": {
+            "example": "6 contracts = ~$101 credit",
+            "credit_per_contract": "~$0.17/share (~$17/contract) in the example",
+            "scaling_method": "target income / credit per contract = number of contracts"
+          }
+        }
+      ],
+      "exit_rules": [
+        {
+          "exit_type": "expiration",
+          "condition": "Let both puts expire worthless if QQQ stays above the sold strike at expiration. Max profit is the total credit received.",
+          "value": "hold to expiration",
+          "parameters": {
+            "max_profit": "total credit received",
+            "condition": "QQQ closes above short put strike"
+          }
+        },
+        {
+          "exit_type": "stop_loss",
+          "condition": "NOT SPECIFIED — this is a critical gap in the strategy as presented",
+          "value": "none given",
+          "parameters": {
+            "warning": "no stop-loss or management rules provided for losing trades",
+            "max_possible_loss": "$1 spread width - credit received, per contract"
+          }
+        }
+      ],
+      "risk_management": {
+        "position_size": "scale contracts to daily income target (example: 6 contracts for ~$100)",
+        "spread_width": "$1 (1-point wide)",
+        "max_loss_per_contract": "$100 minus credit received (~$83 in example)",
+        "max_profit_per_contract": "credit received (~$17 in example)",
+        "risk_reward_ratio": "approximately 1:5 unfavorable (risk $83 to make $17 per contract) — mitigated by 80%+ win rate",
+        "additional_rules": [
+          "CRITICAL: No stop-loss rules provided — must be added before live trading",
+          "No daily loss limit specified",
+          "No market condition filters provided"
+        ]
+      },
+      "filters": {
+        "probability_minimum": "80%+ probability of profit on options chain",
+        "no_technical_filters": "purely probability-based — no chart analysis, VIX filter, or trend filter",
+        "instrument": "QQQ options only"
+      },
+      "metadata": {
+        "confidence_level": 0.50,
+        "missing_elements": [
+          "Stop-loss rules (CRITICAL — no guidance on managing losing trades)",
+          "DTE selection criteria (same-day vs next-day vs longer)",
+          "Market condition filters (VIX, earnings, trending/ranging)",
+          "Max daily loss cap",
+          "Position sizing relative to account size",
+          "Time of day for entry",
+          "What to do when QQQ gaps through the strike",
+          "Any technical analysis or directional bias",
+          "Management of trades that are ITM before expiration"
+        ],
+        "assumptions": [
+          "80% probability of profit is a reasonable minimum",
+          "$1-wide spreads provide defined risk",
+          "Brokerage displays probability of profit on options chain",
+          "Trader monitors and can exit if needed",
+          "Strategy repeated daily for income generation",
+          "Delta ~0.15-0.20 approximates 80%+ probability of profit"
+        ],
+        "source_quotes": [
+          "Go on QQQ, pick whatever strike date you want",
+          "Find a put with over 80% probability of profit",
+          "Sell that put, and then buy one $1 below",
+          "Scale it to 6 contracts and you've got $101"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "strategy_names": [
+      "QQQ Daily Put Credit Spread (80%+ Probability of Profit)"
+    ],
+    "transcript_quality": "low",
+    "extraction_notes": "Extremely simplified 55-second YouTube Short. Only covers basic spread construction. Missing ALL risk management (no stop-loss, no daily max loss, no market filters). The strategy has an unfavorable risk/reward per trade (~1:5) that relies entirely on high win rate. Must add significant risk management before any implementation. Low confidence due to missing critical details.",
+    "video_title": "How To Grow $100 Daily Trading QQQ",
+    "video_id": "mZJl6mYDf1w",
+    "channel": "Investment Gains",
+    "primary_asset_class": "ETF Options (QQQ)",
+    "primary_trading_style": "Daily options income via put credit spread selling",
+    "automation_feasibility": "HIGH — Strike selection by probability/delta is a standard options chain query. Spread construction ($1 wide) is trivial. Contract scaling is arithmetic. The main implementation challenge is that the strategy lacks stop-loss rules — must be designed before automation. Consider adding: VIX filter, time-of-day entry window, and max loss exit at 2x credit received.",
+    "key_insight": "Put credit spreads on QQQ can generate consistent small daily income if the 80% probability threshold is maintained. However, the 1:5 risk/reward means a single losing trade wipes out approximately 5 winning trades — making risk management (which is entirely absent from this video) the most critical factor for long-term profitability."
+  }
+}

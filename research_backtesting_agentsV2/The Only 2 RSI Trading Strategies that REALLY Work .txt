@@ -1,0 +1,181 @@
+The RSI technical indicator doesn't work
+on a 14 period setting. If you use the
+overbought and oversold zones, that
+doesn't work either. How can you really
+take advantage of this technical
+indicator the right way? Stay tuned
+until the end of this video because I'm
+going to reveal the RSI settings that
+actually work. I'm also going to share
+my two best trading strategies that use
+only the RSI and price action. So, how
+do we interpret the RSI? As you can see,
+there are several zones on the RSI,
+starting with the green oversold zone.
+That simply means the market has been
+heavily sold. We'll see more about that
+later. It doesn't mean you should buy.
+On the other hand, there's the
+overbought zone shown in red. And as you
+might guess, that means prices have gone
+up a lot. And it's something you should
+take into account in your trading
+strategy. The most important zone is the
+50% area marked in yellow. Overall, when
+the market is bullish, the RSI will be
+above the 50% zone. Once the market
+turns around and changes trend right
+here, you can see on the RSI that the
+market will drop below the 50% zone and
+stay below it as long as the market
+remains bearish. The biggest mistake
+beginner traders make is thinking that
+just because the market is approaching
+or entering the oversold zone. It's a
+buy signal. This is completely false.
+Sure, the market is bearish. Sure, the
+market has dropped a lot. That doesn't
+mean it's going to go back up just
+because the RSI is in the 30% zone. Look
+at what happens next. You got a tiny
+bounce, but overall the market stays
+very bearish. Here you lose money if you
+buy. Second example here. As you can
+see, the market has entered the oversold
+zone. Is that a buy signal? I don't
+think so. And look at what happens next.
+The market just hesitates a bit and then
+continues its downward trend. So here,
+by using the strategy of buying when the
+market enters the 30% RSI zone, you lose
+twice in a row. Of course, sometimes it
+will work. I'm not saying otherwise. But
+now I'm going to show you the best way
+to use the RSI to get a much higher
+success rate. But first, let me share
+with you the settings I personally use.
+As you can see, the RSI isn't set to
+seven periods. It's not set to 14
+periods. It's set to 21 periods. Because
+with 21 periods, the RSI gives far fewer
+false signals than with 14 periods. I've
+been able to observe this over the years
+I've spent in the financial markets.
+Now, I'm going to share with you a very
+effective first strategy using only the
+RSI and price action. As you can see on
+the left, the market is bullish. What
+we're going to try to spot are
+divergences between what the chart is
+telling us and what the RSI is telling
+us. You can see here that the market is
+reaching a top. The highs of these
+candlesticks are slightly bullish or
+even flat. But on the RSI, as you can
+see at the bottom, the market is going
+down. The highs are getting lower and
+lower. So, we have an indicator showing
+us a price that's going down and a
+candlestick chart showing us a price
+that's slightly rising or flat. This is
+what we call a divergence. And as
+traders, we can take advantage of this
+divergence. For example, here what you
+should have done is once you've spotted
+this bearish divergence, wait for the
+market to give you confirmation signals
+of this divergence. The confirmation
+signals are very simple. We're going to
+look at price action and the breakouts
+of price zones. You can see that in
+addition to having a chart pattern
+indicating a trend reversal, we also
+have the price re-entering this price
+zone. There was a resistance then a
+support after the breakout here. And you
+can see here the price breaks down below
+the support. So it becomes a resistance
+again. We have a re-entry of the price.
+You can also see that on top of that we
+have a break below the 50% zone on the
+RSI. And if you listen to what I said at
+the beginning of the video, you know
+that when the market breaks below the 50
+zone on the RSI, it means it's going to
+turn bearish at least for a while. So
+you have a trade entry here and for the
+target you're aiming for the previous
+price zone. The target is never set
+randomly. You can see that the previous
+price zone of the market, the order
+block is right here. This was the
+starting point of the bullish move here.
+And we consider that if the market
+re-enters this price zone, it's to
+revisit the previous prices of the order
+block. So, you have a trade with an
+excellent riskreward ratio. You can set
+your stop-loss slightly above the zone
+and with just a little patience, the
+market will hit your target. The second
+strategy is a trend following and
+momentum strategy. We're looking at the
+Euro Dollar and we're going to focus on
+this very interesting market face. You
+can see here a huge bullish candle that
+gives a direct buy signal. But as a
+responsible and professional trader, you
+don't buy at the close of this 15-minute
+candle. You wait for a better entry
+price. Why not wait for a retest of the
+price zone like what's about to happen
+here? You can see that the market comes
+back and bounces precisely on the former
+resistance, which now becomes a support.
+Here the market confirms that the
+uptrend is taking shape and that this
+price zone is now a support. The trade
+here is very straightforward to take
+with this bullish confirmation candle on
+the support. And on the RSI, what will
+also reinforce our bullish scenario is
+that as you can see the market will
+correct and bounce almost exactly at the
+50% zone of the RSI. So you have the
+market showing you through price action
+that an upward move is now to be
+expected and you have the RSI confirming
+this. So you have a convergence of
+trading signals. The more signals you
+accumulate in the direction of your
+scenario, the more confident you can be
+in your buy. We can also have some fun
+by placing a Fibonacci from the start of
+the move up to the top of the first
+volatile movement here. And you can see
+that the market is going to bounce right
+on the 61.8%
+Fibonacci retracement. That's a huge
+support level. So, you have a lot of
+signals pointing in the same direction.
+You can take this by with peace of mind.
+Here, you enter at the close of the
+15-minute confirmation candle. You set
+the stop loss just below the
+confirmation candle in the price zone,
+which helps protect against a false
+bullish breakout. It's recommended to
+have at least a 2:1 riskreward ratio.
+So, if you're risking $50 on your
+stop-loss, it's to make at least $100 on
+your first target. Then with a bit of
+patience, you see the market will keep
+going up. When this high is broken here,
+you have a new buying point. You can see
+how powerful it is to use bounces off
+the 50% zone. You can see how powerful
+it is to use bounces. It really gives
+you very precise entry points, really
+nice confirmations for a trader. Thank
+you all for your attention and I'll see
+you next time.

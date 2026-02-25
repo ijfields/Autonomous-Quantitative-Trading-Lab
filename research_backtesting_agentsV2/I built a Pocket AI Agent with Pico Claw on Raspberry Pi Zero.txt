@@ -1,0 +1,460 @@
+All right, before we get a little bit of
+a public service announcement, more than
+likely, if you're looking into this, you
+have a computer background, IT
+background, and you understand what
+OpenClaw is because what it is is an
+extreme security vulnerability and a
+huge danger just waiting to be set off.
+I suggest you not do it. But if you
+must, well, be very careful. All right,
+that's all I'm going to say. It's at
+your own risk. Don't hold me responsible
+if something catastrophic happens. The
+beauty of OpenClaw is it is pretty
+simple. I'm not taking away from the
+genius that is Peter Steinberger, the
+eventual sellout and sold his soul to
+Sam Alman type guy that founded and
+created Open Claw. But at the end of the
+day, it's really just a rapper and a
+bunch of plumbing or piping that's going
+to go out to the intelligence your model
+via an API typically or or you know
+plugging in your API key and and
+connecting it. Well, it's not really
+anything that's like rocket science, for
+example. And before he did kind of slit
+his finger and dip his pen in that and
+sign away his life and soul to open AI,
+well, he at least open sourced it, which
+means a lot of us could get the source
+code and a lot of other developers are
+now making branches and forks off of it
+that are pretty incredible and doing
+some really neat things. And one of
+those projects is actually by a hardware
+company by the name of Pico Claw. Now
+Picoclaw in its own words is an ultra
+lightweight personal AI assistant.
+Memory usage under 10 MB. Starts in
+under one second. Supports
+multiarchchitectural deployment from $10
+hardware to high performance servers. AI
+is in reach. So now we're looking at
+this 10 MB which is pretty incredible
+which means we can start using single
+board computers. And today I'm going to
+walk through this. First, we're going to
+intro it, but I'm going to put it on a
+Raspberry Pi 2W and we're going to see
+if we can get this running. Now, if we
+scroll down below here, just how it
+stacks up to the original OpenClaw and
+then to some other forks. So, Open Claw
+is going to use over 100 MB of memory.
+Same thing with Nanobot. Now, Nanobot
+was one of the first attempts to make a
+fork that's going to make this code a
+bit more efficient and smaller so that
+it can run on, let's call it, lesser
+than hardware than what OpenClaw
+requires. Now, even though they did
+that, they really didn't achieve, in my
+opinion, too much. It made it a little
+bit more efficient, but not a whole lot.
+But along comes Pico Claw. Now, Pico
+Claw, if you can see this, runs on less
+than 10 MB memory. So, that's quite
+amazing. and it opens it up to what I'm
+going to be calling like edgeclaw, which
+means we can use very small single board
+computers with a Wi-Fi chip and be able
+to put on things like in a Raspberry Pi
+Pi's case, we can put on things like
+hats, which means we can make it battery
+powered. We can put solar because it has
+GPIO pins. We can put sensors off it.
+Has the ability to hook up a camera. Do
+you see where I'm going with this? On
+the edge, it does have a one-click
+install. You're just going to go out.
+You're going to make sure gets
+installed. You're going to clone the
+repository. It's going to make a
+directory here called Picoclaw. And then
+it's going to run this pico claw on
+boarding. Now, I've already walked
+through this and I did run into some
+troubles, especially on the Raspberry
+Pi. We'll get into that after we look at
+the GitHub. Now, if we take a look at
+the GitHub repository, it's going to
+give you a lot more information. But I
+think one of the cool things it says
+here, and I think it's pretty cheeky, it
+says run on $10 hardware with 10 MB RAM.
+That's 99% less memory than OpenClaw and
+98% cheaper than a Mac Mini. Now, they
+are a hardware company, as I mentioned.
+I don't know them. I'm not affiliated
+with any of this. Uh, it is Scipede
+and they have these little devices. This
+one's 990. They have a couple other
+ones, some with Wi-Fi. They also have
+like KVM switch. Imagine like a KVM
+switch with Open Claw on it, just to
+give you an idea. So, you could go there
+and get some of their hardware even for
+$10. So, well, I love this because it's
+now approachable. I'm all about making
+devices and technology approachable. For
+10 bucks, you're going to have, albeit a
+lighter version, but you can still
+experience OpenClaw by using Pico Claw.
+The other thing that's really cool, and
+I'm seeing a lot of people do this, is
+you can put it on a phone. So, if you
+have an old Android phone laying around,
+for example, you're going to be able to
+deploy it. So, take a look at it here if
+you're interested in that. But, as I
+mentioned, we're going to be putting it
+putting this version on my personal
+Pi02W and see if we can get it to work.
+Now, this is where I ran into a little
+bit of trouble earlier. I also tried to
+find uh follow this uh install as well.
+Um, but uh I'll tell you what I ended up
+doing because it was a just a little bit
+different than this. Uh, so we'll get
+into that. But if you have a regular
+Linux DRO, you're putting it on a PC or
+whatever, it's not a Raspberry Pi, uh,
+you can more than likely follow this or
+that one-click install that we saw over
+here. And it's not a one-click, it's
+just a oneliner. Okay. Uh, so if we
+scroll down here, it also has the
+ability to include it in a Docker
+container. Now, that's really important
+because while this thing does sandbox
+itself out of the gate by putting it
+into its own folder system, there still
+is some things that can happen. So,
+maybe even further isolating it inside
+of a Docker container might be a good
+way to go. So, here's information on
+that as well. If we scroll down here,
+one of the things about this Pico
+onboard, when I ran through it, I was
+expecting more of like an onboarding
+like we have with Open Claw where, you
+know, it really is just walks you
+through it. you cut and paste your API
+keys and everything else. That wasn't my
+experience. I actually had to go into
+this file right here to edit it. And
+when you edit this, you can go ahead and
+you can select your models. Uh you can
+set up like your Brave API search key if
+you're looking to search the web. Highly
+recommend using Brave API. It's like
+2,000 calls a day and it's free. Now, it
+does say it has all this integration
+points here. Now, I will say really
+quickly that I couldn't get anything to
+work except Open Router. So, Anthropic I
+I I take that back. back. I didn't try
+anything other than OpenAI, U, Open
+Router, and Miniax. And Miniax is not on
+here, but they've recently announced the
+support of it. And the only way I could
+get anything to work was going through
+Open Router. Now, Open Router is a
+service that again, it's kind of like
+Oama now where they have a cloud service
+where you can then connect to other
+models. So, through Open Router, I was
+able to connect to Miniax, but directly
+through Miniax, I wasn't I was not able
+to get Open API running uh Open AI,
+sorry. And Anthropic is just a risk
+factor because if you don't know
+Anthropic, the overlords over there are
+super greedy and they're pretty much
+cutting off one by one and even banning
+people for using third-party
+applications like this. I mean, I get
+it. Look, this is an open- source
+solution that's better than their
+cowork. Uh, and they tried to sue the
+creator multiple times. Uh, so yeah, I
+won't you can look that up. So, it also
+has chat integration. So, it still has
+Telegram and Discord. in some other
+versions. Remember, this is Chinese. So,
+some of these might not be um like WCOM.
+You might know not know what that is
+unless you're Chinese, but I'm going to
+be using Telegram in the future. So,
+they also have their own social network
+cloud chat. Similar thing to probably
+trying to, you know, clout chase a
+little bit for uh Maltbook. Uh we
+mentioned this is where the
+configuration file, again, if you're
+going to be setting up stuff, you're
+going to want to familiarize yourself
+where this is. And inside of here,
+you're going to see inside of the
+workspace, it's going to create a folder
+or a workspace and it's going to be
+contained inside there. You're going to
+see basically what makes this all work.
+The big thing now is moving to MD files.
+You put all your memories in there. I'm
+not going to go in deep in depth about
+that because this is Pico Claw. Um, and
+if you're interested, just go ahead and
+research. There's tons of people doing
+stuff on this right now. Uh, but I
+haven't seen anyone really talk about
+Pico Claw yet. And and again, I'm
+excited because yeah, I still have the
+same familiarity, the same structure. Uh
+but it's going to be on a small device
+that I can power with a battery or slip
+into my pocket. I mean, if we have it's
+right here, actually, if we take a look
+at this, um this is not actually not the
+two. This is a one, but it's the same
+footprint. Imagine this, right? So, this
+goes in your pocket. You connect it to
+your cell phone, you have a battery,
+maybe you connect it in via USB. There's
+also kits that you can make a USB stick
+out of this. So you can put put it into
+maybe a server that's not even online
+and run against it. Kind of like using
+that as a rag. So there this little
+device can run it which is amazing. And
+yeah, these are more expensive.
+Raspberry Pi, don't get me started on
+that. Uh but this this company here also
+offers some hardware if you're
+interested. And then you can look up.
+But pretty much anything that runs
+Linux, you're going to be able to run
+this. So, uh, now that we've looked at
+all this, let's go ahead and start
+putting it on my Pi02W
+and see what that process looks like.
+All right, on my screen right now on the
+right, I just have a terminal. I'm
+connected via SSH into my Raspberry Pi.
+On the left is just some notes for me.
+But first and foremost, you need to make
+sure you have two things installed. You
+need to make sure you have get installed
+and then lastly, go. If you don't have
+those things installed, I'll have some
+links down below as well as all these
+other commands on the lefth hand side.
+This is just my notepad so that I can
+follow along as well. First thing we
+need to do is issue this wget and copy
+this first line. That's going to go out
+and grab the repository for us. Now,
+this is very important because this one
+is exclusive to ARM 64. So, there is a
+release uh link inside of the GitHub and
+there you'll find any releases that
+might be a little bit off. So, uh, if
+you are using a Raspberry Pi, no, you
+have to use this link. But if you're not
+using a LA Raspberry Pi, you might have
+to use another link. So, once we do that
+and hit enter, that's going to go out
+and pull that down. Now, the next
+command we need to uh enter is right
+here. We're just tar, which means we are
+going to unpack and unarchive it. Once
+we do that, you'll see here it says
+license readme, read me, read me, and
+pico claw. So, I don't know if you
+really need to do this. I just changed
+some of the security here to make sure
+it would work and I don't want to change
+it back because I know this process
+works. So go ahead and chod and issue
+that command as well. Now here's where
+it comes something interesting. We're
+ready to issue some commands. We can do
+this right here. It's actually slashpico
+claw. So if I do that and hit enter,
+what it's going to do is configure
+already exists. So I already have
+something already written there. Um, so
+I am going to say actually that's
+interesting I have it written there. It
+saved it. I thought I deleted that. But
+yeah, let's go ahead and overwrite that.
+Hit yes. And this will give me kind of
+like a new install there. So once you're
+here, it says next steps. Add your API
+key. And it gives you a link to where
+it's at or at least a directory as to
+where it's at. And then it says go ahead
+and set up all your API keys. So unlike
+that of Claudebot uh or open claw if you
+will, it's not going to lead you through
+it. So we are going to have to go in and
+uh execute this command in order to get
+it to work. Now in terms of the JSON,
+this is what I have working right now.
+And I'll pull it up here on the
+Raspberry Pi as well, but this is what
+it will look like in text format. So the
+main things you want to notice here is
+I'm using the Miniax model. And as I
+mentioned, I could only get the open
+router to work. So, you'll have to go to
+open router and then go there and sign
+up, you know, put in some money and then
+pick what model you want to use. And
+right here is where you'll put in the
+base, which is this what you see right
+here if you're using Open Router. And
+then your API key, which you'll get from
+Open Router. And then that'll connect to
+whatever model you're using. and make
+sure that model that you've selected to
+connect is up here. So, let me show you
+what it's going to look like initially.
+So, if we go here and go pseudo where
+let's see where it is pseudo nano and
+it's in my home directory
+JSON file here. Open it up and yeah, we
+can see it's the same thing here. So,
+here's where I would come in and say
+model and drop this in for Miniax Miniax
+2 and go uh down. It also gives you the
+ability down below here to set up
+Telegram if you want. Um, I'm not going
+to walk you through that part. It's
+pretty simple either way if you prefer
+to message this thing through Telegram
+versus something like SSH, which I'll
+probably do, but I want to keep this
+short and you've probably seen how to do
+that. If not, it's in the documentation
+will be linked down below. And then if
+you scroll down to the bottom here, this
+again is where you'd put in your API
+keys. I tried OpenAI, couldn't get it to
+work, but Open Router again, you would
+put in your API key here and the API
+base there. So, I'm going to go ahead
+and upload my version really quickly and
+then I'll be right back. All right, now
+I've got my configuration file all saved
+and it's ready to go. We need to issue
+the command. So, right here is the
+command. It is just/picclaw
+agent. Now, I already have this running.
+If you haven't had this running before,
+it will take a minute to get to this
+point. But if everything goes well, you
+will see this. It will say you and this
+is where we can start interacting with
+our model. It should be connected. If
+you don't see this, this is when you're
+going to start wanting to troubleshoot
+that configuration file. So, first thing
+I'm going to say is hello. And it'll
+probably say something like hello again
+or something like that. So, it says hey.
+All right. So, it said still testing or
+you need something else. Yeah. Well, we
+need something else. So, I don't have a
+whole bunch hooked up to this, but I
+just want to show you really quickly
+what we can do. So, I'm going to say,
+can you build a web page
+that says hello everyone on it with a
+big Oh, sorry. Let me go back. With a
+big heart on it as well. Let's see what
+it does there. So, it's going to go out,
+ping the model, and start building. And
+hopefully we get a response. So, want me
+to save it to file? There it is. So, it
+looks like it went out and created a web
+page for us. So, pretty cool. And even
+tried to do this. I don't know if that
+would be render or not, but it looks
+like it tried to make it that way. But,
+nonetheless, it's just a quick way to
+prove that this thing works. So, now
+let's just ask it something off the
+wall. So, let's say um are wolves dogs,
+for example. And I want to see what it
+does for just like conversation
+conversating with it. Now again, this is
+um yeah, so it came back. It says
+they're closely rated related and can
+enter breed, but they're not considered.
+Key differences. Wolves are harder to
+tame. Dogs have evolved to digest
+starch. Interesting. I didn't know that.
+So maybe wolves still can't digest star
+uh starch very well. So different social
+behaviors, but nonetheless, you can see
+here it is absolutely working. That is
+pretty cool. I mean, something as small
+as this, right? something as small as
+this. Now, uh we can have a version of
+Open Claw on it. Pretty sick if you ask
+me. So, during this demo, I've actually
+had the Pi02W on this. This is just the
+Raspberry Pi or Hackberry Pi Zero, I
+believe. They make another model if that
+has a CM5 on it. I point over there
+because it's over there. So, I have two
+of them. It's really cool. Has a
+physical keyboard. independent guy who
+did this and um has the old school
+Blackberry like kind of trackpad on it.
+So pretty cool especially if you're old
+school like me to have it tactile but
+this gives me the ability to bring it
+mobile and I think that's one of the
+strong suits that I'm looking at as I
+mentioned kind of putting this on the
+edge and using maybe those GPIO pins. So
+it absolutely works. I'll test it out a
+little bit more. I don't expect anything
+too crazy out of it. I have noticed it's
+a little bit slower for sure, as is to
+be expected, but it's just as acting as
+this pass through to the model and I
+think it's pretty incredible. So, I'll
+let you guys just kind of marinate on
+that in terms of what you can do. So,
+don't inspect the world from it. It's a
+little quirky. I had to work with it for
+really quite a few hours to get it to
+the point where I could write down these
+instructions and at least figure it out
+for the Raspberry Pi. So, if you are
+interested, again, it's down below. And
+if you are not subscribed, please
+consider subscribing. It helps me out a
+ton. And also, please like this video so
+we can get it out to others. But this is
+crazy, man. Looks like OpenClaw has a
+little brother or sister or whatever you
+want to call it. A little micro
+crustation called Pico Claw. Let's go.
+My name's El Phantom. I'll see you next
+time.

@@ -1,0 +1,374 @@
+I'm going to walk you through three
+different mission controls that can
+power your open claw. Each of them have
+different features and capabilities, but
+one thing remains true that if you
+implement these in your life and
+business, it will have substantial
+impacts on your entire productivity. Not
+only will you be able to save more time,
+but you'll be able to make more money,
+if you can leverage these tools powered
+by your own open clock. We are going to
+start with the easiest and most basic
+mission control and work our way up to
+the very end where I'll show you the
+most complex mission control if you want
+the full capabilities and impact that
+this can have for you. And if you stay
+till the end of this video, I'm even
+going to rebuild one of these mission
+controls to show you exactly step by
+step on how I would go about replicating
+this for yourself. A couple weeks ago, I
+recorded a similar video that I'll link
+in the description that was essentially
+how I built my own Clawbot and OpenClaw
+to work for me and my business. And
+we'll start with probably the most basic
+one here. This is by uh Katherine as you
+can see. And what you can see really
+nicely is Friend Center. They have a few
+different agent avatars. And so you can
+see they have a chief of staff. Um this
+seems to be a consistent thing. Um chief
+of staff tends to be used for the kind
+of ultimate open claw. So this is the
+open claw that you're going to be
+communicating with. and that kind of
+runs the rest of the sub agents. And
+I'll kind of talk a bit more about that.
+Um, but you can see a really interesting
+and clean design here. They're kind of
+going for the clawed UI look, but this
+this focus here seems to be around
+spinning up your own sub agents. And
+what a sub agent is is essentially while
+your main open claw is going and doing
+the tasks and communicating with you,
+you can have sub agents spun up in the
+background that can go do tasks while
+you're while you're working and while
+you're communicating. And so allowing
+you to actually control and seeing your
+different sub agents. As you can see,
+they have one for analytics, they have
+one for content, they have one for a
+Shopify developer, one for React. You
+can see here that they have different
+conversations with each agent. This is
+controlled all through their their uh
+mission control. You can make sure that
+everything's running smoothly. And so,
+all this stuff wouldn't be possible
+natively through OpenClaw. You know,
+trying to manage this in Slack or notion
+would be very challenging. And so, this
+user here has done a great job of
+building their own tool to manage
+different agents in their mission
+control. It looks like they also have an
+activity log which I don't think they've
+included a screenshot of but and then
+also the tasks. You can also see here
+they have the chat decisions cron and
+cost for each um agent which I think is
+really interesting because basically
+what this means is chat is pretty basic.
+That's how you're communicating with the
+agent. Decisions are the decisions that
+probably require the user's input. Prons
+are basically the repetitive tasks that
+each agent is designated to and then
+obviously the cost. And so you'll be
+able to basically see the breakdown of
+each agent's cost and then compare that
+to the total cost of all your different
+models and agents. Um, so I think this
+is a great first one to replicate. It's
+pretty simple. It's mainly based on
+spinning up sub agents. And so this may
+not be applicable to everybody, but if
+this is something you're looking to do,
+I think this is a really great use case
+for a mission control. Okay, next we are
+going to take a look at this mission
+control which has actually been going
+semiviral. I've been seeing it quite a
+lot and I also saw they do they did did
+a breakdown video of this mission
+control which I can link um in the
+description. But essentially this one
+you can as you can see quite a bit more
+complex. It's front and center they have
+kind of the tasks that these the open
+claw is intended to do. You have
+different tagging mechanisms. You can
+track the progress. You can see how many
+agents are live. Similarly, they also
+have the different agent breakdowns. And
+so same kind of idea as the first one.
+You can see the different agents that
+are doing which tasks. And you can see
+that they're also you're able to filter
+by the different agents which is super
+cool. And so I think this is similar
+like similar use case. I think UI is a
+little bit more task focused on this one
+where the other one is a little bit more
+broken out. And it looks like they've
+actually gone ahead and actually
+productized this mission control. And so
+if you wanted to actually use this exact
+one, you could and I'll include that
+link in the description. Um starts at
+$99 a month. Um it also includes some of
+the agents as well. So you can go ahead
+and have these preset agents which you
+know it could be handy but ultimately
+you can probably do this pretty easily
+yourself. And you can see there's a
+whole setup to how to connect um your
+bot, how to create uh different prompts
+and provisions, how to create your
+different settings and guidelines. And
+you also have the live activity feed
+here as you can see. So you can see
+which agents are getting things done at
+what time. And so this is really when
+things become a lot more powerful,
+right? You go from just a single chat
+interface like Slack to all of a sudden
+now you have different agents completing
+different tasks throughout the day. And
+you can see it all here right on your
+live feed. So I think that's super
+great. You can also check the memory,
+the docs, the chat, all the stuff right
+in your own mission control. Here you
+can also see um the activity details um
+of each task. So it looks like you can
+click in here and you can see um the
+activity details for that sub agent. So
+similarly you can kind of probably
+comment and leave comments for each task
+and for each agent which is very cool.
+And here looks like an expanded view of
+that task details. And so you can kind
+of see the agent and the human
+communicating and going through the
+different details of each task. Um, so
+again, this gets way more uh specific
+and right down to the point rather than
+having to kind of backtrack into
+different Slack threads or whatever. Um,
+this gives you one detailed kind of view
+of that task in the comments um that are
+required. Okay, last but not least, we
+have the king of openclaw right now,
+Alex Finn. Now, his mission control is
+very built out um and it highlights a
+lot of different use cases. So, we'll
+start first here with the meet the team.
+Um, for some reason, he has this kind of
+mission statement, um, which I think he
+believes that will make it make the
+agents know how what mission they're
+working towards, which is debatably
+something that, you know, you could
+have. Um, but again, here he has the
+main chief of staff agent followed by
+some of the sub agents that are spun out
+of it, as well as the ability to pause
+them, to ping them, and to refresh it.
+But what Alex has done really nicely is
+he's actually broken this out a lot more
+in this article, which I can link below.
+So, first off, we have the task board.
+So you can see these different tasks are
+assigned to different agents. You can
+see I think by the letters. So Henry is
+being his main bot and then I guess ones
+that A could be for Alex. So those could
+be his his tasks. But ultimately this is
+kind of the all-in-one task board for
+him and his agents. Um which is really
+cool. Moving over to content. Obviously
+he has a massive content pipeline and so
+this is something I could see a lot of
+content creators doing which is having
+their own content pipeline. Ultimately
+you can actually have OpenClaw manage
+this and create content for you. Right.
+So, I've talked about in the past that I
+now use my open claw in order to create
+me written content. I feed it my YouTube
+video and it's able to spun out a bunch
+of different content. And so, I could
+see a content pipeline like this making
+a lot of sense. So, this is his cron job
+calendar, which I actually haven't seen
+before. But essentially, what this is
+does is it shows like different cron
+jobs he's running and the scheduled time
+that they're going to run. You can see
+each day what the different tasks are
+that the open claw is going to run. Here
+he has his daily journal. This is
+something that I've actually done. Right
+now I run this through notion but I do
+have plans on building my own. Here you
+can see each day open claw will log
+different things um in order to keep
+track of memory because this is one of
+the probably the weakest points of
+openclaw right now is just being able to
+remember things and so having this kind
+of memory dayby-day journal is a really
+useful thing and being able to view the
+journal every day is also useful. And
+then kind of back to the my team thing
+you can see here um where he um has all
+the different agents. It looks like he
+has a coding agent which uses codec. So
+that's really cool. And finally, it
+looks like he has built his own office.
+Now, I couldn't tell you necessarily
+what the purpose of this is beyond just
+a cool interface, but I think the idea
+here is being able to see which agents
+are working. So, now we're going to
+rebuild one of these mission controls in
+Lovable. Now, the reason I like to build
+this in Lovable is because I find that
+one, it's a lot more expensive to use
+OpenClaw and credits burns a lot
+quicker. Two, the design is a way less
+polished. And three, with Levelville, we
+have full control of hosting visibility,
+all the database infrastructure that's
+required. And so it makes it a lot
+easier to get this up and running. I'm
+going to feed the article here to my
+OpenClaw. And I'm going to say based on
+this article, generate a prompt for
+lovable to recreate this mission control
+dashboard. Okay, so OpenClaw fed me this
+prompt here. Okay, so we're going to
+take this, we're going to copy this.
+I'll bring this into Lovable. And the
+reason I want to use Lovable is because
+of exactly this reason. Literally, I'm
+going to be able to have a my own
+dashboard and probably just a few
+prompts. That first prompt is really
+going to set the foundation. Now, if you
+want to understand how to actually
+connect your open cloth to your lovable
+app, I've already done a video on this
+and I'll link it down below.
+Essentially, you just use the Superbase
+API and connect it to your Open Claw.
+That way, they can communicate back and
+forth. Okay, so after a couple minutes
+here, we have our first version. And you
+can see it's already looking very nice.
+And this is exactly the reason I love
+using Lovable is because in one shot I'm
+able to get this really clean looking
+dashboard with all these different
+pages. This is looking phenomenal. I
+actually can't lie. So let's go through
+this. Um the dashboard basically has
+kind of a recap of what's in the tasks,
+what's in the content, what's in the
+upcoming events, agent activity, etc.
+You're able to click into each and see
+the different team members, which is
+really nice as well. Now, as for
+activity log, I could see the um
+activity log. Obviously, all this is
+dummy data, so I don't want people in
+the comments. I know. But again, if you
+want to connect this, I had a video
+demonstrating exactly how to connect
+this to your Open Claw that we shot a
+couple weeks ago. We'll link that um in
+the comments or or put it up here. But
+here you can have see the upcoming uh
+what's what's upcoming. So, you could
+probably make this your upcoming cron
+jobs, maybe some calls, maybe content
+that it needs to think about. So, this
+is really nice. You have your tasks. Um
+this will be you can tag this by agency,
+content, education, personal. This is
+really nice. You can see that it's
+marked Astra or you. Um, so in my case,
+you know, you can see the tasks there
+are marked for me versus my agent. Um,
+content, we can see ideas, scripting,
+thumbnails, all that. Um, probably even
+Okay, we haven't gotten that far, but I
+hypothetically you could probably build
+a nice little details view. This is the
+calendar. Um, so you can probably see
+again all the cron jobs and tasks that
+are due. Memory, we have our daily
+memory. Again, this is all in one
+prompt, so you can't expect it to have
+every single detailed page. But again,
+you easily just be able to click and
+create like a page where you can
+actually edit this and view it. Same
+with team. You can see that we have
+Astra as your chief of staff. Then we
+can create these other sub agents here
+as well. Um, I'm sure you can also add a
+button to be able to add these things.
+Contacts. These would be other people on
+each team. So, it knows who to
+reference. In my case, I actually
+connected it to my Slack and so you can
+actually go and message those people
+directly, which is really cool. And then
+lastly, again, you have your settings.
+cuz you can see what it's connected to.
+Asia configuration, cron jobs. This is
+honestly really good. Honestly, I'm
+probably going to use this as my actual
+mission control after seeing how good
+this was just in one prompt. Um, I'm
+honestly really impressed and I'll make
+sure to leave the exact prompt I use in
+case you want to replicate this one for
+one. Um, in lovable. I'll also leave a
+link in the description for getting 20%
+off your first month. That way, you can
+build this, host on Super Base, super
+easy, and then eventually, you know,
+connect it to a domain. All this to say,
+these are the different mission controls
+that you can build. Obviously, we saw
+some of the more basic versions. We saw
+some kind of intermediate. And lastly,
+we saw a more advanced mission control.
+And then I showed you exactly how to
+rebuild this. And so, if you enjoyed
+this, I would much appreciate you hit
+the subscribe button and like for future
+videos. I'll be posting once a week. And
+if you're a serious builder and you're
+really looking to take advantage of the
+AI movement, the movement of being able
+to use AI in order to make money for you
+hand over fist, just like I have been
+able to do running the number one
+lovable agency in the world. I have a
+small community now of select builders
+that where I'm teaching all the steps
+that I've learned in the process. If you
+want that, the link will be the first in
+the description. With all that being
+said, we'll see you on the next video.
+Cheers.

@@ -1,0 +1,26 @@
+hey hello investors welcome back to the
+channel in today's video I'm going to
+show how I make a $100 daily trading put
+credit spreads for today's video we're
+going to be using investco QQQ here it
+goes let's go to trade let's go to trade
+options let's choose our strike date of
+June 21st now let's make sure it says
+sell and put and now we're going to go
+ahead and choose a strike price below
+the current share price now my personal
+preference is always to choose a strike
+price that has a chance of profitability
+of 80% or higher so I'm going to go with
+the 481 put now we're going to go over
+to buy and put and now we're going to
+select our buy put below our sell put
+and I'm going to go with the 480 put
+we're going to strike up we're going to
+hit review now in order for me to make
+this a $100 trade I need to increase the
+amount of contracts I have so we're
+going to be going with six and that's
+going to give me $101 rinse repeat this
+is how you do a credit spread follow for
+more

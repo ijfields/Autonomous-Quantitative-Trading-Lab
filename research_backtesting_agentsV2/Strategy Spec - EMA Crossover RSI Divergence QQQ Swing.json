@@ -1,0 +1,152 @@
+{
+  "strategies": [
+    {
+      "name": "5/11/18 EMA Crossover + RSI(11) Divergence QQQ Swing Trade",
+      "description": "A daily chart swing trading strategy for QQQ (and leveraged variants QLD/TQQQ) combining three exponential moving averages (5, 11, 18 EMA) with RSI(11) divergence analysis. Buy when all three EMAs cross upward and RSI confirms momentum. Sell when bearish RSI divergence appears followed by an uptrend line break and EMA curl-down. The 'air gap' concept warns against entering when price is extended far above the 18 EMA. Demonstrated with several months of 2024 QQQ price action bar-by-bar.",
+      "strategy_type": "trend_following",
+      "trading_style": "swing_trade",
+      "instruments": ["QQQ", "QLD", "TQQQ"],
+      "asset_type": "etf",
+      "timeframes": ["daily"],
+      "entry_signals": [
+        {
+          "indicator": "Triple EMA Crossover (5/11/18)",
+          "condition": "5 EMA crosses above 11 EMA, then both cross above 18 EMA. All three EMAs pointing northeast (positive slope).",
+          "value": "bullish alignment of all three EMAs",
+          "timeframe": "daily",
+          "parameters": {
+            "ema_fast": 5,
+            "ema_medium": 11,
+            "ema_slow": 18,
+            "alignment": "5 > 11 > 18 with all slopes positive",
+            "color_coding": "5 EMA = hot pink, 11 EMA = red, 18 EMA = blue"
+          }
+        },
+        {
+          "indicator": "RSI(11) Momentum Confirmation",
+          "condition": "RSI(11) breaks above recent RSI peaks (above 60-65 zone). RSI rising in the same direction as price confirms genuine bullish momentum. RSI overbought (>80) is bullish, NOT a sell signal.",
+          "value": "RSI > 60 and rising, breaking above prior RSI peaks",
+          "timeframe": "daily",
+          "parameters": {
+            "rsi_period": 11,
+            "overbought": 80,
+            "oversold": 25,
+            "bullish_confirmation": "RSI breaks above recent peaks",
+            "important": "RSI > 80 is BULLISH, not a sell signal"
+          }
+        },
+        {
+          "indicator": "Air Gap Filter (Anti-Entry)",
+          "condition": "Do NOT enter if price is extended far above the 18 EMA. A large 'air gap' signals elevated pullback risk. Wait for price to consolidate back toward the 18 EMA.",
+          "value": "price must be within reasonable distance of 18 EMA",
+          "timeframe": "daily",
+          "parameters": {
+            "measurement": "visual assessment of distance between price and 18 EMA",
+            "suggested_threshold": "5-8% above 18 EMA based on chart examples (not explicitly quantified)",
+            "action": "reject entry if air gap is too large"
+          }
+        },
+        {
+          "indicator": "Conservative Entry: 1-2-3 Pullback Pattern (Optional)",
+          "condition": "After EMA crossover, wait for: (1) Initial move up, (2) Pullback to test support (look for hammer candle), (3) Continuation bounce — enter on the bounce.",
+          "value": "pullback to support after crossover, confirmed by hammer candle",
+          "timeframe": "daily",
+          "parameters": {
+            "step_1": "initial move up after crossover",
+            "step_2": "pullback to test area (hammer candle at support)",
+            "step_3": "continuation bounce = entry",
+            "risk_reduction": "lower entry price than aggressive method"
+          }
+        }
+      ],
+      "exit_rules": [
+        {
+          "exit_type": "sell_signal_trigger",
+          "condition": "Bearish RSI divergence (price higher highs, RSI lower highs) followed by price breaking a short-term uptrend line. 5 and 11 EMAs curling downward.",
+          "value": "divergence + trendline break + EMA curl = exit to cash",
+          "parameters": {
+            "signal": "bearish RSI divergence (price HH, RSI LH)",
+            "trigger": "price breaks short-term uptrend line",
+            "confirmation": "5 and 11 EMA slopes turn negative",
+            "important": "signal alone is NOT enough — must wait for trigger"
+          }
+        },
+        {
+          "exit_type": "stop_loss",
+          "condition": "Below the most recent swing low",
+          "value": "recent swing low",
+          "parameters": {
+            "example": "entry at 409, stop at 390-392",
+            "placement": "just below the most recent significant swing low"
+          }
+        },
+        {
+          "exit_type": "trailing_stop",
+          "condition": "As price advances, raise stop to just below the most recent significant candle low.",
+          "value": "trailing below recent candle lows",
+          "parameters": {
+            "method": "manual trailing — move stop up as price advances",
+            "example": "raise stop from 392 to 403 as price moves from 409 to 423"
+          }
+        }
+      ],
+      "risk_management": {
+        "position_size": "not specified — speaker uses QQQ, QLD, or TQQQ based on conviction",
+        "risk_reward_ratio": "not explicitly stated — trailing stop with divergence exit suggests large R multiples on trend moves",
+        "additional_rules": [
+          "Distinguish between SIGNALS (divergence warns) and TRIGGERS (price confirms) — never trade on signals alone",
+          "RSI overbought (>80) means strong bullish momentum, NOT a sell signal",
+          "RSI in middle zone (40-60) provides little useful information — works best at extremes"
+        ]
+      },
+      "filters": {
+        "air_gap": "do NOT enter when price is extended far above the 18 EMA",
+        "ema_alignment": "all three EMAs must point in the same direction for entry",
+        "rsi_direction": "RSI must be moving in the same direction as price for genuine move",
+        "signal_vs_trigger": "divergence alone is a signal — wait for trendline break trigger before exiting"
+      },
+      "metadata": {
+        "confidence_level": 0.75,
+        "missing_elements": [
+          "Exact air gap threshold (distance from price to 18 EMA that is 'too far')",
+          "Position sizing relative to account",
+          "When to use QQQ vs QLD vs TQQQ",
+          "How to handle conflicting signals (EMA bullish but divergence appearing)",
+          "Maximum holding period",
+          "Performance statistics (win rate, avg return)",
+          "Short-term uptrend line definition for exit trigger"
+        ],
+        "assumptions": [
+          "EMAs are exponential (explicitly stated)",
+          "RSI period is 11 (explicitly stated, not standard 14)",
+          "Daily chart only — no intraday confirmation",
+          "Short-term uptrend lines drawn connecting recent lows",
+          "Hammer candle = standard definition",
+          "Air gap is visual assessment, not quantified"
+        ],
+        "source_quotes": [
+          "5 EMA is the fastest — first to react; 11 EMA confirms; 18 EMA defines the primary trend",
+          "RSI overbought means strong bullish momentum, not time to sell",
+          "Never buy when there's a large air gap between price and the 18 EMA",
+          "Always distinguish between signals and triggers — never trade on signals alone",
+          "Use the 1-2-3 pullback pattern for lower-risk entries after EMA crossovers"
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "strategy_names": [
+      "5/11/18 EMA Crossover + RSI(11) Divergence QQQ Swing Trade"
+    ],
+    "transcript_quality": "high",
+    "extraction_notes": "Detailed bar-by-bar walkthrough with explicit entry/exit rules, stop placement examples, and trailing stop management. The 'air gap' concept and signal-vs-trigger distinction are well-articulated unique elements. Missing quantified air gap threshold and aggregate performance stats. Speaker walked through several months of 2024 QQQ data in real-time.",
+    "video_title": "RSI + 3 EMA Strategy | Catch QQQ Reversals Early (High-Probability Swing Trading Setup)",
+    "video_id": "cnpwa_J_d-c",
+    "channel": "EquiPredict Analytics - Forecast The Markets",
+    "primary_asset_class": "ETF (QQQ / QLD / TQQQ)",
+    "primary_trading_style": "Daily chart swing trading with EMA trend + RSI divergence exit",
+    "automation_feasibility": "HIGH — All indicators (EMA, RSI) are standard calculations. EMA crossover and slope detection are trivial. RSI divergence detection requires swing point comparison but is well-defined. The main automation challenge is the 'air gap' threshold (needs quantification) and trendline break detection (could be approximated with price < 5 EMA). Trailing stop logic is straightforward.",
+    "key_insight": "The three EMAs work as a traffic light system (all green = bullish, all red = bearish), while RSI(11) catches faster turns than the standard RSI(14). The critical insight is that RSI overbought (>80) is bullish momentum, not a sell signal — and the 'air gap' concept provides a visual risk metric for avoiding extended entries."
+  }
+}
