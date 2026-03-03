@@ -1,0 +1,211 @@
+{
+  "strategies": [
+    {
+      "name": "NQ Multi-Timeframe P3 Fractal Scalp (50% Range Rebalancing)",
+      "description": "A NASDAQ 100 futures (NQ) day trading strategy that uses multi-timeframe fractal alignment of P3 (Power of Three / AMD) cycles across Daily, H4, and H1 charts. The core thesis is that price rebalances into 50% of dealing ranges before continuing with the trend. The trader waits for price to manipulate into 50% of a higher timeframe range (typically sweeping above the previous 9 AM hour high at 10 AM EST), confirms with SMT divergence between NQ and ES, then enters at an inversion level (support flipped to resistance). Stop loss is at the divergence point, take profit at 50% of the range. Aggressive break-even management is central to the model -- move to break even when the hourly candle flips direction. The strategy is fractal and applies to any liquid asset on any timeframe. Trader Kane holds the prop firm payout record at Apex ($2.3M total) and turned $130K into $1.4M in one month using this model.",
+      "strategy_type": "reversal",
+      "trading_style": "day_trade",
+      "instruments": ["NQ"],
+      "asset_type": "future",
+      "timeframes": ["daily", "4hour", "1hour"],
+      "entry_signals": [
+        {
+          "indicator": "Daily P3 Range Identification",
+          "condition": "Mark the current daily dealing range (swing high to swing low) and identify the 50% equilibrium level. Determine whether the daily candle is expected to wick above the previous day high (bearish) or below the previous day low (bullish).",
+          "value": "50% of the daily dealing range",
+          "timeframe": "daily",
+          "parameters": {
+            "method": "mark swing high and swing low on daily chart, draw 50% equilibrium",
+            "bias_rule": "expect daily candle wick to form above previous day high (bearish) or below previous day low (bullish)",
+            "concept": "market_maker_theory -- price delivers to fair value (50% of range)"
+          }
+        },
+        {
+          "indicator": "H4 P3 Fractal Alignment",
+          "condition": "The H4 P3 must nest inside the Daily P3. Mark the previous 4-hour candle's high and low, identify 50%. The H4 wick zone should overlap with the daily wick zone.",
+          "value": "H4 manipulation wick aligning with daily manipulation zone",
+          "timeframe": "4hour",
+          "parameters": {
+            "method": "mark previous H4 candle high/low, compute 50%",
+            "alignment": "H4 wick zone must overlap with daily expected wick zone",
+            "liquidity_buildup": "failed attempts to distribute into EQ create engineered liquidity"
+          }
+        },
+        {
+          "indicator": "H1 P3 Fractal Alignment (10 AM Manipulation)",
+          "condition": "At approximately 10:00 AM EST, price sweeps above the 9:00 AM hour high (for shorts) or below the 9:00 AM hour low (for longs). The H1 P3 must align with both the daily and H4 P3.",
+          "value": "sweep of previous hourly candle high/low at 10 AM EST",
+          "timeframe": "1hour",
+          "parameters": {
+            "key_time": "10:00 AM EST",
+            "active_window": "9:15 AM - 11:30 AM EST",
+            "manipulation_definition": "price trades above the 9 AM hour high (bearish) or below the low (bullish)",
+            "secondary_window": "~2:00 PM EST (H4 P3 rotation)"
+          }
+        },
+        {
+          "indicator": "SMT Divergence (NQ vs ES)",
+          "condition": "Compare NQ and ES at the manipulation point. For bearish setup: ES sweeps the high while NQ fails to sweep it (NQ shows relative weakness). For bullish setup: ES sweeps the low while NQ fails.",
+          "value": "divergence between NQ and ES confirming manipulation exhaustion",
+          "timeframe": "1hour",
+          "parameters": {
+            "comparison_assets": ["NQ", "ES"],
+            "bearish_signal": "ES makes higher high, NQ fails to make higher high",
+            "bullish_signal": "ES makes lower low, NQ fails to make lower low",
+            "dual_smt": "divergence at both highs AND lows = A+ setup (range tightening)",
+            "invalidation": "if the divergence high/low is broken, the model is invalidated",
+            "indicator": "custom SMT indicator that auto-prints S&P divergence on NQ chart"
+          }
+        },
+        {
+          "indicator": "Inversion Level Entry",
+          "condition": "Identify an inversion level in the manipulation zone -- a previous fair value gap or imbalance that acted as support, now flipped to resistance (for shorts). Enter when price closes below this level.",
+          "value": "price closes below inversion (for shorts) or above (for longs)",
+          "timeframe": "5min or 3min",
+          "parameters": {
+            "inversion_definition": "previous gap used as support now being used as resistance (or vice versa)",
+            "entry_method_1": "sell stop below inversion level",
+            "entry_method_2": "limit order at retap of inversion after initial breakdown",
+            "context": "entry must occur inside the H4 wick zone and the H1 wick zone simultaneously"
+          }
+        }
+      ],
+      "exit_rules": [
+        {
+          "exit_type": "take_profit",
+          "condition": "Price reaches 50% of the dealing range (equilibrium of the next range). This is the 'base hit' -- default target.",
+          "value": "50% of the dealing range",
+          "parameters": {
+            "method": "compute midpoint of the range being traded into",
+            "note": "walk away after hitting this target -- done for the day",
+            "example": "Thursday trade: 381 ticks on one NQ contract ($1,905 at $5/tick)"
+          }
+        },
+        {
+          "exit_type": "trailing_stop",
+          "condition": "If price blasts through the 50% target with momentum, trail stop to the 50% level and continue trailing on structural breaks.",
+          "value": "50% level as initial trail, then structural breaks",
+          "parameters": {
+            "discretionary": true,
+            "method": "trail stop to 50% level, then trail on each new low (shorts) or high (longs)",
+            "note": "only after building intuition through months of reps",
+            "example": "Monday PM: trailed from ~$10K floating to $9K trail, stopped at ~$8K"
+          }
+        },
+        {
+          "exit_type": "stop_loss",
+          "condition": "Price exceeds the SMT divergence point -- above the manipulation high (for shorts) or below the manipulation low (for longs).",
+          "value": "at the divergence point",
+          "parameters": {
+            "bearish_stop": "above the manipulation high where SMT divergence occurred",
+            "bullish_stop": "below the manipulation low where SMT divergence occurred",
+            "invalidation": "if hit, the P3 model is invalidated for this session"
+          }
+        },
+        {
+          "exit_type": "break_even",
+          "condition": "Move stop to break even when: (a) the hourly candle flips in your direction, OR (b) the 15-minute structural level is broken in your direction.",
+          "value": "entry price + commission buffer",
+          "parameters": {
+            "trigger_1": "hourly candle body flips bearish (for shorts) or bullish (for longs)",
+            "trigger_2": "15-minute low taken (for shorts) or 15-minute high taken (for longs)",
+            "philosophy": "right or right out -- break-even trades are a feature, not a bug",
+            "note": "this is what makes the model profitable; without aggressive BE management, the model loses"
+          }
+        }
+      ],
+      "risk_management": {
+        "position_size": "not specified numerically -- Kane trades multiple NQ contracts, implies starting with micros and scaling",
+        "max_risk_per_trade": "distance from entry to divergence point (variable per trade)",
+        "risk_reward_ratio": "base hit ~1:1 to 2:1; runners can reach 3:1+ with trailing; BTC swing example was 2.25:1",
+        "max_daily_loss": "not explicitly stated; implied 1-2 attempts before stopping",
+        "additional_rules": [
+          "Maximum 2 trade attempts per session",
+          "Re-entry allowed if model not invalidated (bias unchanged, divergence high not broken)",
+          "Break-even trades expected to be a significant portion of all trades (by design)",
+          "Aggressive break-even management is NON-NEGOTIABLE -- this is what makes the model profitable",
+          "Primary window: 9:15 AM - 11:30 AM EST only",
+          "Secondary window: ~2:00 PM EST (H4 P3 rotation)",
+          "Kane avoids Mondays and Fridays (personal preference)",
+          "One trade per day is the default; done after the base hit"
+        ]
+      },
+      "filters": {
+        "market_conditions": [
+          "All three timeframes (Daily, H4, H1) must show P3 alignment before entry",
+          "SMT divergence between NQ and ES must be present",
+          "The manipulation must occur in a zone where all three P3 wicks overlap",
+          "If any timeframe diverges from the expected P3 structure, no trade"
+        ],
+        "time_filters": [
+          "Primary entry window: 9:15 AM - 11:30 AM EST",
+          "Key manipulation time: 10:00 AM EST",
+          "Secondary window: ~2:00 PM EST (H4 P3 rotation)",
+          "Asian range noted as low-probability conditions; sweep of one side signals direction",
+          "2:00 AM EST (London open) sometimes creates divergence opportunities but Kane doesn't trade these"
+        ],
+        "volume_filters": [
+          "Not explicitly used as a filter",
+          "Volume/momentum observed discretionarily for trailing decisions only",
+          "9:30 AM liquidity injection creates the volatile environment needed"
+        ]
+      },
+      "metadata": {
+        "confidence_level": 0.80,
+        "missing_elements": [
+          "Quantitative definition of '50% of the range' tolerance (exact 50% vs 45-55% zone)",
+          "Exact SMT divergence measurement criteria (how many ticks/points difference qualifies)",
+          "Specific position sizing formula (dollar risk per trade or % of account)",
+          "Maximum number of contracts per trade",
+          "Daily loss limit in dollar or percentage terms",
+          "Precise definition of when an inversion level is 'clean' enough to trade",
+          "How to handle days when no P3 alignment occurs across all three timeframes",
+          "Whether partial profit taking is used (scale out at 50%, hold runner)",
+          "Specific Asian range sweep rules (mentioned conceptually but not formalized)",
+          "How many ticks/points below the inversion the sell stop should be placed",
+          "Exact criteria for when the hourly candle has 'flipped' (close vs wick)"
+        ],
+        "assumptions": [
+          "NQ futures are the primary instrument; ES is for divergence only",
+          "10:00 AM EST is a statistical tendency, not a guarantee",
+          "50% of the range is approximate (price may reach 48% or 55%)",
+          "Break-even trades will comprise 30-50% of all trades (by design)",
+          "Discretionary intuition accounts for approximately 20-30% of the edge",
+          "Reps over months are required to develop the intuition portion",
+          "Prop firm rules may constrain position sizing and daily loss limits",
+          "The model is fractal -- same logic applies to BTC, EUR/USD, Gold on higher timeframes",
+          "Kane's win rate of 50-85% (depending on period) includes break-even trades classified as wins",
+          "The $2.3M payout figure is from Apex Trader Funding prop firm, not personal account profits"
+        ],
+        "source_quotes": [
+          "All I want to see is price rebalance into 50% of the range and then continue with the trend.",
+          "I don't need a big move. I just need to grab that base hit every single day and then I'm done.",
+          "You either need to be right or right out.",
+          "I look for the divergences between the two because it shows relative weakness on a single asset.",
+          "So you're trading the H1 PO3 inside of a H4 P3 inside of a daily P3.",
+          "I think a robot could pick up the model... the reality is that I think the discretion is my edge.",
+          "Base hits have made me millions of dollars in the market.",
+          "People that don't do this correctly that pick up my model will consistently tell me the model is not profitable.",
+          "This is a 12 setup. It's the best ever. SMT 4-hour high trading above into discount with that inversion straight into discount.",
+          "381 ticks on one contract. That's quite a lot of money.",
+          "I traded a Bitcoin short from 100K to literally 80K for this exact model."
+        ]
+      }
+    }
+  ],
+  "summary": {
+    "total_strategies_found": 1,
+    "strategy_names": [
+      "NQ Multi-Timeframe P3 Fractal Scalp (50% Range Rebalancing)"
+    ],
+    "transcript_quality": "high",
+    "extraction_notes": "75-minute in-depth interview with whiteboard explanations, live chart walkthroughs using TradingView replay mode, and real TradeZella account statistics. Two complete trade examples (Thursday 381-tick winner, Monday break-even/small loss), plus a BTC swing trade from $100K to $80K. Strategy is clearly articulated with entry, stop, target, and break-even rules. The main gap is the discretionary component (intuition from reps) which Kane explicitly acknowledges cannot be fully taught or automated. High confidence due to the depth of explanation and verified performance track record.",
+    "video_title": "Worlds BEST NQ Scalper Reveals His A+ Trading Strategy",
+    "video_id": "HNuRp9Z1bMs",
+    "channel": "Chart Fanatics",
+    "primary_asset_class": "Futures (NQ / NASDAQ 100)",
+    "primary_trading_style": "Intraday reversal scalp using multi-timeframe P3 fractal alignment",
+    "automation_feasibility": "MEDIUM — The mechanical components (P3 range identification, 50% computation, SMT divergence detection, inversion level identification, break-even management) are automatable. However, Kane explicitly states that discretion/intuition is approximately 20-30% of his edge and cannot be fully automated. A semi-automated approach (bot identifies setups, sends alerts, human confirms) is the most realistic implementation. The fractal nature across three timeframes adds complexity but is computationally straightforward. The SMT divergence calculation (comparing NQ vs ES swing highs/lows in real-time) is the most technically challenging component to automate correctly.",
+    "key_insight": "The strategy's profitability depends entirely on aggressive break-even management. Without it, the reversal nature of the entries leads to consistent losses. Kane's key innovation is treating break-even trades as a positive outcome that protects capital while waiting for the trades that run. The 50% target is intentionally conservative — it's where price is most likely to reach statistically, and anything beyond is a bonus."
+  }
+}
