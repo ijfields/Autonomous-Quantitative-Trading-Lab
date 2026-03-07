@@ -1,0 +1,2667 @@
+All right. So today today we are diving
+deep into Claude desktop. Why? Because I
+was thoroughly impressed with Claude in
+Chrome and everybody including myself
+got hyped up on OpenClaw and then Claude
+and Chrome actually did the job that I
+needed to get done. So um let's go ahead
+and see this.
+It lives on your computer, not in the
+web browser. Okay, so Claude stays in
+the background accessible from your doc.
+Okay, so that's the point. Like
+OpenClaw, everybody's hyped on OpenClaw,
+right? I went ahead and did a super
+secret project I can't tell you about.
+It was supposed to take me a month and I
+did it in a weekend. Okay. So that gave
+me a lot of inspiration to go even
+deeper with Claude because okay my
+thesis has always been okay Claude is
+the actual
+Claude is the model built by Enthropic
+and if they build the agents and the
+model I mean Claude Code is good because
+of that reason right because they build
+the model and the agentic system. We all
+know that we're all Cloud Code users.
+Okay so I relate that to the iPhone.
+iPhone's good because essentially the
+hardware and the software is built
+together. I know some people are Android
+people. That's fine. But that's why it's
+good. Okay. So that's why I've been
+bullish on cloud code. It's just it's
+the best. Okay. So it's the best way to
+code cloud code. We know that.
+Then I tried out cloud chrome and it was
+absolutely walk of flames. So since it
+was walk of flames, I have to go to the
+next step and try claw desktop. So I
+said, "Anyways, go ahead and tell me
+about the cloud desktop." And I'm
+serious about this, dude. Look at this.
+If you go back, I started with
+resubscribe. I looks like I canceled. I
+essentially canled my other plan,
+cracker, that was going for my open
+claw. I mean, that's how bullish I am on
+cla chrome. Like, it does what I needed
+to do. If you think about your workflow,
+it's mostly in the browser. Okay, sick.
+So, it lives on your computer, not in a
+browser. Cloud stays ready in the
+background, accessible from your doc
+with a quick entry so you can pull it
+from anywhere in your system without
+losing focus.
+Desktop extensions.
+Co-work is interesting as well. Co-work
+is available as a research preview for
+all paid plans.
+And okay, so for me, I looked at cloud
+co-work was like normie stuff,
+right? like we're devs, we can do this,
+we use cloud code. But now I'm actually
+interested in looking at codework as
+well. So I'm going to look at both of
+those things today from a algorithmic
+creator point of view, developers point
+of view. I think it should be very
+interesting.
+Co-work is available as a research
+preview. Create and edit files. Okay.
+Cloud code built right now. Built right
+in.
+Oh, the cloud code lets you run it
+through a graphical interface instead of
+the terminal with features like parallel
+sessions. Okay, for developers
+specifically, you can run multiple local
+and remote sessions in parallel, each
+isolated as its own work GitHub tree
+work tree. The bottom line, Cloud
+Desktop reduces cognitive overhead by
+staying present across your operating
+system.
+So, let's go ahead and try it out, dude.
+Let's try it out. Let's just try it out.
+You know, everybody wants to talk about
+stuff and nobody's really talking about
+Cloud Desktop. So, let me go ahead and
+just see if it's worth it for me and
+you'll be able to see over my shoulder.
+And the way I look at this is, hey, if
+it's fire, then we all see it. And if
+it's not, then hey, we also all see it.
+So, all 10 of us or whatever here, 15 of
+us, we'll all see it. We'll all benefit
+from today and see if it's actually
+something useful
+as a trader or as a dev.
+Let me go ahead and get that new key to
+you. So, if you do get in before the
+end, 777,
+Vince, good to see you.
+Did I miss it? You missed the whole
+thing, bro. We're just wrapping up,
+Versad. I'm just kidding, dude. I'm just
+kidding. You just got here right on
+time. Life is perfect. Life is perfect
+and you are right on time. New key here.
+Okay, so I'm going to drop the API keys,
+all that good jazz. So, as you know,
+when you do arrive today, if you arrive
+on time, you'll get the key. And if
+you're late, I'll send it to you still.
+Don't worry. It's just I will um send it
+sporadically. Much love to you. Thank
+you. So, I've got my OpenClaw listener
+here, which is cool because
+she is going up and listening to my
+transcript here and seeing if uh there's
+anything that OpenClaw can go ahead and
+do for us. So, you can see I got Claw
+Desktop here. Just gonna pull it in and
+then I'mma open it up.
+Damon, how are you, dude? Good to see
+you.
+Ready to lock in? Let's lock.
+Let's lock, dude. Let's lock.
+Okay, you see that popup that came up?
+By the way,
+it said something about it being sketch.
+Everybody gets that. So, I'm going to go
+ahead and get started here. I have my uh
+cloud desktop set up.
+I got it downloaded at least. So, sign
+in with Google. [&nbsp;__&nbsp;]
+Let's pause screen. Let's put you on
+NFA.
+Continue with googs.
+Continue with googies.
+Um
+it's this one.
+Okay, I'm in there, I think.
+Okay, so this is what it looks like,
+dude. This is co-work actually. So, it
+looks like claw desktop is
+co-work initially and then we got code
+over here. So, let's just explore. So,
+this is open 4.6 code. Uh, what file are
+you in? Select folder. Okay,
+so I could probably just select a
+folder. What's local mean?
+Add SSH connection. Okay,
+let's say uh add SSH here. My server.
+Okay, so you got to put your poor SSH
+username. I'm not going to do that.
+Let's see. A friendly name for the SSH
+connection. Okay.
+Host. SSH host.
+Okay. I'm not going to do that, but
+maybe I can check out co-work. What's
+this stuff? So, let's knock something
+off your list. How can I help you today?
+Optimize my week. Organize my
+screenshots. Find insights in my files.
+Customize with plugins.
+What's plugins?
+Okay, this is cool. As you're a
+developer, this is actually opportunity
+if you can build plugins for claw
+desktop. if this takes off. I mean, I
+don't know. Does throw one in the chat
+if you use Cloud Desktop. One in the
+chat if you use Cloud Desktop. I wonder
+if anybody's using it yet because I
+think a lot of people are like me. It's
+just like
+it's just like for normies
+that don't know how to code.
+I'm installing it now. Okay. Jeff Harris
+uses it. Nice, Jeff.
+Yo, what up B?
+Big Vixie, how you doing, bro? Biden.
+Last time I checked Cloud Co-work, it
+felt like a mainstream terminal.
+Curious.
+Okay, so only Jeff is using. I'd be
+curious to see here how Jeff uses it.
+Um, browse plugins. Looks like that's
+cooked. Add plugins. Browse them. Okay.
+Optimize my week.
+Organize my screenshots. Find insights
+in files. What about optimize my week?
+Okay, interesting. So, they give you
+these. Tell me plan and optimize my
+week. I have my Google calendar open and
+ready for you to review and edit. First
+review my calendar
+where I have gaps of two plus hours
+before proposing. All right, let's just
+see what happens. I like I don't know
+what it has access to is the
+nerve-wracking part.
+I don't know what it has access to. I
+don't know. And you're going to see my
+calendar here. This is going to be
+embarrassing. Jesus.
+What the hell? It pops open a screen.
+Okay, so I see what it does. Pops open
+the screen here.
+Sheesh.
+Allow
+allow
+Claude to use the browser. Okay, stop
+it. Stop it. Stop it. I'm going to stop
+this. I'm going to go ahead and revert.
+Revert.
+Delete group.
+So, it does just use Claude Chrome. I'm
+going to go ahead and get this connected
+to a different I'm going to use
+Cracker's account.
+No, I can do this here. Let's try this
+again.
+Allow for this.
+Allow for this website.
+Working on it. Working on it.
+It failed because I closed it, but I
+just wanted to open in this browser is
+what I'm trying to say.
+I'm drinking a Celsius, by the way. So,
+if things get crazy today, you know why.
+You know why, dude? Celsiuses are crazy,
+bro.
+Make sure you're signed in to Claude.
+I see a fresh browser. Let me navigate.
+All right. Well, this is a stupid task
+anyways. Okay. Let's go to code because
+let's say select folder here.
+Okay, this is fine. You can see I click
+select folder and it pulls up all of
+these different things. Um, I've got
+this orderflow app that I built last
+night on stream. That was fun. It was
+just to um make some fun videos with. I
+have, you can see my like recent videos,
+all those colors on those those iPhones.
+I got like eight iPhones. Anyways, let's
+go ahead and um
+let's go to Mundev AI agents. Okay, so
+we're in there. Ask permissions. No way.
+Auto accept my edits.
+So,
+so far this is just clawed code with a
+UI on it cuz
+like I I don't I literally don't have
+anything on my calendar. You want to see
+my calendar, bro? Let's go see it.
+Google Calendar.
+You want to see what what being uh what
+a rich life looks like, dude? You want
+to see what it really looks like?
+That's my calendar, gang.
+This is my calendar.
+So, organize that. Organize my calendar
+for me, please. Members only live event.
+This isn't even real cuz I do a live
+event every day. Delete all
+members only live event. I guess I am
+here at 8 a.m. But this is my calendar.
+So like that project I was saying off
+with silly.
+Okay, let's go here to code and see what
+she can cook.
+Go ahead and look at my agents folders
+and see what come up with five ideas.
+Launch five parallel agents in order to
+come up with five ideas based off of my
+current agents. I want to push these
+agents to the next level. Look at my
+agents folder. Careful. Make sure you
+have prompts are good because they will
+edit all the files in the directory.
+&gt;&gt; Okay. Okay.
+I'm curious to see how they handle the
+multiple
+multiple clock codes because I feel like
+for now I I fix that with this.
+Jeez, I got kicked out
+and I want to see if they're attacking
+that. That'd be interesting because
+obviously they'll do better.
+But my biggest problem with cloud code
+is like trying to manage all of these
+tabs. So I built this in order to have a
+bunch of clog codes up here all day.
+So agent to agent
+self-evolving strategy system
+multi-source signal fusion
+contemplating awesome 48 agents.
+Now let me launch five parallel research
+agents each focused on different angle.
+Okay, sick, dude. Well, I want to I'm
+curious to see how it handles multiple
+of these. So, how would I do this?
+Can I start a new agent here? Run your
+dev server.
+What is this?
+Always allow, bro. Allow to run.
+H
+okay. Can I go over to chat and chat
+with it? Get Claude in Excel.
+Uh quickly chat to Claude in a few
+steps.
+Continue.
+So are you just you're just Claude Cook?
+Are you just regular Claude? Hey, how
+are you? Um can you go ahead and give me
+your five absolute best ideas to
+approach trading like Jim Simons would?
+I want to build some automated systems,
+specifically things that I can back test
+today. Thank you.
+Okay, so this is just chat.
+This is
+pod code with a UI on it.
+How do I have multiple going at the same
+time? Because I thought I read something
+about how you can use multiple at the
+same time. Always allow. So, so far this
+is cloud code without dangerous mode.
+crafting.
+Yeah. Um
+first first thoughts so far, dude, is um
+Claude and Chrome is sick.
+this.
+All right.
+I mean, let's go to Twitter here. Let's
+do some fun stuff here in Twitter.
+Let's go ahead and say on Twitter, let's
+say, hey, go through all of my
+notifications and people that respond
+and ask them
+a question that can pull alpha from
+them. So, it just needs to be one
+sentence, one question that can pull
+some alpha for not just me, but the
+whole audience, everybody looking at the
+post, like pull alpha, a simple casual
+question that looks at their expertise.
+So, look at their profile or whatever
+and see what their expertise is and then
+ask a question based off of their
+expertise. You know, it's free
+consulting. If you're gonna comment on
+my post, I want to get I want to get
+some knowledge out of you, dog. So, you
+comment, I'm gonna get some knowledge
+out of you. So one question, one
+sentence, simple,
+concise. Yeah,
+if you are quin algo trader, we want
+you. No more solo quants here. Gate in
+comments.
+Okay, so now she's going to go ask
+questions. And this is sicker to me
+already, you know, because what what is
+she doing up here? This is desktop. So
+far it's a nothing burger in my opinion,
+but maybe I'm just a noob. Anybody have
+any ideas of like why this is better
+than cloud code? Because cloud code time
+6 is the sickest. Cloud code times six
+in your face all day. Step on a gas fee.
+Awesome. 48 plus agents. All five agents
+are back. Generate five breakthrough
+ideas. Agent to agent communication bus.
+So problem your 48 agents are deaf to
+each other.
+A lightweight inmemory singleton
+Darwin engine. Okay, this is what I want
+to see, dude. More options, connections,
+add files. What I want to see is to be
+able to work with multiple agents at the
+same time.
+feel like that is the killer feature and
+I already built it but I want to see um
+yeah I don't know dude I don't know
+about this thing so far coowork
+coowork's cool but again like the
+coolest thing I saw on co-work was clean
+up my my desktop but I did that in cloud
+code so coowork's
+Chrome Clad the sickest thus far. The
+sickest. Is it responding to people?
+I think this is a pretty cool way to use
+um
+AI is ask questions of people that are
+on my posts because I can pull alpha out
+of you by asking the correct question
+and then everybody gets to see it. You
+know
+why use six different instances of CLI
+instead of teammates to be managed by
+Claude it? So because I'm a better
+manager than Claude.
+Can you just open another instance by
+just opening the program again?
+Uh maybe.
+I don't know if I would like that
+though. Let's go ahead and try it. Let's
+say file
+new conversation maybe. Here let's go to
+code section.
+I don't know if I want a bunch of
+Yeah, I don't think you can, but I
+wouldn't want a bunch of these. Like,
+I'd want something like this. I thought
+they were going to have this and I was
+like, damn, they cooked my my uh use
+case already, but they didn't. So, cool.
+We're still alive. We're still alive,
+fam. We're still alive. Mund app is
+still the best way best place to code.
+Best place to code in the world. And I'm
+not even on the leaderboard anymore.
+[&nbsp;__&nbsp;]
+Um,
+I don't know, dude. I would say it's a
+nothing burger. So far, I'm more
+interested in Claude and Chrome. That's
+it.
+That's it. Well, that's it for for uh my
+little little demo here. Anybody want to
+see anything? You curious about
+anything? If you are curious about
+anything, I'll go ahead and try it. But
+you can see it's a chat on your desktop.
+Cool.
+Co-work cloud code for normies. And then
+the code section is a UI on the code.
+But what they should do is what I did on
+Mundv app because that's the problem in
+my opinion. The problem is that
+the context switching is very hard when
+you have to be thinking about different
+concepts and also trying to find those
+tabs. So, I already fixed that problem.
+Desktop.
+Um, if I don't get any requests here,
+I'm just going to close it and never
+come back. Well, maybe in a in a while
+I'll come back. But for now,
+with all the open claw hype,
+I had to see if claw desktop
+was better.
+Here is the full
+Okay. So, that was um
+Please explain. If you can't follow, you
+got to catch up, dude. You got to catch
+up.
+Can't explain. I can't explain.
+You got to catch up. You got to catch
+up. You got to lock in. Got to lock in,
+bro. I I gave you the offer of how to uh
+learn for me. I can catch you up to
+speed at moonundev.com/go.
+Other than that, today and every day on
+these streams.
+Every day on these streams, I'm just
+building whatever I need to build. Chase
+Jim Simons. So, today I wanted to see if
+that was going to help my workflow. And
+I don't think Cloud Desktop is going to
+help me personally, but
+I tried it. I had to try it, you know. I
+had to try. I had to try it. So,
+I found some major things by trying out
+Open Claw. So, I Let's literally [&nbsp;__&nbsp;]
+around and find out.
+[&nbsp;__&nbsp;] around and find out. And that's how
+I live my life.
+[&nbsp;__&nbsp;] around and find out, dude. [&nbsp;__&nbsp;]
+around and find out. And I'm just going
+to keep [&nbsp;__&nbsp;] around and finding out
+everything that I need to find out. And
+then um I'll show you guys.
+Lots of docs to explore with lots of
+functions to connect.
+Yeah.
+Kelly, are you saying that about cloud
+desktop?
+Cuz I think it's cooked. I'm deleting
+it. Deleted.
+Damn. Maybe I missed out an opportunity
+there. But hey, if you guys have any
+ideas of how to use cloud desktop, I'll
+definitely revisit.
+Damn, did my account get suspended?
+I just get suspended.
+Damn, dude. That'd be funny.
+So, I wonder if this is actually working
+here. Let's go ahead and see. Let's go
+to my Twitter here.
+And let's go zoom out a bit so I can see
+You will not become a quant not because
+you're stupid, not because you don't
+have enough access information. All the
+content is free.
+You won't become a quant because
+you open Tik Tok. It's too hard.
+Yeah. You won't become a quant because
+it's too much slop.
+You won't become a quant because it's
+too much slop.
+I can't read. I can't read that much. I
+just can't. And I know that sometimes
+I'll post that much, but I'm not reading
+that [&nbsp;__&nbsp;]
+Okay, so let's see if she's responding.
+I don't think she's working. Actually,
+anyways, it doesn't really matter. It
+doesn't really matter. I just wanted to
+see something better than uh cloud
+desktop.
+How's it going, bro? How's it going,
+bro? Are you uh doing anything? I don't
+see any responses yet.
+I mean, this was also stupid. Like, I
+don't I don't need to do this. I just
+wanted to see if it was better than
+desktop. It is better than the top. So,
+let's move on. Loving your work. Thank
+you, Richard. Game changing. Appreciate
+you. 777 to you. Kelly says this
+connectors. Okay. Okay. So, maybe this
+is some fire.
+Canva, Slack, Figma, Monday box.
+Still grindy, bro. I'm going through the
+notifications and building out a full
+list of every person who replied. I've
+got all the handles now and I'm in the
+process of visiting each profile to
+check their expertise before crafting
+the perfect alpha. Okay, keep going.
+Sweet.
+Sounds like you are cooking.
+Keep going.
+777. Kenny, good to see you. 777. Jeff
+777. Richard 777. Kelly
+killer. Kelly,
+thanks for your zoom. My pleasure, dude,
+and all your hard work. Been using
+codeex. Time to move to cloud. Okay.
+Okay. I used codeex. It wasn't bad. It
+wasn't bad.
+It's not as good as Claude, but hey,
+it's a much better deal, and I think
+that's important. By the way, I did sign
+up for this. I don't know if any of you
+guys are if you're looking for deals,
+dude.
+Let's do uh Miniax
+coding plan. I want to set this up
+actually because I did sign up for it.
+coding plan miniax API
+100 prompts for five hours. That's my
+current. I got $10 per month. I actually
+want to do that right now. I think
+that's going to be interesting.
+I wonder how you set it up
+and I can probably set it up inside of
+Quant.
+Stop calling it that, bro, before you
+get sued.
+All right. You can see that I'm kind of
+a pro user when it comes to clock code
+and I use it all day. Six different
+versions or six different projects at
+all times and I just step on the gas all
+day. So I know that it's a little
+expensive. That's the problem. So if you
+are looking for a better way to use
+cloud code, but maybe even 20x cheaper,
+I have the simple concise step-bystep
+training here of how to do that. I found
+something that is almost as good as
+Opus, I would say. Let's say it's
+between Sonet and Opus level um when it
+comes to AI
+and you can have a aentic framework like
+quad code but it's 20x cheaper. So shout
+out to Artail for putting this on to
+this a while back. What did I do in the
+last few minutes? I'll write that down
+soon. But this I'm not going to bury the
+lead. It's this. It's Miniax Miniax
+coding plan. You can see it's literally
+20x cheaper. 200 bucks first 10 bucks.
+Now, you can you can upgrade to more,
+but you're probably not going to hit 300
+prompts. You're probably not going to
+hit 1,000 prompts.
+Probably won't. Let's see. Let's see.
+Today, let's go ahead and get all of
+this set up. Miniax is 10 bucks for 100
+prompts in 5 hours. I bet you don't hit
+that. So, $10 versus $200. Are you
+kidding me? Boom. There you go. Alpha.
+Alpha in the chat. This is my current
+plan. What we need to figure out right
+now is how to set this up. How to set
+this up inside of the Moondev app
+because the big game changer for me was
+the Moondev app being able to have
+multiple cloud codes at the same time.
+So, investigating
+Claude and Minia Max, okay? Because the
+context switching is hard and you know
+that
+it's hard, especially when you're
+searching through these like tab after
+tab after tab after tab. Like, where's
+my Yeah, dude. That's hard. So, putting
+it all up here, it's fire. Let's get
+Miniax up here. How do you do that?
+I don't know, Claude. Let's ask her.
+Hey, how do you set up Miniax the coding
+plan to be inside of the terminal? Is
+there a walk through you can look at?
+God, he's cooked, dude. He's cooked. The
+docs are right here. Just look at the
+docs. No, you look at the docs.
+So, I just need to install it and then
+run it. Okay.
+I'll look at the docs. I'll look at the
+docs. I'll look at the docs. View the
+docs.
+Coding plan quick start. Yes.
+Subscribe. Perfect. I'm already
+subscribed. Install anthropic. Got it.
+anthropic API key. Why is it using
+anthropic?
+You can use it in cloud code.
+Use Miniax 2.5 for AI programming in
+cloud code. Uhoh. Important. Clear
+anthropic variables.
+Wait, wait, wait, wait. You can use claw
+code. Miniax include code
+in your terminal. Just two steps. Okay,
+so we subscribe. Okay, I've already got
+it. So, I signed up for the $10 plan.
+That's 20x cheaper.
+And I have a feeling
+that it's going to be just as good as
+Codex. at least maybe not good as good
+as cloud code, but as good as codeex at
+at the minimum. We'll see. Configuring
+your terminal. Okay. The coding plan
+works as a backend AI coding for cloud
+code. Cursor client. Okay. Sick. Since
+you want it in a terminal, cloud code is
+the most natural fit. You point claude
+code at Miniax's API endpoint using your
+Claude plan, your coding plan key. So,
+from the docs, you have a dedicated
+guide for each tool. For terminal use,
+I'd check cloud code guide, codec cli
+guide.
+Okay, so we're changing the endpoint
+and then I got to get my coding plan
+API.
+So I plan on using cloud code for this,
+but I want to swap out the miniax. Okay.
+yeah, just walk me through that step by
+step. And I'm going to do this slow. I'm
+not going to go fast. I'm not going to
+be some some dev about this. No, I'm
+going to make sure that everybody can
+see this step by step. Here's the full
+step by step. Okay. So, first you have
+to install cloud code. If you don't have
+cloud code already, well, you install
+that npm install cloud. Okay. Step two,
+get your miniax coding plan API key.
+Okay. So, how do I get my API key? Well,
+you sign up for a plan. Okay, so sign up
+for one of these. Obviously, start with
+the $10 one because I said it's 20x
+cheaper. Okay, then let's go to our
+account
+and then let's go ahead and get my API
+key. Okay, so let's go ahead and take
+this off the screen just for a sec. I'll
+bring it back, dude. I'll bring it back.
+Don't worry.
+Don't worry, dude. I'll bring it back.
+Create new secret. This is going to be
+called flawed code.
+Okay, I got my key. Now what? Okay.
+Okay. Okay. So, we got my key.
+Subscribe at platform.minia.io.
+Okay. Got that. Got the key. Then create
+the cloud code config file. Edit or
+create the settings.json.
+Doesn't exist yet. Just run claude once
+and quit the CR. Crl R C twice. It'll
+create the new folder.
+Paste this in.
+Step four, clear any conflicting environ
+environment variables. Okay. So, what
+I'm going to do here is this. I'm going
+to make this very simple for us. Okay.
+What I'm going to do here is this. I'm
+gonna say, okay, and this is just for
+everybody because I'm five years into
+coding and I still just let AI do
+everything, okay? I'm not a big head. I
+don't need to be the best coder in the
+world. I don't
+I'm the most persistent. I'm the most
+locked. Don't need to be the best coder.
+No way. No way. That's not me, dude.
+That's not me. I can code. Yes, I can
+build anything for the rest of my life.
+I believe code is a great equalizer, but
+I don't I don't need to sit up here and
+pretend like I I know every little
+thing. No way, dude. If you if you need
+to know everything, you're cooked
+because I know nothing. I just keep
+finding secrets over and over and over
+again. I have no opinion. Just let me
+cook. Okay. So, I'm gonna say, "Hey,
+that's all of the stuff she just sent
+me. Let me paste it in. And then I'm
+also going to grab my key. I'mma grab my
+key and I'm going to put it in here."
+Okay,
+this is the instructions to switch on
+over to Miniax
+from Cloud Code. Go ahead and set it all
+up for me. You can see my key is here.
+That's it. Set it up.
+Okay. So, I gave her my key. Then,
+question for you. Question for you. If I
+do do this setup here, how do I switch
+back? How do I switch back to cloud
+code? Like, if it's not fire, how do I
+switch back?
+You know, I'm a paying subscribing
+member for Cloud Code and it's working
+naturally. Okay. So, I just need to
+switch back eventually someday. Maybe I
+probably will. I probably There's no way
+I'm going to stick with this.
+Yeah. So, just show me how to switch
+back when I need to. I'm not I'm not for
+sure going to stick with it, but I want
+to use it for today because I think it's
+Okay. What did it say? She said done.
+Here's what I set up.
+You can see this part.
+Done. Here's what I set up. The base
+URL. So, it's API.minia.io/anthropic.
+I just sent all that slop she sent to me
+to my cloud code. O token. Your miniac
+coding plan written not shown.
+Model Miniax M2.5
+for all model slots. Timeout is 300 3
+million seconds milliseconds. Disable
+non-essential traffic. Yes. Preserved
+all your existing permissions, plugins,
+and agent teams. Okay. Next steps to
+activate it. Here is quit this se
+session in your terminal. Clear
+conflicting environment variables.
+Okay, I did that. So, you have to run
+these things. Unset.
+Okay.
+Unset something. I don't know what this
+means. Don't care. Really don't care.
+Really really couldn't care less what it
+meant means. Just want to just want to
+get it in. B. Okay, let's run it. Model
+Try Opus 4.6. Miniax 2.5 Miniax M2.5
+20x cheaper. Boom. 777. Much love to
+you. I hope this is helpful, dude. I
+hope this is going to save you a ton of
+money and I empower you to build bill,
+baby. Bill build bill, baby. Bill build.
+Look, it's 10 bucks now. It's $10
+and I can cook everywhere, I think, with
+it. Yep. Yep. We're on Miniax
+everywhere. How the hell did you get on
+Miniax already, though? I thought I
+thought I'd have to reset it.
+We're miniax everywhere. Go ahead and
+explain this. Um,
+please explain this project here
+what I'm working on and one simple way
+to take this to the next level.
+Okay, we're on Miniax across
+five. Let's get it on miniax here as
+well.
+Miniax
+model try opens 4.6, but we're on Miniax
+2.5. And again, here's another little
+bumpity bump of
+fire. Let's go to Miniax here, API
+reference. Look at the pricing. Okay,
+let's go to um now. Okay, so I'm using
+the coding plan right now, but you can
+also pay as you go. And let's just look
+at it straight up. Minax M2.5 is.3 M
+tokens input and 1.2
+output. Remember this.3 in, 1.2 2 out.
+Now, you are giving your data to China.
+I know some of you don't like that.
+Okay, I don't care cuz I got literally
+I got 10s up in my house right now and I
+know China's listening to me. I'm
+streaming all day.
+Coding with Claw Code. They're probably
+going to give it up as well. I don't
+care.
+Cheap, good, fast, dude. This is cheap
+and good and fast. Interesting. Is it as
+good as Clude? Remember this.3 in 1.2
+out. Okay. Claude um opus
+claude pricing API.
+So remember the numbers. Do you remember
+them? I don't. 3 in 1.2 out. Opus five
+in $5
+inward
+25 out. Crazy savings.
+So now for the rest of your life, you
+don't have to pay these crazy prices.
+Even down here, Haiku is $1. Haiku is
+trash. Sonet is $3 in. This is 30 cents
+in, dude.
+That's 10x better than Sonet. That's a
+lot more than that on Opus. So from here
+on out, you have a source that number
+one, you can go ahead and use
+in cloud code, but number two, if you
+want to scale to your apps or whatever
+or your bots or whatever, dude, now you
+got it inside of here as well. You got
+an API and cloud code. Okay, let's go
+ahead and explain all these. See if it
+actually works.
+So I just hit the satellite button that
+sends a prompt to all of them.
+So you can see here I just sent China
+all of my data for all of my my uh
+GitHubs.
+So now you have something that is 20x
+cheaper for cloud code. Okay? And you
+have something that's 20x cheaper for
+the API. And this is only because I lock
+in every single day and I show you guys
+everything.
+And what happens is when I show you
+everything and people always ask, why do
+you show this? It's such a secret of an
+industry. Why are you showing this? Blah
+blah blah blah blah. You can't have a
+course. Yada yada. Dude, if I provide
+enough value, you know how I found this?
+I found it from the Zoom chat. Art
+specifically. Art found me on YouTube
+just like you did. Do you believe in
+abundance? Do you believe that you if
+you give enough, you get enough back,
+you get more back? Because I do and I
+always have. And that's my thesis the
+entire time. I believe code is a great
+equalizer.
+For me, once I learned how to code, I
+can't lose now. I can't lose. Can't lose
+because I'm able to test all this stuff
+out. Okay, open CL. Everybody talking
+about open clock. Okay, let me test it.
+See if it's fire. I found something
+better.
+Okay, I I find some bots that work.
+Okay, let me go ahead and build this
+bot. Let me build a back test. I'm just
+going to give give give and then fire is
+in the chat. That fire that that art
+gave me is literally a 20x for the rest
+of my life.
+So I know we're in a scarcity le
+industry. I know finance is very like
+PvP. I don't want you to win, but I want
+you to win cuz if you win, we win. If I
+give you everything I got every single
+day, I know you guys will sprinkle some
+stuff on me. You sprinkle a little
+chicken on the salad for me, dude. Come
+on. I know you will. You put fire in the
+chai every day. So, big shout out to Art
+for putting us on Miniax. By the way,
+this whole OpenClaw stuff, this is how I
+save money on OpenClaw. All models are
+pretty bad on OpenClaw, but Miniax is
+not as bad. Opus is obviously the best,
+but you can't afford that. Neither can
+I. Five Open Claws running with Opus all
+day. No way. No way.
+Uh, what are the usage limits? That's a
+good question.
+I don't think they are usage limits.
+This is China, bro. This is China. They
+ain't going to say no to our money. They
+said, "Give me more. Get more. More. You
+buy now." Price is $10 a month. The
+limits is 100 prompts per five hours.
+I don't think you can
+I don't think you could do that. I don't
+think you can do 100 promps in five
+hours. Maybe
+I don't think you can do 300 promps in 5
+hours for sure. If you have this running
+on OpenClaw, that's a different
+conversation. But at the minimum, this
+is a 10x saver. At the maximum, it's a
+20x saver. Now, like if you're going
+crazy with OpenClaw and they're running
+all day, I would be very very surprised
+if you could ever get to a thousand
+prompts in five hours. I haven't been
+able to get there, but
+they like to step on the gas, too. I
+love China, dude. I love the mentality
+out there. Oh,
+yes. This is anthropic, too. Now, Mini
+Max is anthropic, too. They just got
+caught stealing, just stealing their
+models. Good for them. Great artists
+steal.
+Great artists steal.
+If you haven't read this book, you
+should read it because in algorithmic
+trading, this is literally what I teach
+you. Go [&nbsp;__&nbsp;] take your competitor's
+strategies. I literally show you all my
+stuff. You take them. So, just go do
+that. Go do that.
+Can you go ahead and give me a short
+concise synopsis on what this book is
+and then how it can be applied to
+algorithmic trading? I teach a RBI
+system. Research, back, test, and
+implement. Research starts with
+listening to podcasts, reading books.
+You're literally stealing people's
+ideas. See if they work for you.
+I think this is a good book.
+Maybe it's not called that.
+Steal like an artist.
+Steal like an artist. It's a good book,
+dude. Go read it. It's a really quick
+read.
+I think it's important. A lot of us uh
+developers here, we're kind of like, oh,
+I need to build something so unique and
+it has to be mine and like that's really
+just ego at the end of the day. Great
+artist steal by Austin Cleon. It's
+really called a steel like an artist is
+a short punchy manifesto about creative
+borrowing. The core idea is that nothing
+is truly original. Nothing's original.
+I'm not original. You're not original.
+No thoughts are original. Sure, we have
+some every once in a while. Every great
+creator builds on what came before. This
+is called emulating. This is how I've
+had all my success in my entire life. I
+told you I ran it up in the app store.
+But how did I do it? I emulated. I found
+good apps and I made them way better.
+How am I running it up in algo trading?
+I'm emulating. Okay, that's a nice big
+word for stealing somebody's idea and
+making it better.
+Instead of waiting for a unique idea,
+you study the people you admire, absorb
+their influences, and remix
+what you find into something reflects
+your own perspective. It's called
+emulating. Cleon frames this as not
+plagiarism, but as the natural creative
+process, trace, copy, internalize, and
+transform. Applied to your RBI system,
+this maps perfectly. In algorithmic
+trading, stealing looks like this. You
+hear a quant on a podcast mention they
+use volatility regime filter. Yes,
+exactly. entry mean reversion trades.
+Okay, that's the steel. You don't copy
+the exact system. You take the concept
+back test whether it improves your
+entries and if it do do it becomes part
+of your edge. Simple. Some concrete
+examples of stealable ideas from the
+trading world.
+Larry Connor publishes simple RSI based
+mean reversion rules openly. So I I
+share everything, but I'm not goat. I'm
+not goat. There's goats out there that
+share everything as well. in books,
+podcasts. They're not going to give as
+much, but they their goals. Steal the
+logic. Test it. Test it on your
+instruments. Trend following, funds,
+publish, research, letters, and white
+papers. The core mechanics, breakouts,
+position sizing, correlation filters are
+all stealable ideas. I have 30 trading
+books in here. I got volume profile
+right there. I got options, volatility,
+and pricing right there.
+I got machine learning for trading right
+there.
+Man,
+all the secrets are in books, dude.
+They're all in books and pods. That's
+why if you look at the road map that you
+do have now, moon.com/roadmap,
+put in the API key I gave you.
+These ideas are here for you. They're
+there. It's just are you going to put
+the work in? Most people won't put the
+work in. RBI system is how you automate
+your trading. This how the system I
+follow. People, somebody asked me today
+like, "Can you give me a strategy that
+works?" This is the strategy that works.
+No, it's not a plug-and-play bot, but
+it's the strategy that works for me.
+Process of automating your trading
+starts with research of trading
+strategies. Research those strategies,
+find things that might work in the past,
+then check to see if they actually work
+in the past. If they do, they're not
+guaranteed, but they're much more likely
+to work in the future.
+So, research, back test, incubate. Okay?
+So after you find something that works
+well in a back test and you incubate it
+small size, you can see Google Scholar,
+there's a plethora of PhD papers,
+you got books on trading, you got
+podcasts. I give you this road map for a
+reason because I want you to steal these
+ideas. I want you to take these ideas
+and bring them to the next level because
+these are literally from my notes from
+going through the RBI process. So people
+ask me for a book. This is better than a
+book. This is better than a book.
+But speaking of that, let's go ahead and
+see if she can write a book. Can you go
+ahead and start mapping out the outline
+for a book based off of
+moonv.com/roadmap?
+Uh nice digestible book that people can
+read on their couch on a lazy Sunday
+might be another way to send this
+information to them. You know, this is I
+think the road map is better than a
+book, but some people want to open up a
+cozy book. So yeah, just go ahead and
+start writing a book for me.
+So, first build the outline. I'll check
+out the outline and then you go ahead
+and I'll make any updates I want to it.
+But this is literally my entire process,
+the RBI system. It's my strategy to
+approaching algorithmic trading. I have
+a bunch of ideas on there. I've got a
+book list. So, again, steal like an
+artist. Here's my books, Market Wizards,
+Chat with Traders.
+But I think this would be a very
+interesting book to read. And I tried to
+do this with open claw and it kind of
+shot the bed. Just is what it is. I
+think you can do this though. So, let's
+go ahead and cook, gang.
+All right, let's have her write a book.
+Have her write a book. Why not?
+Why not? Let's see how she's doing over
+here on the Twitter thing. Too much
+media, huh? Okay. I was hyping you up. I
+was hyping you up, dude. Don't mess up
+now. Okay. Look at this. So, this is
+Claude and Chrome.
+And again, I'm more bullish on claw and
+chrome than open claw now. Open claw for
+the future possibly. Yes. But again, for
+the whole reason of being the AI model
+is being built by the same company that
+is building the tools, I'm very bullish
+on that.
+But this is pretty sick in my mind. You
+now know how to use
+claude code.
+Mini Max Claude Code. You now know how
+to use Claude Code. Much cheaper. And
+you can see she she did great. I mean,
+these are all her responses. Some AI
+slop that looks just like Opus' AI slop.
+Now, I'll take this to the next level
+and just use this for the rest of the
+day. But I do want to update you on this
+one last thing because if you do want to
+change back, this is how you change
+back.
+Super simple. Just edit the same
+settings.json. So, I'm going to go ahead
+and copy this. Just delete the Miniax
+config, replace the whole thing, then
+open a fresh terminal.
+Oh, interesting. If you want to go back
+and forth, easily save your Miniax
+config as a backup file.
+Okay, let's do that. Actually, let's do
+that because then what happens is I'm
+going to keep my $200 Claude code for
+now. But hey, if it cooks, it cooks. And
+honestly, that's my biggest worry with
+with um
+Anthropic.
+It's my biggest worry. So, if we go here
+to get exposure to Anthropic, it's like
+Amazon and Zoom in my book. Okay. But
+let's see how those go.
+My biggest worry with Anthropic is that
+they're going to get beat by China.
+If China just keeps stealing their their
+models, distilling them and making them
+our own, like we're gonna use China's
+models straight up. Like, throw a one in
+the chat. If if this is if Miniax 2.5 or
+2.8, if it becomes as good as Opus and
+it's it's the same model, throw a one in
+the chat. If it's just as good, will you
+switch to it?
+$10 verse 200. That's what I'm saying.
+Like we have no loyalty to Anthropic. We
+code with the best deal and the best
+coder. That's it. If it's $10 a month
+versus the 200, that right there is my
+biggest worry with my anthropic thesis.
+And you know me, I'm like trying to get
+exposure to anthropic, you know, Amazon,
+Zoom, whatever.
+But that's my biggest worry is that they
+might not make it. They might they might
+just not make it. They probably will
+because I think they're going to
+captivate most of the world with when it
+comes to like business, you know,
+enterprise. I don't think enterprises
+all trust China as sad as that is.
+Whatever. But you just saw it here.
+Everybody threw ones in the chat. Like
+if it's a $200 plan for Cloud Code and
+if Miniax
+is 90% as good as Opus, yeah, we're
+going to switch, dude. We're going to
+switch. So, you know, you see Anthropic
+complaining about China
+distilling their models and stealing
+their models. You also see Anthropic
+saying no to, you know, whatever the
+Department of War,
+you know, I I respect that for sure, but
+it's like, damn,
+they know they're hot [&nbsp;__&nbsp;] right now,
+but coming from a developer standpoint,
+me and everybody in the chat,
+it's like, yeah, you're sick, but at the
+end of the day, if Miniax is just as
+good and $10 versus 200, we're
+switching. We're switching. So now you
+know how to get Claude Code to be about
+20x 10 to 20x cheaper. And the last
+thing I want to do here is copy this
+over and get this switch settings set up
+because I think this is going to be
+interesting. And I I'm very excited
+about this actually because now we have
+a not only a backup plan for when you
+you run out of limit whatever
+but this might be a possibility to just
+switch off claude and dude that actually
+is very very um I'm thinking this
+through out loud with you but that's
+scary to me. That's scary to me because
+I've I'm very bullish. I'm bullish on
+anthropic but that is the biggest
+problem. Can you go ahead and set this
+up so we're able to switch back and
+forth between our Miniax 2.5 and Cloud
+Code? And then go ahead. Yeah, set it
+all up and then tell me step by step how
+do I how do I switch? So, how can I
+switch back to Claude from Miniax after
+you set it up? It should be an easy
+switch. Okay, so you saw the prompt that
+I put in there just in case you want to
+do this as well. I pretty much said this
+whatever she said. Keep both if you want
+to go back and forth easily. Save your
+Miniax config as a backup file. Boom.
+And I just sent it over to her.
+Now I'll create the backup files. Okay.
+Sick, dude.
+So now I can switch between. And now you
+know how to, too.
+That's fire.
+Yeah. I I I wonder I wonder if this is
+going to stick, dude. Okay. Switch back.
+How to switch between Miniax. Done.
+You've switched to Okay, so this is how
+you do it. Um
+I'm just going to send that in when I
+want to switch. But I think I'm going to
+just use Miniax for the rest of the day.
+Maybe for this week. I don't know if you
+saw that, but I did cancel my Claude
+plan. I had two for OpenClaw, one for
+me, one for OpenClaw, and I just
+canceled my second one. So in 5 days I
+will be just one account again
+and for my personal coding that's enough
+for me.
+Will you cancel open claw and move to
+miniax? I have I use miniax on openclaw.
+So openclaw is a free free uh framework
+or whatever but um you have to use an AI
+model for it. So I was using claude for
+a bit and then I switched to miniax once
+I found out about this. So, it's just
+opus Opus is too expensive to be running
+at scale.
+You're welcome.
+Let's see how this book is going.
+Got everything on the road map. Here are
+the sections are fully expanded. Here's
+the book outline. Book outline. The algo
+traders playbook. Stop guessing. Start
+automating. Nice.
+Why this book exists? The road map is
+great, but some people want to curl up
+with a book. This is that book. A casual
+no fluff companion. The munda philosophy
+of systematic emotion-free trading. The
+introduction. The market is a war game.
+Yeah, let's just go ahead and start
+writing this, dude. Let's see. Please
+write it.
+write the full book
+now and then give me a PDF.
+I'll put it in the live section.
+777. Thank you.
+Look at this, dude. Guess what happens
+today? I'm back. I'm back. Starting
+today, at some point, my strike is
+getting removed. So, this is good
+because if I get one more strike, I'm
+out for two weeks and then a another
+strike after that, I'm out for ever.
+So, it's actually I got on December 5th,
+I got my last strike here. And um the
+way YouTube works is they give you one
+strike, they kick you off for a week. I
+went ahead and got my strike and then I
+went to I went on a trip. So that was
+kind of nice. But um if I get another
+strike, it's two weeks. So it's nice
+that this expires here in um today at
+some point. So congrats to me. Congrats
+to you as well because keep it pushing
+until I get kicked. Keep it pushing till
+I get kicked. What's up Art? How are
+you, dude? We just had a whole segment
+about you.
+We just had a whole segment about Art.
+Good morning 777. That's happening more
+and more often. Look at this oil, by the
+way, based off of yesterday's um
+analysis here.
+We did the whole oil trade yesterday and
+that looked uh looks pretty good. That
+would have made somebody a billionaire.
+5% move in oil. It's a lot.
+That's a lot. We spent a lot of time on
+that yesterday. Did I take the trade?
+No.
+But hopefully somebody did.
+No, but don't trade. Don't trade based
+off me though. So don't don't Yeah, I
+hope I hope nobody did based off me. But
+not a financial advisor, dude. Oh, I
+want to get this twisted. I want to get
+this twisted. Put those boys on an ad
+because they've been here. There's so
+much I have to show you here today.
+Every single day I'm live, but I do
+private lives in Zoom now. So, if you
+want to chat with me and you want to see
+all the code, you can see like some of
+the code is blocked from your screen. I
+just block it with this little thing
+here. Um, the reason is I got hacked the
+other day and it's because some I showed
+something on my screen. So, there are
+prying eyes that I can't I can't let see
+everything. You can still listen to me,
+of course, and you'll get some uh you
+know, there'll be some breaks that you
+won't be able to see everything, right?
+Um, I'll I'll keep the live open for
+YouTube, but there's going to be a block
+on my screen and there's going to be um
+these segments where I tell you about
+jumping into the private stream because
+if you jump into the private stream,
+there's a link. It's at mundav.com and
+you're going to get an API key to
+Hyperlquid's data layer that I built
+here and this is a direct node and you
+literally can't get this data anywhere
+else besides the API key that I drop in
+the live stream. So you can see I'm able
+to see all liquidation levels. I'm able
+to see uh Binance liquidations. I'm able
+to see OKX liquidations, everybody's
+liquidations. I'm able to watch HLP. HLP
+is Hyperliquid's market maker. I get to
+see every single one of their trades. I
+also get to see every single um win loss
+analysis of every single trader. So you
+can see this is trade history of
+anybody. So, I can just call anybody's
+address on Hyperlquid and see exactly
+what trades they've made and when
+they're making trades. This is stuff,
+this is like a institutional grade API
+that will cost more than $1,000 per
+month and you actually get access when
+you join one of my live streams. So,
+every live stream I put down an API key,
+but not only that, you also get the full
+replay. Everybody wants replays of my
+lives and you get a full free replay.
+All you have to do is go to
+moonondev.com and you're going to get a
+replay of yesterday's stream which was
+$5 and today's stream. So it's just five
+bucks and you get all of that. But you
+also get this API key and I said this is
+going to be $1,000 plus per month. You
+can see I have a smart money call. So
+things that Wall Street is looking at I
+we can all see with this API key. It's
+because I believe uh it needs a better
+API in order to call things faster. I
+was building out the quant app here that
+is essentially looking at people's
+liquidations and I ran into the problem
+like I need this data faster. So I
+launched a node and then I made it
+available for everybody that comes into
+the zooms each day. But again they're
+private zooms only because I've got
+people that are watching my screen
+looking for me to drop a key, drop a AP
+I, whatever and just some sort of
+vulnerability. I got hacked. So, I just
+can't show this live on YouTube anymore.
+So, I cover my screen again like this.
+I'll just have this up pretty much all
+day. Uh these are my stats from the
+previous week. Uh you can see my stats
+there. Uh since everybody in YouTube,
+they seem to just be coming by to see uh
+what's in my pocket. So, um, since I
+started trading with the Quant app,
+which is pretty much my 5 years of
+experience built into a downloadable
+app, I did this because first off, I
+don't believe in hand trading. I'm an
+automated trader. But I looked at the
+data and everybody's still using 40x
+leverage. And I looked at I have over
+150,000 people now follow me, 100,000 on
+YouTube, 50,000 on Twitter, and only a
+small small percentage ever took me up
+on the offer of learning how to code. I
+teach you how to code and then automate
+your trading. I used to teach that
+stuff. Um but only a tiny tiny
+percentage actually did did that. They
+actually joined the boot camp and then
+out of that maybe 50% of them actually
+completed the boot camp. So I have the
+data that 99% of people are just trading
+by hand using 40x leverage. So I'm
+trying to solve this problem, the 40x
+leverage problem. Uh so I'm doing a
+little bit of kind of hand trading. I'm
+not able to enter positions without
+liquidations happening. So, I'm really
+just taking over people's liquidations.
+And why am I taking over people's
+liquidations? It's because that
+Hyperlid, that's their strategy. So, if
+you go to Hyperlquid here and you go to
+Vaults here, their HLP provider,
+they put in $1,000 into this HLP
+provider and it's at $118 million.
+That's why I built out this data layer
+to watch every single one of their
+moves. I know exactly what positions
+they're they're doing. This is the HLP
+dashboard. I mean, I know exactly when
+they're entering, when they're exiting,
+where they're sitting. I have a bunch of
+calls that will go ahead and just keep
+me uh into the know of what they're
+doing. Plus, every other trader on
+Hyperlid, Hyperlquid opened up the
+financial system for the entire world.
+And before this, there was no way for us
+to see where people get liquidated. So,
+based off of this premise, I've built
+some really great automated trading
+strategies. And since I am here now
+building for the public, building for
+those 40x hand traders, I built the
+Quant app and I'm using that liquidation
+strategy or one of the liquidation
+strategies. Of course, there's still
+intuition here. So, it's not like you
+can download this Quant app and make a
+million dollars. No way. There's still
+some experience and intuition, but this
+puts like bumpers around your trading.
+You know, there's risk controls here. I
+can never use more than X amount of my
+account. I can't lose more than 3% of my
+account in a day. Things like that that
+are just hard to do as a hand trader. I
+built into the coin app, but I think the
+main feature is buying and selling
+around people's liquidations. Nobody can
+predict price. And if you think you can,
+you're probably going to get smoked. I
+think by now you realize that, hey,
+within like a 1 2% range, it's really
+hard to predict price. So instead of
+predicting price, I'm predicting which
+liquidation to buy. So, for example, I
+could say when this guy gets liquidated
+right here, I will buy a portion of my
+portfolio, but instead of just saying,
+"Hey, I'm going to buy now or sell now."
+I'm just waiting for somebody to get
+licked. So, it's just a quantitative
+approach I'm trying to build into a
+downloadable app because I realize 99%
+of people are still trading by hand and
+still using 40x leverage. So, if that's
+the biggest problems trader traders
+have, that was my biggest problem. I was
+getting liquidated when I was using
+leverage, but now I'm three plus weeks
+in using 40x leverage. And if you go
+look at my Twitter or on my screen right
+now, you can see that this week I I had
+a a nice return. I used 10K max size. So
+a $4,900 or $4,900 return is about 49%.
+That's amazing.
+Is it going to work for you? I don't
+know. I can't guarantee your results. I
+don't know how you trade. I don't know
+how risky you are, but I know that for
+me with 40x leverage, I wouldn't last
+more than 3 days and I'd be staring at
+the screen the entire time.
+So, so far so good. It's It's helped me
+last 3 weeks and I'm up instead of blown
+up. So, I don't know. But what this led
+me to was, hey, I need these liquidation
+this liquidation data way faster. With
+the API, you can you can't get this data
+this fast. You can see how it's changing
+every second. I have a node launch. I'm
+connected to the node and that node you
+have all the data if you join the zooms,
+the private zooms because you get a free
+API key. You can see every single tick
+data. If you're trading right now
+algorithmically and you're not using
+tick data, you're just missing out on a
+huge edge because every tick matters.
+It's not about open, high, low, close,
+volume data. You need the tick data. So,
+I've got the tick data for all tokens.
+That's crazy. Just hit that API. So you
+get the API key when you join. It's only
+for people in the Zoom. I just launched
+this data layer, so we're rolling it out
+slowly. It's only for people in the
+Zoom. If you want the API key, it's only
+for Zoom people. You can see there's a
+ton of other great things here like
+liquidation, fetching people's
+positions, the top 10 closest
+liquidations to uh getting liquidated,
+positions getting liquidated. So kind of
+like what you see in the Quant app. But
+yeah, I just wanted to give you an
+update here. Um, you can just go to
+moonondav.com and sign up for the live.
+And the cool thing I do is I'm here
+usually for a couple hours at least,
+sometimes more, but you can see you get
+a free API key and that's a $4,850
+value for the Hyperlquid data layer. If
+you want to go check out the docs as
+well, mundave.comdoccks.
+But I highly recommend just jump into
+the live right now because I I
+overloaded it with value.
+You might have more talent than me. You
+might be smarter than me. But if we get
+on the treadmill together, right?
+There's two things. You're getting off
+first or I'm going to die.
+It's really that simple.
+Now, the p page might look different
+than this if you're if it's today, but
+hey, you know, it's every single day
+around 7 a.m. Eastern. I'm here for 2 to
+7 hours. And the cool thing is is if you
+get in before the end of the Zoom, you
+get yesterday's full replay as well. So
+you get a replay from yesterday and you
+get today's free replay. So if it's if
+you still see me on if you still see me
+on, you know, you can get in and you can
+get that day's full replay and
+yesterday's full replay. And then on top
+of that, if you get in to the Zoom
+before it's over, you get the API key.
+So every single day I'm dropping a new
+API key. So, that's just a nice little
+incentive for you to make sure to
+actually show up. But, as you can see,
+you're going to get my full private
+stream. This means you get to chat with
+me all day long.
+You get to ask me anything in the Zoom
+chat. That's the chat I look at. Those
+are the people that are on in the inner
+circle. Those are the people that I want
+to be speaking to. So, if you join the
+private live by clicking the link going
+to moonunddev.com,
+you get for $5, a $5 foot long, you get
+number one, you get the Zoom access, so
+you get to chat with me live all day
+long. You get the full stream, you get
+to see all the code. You don't have this
+big thing on your screen anymore. Like,
+you have that on your screen. So, you
+can't see my code because I can't have
+outsiders see my code because I got
+hacked. So, you get the full stream
+access. You get Zoom chat access. You
+can ask me anything. Okay, those both
+independently are worth more than $5,
+right? People pay me thousands of
+dollars to consult, but you get to ask
+me all day long questions that you have.
+So, jump in right now because you get
+the full stream, you get full chat, you
+get full replays. So, you get
+yesterday's replay as well. So, people
+paid five bucks to get in yesterday. You
+get that full replay. You get today's
+full replay. You get the API key if
+you're in the Zoom before the end of it.
+I'll throw the API key every single day.
+I put a new API key in there. You get
+yesterday's replay. You get today's
+replay.
+You get your ticket for today. You can
+ask questions. You can watch the replay
+anytime forever. There's a 90-day money
+back guarantee. So, if you're sitting on
+YouTube, Twitter right now, and you
+really want to learn from me, dude, jump
+into the chat right now. Jump into it's
+mundev.com. Jump into the Zoom chat. you
+get full replay access. And then on top
+of all that, I'm just trying to make
+this better and better because all I'm
+trying to do is are weed out the haters.
+I want to I only want people that are
+actually here trying to build systems
+chasing Jim Simons. I'm building a
+system chasing Jim Simons. He built he
+ran up a net worth of $31 billion. I
+can't have people around me that are not
+serious. So, if you're serious, $5
+should be absolutely nothing to you. And
+there's a 90-day money back guarantee.
+So, if you think it's a trash stream or
+it's not worth it or for whatever reason
+you didn't get a go, um it didn't work
+out for you, you whatever reason you
+want your money back, it's 100% 90-day
+money back guarantee. This day is going
+to be different every day. This this
+page may look a little different, but
+every single day we're only doing
+private streams because I cannot share
+this with the entire world. So, go there
+right now. Go to your browser, type in
+mundave.com.
+I promise you it'll be worth it. If it's
+not, you get your money back, no
+questions asked. You get the free API
+key. You get the full stream. You get to
+see all the code that I was on my
+screen. You're not going to have this
+block on it anymore.
+You're going to be able to live chat
+with me. Ask me any questions. Free
+consulting essentially. That's insane,
+dude. Plus, you get the replays from
+yesterday and today. So, click that
+link, join right now, and I'll see you
+inside the stream. Dude, there is so
+every single day I'm live, but I do
+is Hyperlquid's market maker. I get to
+which is pretty much my five years of
+Hyperlquid, that's their strategy. So,
+if you go to Hyperlquid here and you go
+to vaults here, their HLP provider,
+they put in a thousand. So,
+I don't know. I just don't recommend it
+for somebody just getting started. Like,
+I'm five years in and just thinking
+about getting into it.
+volatile for BTC right now. Let's see
+what's going on with the people's
+positions on BTC.
+So 2% away 2%. Yeah, people are about to
+get smoked.
+0.9 1.0. So we got a 8 point $1 million
+liquidation here and 0.5%. That will be
+very um interesting.
+It's oil, dude.
+Look at that BTC liquidation here. So,
+you can see somebody levered up because
+they're a hand trader clearly and they
+said, "Hey, the price is going up. Let
+me go ahead and take a $8.1 million
+position here." And he gets liquidated
+at 71221.
+71
+221. Throw a one in the chat if you
+think he's going to get liquidated here
+on the Zoom today. Throw a one in the
+chat if you think he's getting
+liquidated.
+221.
+Okay. I think so. 71 221 one. Okay. So,
+let's see if he gets licked, dude.
+So, there's multiple ways to trade this.
+And that's the thing is like people ask
+like, "How do I trade liquidations?" I
+trade both ways.
+Trade both ways
+cuz sometimes it's a momentum thing,
+sometimes it's a uh capitulation trade.
+So, everybody else thinks that he's not
+getting liquidated.
+Revert after his liquidation.
+Interesting. Okay. I mean, that is a big
+lick. We'll see. Let's see who else is
+below here, though.
+So, 8.1 and4%. Okay. That guy's gone,
+too. 98K. That's not big. Okay. And
+these guys, you're saying it might be
+safe right there. We'll see. We'll see
+if he gets licked. First off, this looks
+pretty heavy. Looks like he's about to
+get smoked. Yeah, he's gone. He's out of
+here. This is going to move, too. Off 8
+million. An 8 million
+liquidation is not small. Especially
+right now, dude. Especially right now.
+We'll see. Sometimes that big of a
+position is um
+like uh somebody that knows something
+too. So
+All right, here he goes, dude. Here he
+goes.
+Here he goes, dude.
+It's game time.
+Look at oil.
+There he goes, dude. It's about to be a
+mover. Let's go to five minute chart.
+212 or something.
+8 million one two 7121
+221. Jesus, dude. I can't I can't say
+numbers. What up, pony? How are you,
+bro?
+My number reading is so off. Just I see
+him backwards sometimes and I say them
+backwards, so my bad. But u it is what
+it is. We all got all the excuses in the
+world why we can't do it things, but I
+know we can. We can do anything. So,
+this oil is going crazy and BTC is
+getting smoked.
+It's interesting. Is there some sort of
+play there? Like again, going back to
+the whole airdrop forming, XYZ is
+something. How did you get six clock
+codes stacked like this you had in the
+browser? Um, this is um my app. So, I
+just built an app for it. You actually
+have access to the app, too. So when you
+log in here today, you do get a a
+airdrop of the app.
+So that's Yeah, that's just the app.
+I'll drop it in the chat one more time
+or multiple times probably.
+He's right there. He's sweating. You
+know he's staring at the chart right
+now. You know he's staring at the chart.
+You know he's sitting right at the chart
+sweating. Here he goes.
+Are they going to save him?
+Oh, look at this short, too. A $14
+million short. Trying to crush him.
+Trying to crush him. Trying to take his
+life savings.
+Goodbye, sir. It's been fun.
+I mean, look at this, dude. This is why
+you can't trade by hand because as a
+human, you see price go up and you long
+with your life savings and then you just
+So, rest in peace. Let's throw some 777s
+for him. 777 to that guy. Much love.
+Thank you. Thank you. Oh boy. He's gone.
+Just got liquidated.
+He just got liquidated. So that should
+update here in a second. And he might
+not get fully liquidated because
+Hyperlid is nice and they'll only partly
+liquidate you.
+But
+good vibes.
+Good vibes.
+It's good vibes. It's good vibes.
+Yeah, he's out of here, dude. See if
+this updates.
+Damn, he was buying at 11:07. Jesus,
+Yeah, he's gone. Look, he's gone. He's
+not on there anymore. They took him out.
+That's what happens when you trade by
+hand. You make emotional decisions.
+Like, no bot is going to go ahead and
+maybe they will buy a breakout, sure,
+but they're not going to hold it for two
+days.
+That's why I think it's essential if you
+are a hand trader right now, you step
+away from the charts because he was
+buying literally an hour ago. He's
+buying right here. He's like, "Buy the
+dip. Buy the dip the on the five
+minute." But you can't see that stuff.
+You're too You're like you're emotional.
+You can't think clearly. I literally I
+want to do this one more time. Can you
+talk to me about the amydala and why the
+emotional
+when your emotions go off like it's a
+shorter path or something to Yeah. How
+does that how do you say that? It's a
+shorter path than your logical in your
+brain. Something with the amigdula. Be
+short and concise. Thank you. Cuz I
+think this is very interesting. You
+know, I told you about the Stanford
+professor that
+I was so fortunate enough to watch on
+YouTube.
+It's called the amygdala hijack. A term
+coined by
+psychologist Daniel Goldman. Here's the
+basic wiring. Sensory information coming
+into your brain has two routes it can
+take. The short route goes directly from
+the the phalamus
+&gt;&gt; phalamus.
+&gt;&gt; The phalamus your brain's relay station
+straight to your amydala.
+The long route goes to prefrontal cortex
+logical thinking to amydala. The short
+route is faster because it skips
+thinking brain entirely. Your amigdala
+gets the signal f first and can trigger
+a fear threat response which is good
+sometimes but not a good good in
+training before your rational brain has
+even process what's happening.
+Goldman called this the neural hijack.
+Your emotions literally fire before
+logic has a chance to even weigh in. The
+evolutionary reason is survival, which
+is good. If you're a caveman and
+something moves in the bushes, you need
+to react now, not after you thought it
+through. The amydala doesn't wait for
+context.
+The problem in modern life is that your
+brain can't easily tell the difference
+between a physical threat and an
+emotional one. So the same fast-paced
+response that saved your ancestor from a
+predator a predator is what fires when
+somebody disrespects you in a meeting or
+you take a bad trade. Your heart rate
+spikes, cortisol floods in, and rational
+thinking goes offline. All before
+prefrontal cortex gets a word in the
+practical takeaway, the pause before you
+react is literally your logical brain
+catching your emotional one. So what
+does this mean for hand traders and how
+does it um affect you know day trading?
+Short, concise. Thank you.
+For hand traders, this is basically the
+number one reason people blow up
+accounts. When a trade goes against you,
+the amigdala fires first. The fast
+emotional path triggers before your
+logical prank brain can say this is
+within my risk parameters hold the plan.
+So you freeze, revenge trade, move your
+stop-loss, or panic close. All
+emotionally driven decisions that bypass
+your actual strat.
+The most common manifestations in day
+trading is revenge trading. We've all
+done that. Taking a loss personally and
+immediately re-entering to get it back.
+I don't know about you, dude, but I did
+that all the time when I was a hand
+trader.
+You lose a trade and you immediately buy
+back or you short again immediately.
+Moving stops, rationalizing why this
+time the trade will come back.
+Oversizing after a win. Euphoria is also
+amigdula response, not just fear.
+choking on the trigger, seeing the
+perfect setup, and freezing because
+recent losses have your threat response
+on high alert. The cruel irony is that
+the faster and more volatile the market,
+the more your amigdala gets triggered,
+which is exactly when you need your
+prefrontal cortex most. What actually
+helps is building out systems that
+remove the decision in the moment.
+predefined entries, stops, sizing your
+logical sizing so your logical brain
+does the work before the amygdala can
+hijack anything. That's essential when
+algorithmic trading and rules-based
+trading does essentially what algorith
+algorithmic and rules-based trading
+does. It takes all this hard work of
+like your brain's literally trying to
+help you survive.
+Your RBI system is the direct antidote
+to this. If you researched and back
+tested and implementation phase is just
+execution, not making decisions under
+emotional fire. Let's go ahead and build
+something off this. This is kind of
+dope.
+Can you go ahead and make a infographic
+of this and walk them down through how
+the brain works and then the ultimate
+ending will be the RBI system leading to
+trading bots.
+Make it a nice square or a tall
+rectangle. I don't know. Make it a nice
+image though. Don't hold back on design.
+I truly believe in what you're building
+and want to stay involved long term.
+Let's get it. Thank you, Art. Much love
+to you.
+Studying
+trading.
+So, you can see the $14 million short is
+still here. And that's what I was saying
+is sometimes these guys kind of control
+the market. You can see he was selling
+at 1108. So when this guy that we don't
+see anymore because he got he lost $8
+million.
+If he would have if he would have joined
+my lifetime program, dude, he would not
+have lost $8 million. That's why the
+price for my program is actually insane
+because if you are trading any sort of
+size, that price is nothing.
+That guy literally lost $8 million. And
+I literally could have saved $8 million
+for him. That's why if anything, the
+price is just going to keep going up. So
+if you're in,
+you're lucky. The price is just going to
+keep going up. The more I see people
+lose a million, 2 million, 5 million, 8
+million, I'm just going to keep
+increasing the price, dude. I'm going to
+keep increasing the price because I know
+how life-changing what I teach is. And I
+I can I have like verifiable like dude
+if he would have followed the RBI system
+he would not have lost $8 million. How
+much has
+overall how much is Michael Sailor down?
+Because this is how I value things,
+dude. Because I know some of you are
+like lowkey you're millionaires and some
+are somebody out there's a billionaire.
+So this guy strategy holds 720,000
+for a total cost of this.
+Bitcoin is at what price is it for real?
+71 gang.
+Bitcoin's at 71,000. Be short and
+concise how much he's down.
+He says 2K for life. Better decision.
+Yes, sir. Take my money. Bitcoin is
+actually trading at 71,000. Okay, so
+strategy is down.
+Oh, they're up. Never mind.
+Couldn't help him. Couldn't help him buy
+the lows.
+Take all that back.
+Look at this, dude. Kelly was right on.
+It literally reversed right where the
+whale got liquidated.
+And look at this.
+So did oil.
+Huh.
+That's interesting. Oil reversed at the
+exact same time
+that BTC did and BTC reversed based off
+of this capitulation.
+It's very interesting, dude.
+So, there's a play here of Sat between
+oil and BTC almost. I don't know. Maybe
+long story short, if Michael Sailor
+would have followed the RBI system,
+this guy would be up so much more than
+he is and this stock would look entirely
+different. So, you know where my mind's
+at, dude. I'm trying to compete with the
+biggest companies in the world. I'm try
+I'm trying to be on Amazon's level.
+So, that's why I laugh when people are
+like, "It's too expensive. what you're
+teaching is too it's too much for me.
+It's like bro
+my clientele is this
+and if you're able to afford it then you
+get what these guys should be doing.
+Micro strategy should be following the
+RBI system and just apply it only to
+Bitcoin. If they would do that they
+would be up so much more than they are
+because they wouldn't be buying at the
+top of these charts. It's crazy. Energy
+and intelligence are the currency.
+If 450 then 3740 400 everyone will
+expect 400. I think BTC is going to a
+million but I've been saying that since
+2014
+so I don't know. I think it's going to a
+million at some point.
+So let's look at this infographic we
+just built.
+Let's go to downloads.
+For some reason, it takes hella long to
+download these. So, understanding the
+amigdula hijacked in trading from
+emotional chaos to systematic trading
+bots. The brain, the thamus, the relay
+station, the problem, emotional
+reaction, the amydala hijacked.
+Sensory input. Seeing the charts, short
+path, instant survival, no thinking,
+amigdula, emotional center, trading
+consequences of the hijack, revenge
+trading, panic, closing, moving stops,
+oversizing, choking on the trigger, the
+long path, the pref prefrontal cortex,
+sensory input, scene chart. Okay. Then
+we go to the phalamus, prefrontal
+cortex, prefrontal cortex, amydala, long
+path, slow analysis, context, logical
+trading,
+following risk plan, objective
+evaluation, disciplined execution,
+patience, the antidote, research, backed
+investing, RBI system, predefined rules,
+datadriven decisions, set stop-loss,
+take profit, fixed position sizing, back
+tested strategy, run whatever that says.
+Ultimate
+Indian trading bots. Emotionless
+execution. Fast and accurate. Perfect
+strategy implementation. Scalable. Okay,
+that's not bad for AI slot. Not bad.
+It's not bad. It's not the best, but
+Not bad. Not bad.
+Energy already is one of the top AI
+constraints. What do you think of the
+energy the when do you think when do you
+think that energy will be the currency?
+Can you share that in the chat? Yeah,
+absolutely, dude.
+Do you think the US is going to need to
+import energy? I actually don't know any
+of that.
+All right. I'm going to I'm going to
+spend the last few minutes here to go
+over the offer I have for you guys
+today. mundab.com/win here. This is how
+to get access to everything. Uh somebody
+already joined, they said. So, welcome
+in. He just joined this. Um he made a
+good decision. He was a member already
+and he saw that this is a lifetime offer
+and lifetime offers come very rarely.
+So, you're going to get the algo trade
+camp which shows you step by step how to
+automate your trading
+even if you don't know how to code.
+I didn't know how to code either, dude.
+But I hold your hand now step by step in
+the process of automating your trading.
+There's nowhere on the internet that
+does this
+$3,000 value obviously because I could
+have saved billions of dollars for Micro
+Strategy. I we saw that guy got
+liquidated for $8 million. I could have
+saved him $8 million.
+So saying this, the $3,000 value is
+undervalued. You also get the AI master
+classes. If you don't know how to code,
+that's okay. We have AI do all the heavy
+lifting for us.
+It's another $1,000 value. This is a
+full course that shows you how to use
+AI. Then I show you two full courses of
+how to build on Solana. This is super
+hard to build, but I make it super easy
+for you. It's a $1,500 value, but this
+is transformational, dude. I show you
+step by step how to automate your
+This is exactly what Jim Simons did in
+order to run up a net worth of $31
+billion. If Michael Sailor would have
+used the system that I show here, he
+would have saved billions of dollars. If
+that guy we watched today would have
+used my system that I teach step by step
+in the algo trade camp, he would have
+literally saved $8 million.
+You see why it's worth 3,000, right? You
+see why this is worth a,000, right?
+Being able being able to trade on Solana
+and any exchange, you see why that's
+worth 1500, right? On top of that, I
+give you the Polymarket trading bot
+course. So, I figured out how to build
+bots for poly for poly market and I show
+you how to build four different bots
+and some of those ideas are doing really
+well for me. So, nothing's plug-andplay
+here. Don't expect that. But I can show
+you how to build everything and save you
+5 years of time. You also get unlimited
+private Zoom calls. So, all of these
+calls, you know, they're going to cost
+$5 to $20 every single day to get on one
+of these. So, thank you for logging in.
+And um if you want access forever, just
+jump into the lifetime today. It's a
+$9,000 value cuz I literally could have
+saved homeboy that we watched today. $8
+million. $8 million. We called that
+exactly. He's going to get liquidated.
+And Kelly said it's going to reverse
+right after.
+Could have saved him $8 million with the
+exact short concise videos I I give you
+today if you join. So saying this is
+only a $10,000 value is cap, bro.
+Because on top of that, I give you five
+years of code back test bots. You saw me
+scroll through it. Somebody already
+joined here today. He said he joined
+because he's been a member for a long
+time and he may have joined the boot
+camp in the back in the day and he saw
+that, hey, this is a lifetime offer.
+People are paying $3,500 a year for this
+because I literally give you all my
+code. Everything I figure out, I put in
+here. Same with my team. The people that
+I hired to help me chase Jim Simons, you
+get all of that output as well. So
+that's I'm paying for that every single
+day. You see why people were paying me,
+right?
+So, you get lifetime access to
+everything above and then anything new
+that is dropped ever. You never have to
+pay me anything ever again. You can see
+why this is a $13,000 value because
+we're really stepping on the gas here.
+But on top of that, I throw in my Mundav
+Vault. This has all of my deleted
+videos. It's 2.2 terabytes of video
+videos, different Zooms, different live
+streams. You want the past live streams,
+you have them all here. I just throw
+that in as a bonus. $2,500 value. But
+the Mundv API key is crazy that I give
+you this for free. A free bonus, dude.
+It's $10,000 value because if you go to
+Coin Glass and try to get just the
+liquidation data, let's not even mention
+all the hyperlid stuff or the AI. Don't
+even mention that with API key. Just the
+liquidation data costs $900 per month
+for 12 days of data. But I give you 18
+months of data. So saying this is a
+$10,000 value is low as well. 900 time
+12. Okay, do the math there. And they
+give you 12 days of data. I give you 18
+months. Go to Coin Glass. I give it to
+you for free and you get the API key.
+Hyperlid data layer unlimited calls. You
+get your private key. You don't have to
+share it with anybody. That's a bonus.
+And then on top of that, I give you my
+GitHub, the actual GitHub that I load up
+and I upload to every single day. Dude,
+you have access to that. And then my AI
+agent GitHub as well. So, I have a
+Trading Bot GitHub and an AI agent
+GitHub. Those are my two GitHubs. my two
+personal GitHubs you have access to and
+I'm gonna keep cooking, dude. I'm
+cooking every single day and I'm gonna
+keep uploading.
+Now, on top of that, you saw Quant App
+access that literally we watched that
+guy lose $8 million because we can see
+his position. If you feel like you've
+been hunted before, you're getting
+hunted. You're right. You're right.
+You're right. You're getting hunted even
+by retail now. We're retail, but now we
+have the access that Wall Street never
+would want us to have.
+You get access to that as well. It's all
+lifetime. Never pay me again for
+anything. thing. It's a $48,000 value.
+I'm not going to charge you all that.
+I'm not even going to charge you 24,000.
+That's 50% off. I'm not even going to
+charge you 75,000 70 3 7 3 7 3 7 3 7 3 7
+3 7 3 7 3 7 3 7 3 75% off with 12,000.
+Dude, in reality, I should be charging
+between$7,000 and $12,000. I should make
+you get on a phone call after you apply.
+I should go ahead and ask you a ton of
+questions. I should warm you up here and
+just have you go through a setter, talk
+to them, see if you're a right fit. then
+maybe talk to a salesperson and then
+maybe a third call with me. I I should
+do that. That's what everybody else is
+doing.
+But I'm serious about this game, dude. I
+can't I can't I can't do time. I can't
+have a team that's like doing sales and
+I'm not going to do that. I'm also just
+not going to charge you all that. I want
+you to be able to get in here. I believe
+Code's a great equalizer. If you get
+caught up to speed with me,
+then you're an asset to the whole
+community. And you can see hundreds of
+people like yourself that have gone
+through here and had success. Whether
+they're absolute beginners, never coded
+a day in their life, or like this guy,
+he's already a coder. You can scroll
+through there. It's unbelievable value.
+It's $48,000 value at least. But I'm
+just going to make it a onetime
+investment of $1,795. It's onetime.
+mundave.com/go.
+But not only that, you have 90 full days
+to check everything out so you can be an
+informed buyer.
+There's the link, mundave.com/go
+if you want to join right now.
+Remember, there's a 90-day no questions
+asked money back guarantee.
+I'll hang out here, answer any questions
+you have.
+Thank you for coming through today.
+mundave.comgo.
+So all you have to do is type in
+moonave.com/go
+go on over here see everything that you
+get get the algo trade camp that's going
+to hold your hand step by step through
+the process automating your training get
+the AI master classes that's going to
+show you how to use AI for all the heavy
+lifting you don't even need to know how
+to code anymore dude I'll show you how
+to code it's super simple it's going to
+take some time of course but in reality
+I don't even code anymore so you can see
+you just go over here you click the big
+green button
+That will open up a Stripe page and you
+have all the payment options in the
+world, dude. So, you can use a card, you
+can use Google Play Pay, you can even
+use CLA if you're in the United States.
+This is a pretty nice deal as well
+because you can get it down to $86 a
+month for five years of knowledge. Now,
+it's not going to take you five years to
+get cops with me. It's going to take you
+a couple months. So, ask yourself this.
+If all this program did was help you
+build one profitable trading bot that
+you can run for the rest of your life,
+would it be worth $1,795?
+A small investment in yourself for a new
+way to trade? I spent $2,000 when I was
+a kid on buying a course and I ran up
+millions off of it. So, I'm a big
+believer in buying people's knowledge
+because that's buying your time back.
+Jeff Bezos, Mark Zuckerberg, all these
+guys, they buy their time back. They
+read books. They investigate. They buy
+courses. They hire consultants. Anything
+to buy your time back because your time
+is your most valuable asset. And I think
+we all know that. So, you do have an
+opportunity to get five years of your
+time back. You have option A to log off
+right now, say, "Hey, this was cool, but
+I'm going to go back to hand trading."
+Be emotional about trading and lose all
+your money. Or option B, test it out for
+90 days. You got 90 days to try it out.
+It's a 90-day money back guarantee. and
+I'm here every day, so it's not like I'm
+going anywhere. We don't ask any
+questions. We just send your money back.
+You get Quant Elite, which has all of my
+code from the last 5 years, and I keep
+uploading more. And then you also have
+my GitHubs, and then you also get your
+own API key. This is crazy that I give
+this to you as a bonus, but you do get
+it as a bonus. And you get the Moonva.
+If you have any questions, let me know.
+You get the Mundav app access as well.
+You can see hundreds of people just like
+yourself have found me on the internet.
+So, I big ups to you really because you
+found me. You're a data dog. You're a
+researcher and I know we're a little
+weird about money, but money is good.
+It's a tool. It's a tool of exchange. If
+I have something that you don't know and
+you want to know it and you could just
+throw a little bit of cash, I'll tell
+you everything, dude. Cuz money is going
+to replenish. And you know that money
+always comes back.
+Money always comes back.
+And the way I look at it, dude, all I
+have to do to pay this off is stop one
+bad habit. So, I'm sure you have bad
+habits as well, right?
+My bad habit is ordering Uber Eats. I
+cut that off. I pay this off in a month.
+So, think about your bad habits. Know
+for a fact that money will replenish.
+Break a bad habit. Boom. Implement a
+good habit. Change your life. A bad
+habit of yours is trading. Trading by
+hand. When we have the actual proof,
+we have the actual proof. You have the
+actual data that trading by hand does
+not work. And then I have the data from
+back tests that show that using more
+than 4x leverage, 5x leverage, you're
+cooked no matter what.
+You might not know that, but you will
+know these things once you start back
+testing. I'll show you how to find great
+ideas and I'll show you how to back
+test. And if those back tests do well,
+I'll show you how to build a bot just
+like I showed all of these people over
+the past couple years.
+I know we have AI now. So, I show you
+how to use AI to really step on the gas.
+I'm one of the first people, one of the
+first developers to use AI. Seriously, I
+got dragged for two years and now all
+those people that drag me, they're like,
+"Hey, have you ever heard of Claude Code
+before?"
+So, don't be one of those excuse makers
+because we know there's two people, two
+types of people in this world, money
+makers and excuse makers. And I think
+you're a money maker. Information alone
+is not going to do it for you. You need
+a community to help you get to your
+goals. You need stepby-step short
+concise videos like this one. That's
+cool. One of my bots I set up watching
+you is pretty profitable. That is cool.
+Thanks, dude.
+There are two different payment options
+here. If you'd like to break it into two
+payments of 949, that's fine. There's a
+90-day money back guarantee. So, you
+literally have the opportunity to jump
+in for $9.49,
+check it out for 30 days, and then if
+it's not for you, you don't even have to
+pay the second payment. Boom. That's
+pretty far. Hands down the best decision
+I made.
+You overd delivered. I want you to say
+goodbye to the the stressful way of
+trading. There's a better way to trade
+and we know that.
+We know that, right?
+Citadel, Jane Street. What do they do?
+Are they hand traders? No.
+Just say goodbye to that old way of
+trading. You found me somehow. And this
+is the last step. This is the last step,
+All you got to do is make one good
+decision.
+And you know it's risk- free, right?
+It's a 90-day money back guarantee. 100%
+risk- free.
+Put down a little bit of cash and
+investment in yourself. You deserve it,
+dude. You deserve to leave that
+stressful, anxietyridden life.
+That's hand trading. It's too emotional.
+We saw the We saw the data about the
+amydala today. That was pretty far. It's
+true.
+Just fire is quicker. It's a shorter
+path. You're going to get emotional and
+it's going to keep happening and you're
+going to get emotional. Be like, "Oh, I
+want to take this trade and get smoked."
+You'll probably lose more than $1,700.
+The boot camp was the kick in the ass
+that I needed.
+I show you absolutely everything. If you
+do want to get caught up to speed with
+me, you can go to mundev.com/go,
+join right now, and know that you have
+90 days to check it out.
+Right now, you might be an emotional
+trader. You might be spending all your
+days staring at the charts, ignoring
+friends, ignoring family, staring at the
+charts, always in a trade, going long,
+and then going short, and then going
+long, and then losing all your money,
+then going long again. And it's just
+it's a sad cycle. And once you break
+free from it, you're going to feel
+You're going to be less anxious.
+Your days are going to be better.
+you're going to finally be compounding.
+That's the saddest thing about traders,
+dude, is we're some of the most
+ambitious,
+confident people in the world.
+But we spend all of our time staring at
+these charts trying to guess. This is
+gambling. This is gambling. It's a slot
+machine.
+You saw the brain doesn't function like
+that.
+Trading is meant to speed you up.
+speed you up and take all of your money
+because literally our brains are wired
+to survive.
+Look, I've been here for 5 years, dude.
+I've been researching, building,
+automating. There's a lot that I know
+and I can teach you in a short, concise
+manner.
+I'm chasing Jim Simons. He's a 31
+billion man.
+I don't need $31 billion.
+I believe code's great equalizer.
+The way I looked at this is, hey, best
+case scenario, I'll have a bunch of
+automated trading bots that could print
+money for me for the rest of my life.
+This was 5 years ago.
+Worst case scenario, I know how to code
+and I can build forever.
+Now, I'm grateful that the best case
+scenario happened. But like, let's say,
+you know, tomorrow trading is banned
+across the world. I still have a skill
+that nobody could ever take from me. I
+could build for the rest of my life.
+Whatever you want to build, websites,
+apps, sas, anything, dude. That's just a
+that's just a bonus. That's a bonus to
+me just from learning how to code and
+build bots. That's just a bonus. That's
+a good fall back. So, if you're on the
+fence right now, just know that you have
+90-day money back guarantee. You'll
+actually be able to learn everything in
+that 90 days. And then, hey, if it's not
+for you, just get your money back. But
+still, you put down a little bit of cash
+and you learned a skill that nobody can
+ever take from you. You will be a
+powerful algorithmic trader by the end
+of this.
+Anyone in doubt, it's definitely worth
+it. I was in doubt myself, but when I
+pulled the trigger, I was happy I did.
+It's not a sales pitch by any means,
+just my personal opinion. The boot camp
+put me six months ahead. Kyler once came
+to me and said, "Bro, my anxiety, you
+changed my life. I was anxious before
+and now I'm just compounding. I'm
+building." If you want to break into
+algo trading, learn how to build your
+own bots and and learn how to algo
+trade. It even focuses on crypto and
+applies to all markets. So, you can
+apply everything to all markets.
+Mundub's very involved with the
+community.
+Life-changing education.
+This guy's a software developer ahead of
+me and I still helped him. Literally a
+treasure for me. Thank you. This guy is
+73 years old. I helped him as well. So,
+it doesn't matter if you are a brand new
+to this or you're 73 years old.
+Susan says, "Relaunch the lifetime in
+two months, please, when I have the
+money."
+What are you waiting for?
+Material in the course is everything one
+needs to get started in this unique and
+secretive industry. And it's truly
+amazing. You know, Jim Simons tells us
+every day, if everybody else is doing it
+one way, don't do it. Don't do it that
+way. Everybody else is trading by hand.
+And then the algorithmic traders that
+are out there, you know what they do?
+They hide all this from you. They they
+say that you can't do this.
+They tell you that, "Oh, you didn't go
+to Stanford or Harvard. You can't do
+this." I know for a fact you can because
+I got held back in seventh grade. Dude,
+how embarrassing is that to get held
+back in seventh grade? Come on, dude.
+I'm here. I'm locked.
+I got boss training for me 24/7. If I
+can do it, you can do it. and I can
+catch you up to speed quick. Boot camp
+is great. I've learned so much. I
+recommend the boot camp if you want to
+learn quickly.
+Buy his course. Learn the basics. If you
+want to build a bot,
+there's a ton of alpha in this boot
+camp. Mund goes above and beyond to
+deliver throughout the course.
+I'll check out the option that you gave.
+There you go. Two payment option here is
+nice. And then um if you are going to
+take action, I don't want to promote
+credit to anybody that's not gonna do
+it. But I didn't have $2,000 when I was
+a kid. So I used a credit card. I ran it
+up off that. But I'm the type of person
+that will actually take action. So I
+would never want to promote credit to
+anybody that's just going to dabble. You
+know, there are two types of people in
+this world. Doers and dabblers. If
+you're a doer, then this price, you
+shouldn't even think about the price
+because if you're a doer, that means
+you're trading and you're 99% chance
+you're losing money trading.
+So, let's approach trading differently
+and only trade systems that you know
+work.
+So, that's why I show you in the boot
+camp. I show you step by step how to
+find strategies that actually work.
+how to prove it to yourself so you can
+build your confidence and then build
+bots for them. I'll show you exactly how
+to find strategies. I'll show you
+exactly how to back test those
+strategies
+and I'll show you how to automate them
+into trading bots. Man, I'm feing on
+that email back. Yo, you know, you can
+type this in as well.
+So, on the thank you page, it should
+have showed that, but uh try it out.
+try it out. So, you go to the uh when
+you do join here today, just go to the
+public chat here and say, "I just
+joined.
+I just joined."
+And then you'll have a
+automated and it works most of the time.
+Sometimes it won't, but
+it should work for you if you did just
+join.
+Much appreciated. When one of your team
+of doctors says your seven months pass
+when you're projected to pass away, it
+kind of puts into perspective that
+there's people that deserve to know that
+I probably would have passed if it
+wasn't for people like you. My bots I
+made from your ideas combined with mine
+paid off $186,000
+of medical bills in the last quarter of
+2023. So, I really just got to say out
+of everyone I've ever come across,
+you've done the most to keep me alive
+and out of millions in debt. And I'll
+never forget that. Just like you, you
+know, I don't run ads or anything like
+that. just like you. He found me. I
+changed his life with this. This is
+life-changing material. If you put it to
+action, if you're just gonna buy it and
+not do anything, you can't expect any
+results, right?
+But if you actually want to automate
+your trading and chase Jim Simons with
+me, there's literally no place on the
+internet that shows you step by step and
+as indepth as I do. You can see the
+hundreds of people that have said great
+things. You can see exactly what you
+get. If you have questions, feel free to
+ask me. I'll hang around for 5 minutes
+or so. You get the Algo Trade Camp,
+which is step-by-step video training
+showing you step-bystep how to automate
+your trading. You get the AI master
+classes to show you exactly how to use
+AI like I do. There's a lot of questions
+about how I use AI. I show you
+everything there. Salana copybot and
+sniper course. Crazy. You're able to
+build onchain. You saw me fiddle with my
+uh c my uh sniper bot end or actually my
+copy bot here today. And then you got
+the poly market trading bot course. So,
+you're going to be able to build for all
+different platforms,
+unlimited private Zooms, you get Quant
+Elite, which is crazy, all of my code
+for the last few years, and then you
+also get both my GitHubs and your own
+personal API key. So, if you got here
+late today, let me go ahead and drop
+those uh the freebies that will expire
+tomorrow. But if you want one forever,
+for life, dude, then go ahead and jump
+in today cuz what do you have to lose?
+You got your life savings to lose over
+here.
+That's for sure.
+So, I think this is a pretty serious,
+pretty urgent matter. Just ask yourself,
+is it actually urgent for you? Do you
+actually need to step off these charts?
+Do you currently trade with emotions?
+If you were able to build one profitable
+trading bot, would it be worth a small
+investment that you know is going to
+come back to you? Money always
+replenishes.
+So, go to moonv.com/go, click that
+button
+or this button, join up, and I'll see
+you inside of the Discord. Much love to
+you guys. Have a beautiful day, and I'll
+talk to you soon.

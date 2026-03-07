@@ -1,0 +1,397 @@
+Honestly, I hope my last video about
+flock cloud connected AI cameras got you
+thinking about your own situation at
+home. Tens of millions of people have
+browsed Amazon or have gone to a big box
+store and bought a Ring, Nest or Arlo
+camera and felt a wave of security wash
+over them. Or maybe it was DLink, Yuthi,
+Philips, Aquara, Zomi, Wise, Tapo,
+Blink, or Amrest. There are really too
+many to count. Regardless of the brand
+though, it's so easy that it's almost
+magical. You screw it into the wall,
+scan a QR code, and suddenly you've got
+a God view of your porch, driveway, or
+nursery on your phone. Guess what? Some
+of you have been viewed through your own
+cameras by people you didn't grant
+access to. You see, that convenience is
+a Trojan horse. You think you're buying
+a security system, but what you're
+actually doing is inviting a tech
+company to be your permanent, uninvited
+roommate. one who keeps a copy of your
+house keys and could theoretically sell
+your habits to the highest bidder. These
+companies all sell you on the cloud. It
+sounds fluffy and safe, right? See this?
+It's a t-shirt I had in the 2000s. And
+in case you're just listening, the shirt
+says that there is no cloud. It's just
+someone else's computer. And it's true.
+The cloud is just an internet accessible
+server in a data center owned by
+somebody else. In case you have some
+ideas of how secure these things are and
+how professionally your video data is
+being handled, let me share this with
+you. In 2023, Ring had to pay $5.8
+million to the Federal Trade Commission
+because, get this, employees and
+contractors had unfettered access to
+customer videos. We're talking about
+people watching footage from inside
+bedrooms and hallways for testing. Sure,
+employees were fired years later for
+unauthorized viewing, but I'd say that's
+too little too late. Then there's the
+Neighbors app, which created a digital
+porch to police pipeline, allowing law
+enforcement to view footage without a
+warrant. It was like the Flock fourth
+Amendment violation home edition. They
+finally stopped warrantless access in
+2024. It wasn't just that, though.
+Hackers harassed users through the
+camera's birectional audio. Ring was
+bought by Amazon in 2018 for about a
+billion dollars. Amazon, as of the date
+I'm writing this, is worth nearly $2.1
+trillion.
+Presumably, if they had wanted to fix
+this access and privacy nightmare at any
+point, they could have. They just
+didn't. I mentioned this in my Flock
+video, but Ring, under public pressure,
+just dissolved a partnership with Flock
+Safety. Reportedly, the partnership was
+intended to help find lost pets or
+whatever, but we don't really know how
+deep the integration was intended to be,
+and we never will. Google's Nest is in a
+bit of an awkward situation. They
+unearthed critical video, which is
+evidence in the Nancy Guthrie case.
+What's the problem with that? Well, the
+issue is that according to Nest data
+retention policy, that footage should
+not have been available anymore. To put
+some more context around it, the data
+was supposed to be deleted after 6
+hours. The FBI recovered it 10 days
+later. So, Google has video well past
+when they're supposed to. How long do
+they retain it? Do they keep it forever?
+In case it wasn't obvious, the longer
+these companies retain your video, the
+more likely it will be accessed, copied,
+or otherwise used against you. Amrest,
+Zyomi, and Wise have had issues in the
+past with customers seeing video feeds
+from other people's cameras. Oops. The
+last bit of data handling trivia is that
+some Ring and Nest cameras don't even
+have endto-end encryption, opening up
+the possibilities for data interception.
+The takeaway is that you should not have
+a presumption of privacy or security. If
+the main question is how secure your
+data is, the real answer is you don't
+know. And there's not a good way to find
+out except maybe when the next lawsuit
+settles.
+And it's not just privacy, it's also
+reliability. There are a lot of links in
+this chain. the cameras, your internet
+connectivity, the backend server
+connectivity, the backend NVR, the
+viewer endpoints, and the app. In
+testing, we like to talk about the happy
+path. In simple terms, everything is
+good as long as everything is good.
+However, if your internet goes out or if
+Amazon servers have a bad Tuesday, your
+security camera becomes a useless piece
+of equipment. It stops recording. It's
+one thing if you're using your cameras
+to watch your dogs while you're at work,
+but if you require high uptime, it's not
+ideal to have a critical service that's
+so brittle. This isn't a theoretical
+problem. On the screen is an AWS outage
+that took down Ring services for over 2
+hours. That wasn't over 2 hours of not
+being able to access your cameras. There
+weren't any notifications, video
+recordings, or anything else for that
+period. You're paying a monthly
+subscription fee for the privilege of
+being vulnerable to service outage.
+And let's talk about the cost. It's not
+like you're getting an outdoor security
+camera with the idea of not having it
+for several years. Depending on the
+brand and the model of the camera, you
+will spend anywhere from $25 to over
+$400 for each camera. Because these are
+cloud offerings, you also have to pay a
+monthly or annual fee. This is often per
+camera, but some vendors like Ring,
+Nest, and Blink have unlimited plans,
+too. One camera can set you back between
+20 and $100 a year. Inevitably though,
+people who get one of these cameras will
+generally get more. Three cameras will
+cost between $60 and $300 a year with
+several of the companies coming at $100
+a year for their unlimited plans. Even
+though these cameras are meant to feel
+inexpensive, they're typically not,
+especially in the long term. Something
+to keep in mind is that these companies
+can change their prices on the cameras
+and the service plans at any point.
+Since you're locked into their
+ecosystem, there's really nothing you
+can do about it.
+And then there are the operational
+quirks. Batterypowered Ring models often
+have a re-trigger lockout period where
+they won't record back-to-back events,
+potentially missing an intruder. They're
+also notorious for significant audio lag
+and two-way talk. A byproduct of the
+battery chemistry and battery powered
+Nest Cams and doorbells is that they
+cannot charge below freezing. Even if
+hardwired, they may die in the winter
+because the wires only trickle charge a
+battery that is too cold to accept it.
+Arlo users frequently report a 5 to 15
+second delay between motion occurring
+and receiving a phone alert, making
+real-time interaction with a delivery
+person nearly impossible. Most Blink
+cameras rely on a proprietary sync
+module. If this small box loses power or
+Wi-Fi, every single camera on the system
+goes offline instantly. Weiss cameras
+have connection stability issues giving
+frequent error code 90s or device
+offline issues. Recent firmware updates
+in 2025 and 2026 have caused some older
+models to struggle with consistent live
+view loading. Some Tapo cameras are
+bricked during automatic firmware
+updates, requiring a manual SD card
+flash or a warranty claim to fix. Amrst
+cameras are pretty good, but their
+mobile app is often cited as buggy and
+dated, frequently losing the save
+credentials or failing to load high
+resolution streams over cellular data.
+Phillips is dependent on hubbridge with
+an architecture that's similar to blink.
+If your hub bridge experiences a glitch,
+your security cameras and lights may
+stop communicating, leaving you with no
+detections.
+Zomi and Accara users in the US or EU
+sometimes experience choppy video or
+timeouts when trying to access playback
+from the cloud due to a lack of server
+localization. Of course, nothing is
+perfect. The reason I'm picking on these
+companies and their products is just to
+remind you that you're buying into a
+specific product ecosystem. If you buy a
+camera from one of these companies,
+you're likely to buy future cameras from
+them as well, effectively locking you
+into the quirks and pitfalls of the
+company and their products. Plus,
+there's no guarantee that the platform
+will continue to perform consistently
+over time.
+So, what you might be thinking, who
+cares if I'm locked in? Especially for
+more expensive cameras, you may be
+looking to advertise the purchase cost
+over the service life of the camera.
+After all, these cameras could
+theoretically function for a decade or
+more. The problem is that companies
+aren't looking at these things like
+their long-term products that they need
+to support. Perhaps it isn't explicitly
+planned obsolescence, but some of these
+companies are just shutting off products
+when they feel like they're sufficiently
+old, insecure, or both. Google did this
+with Nest Drop Cams. Amazon did it with
+cloud cams. DLink has done it, as have
+tons of other lesser manufacturers
+overseas.
+My opinion is that it doesn't matter how
+cheap your camera is if you only get to
+use it a few years. And in case I'm not
+being clear enough, the economics of
+these cameras are awful. You're buying
+something that's tethered to a system
+that you don't own or control, and your
+camera can't work without it. In the
+event that your camera works forever,
+you pay forever and you're effectively
+locked into a product line that may not
+have cameras with the cost profile,
+performance, or features you want.
+Unless you're new to the channel, you
+already know where this is going. Why
+delegate something critical to a third
+party when you can self-host? If you
+want to reclaim your privacy without
+losing the tech, you need to learn a
+five-letter acronym, ENVIF. ONVIF or
+open network video interface form is an
+18-year-old specification started by a
+few companies that designed,
+manufactured, and sold security cameras.
+The idea was to have a standard that
+allowed cameras and the equipment that
+works with them to be universally
+interoperable. The standard has grown
+over the years and includes support for
+tons of products outside of the original
+concept, including access control
+hardware. When you buy an ONVIF
+compliant camera, you aren't locked into
+a specific app or manufacturer. you own
+the hardware. You find these from brands
+like Rail Link, Amcrust, Axis, Hike
+Vision, Amp Viz, and tons of no-name
+brands. The price range is where it gets
+really interesting because the cameras
+can start as low as $15. They're not
+great, but they work. You can get a
+solid 4K on camera for $50 to $100. If
+you want the fancy stuff like 25x
+optical zoom or thermal imaging, you can
+spend as much as you want. But for a
+driveway, $80 gets you better image
+quality than the most expensive
+subscription doorbells. The great part
+is that you can buy whatever level of
+capability that you need. You can mix
+and match to your heart's desire. I, for
+example, have some super cheap and super
+sus cameras in my setup that cost about
+$30 a piece. I also have some nice pan,
+tilt, and zoom cameras that are quite a
+bit more expensive. And the best part is
+that I don't really need to worry about
+how compromised the super cheap cameras
+are. And the reason is that unless your
+router is a potato, you can prevent even
+the sketchiest cameras from calling home
+or other undesired activities. I not
+only block mine from the internet, but I
+also keep them on a separate VLAN from
+my trusted network devices. And on the
+subject of special cameras, I can
+already hear you saying, "But Dad, I
+have a doorbell camera." Well, good
+news. You can replace that Ring doorbell
+with an ONVIF capable one. Look at the
+Rail Link video doorbell or the Amrest
+AD410. They look just as sleek. They
+have the same two-way audio, but they
+also have local micro SD slots. And more
+importantly, they can talk to your
+server, not Jeff Bezos's.
+I have a Flood Light camera. Well, check
+this out.
+Not only can you find ONVIF equivalents
+to pretty much any cloud camera, you can
+find all kinds of other stuff, too. like
+this
+or this.
+If you're not using someone else's
+server, you're going to need your own.
+The term server may sound expensive, but
+it's possible that many of you already
+have old, unused hardware that you can
+repurpose, or you may have some newer
+hardware that you could also add video
+recording to. For many, a used PC makes
+the most sense, but it's generally
+cheapish. Then there's the cost of the
+network video recording or NVR software.
+There are commercial applications like
+Blue Iris, but at this point I favor
+Friget, which is free. Aside from
+handling the camera's feeds, it can also
+use AI to detect people, cars, and even
+dogs locally on your own hardware. There
+are other free alternatives to Frigot
+like I Spy, Shinobi, and Zone Minder.
+You can set up the cameras via an app or
+a web interface, and then you can attach
+them to the NVR. You secure the cameras
+via VLAN and/or firewall rules. You set
+up notification rules, recording
+schedules, object detection, and
+anything else you want in the NVR. You
+set up notification rules, recording
+schedules, object detection, or anything
+else you want in the NVR. Then you set
+up mobile viewing with my preference
+being to do it through Home Assistant.
+To top it all off, you set up tail scale
+so you can view your system from
+anywhere. Unlike some of my other
+tutorials where you at the mercy of your
+router's capabilities, everything
+required for this is completely under
+your control. Here's how the cost stacks
+up in a few different scenarios.
+Especially if you have to buy some
+hardware, I can see where you might be
+wincing at the year 1 cost. That said,
+the economics of ownership clobber the
+economics of leasing over time. Plus,
+reclaiming your privacy should be worth
+something, right? If you want to see how
+cheap and easy it is to set up Proxmox,
+install forget, set up some cameras, and
+make it all work on the go, let me know
+in the comments that you want that
+video. What is it they say? If you can
+dodge a wrench, you can set up an NDVR
+or something like that. Convenience is
+great, but security shouldn't require a
+subscription or a privacy sacrifice. The
+fact that you don't know if your
+recordings are actually private should
+be a dealbreaker for most. By switching
+to local ONVIF cameras and a setup like
+Frigot, you aren't just protecting your
+porch, you're protecting your data. If
+you found this video interesting or
+helpful, hit like, subscribe, and share
+this with anyone else that you think is
+ready to stop being a user and is ready
+to become an owner. If you want to
+support my work, please hype the video
+and consider becoming a member. I'm not
+a big deal, so it's really cheap.
+Depending on the tier, we can hang out
+on Discord, so there's that. And while I
+hate to ask for money, these videos take
+a surprising amount of time. So, if you
+want to toss something in my tip jar, I
+won't stop you. And speaking of members,
+I want to thank new members on the
+screen for their support. Have a great
+day. Stay private. Stay secure. And stop
+letting the cloud watch you sleep.
