@@ -1,0 +1,425 @@
+By the end of today's video, you are
+going to know how to set up your own
+dashboard like this one that can
+automatically find the best settings for
+your bot that are profitable and robust.
+Connect those signals to a real exchange
+for real trading. We're going to use a
+free service at signal swap.io and then
+connecting it up to that exchange so you
+can have real trades connected like the
+one I have here. Before I connect that
+bot live, I'm going to show you how I do
+it step by step. Hit the subscribe
+button and there's an entire community
+as well for inspiration. If you don't
+know which bot you want to connect in
+this video, join the Troy Tactics
+Discord down below. Head over to the
+working scripts tab and there is a bunch
+of open-source scripts that the entire
+community is building and back testing.
+If you feel like it, then please like
+the video as well and comment any
+questions down below. I do my best to
+reply to as many comments as I can. And
+this Wolfpack Pro strategy, I just have
+to take the parameters here. There's a
+lot of different parameters. once I
+input them onto the Pinescript version I
+have on Trading View right here. And if
+you actually want access to this exact
+bot that I have that I'm going through
+in this video, there is a subscription
+to it on w.com/traditactics.
+You don't have to get this strategy
+specifically. You can use the free ones
+that are in the Discord if you like. But
+this one that I've been robustly tuning
+and back testing rigorously, this one is
+available right here. As for the metrics
+for why I'm going to go with this
+specific configuration that my automatic
+back tester found is because there is an
+outof sample testing data here and it
+returned only a 10% draw down with a 60%
+win rate. That is why I'm going to go
+with this setup in particular connecting
+these parameters live. Now there are
+other parameters that it could have
+selected that might not have passed the
+out of sample testing. So I splice up my
+back testing data into two sets and I
+train on one of them withhold the other
+one until later to see if it holds up in
+a completely isolated back test like
+this one here which has 10% draw down
+which is pretty good. I'm going to
+connect this live right now because I'm
+quite happy with that result. So I'm on
+Trading View. The settings are not
+accurate right now. So I'm just going to
+update them really quick. And then now
+that I've updated all of the parameters
+here, we have the magic and there are
+the results. So we are down to 10 point
+10.79% draw down and 60% win rate. So we
+have mirrored the results for our
+version that we have in Python here. So
+this is a Python version, Python
+terminal that back tests it and we have
+the exact same strategy in training
+view. So we have the same performance
+metrics here and we are going to go
+ahead and set this up. So I'm looking at
+some outof sample trade examples here.
+There's a short here, a long and a
+short. It flips to short and it held its
+trade. It's been holding until it
+reversed here when the market has a
+really large price explosion. Goes back
+into a short once that reverts. The
+market is flat here. So these are around
+neutral trades. Let's see if it catches
+the next trend. There's a long and it
+held that long. I'm just scrolling here.
+It's holding holding and it could have
+taken probably a better takeprofit here,
+but again, this is out of sample. So,
+this is how the bots's responding in
+real time. So, given the out of sample
+60% win rate, which is pretty good.
+That's not too bad. Profit factor 3.9 as
+well. And and obviously, I'm attracted
+to the 10% draw down. I'm going to
+connect it right now to signals swap.io.
+I'm a developer for this website that I
+wanted to introduce to you guys. When
+you go to signals swap.io, just scroll
+down here and sign up and it's free to
+connect your exchange. I'm using Apex
+Pro. I'm region locked for Bybit. You
+can use Bybit as well, by.com or bybitu.
+So when you register, you have to click
+this uh referral button and then that
+will take you to Apex for signup. So
+follow that button for the sign up and
+then when you connect to your exchange,
+it will register it and see that you
+were referred. So you get free access
+here. So it's free forever. So once
+you're registered, you will just be
+taken to the dashboard page, the main
+dashboard. Scroll down to your exchange
+connections to add your exchange. That's
+step one. So click the add exchange
+button and you'll be given the three
+options for buy or Apex Pro. Pinex only
+has spot trading as well. And you need a
+premium account to use Pinex. But if you
+use Apex Pro, it is not region locked.
+It there's no K KY KYC for it as far as
+I know. So if you click the Apex button,
+you can sign up for Apex here as well.
+There's another link and if you already
+have an account then you can go to your
+Apex to create the API key if you if you
+want to expand the instructions here.
+That's how you will do the sign up. I'll
+quickly show you how it's done. It takes
+2 seconds to do this. So once you're on
+your Apex account, once you're signed up
+with the referral link from Signal Swap
+website, you'll click on the top right
+here. Click API management from this
+dropdown right there. And then you want
+to click generate API. And once you're
+on this page, just give it a name. Make
+sure that it's on trade. And for now,
+Signal Swap does not have any specific
+IPs, but it will be available soon. But
+for now, just leave this on unrestricted
+just for the the IPs. If you were to
+restrict it to Signal Swaps IPs, then
+you would click this one and then enter
+only Signal Swaps IPs. Once you've
+entered everything here, click confirm.
+And here are the five fields that you'll
+need. So you need to have all five of
+these fields and all you have to do is
+copy the API key and these will only be
+available on this screen. So if you
+click done, they're going to disappear
+and hide forever. So you would copy the
+API key, head to Signal Swap, and then
+paste that into the API key for example.
+And I'm just going to name this Apex
+Exchange here. The account ID is right
+here. So I'm just going to copy and then
+fill in the other fields. Now you'll
+notice there's a sixth field here or a
+fifth field. This is the L2 private key.
+So because Apex is decentralized, you'll
+have to click done here to activate
+this. And I'm not activating it now just
+as an example. But you would click your
+Omni key. And then once you click the
+checkbox here that you understand, it
+will reveal your omni key. And I'm not
+revealing it for obvious reasons. Then
+you would paste that into your L2
+private key here. Once you've done that,
+just click link exchange account. and it
+will start to encrypt all of these
+credentials here that you have. And if
+you get this restriction message from
+signal swap.io, it means you didn't sign
+up for Apex with the link. So, you have
+to go back, click use the referral link,
+and that will take you to Apex with the
+referral link active. So, you have to
+resign up. But, if you use the link,
+then it will bind here properly, and you
+will now be able to go to the create bot
+page. So, it's the bot wizard. So, I'm
+going to select the exchange that I just
+bound, the Apex one here, and we're
+doing the Wolfpack Elite Solana 30-inut.
+So, from the drop down, I'm just
+clicking the Solana pair right here. And
+this is an optional step if you use the
+back testing module on Signal Swap. This
+is currently down, but it will be up
+very shortly. It allows you to just drop
+your Pinescript directly here, and it
+will do all of the optimizations that I
+did right here. So, it's it's a very
+similar process to this where it does a
+complete search of every single
+parameter that you tell it to search for
+and it'll tell you which of those is
+best. So, it'll optimize your strategy
+and it'll do it in thousands of of back
+tests per second. So, really necessary
+especially when you do the stress tests
+like randomizing the candlesticks. And
+what those candlestick randomizations
+mean is take this for example, the
+Salana 1 hour chart here. it will
+randomize that into thousands of
+different variations. So these are all
+very structurally similar to the
+original data set, but they're
+randomized. So you're testing to make
+sure that you're breaking all all of the
+chunks of data and you're breaking up
+all the patterns in the original data to
+see if it still holds up. Now, if it
+still does hold up, it means your
+strategy is flexible enough to work in
+real time. Back to the the bot page here
+to create the bot. If you do have a back
+test that you did, then you can enter it
+here. And and if you haven't run it yet,
+you can run a stress test if you want to
+find the best parameters that you're
+going to link up. But since I already
+have mine from this dashboard here, and
+I have everything configured on Trading
+View, I'm good to go. And just a
+reminder, if if you don't have an
+inspiration for which which bot do I
+connect, come to the Trade Tactics
+Discord. There are plenty of bots here.
+You can scroll through these. These are
+all open- source scripts and you can
+just download the code, tune it the way
+that you like it, send a thank you
+message to the creator, of course, and
+then come back to signal swap here where
+you can connect it all up. So, you can
+skip this verify with back test results
+if you haven't done the signal swap back
+testing yet. And for here, I'm just
+going to put I'm going to allocate
+$1,000 to this bot and we're going to
+enter with $1,000 as well. So, if it's a
+brand new bot, you can lower that amount
+if you're just testing it. But if you've
+already forward tested this bot before,
+then you might want to increase the
+position size and the total bot balance.
+You can also choose flat order size or
+percent of equity, meaning it invests
+the profit as well back into the bot as
+the account grows. I'm going to choose
+market or limit. Right now, it does not
+matter to me. And for leverage, I'm just
+going to leave it at 1.0 for now, but
+you can change the leverage mode as
+well. And I don't need to enable the
+take profits here, although it's nice to
+have here, but I have built those into
+my bot already. So I'm clicking next and
+it's going to generate the secure web
+hook for me and the alert message. These
+are what I'm pasting directly into
+trading view. And this is my bot right
+here. So if I copy the alert message and
+I create a trading view alert. So I go I
+have my bot configured the way I like
+it. I'm on the chart that I like. This
+is what's going to create the alert
+right here. These settings that I have
+on screen. So if I create the alert
+using those settings, I can select the
+trading bot that I have here. And I just
+have to make sure I select the same one
+that I've tuned it for. And I'm just
+leaving this as an open-ended alert.
+Although, if it expires, you'll have to
+come back and remake it if it were to
+expire. So, this will last forever. And
+don't create it yet. We have to edit the
+message. So, there's a default uh text
+that's placed in here. We have to delete
+that. And I'm pasting the alert message
+that I got from signals swap.io. So, if
+I click out of it, it's green. That
+means that it's it's good. I copied it
+correctly. That was this alert message
+here. And then for the web hook URL, I'm
+going right here. This is the web hook.
+And remember, don't share this URL with
+anyone because this is your secret web
+hook URL that you can send signals to.
+And I just gave it an alert name. And
+I'm switching over to the notifications
+tab. Now, in the web hook URL, I'm just
+pasting that's the web hook URL here.
+So, you need a premium trading view
+account to activate this checkbox. But
+once it's there and the message is
+green, you have a green box here. The
+web hook is accurate. You can click
+create and it will show up in your
+Trading View alerts. You'll know that it
+popped up by clicking the alerts tab
+here and there is the brand new alert
+that I have right here. Now that I have
+done that, I can now confirm that I've
+done that and that I understand the
+terms here. And now I click deploy bot.
+Now Signal Swap is going to listen to
+the signals from Trading View. Now this
+is where it's activating everything on
+the system. So it's automatically going
+to reload the dashboard and it should
+highlight our bot right there. Here it
+is. Find our bot here. So, this is our
+brand new bot that we created. It is
+active. If I send signals to this from
+Trading View, it will open trades. So,
+if I click that bot, I can pop it out. I
+can see the live dashboard. Once trades
+show up, they'll show up here. And I can
+also see the trade history tab. So, I
+can see any trades that it's entered,
+whether there's any me uh messages here,
+like whether it's confirmed or whether
+there was an error, like maybe I didn't
+have enough money in my account, so it
+failed. It will let you know through
+this trade history tab. and I'll be able
+to monitor all of the metrics and
+performance of this bot as well. Now, if
+the bot performs really well over time,
+this publish to marketplace button will
+activate. Right now, it tells me that
+because I just created it, all three
+conditions are not met. So, it has to be
+active and on paused for 60 days and
+remain profitable over that time period.
+And it also has to trade a certain
+amount as well. So if that bot is
+profitable, it will take your equity
+chart here and it will you can publish
+it to the marketplace and get 70% of all
+revenue generated from the bot on the
+marketplace. So anyone can post. It's
+free to do as long as the signals are
+genuine. If if there's profitable
+signals there, that is proof of
+performance. So once you post it on the
+marketplace, you can choose the price
+you want to sell it for. You can
+customize all that. And if you're
+subscribing to a bot, you know that the
+signals on the marketplace are good.
+This is just a test bot. Don't subscribe
+to this bot if you're coming to S signal
+swap. This is just a test. So for the
+back testing tab, this right here, there
+will be a back test results. If the back
+test was paired when you created the
+bot, so it'll bind to it permanently. If
+you set up the signals after and then
+you wanted to back test it, you can't do
+that because you had to know the signals
+and do the back test to prove that you
+actually did the stress tests. So that's
+how we guarantee that the publisher is
+posting accurate metrics. This graph is
+the exact same graph that you have on
+your dashboard. And the only way to have
+this metrics change is actually to enter
+trades proving that it's it's real data
+and you cannot break the system. There
+are a lot of other trading bot
+marketplaces over the years that have
+emerged which have fake data or they
+have fake back tests. This is 100% real
+data. So, now that it's connected, all I
+have to do is wait for the first signal
+to come through and then it'll perform
+on my account. And it's really that
+easy. And if you want to know how I
+built all of this trading dashboard
+here, I have previous videos where I
+built one live. I built it in the whole
+video. If you watch that video, it's a
+couple videos back. I'll link to it
+here. But it's generally very
+straightforward to do to build something
+like this that automatically trains your
+system live. And I've even done other
+videos where I've shown how to use chat
+GBT or Claude to automatically build you
+other strategies. For example, here's
+another strategy that I built live for
+me a couple nights ago. This one has
+very high draw down, so I didn't end up
+going with it. It it did actually have
+some very interesting out of sample data
+here. Again, 0.9 sharp ratio isn't isn't
+anything to blink at. So, I might
+continue building this one in future
+videos. So, if you want to see that and
+what I do with this brand new system,
+have a subscribe and hit the bell
+notification to get notified for that
+one. And also, if you don't want to
+build your own back tester, Signal Swap
+has one here. You just drag it in and it
+is automatic. You just drag the
+parameters that you want and it does it
+all for you. So, I'm going to wrap up
+the video here. Thank you for watching,
+liking, and subscribing if you made it
+this far into the video. Thank you for
+being a part of the Signal Swap
+community and the the Trade Tactics
+community. I really hope to share more
+about this bot specifically and how
+profitable it becomes with these signals
+that I just hooked up in future videos.

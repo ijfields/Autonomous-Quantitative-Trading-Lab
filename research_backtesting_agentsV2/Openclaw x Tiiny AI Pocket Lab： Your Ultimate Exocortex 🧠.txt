@@ -1,0 +1,107 @@
+Hello everyone, my name is Samar from
+Tiny AI. If you have been following Open
+Clock, you probably know it's one of the
+hottest open-source AI agent framework
+right now. It lets AI actually take
+actions, not just answer questions. But
+there is one problem. It can get
+expensive fast. Even simple task like
+organizing your desktop can burn tens of
+thousands of tokens. So today I want to
+show you something different. This is
+tiny bot a local AI agent system built
+on top of open claw and more importantly
+we are running it entirely on our AI
+pocket lab powered by open model like
+GLM flash that means it's fully offline
+zero cloud cost zero token and 247
+private AI assistant in this demo I'll
+show you four real use case scenarios
+the First one is file organizing and
+Q&amp;A. Second is automated web information
+collection. Third is multi-step agent
+workflows. Fourth is code file analysis
+all running locally.
+Let's jump in.
+Okay, this is our first case here on my
+desktop. I have a bunch of real work
+files. It's quite messy, but we all have
+that. So we have design documents, PDFs,
+slides, meeting notes, PR materials and
+I simply hand everything to Tinybot and
+miracle happens. It automatically
+organizes indexes and build a local
+knowledge base. Everything happens
+directly on Tiny. Nothing is uploaded to
+the cloud.
+Now I can just ask, hey, summarize the
+key PR highlights from the Tiny AI
+pocket lab GWR launch.
+And within seconds it generate an
+accurate summary. That's the power of
+local RA.
+Your company knowledge and private data
+stays completely secure while still
+being searchable with AI.
+Next, let's try something more complex.
+Complex like going above and beyond and
+surprises. I give it a task. Collect all
+unofficial tiny post from X in the last
+15 days and organize them into a table
+with a host name, title, and even post
+time. Now, let's watch what happens.
+Actually, it took 6 minutes, but we just
+fast forwarded it to save more time.
+Wow, it doesn't just answer once. It
+actually works step by step. We started
+with searching, then opening pages and
+extracting the data, analyzing all the
+metrics and compiling everything into a
+table.
+Final command, save it to my Mac. This
+is a true multi-step agent workflow. It
+behaves like a real assistant that can
+browse and complete tasks on its own.
+And because it runs on tiny AI pocket
+lab, it can operate all day, low power,
+fully offline with zero API fees.
+Okay, here we are solving another world
+problem. As business is expanding
+globally in separate time zones and we
+all need to sleep. Hence, we are not
+available 24/7. To solve this, we are
+introducing our third case. Here we use
+tiny bot to manage our discord group and
+to answer every questions. If it's
+general questions, it will be taken care
+by agents. But for complicated ones, it
+will ask me in WhatsApp and once I give
+a green flag with my answer, it will
+publish in Discord group and I will get
+my peaceful sleep thanks to TinyBot.
+Now let's look at one more real world
+example. The demo shown here is TinyBot
+parsing local code files. My
+instructions are simple. on the mounted
+Mac. Analyze and interpret two
+open-source project for me. Let's see
+how it runs. It's currently finding and
+analyzing the files. I have speed it up
+here, but it only took 4 minutes to
+complete. Wow, the analysis for both
+projects is completely correct. This be
+like I'll surprise you with every turn.
+And that's Tinybot running on Tiny AI
+Pocket Lab, an open-source agent system
+powered by OpenCloud combined with a
+pocketsiz local AI computer. No cloud
+dependency, no token cost, and your data
+always stays with you. If this is the
+kind of local AI future you want to see,
+check out our Kickstarter campaign and
+follow the project. We love to see your
+support. And if there are other agents
+workflow or demo you would like us to
+build, leave us a comment and let us
+know. Thanks for watching. See you next
+time.

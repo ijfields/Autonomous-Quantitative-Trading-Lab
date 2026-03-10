@@ -1,0 +1,408 @@
+13,000 stars on GitHub in just five
+days. That's not normal. That's viral.
+And it all started with a Reddit thread
+that caught fire so fast it broke the
+internet. So, in this video, I'm going
+to be breaking down exactly what agency
+agents is and why it exploded and why it
+matters to you and show you kind of some
+of the mindblowing AI agent personas
+that people are going crazy over. This
+isn't just another AI tool. This is a
+collection of 51 specialized AI agents
+that can basically replace your entire.
+So what exactly is agency agents? It's a
+GitHub repository that was created by
+someone with the username Mr. Razeki.
+And here's the thing that's really cool
+about this is it didn't come from
+someone that's in big tech. It didn't
+come from an open AI or anthropic. It
+came from a Reddit thread. Think about
+that for just a minute. The whole story
+starts about a week ago when this person
+posted in one of the AI subreddits
+asking if anyone would be interested in
+a collection of specialized AI agent
+prompts. Not just a generic help me code
+prompts, but actual business personas
+like what if you had an AI that thought
+like a marketing director or a sales
+manager or a project manager. The
+response was immediate. People were like
+uh yeah uh I could use that. We need
+this. And within days, the person had
+put together 51 different agent personas
+and designed for specific use cases for
+different businesses. So this all came
+from a retweet from Greg Eisenberg. He
+had picked up on it, talked about it,
+which what really helped blow it up and
+gain traction even more. The crazy part
+is is how fast this thing actually
+spread all through X and Reddit. We're
+talking about 13,000 stars in 5 days,
+which is pretty rare for a GitHub repo.
+For context, most successful open-
+source projects take months or years to
+hit those numbers. So, what makes these
+agents different from just regular AI
+prompts? Well, each one has a specific
+personality, a specific way of thinking
+or specific expertise. They're not just
+answering questions. They're thinking
+like a person you would hire for that
+role. This is crazy. Let me walk you
+through some of the coolest ones that I
+found because when I saw the list, my
+mind was blown because I'm doing
+something similar with my open claw here
+tailoring agents for my specific use
+case. So, this is basically just
+plug-andplay for people that are running
+big business. So, first you got like a
+marketing director agent. This isn't
+just to help you with marketing. This
+agent actually thinks about brand
+positioning, market segmentation,
+competitive analysis. It asks the right
+questions. It challenges your
+assumptions like it's having someone
+who's done marketing for 20 years
+sitting next to you. Then there's the
+sales manager agent. This is the one
+that's really clever because it doesn't
+just help you write sales emails. It
+helps you think about the entire sales
+process, lead qualification, objection
+handling, closing techniques. It's
+thinking about metrics and conversion
+rates and pipeline management. But
+here's where it gets really interesting.
+They have a technical debt specialist.
+Think about that for a second. Most
+companies don't even have someone whose
+job it is to think about technical debt.
+But this agent is designed specifically
+to look at your code, your architecture,
+your systems, and identify where things
+are going to break down the road. So
+having someone that constantly audits
+the code to make sure things don't
+break. And when you're running a big
+business like this, that's the last
+thing you want to have happen. So
+there's a customer success manager agent
+that focus on retention and expansion. A
+product manager agent that thinks about
+road mapaps and user stories. A DevOps
+engineer agent that can help you think
+through development strategies and
+infrastructure decisions. And get this,
+they have a crisis communication
+specialist. So when things go wrong, and
+they pretty much always do, you have an
+agent that knows how to craft the right
+message, who to communicate with first,
+how to control the narrative. That's the
+kind of specialized knowledge that
+usually costs companies hundreds of
+thousands of dollars to have staff. But
+that's the one that really caught my eye
+and the one that caught my attention the
+most, I would say, is the AI ethics
+adviser. Because as we're building more
+and more and integrating AI into our
+products and workflows, someone needs to
+be thinking about the implications of
+this. This agent is designed to help you
+think through the bias, the privacy, the
+transparency, and all the stuff that can
+get you into trouble if you don't handle
+it right. You might be moving too fast.
+This would be a good agent to have. Now,
+you might be wondering, how did these
+actually work? They're designed to work
+with Cloud and Chat GBT and Cursor and
+with any other AI coding tool. You
+basically just load up the persona. And
+then you interact with the agent as if
+they were a real person on your team. So
+instead of you saying, "Help me with
+marketing," you say, "I'm launching a
+new SAS product. What should my go to
+market strategy be?" And the marketing
+director agent responds like a marketing
+director. It asks you your target
+market, your budget, your competitive
+landscape, other people in that niche.
+It gives you a strategic framework, not
+just tactical tips. The reason is why
+it's so powerful is that it changes how
+you think about AI. Instead of using AI
+as like a better search engine like most
+people are, you're using it as a team of
+specialists. Each agent brings a
+different perspective, a different set
+of questions, a different way of
+approaching problems. Opens your mind a
+little bit. And here's why I think this
+exploded so fast. We're all dealing with
+the same problem. We're trying to build
+businesses, but we can't afford to hire
+specialists for everything. especially
+if you're just starting out. You can't
+have a marketing director and a sales
+manager and a customer success manager
+and a DevOps engineer when you're just
+starting out. But with these agents, you
+can actually get the thinking patterns
+and the expertise of these rules. If you
+plug in your Cloud subscription or use
+it through the API, it's still worth it.
+Now, I have to be honest with you, I
+haven't actually tested all 53 of these
+agents yet, as I have my own agents
+built out for what I'm trying to
+accomplish. But I have been building the
+AI agent team for the last 30 days and I
+could see exactly why people love this.
+It's just about time that I had come
+out. You know, I have my own setup with
+OpenClaw where I've got agents running
+on daily cron jobs. Atlas, the brain,
+the coordinator is the chief of staff.
+The Rizza handles my content pipeline.
+Inspect the deck manages the social
+media. It's a completely different way
+of thinking when you have specialized AI
+that handles different parts of your
+business. But the cool thing about all
+this agency agents GitHub repo is that
+they've done the hard work of figuring
+out the personas. Creating a good AI
+agent isn't just about writing a prompt.
+It's about understanding how the role
+actually thinks, what questions they
+need to ask, what frameworks they use,
+and what their priorities are. Like a
+good marketing director doesn't just
+think about only campaigns. They think
+about brand positioning that are like
+relative to other competitors. They
+think about customer lifetime value, LTV
+to CAC, acquisition costs. They think
+about messaging hierarchy and marketing
+timing. All of this has to be baked into
+the persona for the agent to actually be
+useful. And who's thinking about that
+when they're building agents anyways,
+especially if you have no experience?
+And that's what I see in this
+collection. Those aren't just surface
+level prompts. Someone clearly put
+thought into how these actually work
+within these roles and how they operate
+in real businesses. So, let me talk a
+little bit more about what caught my eye
+and why I even made a video about this
+is there is a content strategy
+specialist. It doesn't just help you
+write more content, but it helps you
+think about content pillars, editorial
+calendars, content distribution
+strategies, where you should be posting
+the most based on your niche. There's a
+user experience designer that can help
+you think through user flows and
+interface decisions. They've got a
+financial analyst agent that can help
+you model scenarios and think about unit
+economics. I'll put a link to this repo
+down below, by the way. I highly
+recommend you check it out. It has a
+legal affairs specialist for when you
+need to think through contracts and
+compliance issues. Even a sustainability
+consultant for companies that want to
+build environmental considerations into
+their operations. But here's the thing
+that really strikes me about this. Each
+of these agents represents knowledge
+that usually lives in someone's head.
+Someone who went to school for four
+years, worked in the field for 10 years,
+made mistakes, learned from them,
+developed frameworks and mental models.
+I made that video about Amazon earlier,
+how Amazon basically had their workers
+track their SOPs, document them, write
+them down, and Amazon did something
+jacked up and basically gave all those
+SOPs to an LLM and fired them all.
+That's what you see happening now right
+in front of you with agency agents.
+Taking specialized people that have
+actual experience in that field and
+dumping it into an LLM and then creating
+an autonomous agent with it. This is a
+wild time. So now think that knowledge
+is available as a AI persona that can
+you can interact with whenever you need
+it. That's crazy. That's pretty
+incredible when you think about it and
+back up and go, "Wow, this is a wild
+time." The other thing that's smart
+about how they've structured all of this
+is that each agent has a clear scope.
+The marketing director agent isn't just
+trying to do sales or product
+management. It stays in its lane. That
+makes the advice more relatable and
+reliable and actionable. Because here's
+what I've learned about building my own
+AI agent system. The more specific you
+can make the role, the better the
+output. When I have the Rizza focused on
+content creation, it doesn't it does a
+much better job than when I was trying
+to do one agent for everything. And when
+you're setting up OpenClaw, you
+shouldn't do it that way, especially if
+you're trying to save on tokens. So,
+what does this exactly mean for you and
+watching this video? Well, you're
+probably wanting to try to build a
+business. You're probably trying to
+figure out how to use AI. You're trying
+to probably help you grow your business.
+So, basically, this gives you like a
+board of adviserss that you can consult
+with anytime. You got a customer success
+question, talk to customer success
+manager agent. Need to think through a
+technical architecture decision. The
+solutions architecture agent can help
+you work through the tradeoffs. This is
+crazy, but here's the bigger picture.
+This is what the future of work looks
+like. I'm sorry to say. It's not just
+that AI is going to replace humans
+entirely. It's that AI is going to make
+it possible for small teams to have
+access to expertise that was previously
+only available to big companies with big
+budgets. Not anymore. A two-person
+startup can now get advice from a
+marketing director, a sales manager, a
+DevOps engineer, a legal specialist, and
+a financial analyst for pennies on the
+dollar. All of the cost for an AI
+subscription. Think about that. A $20 a
+month cloud plan, and you're going to be
+able to start dipping your feet into the
+water and get this experience for
+yourself. So, that's a complete paradigm
+shift on how businesses get built. And
+think and what I think is why this
+repository went viral is because there
+was demand. There is so much demand for
+this for cutting the bottom line making
+more money without spending more money.
+This is going to help businesses be more
+efficient. And if you're starting a
+business that's how you want to start
+and build your foundation on. You don't
+want to have unneeded overhead. This
+just isn't a cool tech demo that was
+released. This is a practical tool that
+can make their businesses more effective
+starting today as well as yours if you
+implement this. So, there are some
+limitations to think about. Don't just
+jump right in and think it's going to
+solve all your issues. These agents are
+only as good as the underlying AI model.
+So, if you're using a Lama or Kimmy K2
+or Miniax, I'd pause right there. They
+can't just replace actual experience and
+judgment. and it definitely can't
+replace the kind of deep domain
+expertise that comes from years of
+industry and market experience but it is
+getting started and it's for people that
+want to start right so for thinking
+through problems for getting different
+perspective on challenges this
+collection is really valuable the other
+thing I like about this approach is that
+it's open source you can see exactly how
+each persona is structured you can
+modify them for your specific needs you
+can add them to your own industry
+knowledge or company context that's very
+different from the blackbox AI tools
+where you don't know how they're
+thinking or why they're giving you
+certain advice. Kind of scary. So, if
+you want to learn how to build stuff
+like this for yourself, that's exactly
+what we do in shipping school. We just
+had our boot camp end an hour ago.
+People that are interested in building
+automating in their specific niches,
+that's what we do. We hold you
+accountable. We got three boot camps
+done every week. and I help you get from
+idea to a shipped product using AI tools
+like Claude Code and OpenClaw. We have
+courses in there as well on how I've
+built my three SAS products. We do three
+live calls, but there are going to be up
+to five every single week starting at
+the end of the month. And I literally
+work with you to get your app built and
+get it shipped and get something on the
+internet. I'll drop a link down below.
+You could check it out. Get in now
+because the price is going up. Whether
+you use agency agents to build your own
+system, the key insight here is that AI
+works better when it has specific role
+and clear area of expertise. The days of
+generic AI assistants are ending. The
+future is specialized AI agents that can
+think like experts you need on your
+team. That's why I built my agents that
+serve my specific need for my
+businesses, for my resell business, for
+my SAS products. Maybe you want to
+tailor it for what you're trying to do.
+At least this gets you going in the
+right direction. So, the repository
+hitting 13,000 stars in 5 days isn't
+just about one person's cool project or
+a special tweet that went viral. It's a
+signal that people are actually ready
+for this next phase of AI tooling where
+instead of asking AI to do everything,
+we're asking it to be really good at
+specific things. And that's going to
+change how we all work. Whether you're a
+solo founder or leading a team, having
+access to this kind of specialized AI
+expertise is going to become table
+stakes for building competitive
+businesses. So, go check out the agency
+agents on GitHub. I linked it down
+below. Try out some of the personas that
+are relevant to your business. See how
+it changes the way you think about
+problems and solutions. And if you want
+to actually start building something and
+stop just thinking about your idea, we
+got shipping school linked down below.
+I'll help you get your idea off the
+ground and turn it into something
+actually real. We'll see you in the next
+one, guys. Be blessed.

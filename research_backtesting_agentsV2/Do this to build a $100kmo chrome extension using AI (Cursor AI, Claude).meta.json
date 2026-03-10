@@ -1,0 +1,2 @@
+WARNING: [youtube] No supported JavaScript runtime could be found. Only deno is enabled by default; to use another runtime add  --js-runtimes RUNTIME[:PATH]  to your command/config. YouTube extraction without a JS runtime has been deprecated, and some formats may be missing. See  https://github.com/yt-dlp/yt-dlp/wiki/EJS  for details on installing one
+{"channel":"Greg Isenberg","video_id":"5lNHx6IC8Fc","upload_date":"20241018","uploader":"Greg Isenberg","title":"Do this to build a $100k/mo chrome extension using AI (Cursor AI, Claude)","duration":"2476"}
