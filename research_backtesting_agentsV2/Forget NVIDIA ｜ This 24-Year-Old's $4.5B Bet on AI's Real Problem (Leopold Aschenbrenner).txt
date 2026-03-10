@@ -1,0 +1,633 @@
+So there's this guy named Leopold
+Ashbrer. He's 24 years old. And last
+year when we covered him on one of our
+old episodes, he was only 23. He was
+managing a billion dollars and he was
+responsible for investing in new
+Frontier AI ideas and technologies.
+Today that $1 billion one year later is
+worth $5.5 billion. This guy who is
+younger than both of us by a pretty
+large margin just went on a generational
+run that made him basically more money
+than any other fund in the world of AI.
+And the fact that AI is the hottest
+market means the competition is stiff.
+So clearly this guy Leupold, he's doing
+something different than everyone else.
+And what's just happened in the last
+week is his new 13F filings came out so
+we could actually get a look into what
+he has been trading. So that's what
+we're going to do here. We're going to
+go through the filings. We're going to
+see what this guy has been up to that
+has yielded him 5.5 billion dollars of
+money to manage. Now
+&gt;&gt; he did this in in 12 months as well. Um
+so his fund started at the end of 2024
+at a ripe $255
+million. Um and then within 6 months he
+had uh outperformed the S&amp;P 500 by eight
+times growing it to $2 billion. Uh and
+then since our last episode where we
+spoke about his Q3 uh fund filings, he's
+gone up $1.5 billion. So he's on a
+generational run and like you said, he's
+like super young. He's done a pretty
+major pivot, but it's all in accordance
+to, I guess, his bible, which is called
+situational awareness, and it's 165page
+essay where he basically predicts that
+we're going to reach AGI by 2027. And in
+this massive essay, he basically writes
+a story of how he sees the AI revolution
+unfolding. And I've got to say, he's
+pretty much nailed it. he uh called the
+GPU infrastructure run and now he's
+calling a very important pivot that
+we're about to get into.
+&gt;&gt; Yeah, I think the entire thesis is a
+pivot from kind of chips to
+infrastructure and what we're seeing on
+screen here. Actually, this is this is
+very cool. EJ, we use Claude to create
+an artifact that is going to walk us
+through the entire change log that
+happened between last year and this
+year. Perhaps starting with what he
+dumped because these positions that he
+dumped were uh pretty large and these
+include names like Nvidia where he
+dumped $300 million in put options in
+one quarter, right?
+&gt;&gt; Yeah. Yeah. So, a lot of these names
+that you're going to see on the
+positions that he exited are very
+popular names that a lot of people are
+invested in right now. So, then it begs
+the question, why has he just exited $1
+billion worth of these companies? He's
+dumped Nvidia, he's dumped Broadcom,
+he's dumped TSMC, he's dumped Micron.
+These are all the big AI infrastructure
+companies. Um, he actually made money on
+dumping Nvidia, by the way. He he yelled
+a $300 million put position, which means
+that because Nvidia price went down over
+the last couple of months, he's likely
+made money on it. And so, it begs the
+question, why is he doing this? Well, if
+you read his 165page essay, he talks
+about how sometime in by the end of 2025
+and the start of 2026, he thinks that a
+lot of the market would have priced in
+the value of GPUs. And that is coming
+from companies like Nvidia and Broadcom
+who kind of like create these chips and
+then stack these chips ready for AI labs
+like OpenAI and Anthropic to train their
+models on. And now he moves his focus
+onto the major constraint that investors
+haven't really invested in just yet,
+energy and infrastructure. The issue
+that a lot of AI labs face today is one,
+not only do they have too many GPUs, but
+two, the energy grid that we have today
+is built to serve humans and not the
+massive AI demand that we face today.
+And that's where his investments are
+focused on. And I'm getting a kick out
+of seeing the the Nvidia puts being sold
+and just like exiting Nvidia entirely
+because when I talk to my friends, when
+I talk to average people on Wall Street,
+when you turn on CNBC, Nvidia is the
+company. Nvidia is the biggest
+investment. And to see him pivoting away
+from that, I think is a testament to him
+just again being ahead of the curve,
+moving to where things are going and not
+where they have been, which in his mind
+is this infrastructure. It's this moving
+away from these ships into the info
+play. And that's probably where we can
+get into what he added because these are
+the stocks that you want to pay
+attention to. This is what he currently
+owns. This is what he believes are going
+to go up. And if it's true, we should
+see some pretty hefty returns from
+these. So, where do we start with the
+additions this quarter? Well, thanks to
+our friend Claude, we've got a really
+neatly illustrated stack of all of his
+investments bucketed into the AI
+technology stack. So, we've got power
+generation, real estate and facilities,
+compute and hosting, connectivity,
+storage and memory, chips and silicon.
+Actually, I wanted to just round out the
+last segment, Josh. I noticed that he
+made a a trade on Intel down here, and
+what he cleverly did was he sold the
+equity. So, he sold the shares that he
+has, but he still has a massive uh long
+position open. So, he's kind of freed up
+liquidity to shove money in other
+companies. And the major companies that
+he's put money into is power generation,
+particularly this company called Bloom
+Energy, which until about 3 months ago,
+no one had really heard of, but um they
+specifically build uh uh power
+generation turbines that help you
+generate power to power AI data centers.
+And he's built a massive position in
+this to the tune of $855
+million. Maybe it says $876 here, but
+the finding says $855. Bloom Energy
+being the number one position is
+different because it has absolutely
+nothing to do with the chipsack and it
+accounts for 20% of the entire
+portfolio. And I was doing some research
+on what they do and it's actually kind
+of interesting. They create these like
+oxide fuel cells which is a fancy way of
+generating electricity on site from
+natural gas. So a lot of times when
+natural gas is fed into these data
+centers, it has to go through a turbine
+which like heats and cools things and
+it's a very clunky uh energy creation
+process. What these balloon boxes do is
+they take that natural gas and have a
+fuel cell that converts it right on site
+to usable electricity for the data
+centers and it's modular. It can be
+deployed quickly and there doesn't seem
+to be a shortage of it. I believe
+they're set to create 2 gawatt of this
+um just this year. So, it's an
+interesting play on power because I was
+looking for the Nvidia of energy like
+who who is the chipmaker but for energy
+and I don't believe there is one and
+there's a world in which perhaps Bloom
+could be that person. So, I actually
+looked into their uh recent findings cuz
+they're a public company. They have a 20
+billion demand backlog. um their revenue
+was up like something like 34% in 2025
+and they're projecting another uh 40%
+increase in 2026 after that um uh 2025
+increase. So there's like no shortage of
+demand. Um you mentioned fuel oxide
+cells. The reason why their gas turbines
+specifically are are super attractive is
+you don't need to rely on the energy
+grid for it. So I mentioned earlier like
+right now we have an energy grid.
+there's a lot of constraint being put on
+there because humans need energy and so
+do AI data centers. So it tends to drive
+up the price of energy in the places
+that those AI data centers are set up.
+If you use something like um Bloom
+Energy's gas turbines, you don't need to
+rely on the energy grid at all. You just
+kind of set it up right next to your AI
+data center and hey presto, you now have
+energy at a costefficient uh price that
+you can now power to train or inference
+any of your GPUs and your data center.
+So Broadcom and companies like Coree are
+going to need this. Uh, so hyperscalers
+in general as well as AI labs. It kind
+of reminds me of the uh I don't know if
+you played Civilization uh ever, Josh. I
+I feel like you did. It's we're kind of
+like moving infrastructure and power
+generation sources to your little uh
+silo of settlement to kind of grow it.
+And that's exactly what's happening
+here.
+&gt;&gt; Yeah. And I think like the obvious play
+is that there is absolutely no shortage
+of energy. So the question is who is
+able to produce the most of it? And they
+have this tremendously large backlog.
+But I think the question is, can they
+actually create enough to start putting
+a dent into that backlog? The
+manufacturing becomes the problem here.
+And with a lot of these plays, we're now
+moving into the world of Adams. We're
+now moving into the world where
+manufacturing actually matters. And I
+would love to we'll do another deep dive
+some other time to see if they're
+actually capable of manufacturing at
+scale. But that's the biggest one.
+That's a 20enter. What else? What other
+positions are noteworthy in this new
+portfolio?
+&gt;&gt; Well, he's added like I think $300
+million worth of core. Can you explain
+coreweave? Why coreweave is so important
+here please for the people who aren't
+familiar.
+&gt;&gt; Okay so if you think about it if you're
+an AI lab you need GPUs but it's one
+thing buying the GPUs from a company
+like Nvidia completely different beast
+setting up those GPUs in rack servers
+getting the electrical supplies getting
+the technical engineering and expertise
+to maintain your GPU servers the cooling
+systems all that kind of stuff. So what
+you could do is you could outsource it
+to a company that is known as like a
+NeoCloud. That's what Coreweee is. They
+handle all of that for you. Broadcom
+kind of does something like this, but
+Core Weave was a smaller company that
+specialized in this particularly during
+the GPU gaming era and has now pivoted
+to AI specifically. Leopold got in or
+went in hard on Core Weeave. He added
+$500 million at the end of Q3 in that
+episode that we covered back then and
+he's added another $300 million here.
+But we're looking at what is potentially
+an $800 million position in Coreweave.
+Now the the story goes a little deeper
+&gt;&gt; and that's 700% increase over the
+&gt;&gt; literally literally but there's another
+layer to the story where he also owns
+around 10% of a company called Core
+Scientific which is Coreweave's main
+supplier to setting up energy grids. So
+if you think about uh bets made in
+investing, Leopold's probably made the
+largest levered bet in core GPU
+infrastructure in neoclouds like
+coreweave as well as energy supply like
+Bloom. So these are his two biggest
+positions that he currently holds in his
+fund right now.
+&gt;&gt; And what I find interesting is he's
+beginning to own enough percentage of
+these companies to become an activist
+investor to actually influence the
+outcome of the companies, which I find
+fascinating. And as I'm going through
+this, I'm seeing I mean power generation
+is a clear one, but the most positions
+that he's added in particular is around
+is so fascinating. Like 10 new positions
+around real estate in general. And this
+gets to I guess that the Bitcoin mining
+play because what we're seeing here is a
+lot of Bitcoin mining companies. And I
+think this seems bizarre and a little
+wrong. It's like, okay, well, crypto is
+not doing super hot. Bitcoin isn't doing
+well. Why is he buying all these Bitcoin
+mining companies? And it's because they
+own the two critical pieces of
+infrastructure required for AI
+buildouts. They have the real estate and
+they have the power. Because I mean,
+what does Bitcoin mining require? A
+tremendous amount of energy and a lot of
+space to put those GPU racks. And now
+that Bitcoin mining is not on its way
+out, but there are better riskadjusted
+returns for that real estate. It seems
+as if he's betting on the idea that
+these Bitcoin mining companies are going
+to either sell their rights and their
+permits or just pivot to AI data centers
+in general. To be clear, he does not
+have any interest in mining crypto with
+these companies. He's buying them for uh
+their licenses. They have access to the
+electrical grid. Usually, these kinds of
+things take uh months or years to
+attain. That's why although you see all
+these major announcements from the likes
+of Meta, Microsoft, and OpenAI saying,
+"Hey, we've got $1.4 trillion worth of
+compute partnerships signed, but you
+don't see that translated into the
+models that they're pushing out just
+yet." That's why GPUs being pushed out
+are always a generation behind. It's
+because they don't get access to this
+permitting. Leopold has sidestepped the
+entire thing and is buying up these um
+smaller companies that already have
+access to it. And so he's like gutting
+them completely of their crypto services
+and just repurposing them for training
+AI um models specifically and being that
+provider for them. It's kind of like uh
+if you take over a bar that already has
+a liquor license um rather than applying
+for a liquor license and waiting many
+years to get it. It's it's just a hack.
+It's pretty useful.
+&gt;&gt; One of the things I've admired most, I
+think, about the thesis that he's had
+and just kind of watching it play out
+over the last year is how simple and yet
+effective it is. It's like, okay, like I
+understand Bitcoin mining and obviously
+they have permits and obviously they
+have energy and obviously every AI
+company wants this. Why would everyone
+not be buying these things? And I think
+the simplicity of these ideas is what
+has kept a lot of people away from
+investing. But over and over it
+continues to be proven right. And
+there's another um thesis that he had in
+that early paper that we mentioned that
+was 165 pages about some timelines
+particularly around AGI which I thought
+was interesting because this guy's
+seemingly right about everything. Is he
+right AGI by 2027? Are we actually going
+to get that? And in order to answer this
+prediction we have a poly market open
+which is predicting whether OpenAI
+announces it has achieved AGI before
+2027. And I know the odds were against
+Leopold when he raised this fund but
+like man these odds are at 13%. So, it
+seems like a stretch that he's actually
+going to be getting AGI in 2027. And
+maybe the investment thesis is right and
+the timelines are slightly wrong. I
+don't know. This seems like kind of in
+insane. Yeah, it's like a it's a it's a
+small percentage chance, but um I have
+to say he's been he was originally
+criticized for his essay being too
+outlandish and inaccurate. A lot of some
+like 50% of people thought that it would
+be happening in the next couple of
+months. Um a bunch of people said, "No,
+this is going to happen until 2030."
+He's the only guy who's had the
+prediction that has been nailed so far.
+He called out GPUs before there was a
+GPU rush. Now he's calling out energy
+infrastructure before there's an energy
+infrastructure rush. So I think he's
+ahead of it here.
+&gt;&gt; Yeah, if if you believe he's right,
+there's a lot to be made by pressing
+that yes button on Poly Market. And
+thank you Poly Market for sponsoring
+this part of the show.
+&gt;&gt; But it's not only long positions um that
+he has. He's also short um a position
+and it's particularly on one company. Uh
+that company is Infosys. Um Infosys is
+basically uh a company that specializes
+in IT outsourcing particularly in India.
+Um and their business model is
+completely based on having cheaper labor
+than you could get access to in Western
+countries like America or Europe or
+continents like Europe. So the point is
+hey just outsource all your admin IT
+stuff to us and we got you. And the bet
+that I think he's seeing here is he's
+seen the rise of products like Claude
+code and GPT codeex 5.3 and he's
+realized wow these models are actually
+now good enough to automate not just
+menial work but really important IT
+processes and he's taken out a massive
+short on this company. This to me is
+like one of his more intellectual bets.
+Um and it's it's more kind of current to
+the trends that we're seeing right now.
+So it's good to see him basically put
+his money where his mouth is. It's so
+fascinating going through this and
+seeing the the kind of PCs play out. I'm
+going to have to add some personally. I
+mean, this may cause me to start
+diversifying a little bit. And maybe I
+mean, there has to be some issues with
+this, right? Is like going through the
+bull case, going through the bare case.
+What is there to criticize and be
+cautious of when you're getting into a
+portfolio like this? And I mean, the
+first thing that comes to mind is that
+this is a 24year-old. And not to just
+nothing against that because clearly it
+hasn't worked against him, but I'm not
+sure he's had I mean he certainly hasn't
+had the experience that a lot of these
+other investors have. Is that an
+advantage? Clearly to some extent, but
+at what point does that advantage kind
+of crumble apart? If so, that seems to
+be like one of the other the things I'm
+concerned about. The other thing I'm
+concerned about is that the fund is kind
+of a single thesis bet where if AI
+infrastructure and spending plateaus at
+all or the macro environment turns every
+position in this portfolio correlates to
+the downside. There's not much hedging
+against that. So there is some potential
+for holes but nothing previously has
+signaled that this is going anywhere but
+up only.
+&gt;&gt; Yeah. I mean, if you look at some of the
+most famous investors of our time, it
+was never about the largest amount of
+money that they made in a single year or
+a single quarter, it's always just been
+about consistent returns year upon year,
+decade upon decade that has compounded.
+Leopold has had an amazing start and
+he's beaten the above uh he's he's above
+average for any kind of hedge fund based
+in any sector versus just AI, but he's
+yet to prove himself on a multi-deade
+kind of time span. So, so time will
+tell. All I will say is um for someone
+who's got fired from OpenAI as an I
+believe he was an alignment researcher,
+but for someone who's had like major
+insight um and had the biggest or
+boldest prediction as to where AI is
+going, he's been the only one to to kind
+of nail it so far. So, he's gone full
+conviction into his 165page thesis,
+which I presume he put a lot of thought
+into, and it's paying off for him now.
+Now, will that change in the future?
+Maybe. But what you could treat these
+filings and these investments as is kind
+of like a real time tracker of where he
+sees the constraints in this AI race.
+And I want to emphasize this point for a
+second. Originally his fund thesis was
+GPUs. People are going to need GPUs and
+people are underpricing that
+opportunity. Now he's saying that
+opportunity is not overpriced but it's
+it's market priced in and now he sees
+the constraint pivoting or moving
+towards energy infrastructure. You've
+got the likes of Elon Musk that is
+launching data centers into space. Why?
+Because there's more energy in the sun.
+You've got everyone for the likes of
+Google, uh, Meta, uh, Broadcom, Nvidia,
+all of them are kind of investing in
+data centers or data center
+infrastructure that gets access to these
+electrical grids. And he's just putting
+what money where that demand is. And I
+think it's a smart move.
+&gt;&gt; Yeah, I was uh I read this great post by
+Naval the other day. I forget exactly
+what it said, but the idea of it was
+that um basically software companies who
+only rely on software
+&gt;&gt; are going to have a very difficult time
+in the future because it's so easy to
+actually create and generate custom
+software. And I think what this pivot is
+reflective of, not only specifically
+around um building the architecture, but
+just bets on the physical world and bets
+on actual manufacturing and bets on
+factories and bets on energy and
+infrastructure, things that can't be
+built using AI, things that actually
+need human horsepower, like things that
+need to be built, things that need
+permits, things that need legislation.
+This is like the hard physical energy
+and infrastructure required. And I think
+that tracks to kind of where the future
+is going. Energy is the one thing that
+no one could get enough of. And I mean
+that power generation play, the real
+estate play, it's all around one thing.
+It's just powering the future. We saw
+through the last earning season $650
+billion committed to capex from just a
+couple companies like Google, Amazon, um
+Nvidia, or not Nvidia, but whoever else
+is going to be paying Nvidia. And I
+think it's a testament to just how much
+money is going to be thrown at solving
+this problem. And this portfolio is
+ready to capture all of that upside.
+It's really pleasing to see someone make
+trades at the right time in the right
+places. Um, he has made some what you
+would consider risky bets. Like again,
+not many people have heard about Bloom
+Energy unless you're like deeply within
+the energy infrastructure place, but
+they're kind of like a second maybe
+considered first tier energy company.
+Um, but specifically used for their
+portable energy. So like he kind of put
+these two puzzle pieces together and
+thought, "Yeah, electrical grids aren't
+going to support this, so let me invest
+in this company." and he just goes in
+with full conviction, right? We're
+talking about almost like a fifth of his
+entire portfolio in this one position.
+So, extremely concentrated, high risk,
+high conviction, but if it does pay off,
+that's what ends up in these kind of
+like 4.5 to 5x returns from just a year
+and a half ago,
+&gt;&gt; man. And we just got to respect respect
+it, man. Like 1 billion to to 5 and a
+half in a year.
+&gt;&gt; No, I'm not salty at all, Josh. I'm not
+salty at all that I'm older than him.
+And
+&gt;&gt; I will say my portfolio has not done as
+well as his. So perhaps we should be
+taking our own advice and start copy
+trading because like clearly this guy is
+seeing something with the clarity that
+we are lacking or at least the
+conviction that we have not been able to
+place in our actual trades. But that is
+the update on Leopold's portfolio. I
+mean it's it's an amazing
+&gt;&gt; feat that he's managed to do and it
+seems directionally correct again like
+this new pivot to hardware to
+infrastructure to energy. Um super
+bullish. I'm not sure there's really any
+other things to be said other than if
+you agree with the portfolio. I mean,
+not financial advice. This is just this
+dude's uh portfolio, but it seems like
+it is promising and it is poised to do
+very well this year. And yeah, that's
+the update on Leopold.
+&gt;&gt; Yeah, I'm curious what uh our listeners
+think. You guys have been extremely
+active in comment sections on platforms
+like Spotify, uh Apple, as well as
+YouTube. Please keep the comments in
+coming. Uh, I'm curious whether you
+think our investment analysis here is
+professional grade, Leopold, Ashen
+Brener grade, or if you think we're
+completely incorrect and we're missing
+an obvious story.
+&gt;&gt; You know what I want? I want I want
+their number one top stock pick of the
+year.
+&gt;&gt; Yes.
+&gt;&gt; Leopold's throwing it down on Bloom
+Energy. I want to know what is your
+Bloom Energy? Like what's the what's the
+thing that we're missing that we need to
+know about that is going to 5x again
+this year? That's
+&gt;&gt; help Josh and I like make better
+portfolio returns in this 24. Love that.
+Yes, please. scrolling through the
+comments. Everyone wins if you pick a
+winner. So, pick a winner, drop it in
+the comments, share it with your friends
+along with this episode. Subscribe to
+our Substack newsletter, which is coming
+out again, I think, the day you're
+listening to this.
+&gt;&gt; Um, EZ is writing the piece for this
+week. It's very cool. Every Friday, we
+release a newsletter updating everything
+that happened this week. And we are now
+doing a little more episodes, possibly
+four episodes per week now. So, we're
+going to keep this train going. Thank
+you so much for your support. Thank you
+so much always for sharing, for giving
+us five star ratings. And yeah, we'll
+see you guys in the next episode.
+&gt;&gt; See you guys.

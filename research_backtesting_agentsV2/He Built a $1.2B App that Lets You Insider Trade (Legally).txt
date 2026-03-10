@@ -1,0 +1,727 @@
+We're like, if we can't beat them, we
+might as well join them.
+&gt;&gt; That was Brian. He made $200,000 in one
+day by building an app that copies Nancy
+Pelosy's stock trades. He took advantage
+of a simple legal loophole.
+&gt;&gt; We just [music] passed 18.5 million in
+ARR.
+&gt;&gt; But that's not even the most interesting
+part. The difference between a $200,000
+day and a $20,000 day for Brian wasn't
+just viral marketing. It was how they
+engineered their onboarding to make
+customers feel like they were winning
+before they even signed up.
+&gt;&gt; If the screen is more than 100 mental
+calories, it's [music] too much. In this
+video, Brian walks us through his entire
+onboarding flow, including how to
+engineer magic moments, the
+controversial hiring practice that he
+swears by, and why he doesn't even care
+about subscription retention anymore
+because [music] he tracks something even
+more important. But first, how did a
+political meme turn into something that
+generates over$18 million a year in
+revenue?
+&gt;&gt; Brian, first off, can you explain what
+this is? The need money for insider
+trading started on Twitter and we just
+saw 3 years ago that there are these
+politicians trading in the stock market
+right after legis legislation was passed
+and the stocks would jump 20 30 40%. And
+my co-friend and I were like there's so
+much corruption. How do we how do we end
+it? And so we originally tried to talk
+to politicians by banning them from
+trading. And then we realized that that
+just wasn't going to happen because it
+was so slow. We're like if we can't beat
+them, we might as well join them. Let's
+build an application that connects your
+Robin Hood, your brokerage, and it buys
+the stocks of the different politicians.
+&gt;&gt; And for anyone who doesn't know, can you
+explain kind of the loophole that makes
+this possible?
+&gt;&gt; Yeah. So, in 2008, uh there's a stock
+act passed, um which mandated that
+politicians file every time they buy a
+stock. I think what happened before
+2008, a lot of politicians, I think
+under the Obama administration were
+like, [music] there's so many people
+doing insider trading, um but we don't
+know about it. one way to stop it and
+actually get a pass is if we expose it,
+maybe something will be able to happen.
+And so after 2008, every stock trade
+that a politician had to make became
+public. Um, and so we analyze that data.
+We're like, "Wow, they now it's public,
+but they're still doing it or allegedly
+they're still doing it." And that allows
+us to get that information and follow
+them automatically.
+&gt;&gt; What has your revenue growth been like?
+&gt;&gt; Uh, it's been crazy. Um, it's been
+around 150% year-over-year. In 2023 and
+2024, it's been more like 300 400%.
+Right now, we uh just passed [music]
+18.5 million in ARR and then we had our
+best month in January um of like 2.8
+million.
+&gt;&gt; How much of that comes from the policy
+&gt;&gt; tracker? It used to be like 90%. Um now
+we've diversified into a lot of
+different uh strategies and different
+portfolios. I think it's probably around
+30 to 40%. Uh today before autopilot, we
+didn't really focus on onboarding. About
+80 90% of my time was building the
+application. When we pivoted to
+autopilot, we switched that entirely. We
+were like, we don't want people to get
+into the app without experiencing what
+we call the magic moment. Um, and so we
+said we have to force the magic moment
+on people and we'd rather people not use
+the app than not experience the magic
+moment.
+&gt;&gt; Can you define the magic moment
+&gt;&gt; for a consumer? There's two phrases I
+like. If you have to catch two rabbits,
+you catch none. Um, or if like if I have
+like balls of paper and I like throw
+them at you and you're going to try to
+catch all of them, you'll probably catch
+none. But if you try to catch one, you
+probably will catch one. And so you
+really the the success lies in really
+being focused and determining what is
+that one thing that you want people to
+know or to do or to experience. And so
+for us [music] it was a a trade in the
+Robin Hood account.
+&gt;&gt; Is there first thing a time horizon
+where you're like okay I want to deliver
+this value within [music]
+30 seconds of logging into my app. Like
+what is that?
+&gt;&gt; Yeah that that's a good question. If the
+person can't complete onboarding while
+going to the bathroom it's too long. So,
+a lot of times when we'll do onboarding,
+this is a very weird thing, but I'll lit
+literally go on Instagram, scroll, then
+I'll go to the chest flight app, time
+myself for about a minute and a half.
+I'm not actually going to the bathroom,
+but I'll time myself for a minute and a
+half, and then I try to get like
+distracted, but also complete
+onboarding. When I think about like the
+product onboarding, which I think is
+where 80% of the focus should go if you
+don't have product market fit [music]
+yet, it should really be like how do you
+onboard people and force them into the
+magic moment. The the time it takes it
+should be under 2 minutes to experience
+the magic moment. And once they
+experience the magic moment, that's when
+you've truly flipped their mind set
+outside of like this competing with
+Instagram where they're like really
+focused on your application. Um, and so
+yeah, our goal is how do how can we get
+them to the magic moment as quick as
+possible but also uh do things that
+frame their mind correctly to experience
+the magic moment. [music] So the the
+thing that I was talking about um that
+we do on onboarding when we charge
+people, we're charging people $100
+[music] per year. And for a lot of
+people who invest like if they're going
+to invest 500 bucks, $100 is a lot of
+money to spend if they're only going to
+invest $500. And so we started seeing a
+lot of people come in who didn't have
+that much money and we started getting
+like negative reviews on the app store.
+People like, "Oh, it's way too
+expensive." This, that, the other. On
+onboarding, what we wanted to do was
+filter people out. But we ran an AB
+test. We wanted to see what effects
+would actually happen. Um, and so we
+actually put a screen that was a very, I
+would say, kind of a manipulative
+screen, which was, will you make more
+than $100,000 this year? Yes or no? And
+if you said no, we said we blocked you
+from using the app, but we allow you to
+go back and change your answer if you
+want to and say yes. [music] Um, and so
+what we actually found out is the people
+who could not afford it originally with
+with our AB test, a lot of them said no,
+then they said yes, and then they went
+through and paid at a 70% higher rate.
+We didn't really expect it, but when we
+reflect on it, it kind of makes sense
+because now Autopilot seems like a club
+for people who make a lot of money and
+they're getting access to something
+special. And when you feel like you're
+getting access to something you
+shouldn't have access to, you also don't
+complain as much. You're like, "Yeah,
+I'm not supposed to be here and but I
+want to be here." Um, and so that's a
+very interesting screen. We still have
+it today. [music] Um, and a lot of
+people might think if you block people
+from using your app in uh in this way,
+you're going to have less conversions
+and increase our conversions and
+increase the number of people getting
+through.
+&gt;&gt; Can we onboard me?
+&gt;&gt; Let's do it. [laughter]
+&gt;&gt; Ryan's about to teach us how he thinks
+about customer onboarding by onboarding
+me to his own app while we're kitted out
+in [music] his merch. [laughter]
+&gt;&gt; And what was the first like principle of
+this? So when when we're like changing
+up onboarding or thinking about
+onboarding, we try to get in a very
+distracted frame of mind just to make
+sure that even if you're distracted, you
+[music] can still get through it. Okay.
+And so there's enough dopamine hits,
+there's enough prov like provocative
+marketing messages where you're just
+like it stops you. [music] It makes you
+think.
+&gt;&gt; Cool. So we're going to do this in a
+very haphazard way. [laughter] I'm
+kidding. Explore popular portfolios.
+Enter phone number. We're going to blur
+that part out. [laughter]
+Oh wow. Okay. Pick a portfolio. Okay.
+Select Pelosi tracker. talk me through
+some of these like decisions that you're
+making. This feels pretty seamless so
+far.
+&gt;&gt; You'll see on this page right here, you
+only see the option for public. [music]
+So, one thing not a lot of people know
+this, but with iOS apps, you're able to
+see up to 50 apps, which apps they have
+installed. So, it's kind of interesting.
+So, we know that you have public
+installed and not Robin Hood. If you had
+Robin Hood installed, we would actually
+just [music] show you Robin Hood right
+here and not public. And the goal is to
+not like imagine you just see like a
+list of all these brokerages, [music]
+then you have to read all of them. But
+if we're like, "They don't even have any
+of these approaches. Why are we showing
+them that list?" We'll just show them
+the ones that they have. But if you're
+like, "Wait, I actually do have
+something." You could just like show
+more and it'll show you all of them.
+&gt;&gt; Oh wow.
+&gt;&gt; But that but that screen has a lot of
+mental calories and it might overwhelm
+you. So if you're in a distracted state,
+you might be like, "Ah, whatever. I'm
+going to go back." So that will just
+allow you to select public.
+&gt;&gt; Wow. And so the goal of that is to
+reduce the cognitive load on the
+&gt;&gt; Yeah.
+&gt;&gt; customer. Is that how you think about
+mental calories? Is like how [music]
+&gt;&gt; Exactly. Yeah. because we have a lot of
+screens that are cognitive load and we
+like this might be a more high cognitive
+load screen. Um, and so if we could
+reduce cog cognitive load elsewhere, we
+could increase it in some other places.
+[music]
+&gt;&gt; If you're going through and you're
+auditing your onboarding, whether it's
+for an app or for really like a SAS
+product, anything are you asking
+yourself at each turn, okay, how many
+mental calories does this step have? And
+is it is there a way to reduce it or is
+it necessary because it's giving context
+or how are you thinking through that? So
+you're able to what we've seen is like
+you're able to increase the mental
+calories of a screen if the person gets
+anxiety from that action, right? Because
+now you're outside of the this you're
+outside of the ADD Instagram uh like
+vibe. So right now when you're like you
+just you you basically you saw invest
+like a politician, you you just saw like
+this provocative Pelosi AI World War II
+portfolio, you're now like not even
+thinking about in Instagram is not in
+the back of your mind anymore. That's
+really hard to get to. Most apps when
+you go to them and download them,
+they're just so boring that you're still
+thinking about Instagram and going back
+to Instagram. And so already at this
+point, we've I think successfully gotten
+you outside of that frame of mind.
+&gt;&gt; I got here pretty seamlessly to where
+I'm like, I'm just excited about this
+initial screen and then now I'm about to
+have to make a big decision. Like, how
+do you get me into this? Yes. I drained
+my entire bank account [laughter] here.
+This close to making a good episode.
+Okay. Select an account. choose minimum
+500. Okay. And is why is the minimum
+500?
+&gt;&gt; Uh two reasons. One, because we're going
+to be charging people 100 bucks. And if
+you put let's say 100 bucks in [music]
+and then we charge you 100 bucks. It's
+like you have to make double your money
+in a year to just return [music] the
+cost. And so we're like, what's a good
+minimum that we could have where it's
+not super egregious and [music] you can
+only land that 500 bucks. Yeah. Once you
+swipe up, it's going to make all of
+these stock trades immediately. But to
+pause there, you're actually buying
+those stocks and so I'm already hooked
+at this point.
+&gt;&gt; So we've actually like they're buying
+the stocks right now. So on your phone,
+you're going to see all these push
+notifications for stocks being bought.
+And so we just showed you the magic
+moment without you paying [music] yet.
+And the the psychological factor is you
+now have these stocks in your account.
+When do you sell them is a question
+you're going to ask,
+&gt;&gt; right?
+&gt;&gt; Well, now you don't have if you pay for
+it, you don't have to think about when
+to sell them.
+&gt;&gt; What happens if I don't pay for it? Then
+you have to think no we will not trade
+for you again. So if you if you go to
+free
+&gt;&gt; so now I'm [music] just like
+&gt;&gt; you just have all these stocks.
+&gt;&gt; Wow.
+&gt;&gt; So you could see why people are like
+really want to pay because it will now
+tell them uh when to sell and [music]
+when to buy.
+&gt;&gt; And if you were to reverse this like I
+would have gotten to this screen I would
+have been like okay and I don't really
+want to pay $100 year and I wouldn't
+have seen
+&gt;&gt; Yeah. If we put it before Exactly.
+People would have been like uh I don't
+know if I want this. I don't know if
+[music] does it work? Does it actually
+trade? they haven't felt that the the
+specialness yet. Um, and so a lot of
+people So, we've done that AB test
+[music] and it was about 70% worse.
+&gt;&gt; If you were gonna walk any startup
+founder through how to like audit your
+onboarding and AB test at every turn
+like you guys do, what would you say?
+&gt;&gt; Identify what that magic moment is.
+[music] Really try to figure out how do
+you make that as special as possible.
+Just like optimize that as much as
+possible, maximize it. have like have
+people go through it and if they don't
+say, "Wow, this is incredible." Don't
+try to prompt them. If they don't say,
+"Wow, this is incredible," or have like
+an emotional response, [music] it's not
+strong enough. And you just got to keep
+doubling down on it. Um, and that's
+mainly for consumer products. B2B
+products might be a little different.
+The second thing I would do is [music]
+learn is try to identify where's the
+resistance point mentally to get to that
+magic moment. I would say for us, it's
+connecting a financial institution.
+you're asking for a username and [music]
+password. And then you have to look at
+how do you reduce the anxiety of doing
+that action. And that could be with
+like, you know, brand names. It could be
+with social proof where you could be
+like, we have 3 million downloads. We
+have, you know, $1.2 billion of assets
+connected. [music] Then people feel
+safer as opposed to like not seeing
+those numbers. You're like, is this just
+a random app somewhere? And then three,
+just don't shoot yourself in the foot. I
+think there's a lot of people who just
+[music] have so much information that's
+just unnecessary. And if you're ever
+wondering about is it unnecessary, just
+AB test it. The data will show you if
+it's unnecessary and most most things
+are unnecessary. [music]
+The the other thing that I would say is
+when giving options to people in an
+onboarding flow, you want to limit it as
+much as possible. Um, so you'll notice
+we have hundreds of portfolios on
+autopilot. [music] When you went through
+onboarding, you only saw four. Um, and
+there's like a see more and a lot of
+people, you know, it's been a a big
+thing for us is like, do we want to show
+all of the portfolios or is that too
+overwhelming? And so we've done an AB
+test and once we show you all the
+portfolios, you're 70% more likely to
+not make a decision. Um, as opposed
+[music] to if you see four, which is
+kind of common sense, but that data
+point I think a lot of startup founders
+won't necessarily appreciate. There is a
+saying like three not two in like
+selling shoes. Let's say you go into a
+shoe store, say, "Hey, could I see that
+pair of shoes?" shoes, they'll bring you
+that pair of shoes. They say, "Oh, could
+I see that pair of shoes?" They'll bring
+you that pair of shoes. So now you have
+two. And then you ask for another pair
+of shoes and they'll say, "Okay, which
+one do you want us to put back?" And so
+then you're like, "Oh, so now you have
+to make the decision to put one back."
+So you put it back. Now you always have
+two. And so that shoe seller um when
+you're when you're faced with two
+options, you're going to buy them as
+opposed to if you have like three, four,
+five, six pairs of shoes in front of
+you, you might be a little more
+overwhelmed. Um and so for us, we just
+looked, could we as much as possible
+make every question binary, just a yes
+or a no? Um, if we can't, could we make
+the options as minimal as possible?
+&gt;&gt; By the way, Brian's a member of Hampton,
+the company behind this show. So, if
+you're a founder doing over 3 million in
+annual revenue, you should check us out
+at the link in the description. Can you
+talk through your hiring process?
+&gt;&gt; So, very early on, it took a lot of time
+and we were hiring in Orange County and
+it was like me and my co-founders uh
+finding people. [music]
+Um, and we've had like different
+versions of hiring with different
+questions that we asked and eventually
+we were we were hiring people and firing
+people at rates that are very high. I
+think we would uh for every four people
+we would hire, we'd fire three people.
+Um and that was really tough. It gets
+expensive because we'd also pay them
+severance. Um
+&gt;&gt; within what time window would you fire
+them?
+&gt;&gt; Uh about 3 months. Um some people like 2
+weeks. It's just very clear. It's like
+this we should have done better in the
+interview process, but at around 15
+employees, we actually hired a full-time
+recruiter, which a lot of our venture
+capitalists and a lot of people like,
+you guys are crazy. Why? Like I'm like,
+we're just hiring so much and firing so
+fast. we need to get this right. So, we
+hired a full-time recruiter. Um, he
+actually used to work at Tik Tok. Uh, he
+was a recruiter for Tik Tok. And they
+also had very, very high standards. I
+think Tik Tok was actually 669. Um,
+which is like they're working on
+weekends, working 9-hour days. And I was
+like, "All right, he probably knows how
+to find people who are willing to give
+it their all and are really talented."
+And so, he's really helped us refine uh
+the hiring process. And I think now with
+him, we're at about a 50% success rate,
+which is still pretty bad. So for every
+two people we hire, we fire one. Um, but
+since we've moved to New York, we
+actually haven't hired anyone we've
+hired in New York. And so I think it's a
+testament to the just the talent that is
+that is here.
+&gt;&gt; Is [music] that explicit in the hiring
+process for you guys is how kind of like
+how much turnover there is.
+&gt;&gt; Yeah. So we after we after we present an
+offer right after I do what's called uh
+a call to persuade them not to join. Um,
+and so I say, "Hey, it's going to be
+really tough. We [music] historically
+fire a lot of people. Um, we think
+you're incredible, but just recognize
+this is like the culture that we have
+and what you're coming into. [music] Um,
+and it's going to be very difficult and
+for some people that scarce people and
+some people get really excited about
+that. You could kind of tell the people
+that get excited about that are the ones
+who end up working. The people who are
+more hesitant
+generally don't end up working because
+they are hesitant for a good reason
+where they're like, "Oh, I don't know if
+I want to put that much effort into it
+or I don't know if I will fit in there."
+And generally they don't. What do you
+tell them about the culture?
+&gt;&gt; Um, so I actually tell them two things.
+One, I tell them that we're actually
+specifically not 669. [music]
+Um, intentionally I think working at
+maximum 60 hours per week like like
+working working is probably the most
+optimal for people, but in where we
+differ is in that 60 [music] hours,
+you're expected to be very very
+productive. Um, and your efficiency
+[music] matters a lot. Um, and the way
+you debug things, the way you come to
+decisions fast matters a lot. And I
+think what we also tell them is the
+reason why you're able to be very
+efficient [music] in those 60 hours is
+because of all of the thinking you do
+outside of work. When you're going to
+bed, you're thinking about solving a
+problem. When you're [music] in the
+shower, when you're watching, if you're
+on the marketing team and you see like a
+commercial, you're you like take a
+picture of it because you're like, "Oh,
+that was good copy." You're just very
+curious about the world. You if you're
+listening to a podcast, you're like,
+"Oh, how is this done?" And so I think
+even though we we try to get people to
+work 50 to 60 hours, which I think a lot
+of people would say is not that much for
+[music] a startup, we actually expect
+that there's a lot of curiosity beyond
+that. Um [music] and that's where I
+think people struggle to fit into the
+environment. And so we actually do in
+the interview process, we really um try
+to measure for curiosity just [music] in
+life in general.
+&gt;&gt; How
+&gt;&gt; we'll ask them what's a belief that they
+hold that's that other people around
+them disagree with. Um, [music] and you
+could tell like how they answer that
+question. Usually the most curious
+people are going to have like [music]
+one, two, maybe three. And they might
+they might hesitate cuz it could be like
+a political thing that they don't want
+to share. Um, but it could be like just
+a worldview or it could be something on
+like marketing or something on
+engineering. Um, but usually the most
+curious people will have like, man, I
+have like this [music] this this and
+they'll like keep talking about that
+question. I'm like, okay, that person's
+very curious. Um, and then also when you
+ask questions,
+&gt;&gt; [music]
+&gt;&gt; um, generally they'll have multiple
+answers that are well thought out.
+Obsessive people obsess over whatever
+they're working on. So just try to look
+at historical examples of of obsession.
+Um, that could be in sports generally.
+We actually there's a lot of people have
+played like college sports here at like
+D1 universities. That's actually a great
+sign that they're going to fit in for
+two reasons. One, they could be pushed
+really hard without taking it
+personally. And [music] then two,
+they've already proven that they could
+obsess over something that they're
+doing. Um, so that's another thing we
+ask a lot about about sports. If they
+play sports and it's not at a
+competitive level, I used to think that
+that was a signal, but it's actually
+not. Um, so we really try to figure out
+what have they just done at a very high
+level more than most people. And if
+they've like, you know, if they play
+guitar very well and I'm like, "Oh,
+cool. Like, do you have any YouTube
+videos?" I'm like, "Oh, yeah, I do." Um,
+they'll like send me I'm like, "Wow,
+they're actually really good. That
+that's an obsessed person." So, you're
+looking a lot at things outside of work
+as well.
+&gt;&gt; Rarely do I ask people um what they've
+done at the companies they've worked
+for. And I think because most companies
+are not great places to work. Um if
+they've worked for a startup, that's
+kind of interesting. I we kind of will
+ask, but if they're working for like
+Amazon or if they're working for
+Walmart, uh Labs or if they're working
+for something, it's like those companies
+just have so much bureaucracy, it's hard
+to actually obsess over anything that
+you work for at those big companies. Did
+you have a hesitancy at first around
+like this super high turnover approach?
+Like you guys fire a lot of people.
+&gt;&gt; I think I've always dreamed that uh that
+autopilot would be the place where we
+had the best talent and I think every
+company says that. Um but I do think it
+matters where is your bar. Um, and I
+think as we've grown, like our bar has
+only increased. [music] And so, although
+it makes me very sad to get rid of
+people, it's actually very difficult
+emotionally. I think there's some people
+who could just get rid of people and not
+feel anything. It actually like like I
+know it does suck for the other person.
+That's why we try to make it right with
+um 3 months of severance. So, if we
+hired someone for 2 weeks, we actually
+give 3 months of severance, which is
+very rare. We actually got this from the
+Netflix co-founder. Um he said if you're
+able to give a lot of severance [music]
+it makes the reason you do it you do it
+for them but you also do it for the
+culture because it makes it easier to
+get rid of people. If you have to get
+rid of people with no severance [music]
+that's very tough because you're like
+man this person has a whole life but if
+you actually give people you know 3 4
+months [music] they could like use that
+to find another opportunity and not
+affect their life too much. And so
+although it's difficult um and I we
+don't like doing it, we do think it's
+necessary to just maintain the high
+standards that we have here.
+&gt;&gt; We were leaving and then Brian dropped
+wisdom. So now he's gonna reiterate what
+he just said today.
+&gt;&gt; So the one thing when we first started
+autopilot is we only had the ability to
+subscribe to one of our like one
+portfolio or one autopilot subscription
+which was 100 bucks a year and that was
+actually going great. We had around 70%
+retention uh for subscription retention
+after 12 months. We were meeting with
+our venture capitalist. His name is Jeff
+for he founded StubHub. He kind of
+looked at me very like sternly. He's
+like, "So, you're telling me users can
+only decay. You can only lose customers.
+You can't make more from the customers
+that you already have." And I was like,
+"Yes." He's like, "At StubM um 80% of
+our revenue came from 20% of the
+customers, the super users. If users
+can't pay up to 6 6x [music] their
+initial subscription or more, you're not
+maximizing your your super user base."
+And so, after I heard that, I was like,
+"Man, that's so right. we need to have
+more subscriptions and the ability to
+pay up to 600 bucks in our application
+or more. [music] We implemented that and
+now today our 12-month revenue retention
+is 110%. Which is way better than it
+would be if we didn't do that. It would
+have been around 60 to 70%. Um, and
+that's one way that we've able to scale
+that, [music] increase the LTB of our
+customer base. So, we have different um
+different subscriptions. You could pay
+$100 here, uh, $200 there, $300 [music]
+there. So, I think right now you could
+actually pay up to like $5,000 per year
+if you buy all of the subscriptions, but
+it's a marketplace, so you could just um
+depending on what portfolios you could
+buy baskets of portfolios to get. If
+you're going to add up all the different
+things you could [music] pay for um they
+should equal at least 6x your initial
+subscription. There's two ways you could
+think about it. one, you could have like
+a really high one where it's just like
+this is going to cost you 600 bucks or
+you could think about it in [music]
+terms of units where each additional
+unit is an additional 100 bucks and then
+the super users are just going to buy
+six of the units. Yeah, some products
+might be different and you just got to
+think creatively about how you want to
+like get to that number.
+&gt;&gt; And last thing I forgot to mention, we
+are making this video for you. Let us
+know what else you want to see here.
+What are some problems that you're
+having in your business that you think
+that we should cover here? Um, and if
+you are a founder, check us out at
+joinhampton.com.
