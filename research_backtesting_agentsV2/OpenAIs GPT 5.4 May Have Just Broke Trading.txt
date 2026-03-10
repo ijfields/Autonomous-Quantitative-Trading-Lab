@@ -1,0 +1,1209 @@
+Today we are diving into GPT 5.4
+thinking and pro have just rolled out in
+chat GPT. So we can have that now but
+I'm going to go ahead and apply it to
+algorithmic trading as I am an
+algorithmic trader. So I'm going to
+apply it to that. Okay. So I have six
+different u quad codes here. I was
+actually, this was released 11 minutes
+ago, 12 minutes ago, 15 minutes ago, I
+don't know, something very shortly ago.
+I was running my um
+my claw in Chrome here getting an update
+of what's going on with this war trade
+and I came across this. So, it looks
+like 5.4
+75% for thinking on the OS world
+verified computer use. Okay, so computer
+use just got a 75%.
+Web arena, you can check this out on
+your own time. I have some things I just
+want to test. I want to test. Number
+one, I want to test my RBI system. So my
+RBI system does the process that I do.
+Research and back test. Research and
+back test. Research and back test. Back
+test. Find winning strategies and then
+incubate them. Okay. So that process I
+have made it autonomous here. And I can
+just go to my Mundave AI agents here and
+I'll do this. I'll do the lazy way. I'll
+do the lazy way and I'll just say, "Hey,
+please go ahead and give me
+my AI agents GitHub." No, that's that's
+an inefficient way. Let's not do that.
+Let's get this all set up with codeex
+first off. So, I'm with Claw Code right
+now. Let's kill it. Let's say Codeex. I
+probably need to update it.
+Update now. Yes. Okay. So, you can see
+I'm updating to the newest version here.
+And then I'm also gonna open up that RBI
+system I was talking about. Research,
+back test, research, back test,
+incubate, research, back test, incubate.
+Okay, so you know the process.
+Let's go ahead and find that GitHub
+here.
+Let's say code dot.
+Here it is. We are updated it says.
+Okay. Okay. So, let's say Codex here.
+Got Codeex connected. Okay. Let's kill
+it over here and get Codex over here as
+well. Says 5.3. So, maybe I need to
+update it. Codex.
+Yes. Continue.
+I have a agent called RBI agent PP.
+Okay. Okay, I want you to send me that
+full path, but after you change it to
+GPT 5.4 by OpenAI, it was just released.
+You can Google it if you'd like. It was
+like 30 minutes ago. So, just name it
+the same naming convention, but 5.4 in
+case you can't find it. Okay, thank you.
+And then send me back the full path.
+This agent is the one that does the
+research and then the back testing and
+the debugging and getting the stats. So,
+RBI agent PP, send me the full path
+after you make that change. Thank you.
+Dang, dude. I'm going to definitely do
+this with uh the new model.
+Let's go here. Say model here. Model.
+Choose what model. Okay. 5.4. Here we
+are. Latest frontier. Agentic coding
+model. Let's see how it is. Medium,
+lower, high. Fast responses with
+lightning or lighter reasoning. Balances
+speed and reasoning. Um, let's go ahead
+and let's keep it here at medium for now
+and we'll see. Okay, so she should make
+that update. She should update. I'm
+using open router within my RBI agent.
+Try the codeex app with 2x rate limits
+until April 2nd. I'm good. I tried the
+cloud app today and I was thoroughly
+unimpressed.
+It is what it is. It is what it is. I
+think it's because we're spoiled with
+quad code, codeex, whatever.
+So let's see if she updates this new
+model or the RBI agent PP to
+5.4. Here you can see my cursor is
+cooked. I'm not able to open cursor. So
+I would just open it and change it
+myself. But hey, you know this AI time.
+You can see she's looking GBT 5.4 before
+instead of uh I had GLM 4.7 and
+ah my bad. It's actually
+it's actually the RBI agent multi PPP
+that I want you to update this in. Thank
+you. Then send that back to me. Okay.
+Okay. So, I want to get this running
+because this will be a really good test
+of if 5.4 is sick or not. I do it pretty
+much on every model.
+Okay, here it is. Boom. So, now we have
+the RBI agent PP multi.
+And
+can you go ahead and put an for the
+ideas.txt that is connected to this one?
+Can you put an exclamation mark at the
+end of the first 10 rows? So, it's like
+a new unique thing. Um, essentially
+can't open my cursor right now. So I'm
+not able to edit the file and that's
+what I do. So in a file you can put the
+idea of a strategy just like the broad
+idea or a very precise idea and
+essentially the agents will go through
+and research that idea
+kind of flesh it out for a developer and
+then the other agent sends them on over
+to go get back tested.
+Okay, let's just go ahead and show you
+T. Let's say CD up into this B.
+Okay, I'm in there. And then we're going
+to go ahead and say multi. Now it's
+going to run. It's going and looking at
+this ideas.txt.
+See, it's initializing all these models
+because in the GitHub, you can see
+researching processing. Okay, it's
+taking this first idea dual Ballinger
+band system with Calman filter as
+dynamic midline replacement and it's
+going through and it's processing the
+idea meaning it's coming up with the
+like the written report of how it's
+supposed to be then back tested and then
+you can see creating back test code to
+another agent is agent one two and then
+it's multiple processes at the same time
+so it's parallel processed we'll see how
+these turn out by the end but So far so
+good. I think we're getting to a point
+where it's um these models are coming
+out so fast. It's the models are sick
+already. It's really what are you going
+to build with them?
+You can see this is my cross exch this
+is my ex extended exchange bot here that
+is running. You can see she's updating
+the package imports. So again, I can
+kind of show you this on GitHub how it
+works, but it's under Mundave AI agents.
+Okay.
+And then you go to source here
+and then agents here.
+Damn, dude. This is wild. OpenCloud's
+going crazy on my computer.
+She's not going crazy. It's me going
+crazy with and just having her update
+it. But anyways, scroll down here to RBI
+agent PP multi.
+RBI agent PP multi.
+You can see this is what it's about.
+Essentially, parallel processing multi
+data validation. Run up to five back
+tests at the same time. So, it tests on
+25 different data sources as well.
+You can see here the first strategy it
+popped out was negative 86%. That's not
+necessarily the model's fault. It's just
+a bad idea.
+And it will loop like negative 92%.
+Obviously not good. It's going to try to
+optimize until 50%. Let's see if any 50%
+hit
+12% for this strategy.
+Target is 50%. So I asked them to keep
+iterating. It's a big ask. It's a big
+ask. I mean, it's asking AI to print
+money for you. So, it's a huge ask, but
+I think it's an interesting test to run
+every time a new model is dropped.
+Hey, can you print me money yet? You can
+see it got to 8.18% on one of them. So,
+still not good, but it's going to keep
+optimizing and looping and optimizing. I
+wonder how much this is costing. That's
+the thing. We'll see. You know, I was
+using GLM before. You got This one was
+12%. It's optimizing until 50%. It's
+pretty much doing the the research of
+what like a quant dev would do just hey
+I'm going to back test back test back
+test
+and then one of them one of the Asians
+fix fixes the bugs one of them like
+focuses on the packages etc etc can see
+90 negative 69% targets 50% so it'll
+just roll here forever let's see what
+it's looking like um I go to open router
+because I'm using Open Router. And if
+you're not yet, I would definitely uh I
+would look into Open Router. It's pretty
+cool. You're just able to work with
+every
+model pretty easily. You see how I
+flipped to that real quick. I can open
+this up here.
+And you can see I was using, let's see,
+Miniax GLM today.
+Um
+I actually don't even see
+GPD 5.4 yet on here.
+Let's see if it's in my activities.
+And I think this is going to be more of
+like a a long test. I got to test this
+for the week even though I just switched
+my plan over to Miniax.
+308.
+What's going on here? GLM. GLM.
+Are we using GLM still, dude?
+Holy hell.
+So, um, on that RBI agent PP multi, did
+you switch that all to GPD 5.4 or you
+were just coping?
+I think she forgot because remember I
+made that pivot there at the end. I was
+like, "Oops, wrong one."
+Cuz this doesn't look like any GPTs to
+me. But baby, I'm going direct.
+Yes, I changed all of them to RBI agent.
+Okay. Okay. Okay. So, we're not using
+open router. Is it Is it because we're
+not using open router then?
+No need to change anything. That's cool.
+Let's go ahead and see if I can get into
+open A. I'm just curious how what this
+cost. Okay, so we have Open Router in
+the if you go to the GitHub here, um
+Open Router is actually a new ad. prior
+to open router. I swear I didn't know
+about open router so I built my own
+router.
+Got models here and you can go here and
+you can see like open AAI model. So it's
+super easy to flip in the new, you know,
+GBD5, GBD5 mini. Now we're on GBDI 5.4.
+So it's super easy to flip it in.
+And you know, Deep Seek Claude, Gemini,
+Grock, Olama, and then we added Open
+Router what, three weeks ago. So, I
+think open router is sick. X AAI, but in
+this case, we're using direct to OpenAI.
+I want to see if I can get a a handle of
+what this is costing. I'm going to run
+it back because I messed it up low key.
+I shouldn't have stopped it.
+But I think this is going to really be
+like a week-long test to really give you
+a full analysis of how it actually how
+it how it goes in my workflow. You can
+see I I go pretty hard. I have six claws
+always going all day and I'm indifferent
+on what AI I use. I just want to use the
+best AI. So, I need to figure that out
+this week. You know,
+can you go ahead and
+put 10 new strategies on that ideas.txt?
+Thank you. Now, obviously, I would
+usually go ahead and take actual
+strategies here. mundave.comromadap
+has a bunch of my ideas.
+You can see this this the main framework
+I follow to automate my trading. It
+starts with research that you back test.
+So that's literally what this AI swarm
+is doing is researching and back testing
+based off of the ideas I send it. So I
+should go ahead and just say hey throw
+some of these ideas in there because I
+give you a bunch of ideas on the road
+map. random ideas, carry trade, mean
+reversion, pair trading, momentum,
+ignition, etc., etc. I could just say,
+"Hey, throw some of these on there."
+Okay, let's go ahead and throw some of
+these on here. This a road map for
+everybody. Go ahead and throw these ones
+on there as well. Make them a little
+more um sophisticated and add the ADX
+into each of them. Okay, sick, dude. So,
+you can see she's already working now
+because we threw new ideas on the
+ideas.txt. So, it's just a simple file.
+You throw the ideas of what trading
+strate you can see volume profile, LVN
+rejection, stochastic reset, trend slope
+confirmation, RSI failure swing plus
+anchored VWAP. So, I think this is a
+pretty dope use case and I love to test
+this on every single new model because
+why wouldn't you ask the AI, hey, can
+you print me money yet?
+You know, why wouldn't you? We got to
+shoot for the moon. Hey, my name is
+Moond Dov. I believe code is a great
+equalizer because now all these crazy
+ideas you have in your head. You know
+how to code or at least I guess use AI
+at this point. I think you I think you
+need to know how to code. But maybe
+that's just a boomer of me. I learned
+only two years before AI was dropped.
+Chad GBT. I was one of the first to
+start coding the whole all my code was
+through AI. Chad GBD. I got dragged. I
+got dragged for years, dude. But now
+everybody's like, "Oh, bro, you heard a
+clog code."
+So, I'm going to take shots and I'm
+always going to ask this question. Hey,
+can you print me money?
+So, the returns negative 1%.
+Need 51% more. We'll see. We'll see. I
+think eventually these are going to get
+good enough to to do that. But until
+then, I'm just going to use it as a tool
+to do it myself.
+Because at the end of the day, there's
+plenty of ideas out there, plenty of
+trading strategies that work. Just can
+you find them? You have a robust system
+in order to find them. I've got a robust
+system, RBI system. So, I built this a
+couple years ago to be honest. Probably
+at this point,
+right when uh the agent stuff opened up
+on OpenAI, we started to build this and
+we just made it better and better. Now,
+it's parallel process. It used to take
+dumb long
+16%. Okay, I want to get into the OpenAI
+uh dev panel so I can kind of see what
+the pricing is on this. I guess not the
+pricing, but the cost that I've run up
+just in this uh 15 minutes or so because
+everybody always wants to know like how
+much does this cost? And you know, it's
+a valid question. It's a valid question.
+It's a valid valid question, dude. So,
+let me go ahead and try to show you
+No, that can't be right, dude. Says I've
+only spent a penny.
+Can't be right.
+But shoot, maybe it is. What is the
+pricing here? What have I done the last
+15 minutes, dude?
+GBD54 and4.
+Duh.
+Not going to write that. But let's go
+here and see GBT 5.4 pricing because you
+know they're getting squeezed big time.
+B. China's on the ass.
+I just switched to Miniax today in
+Claude Code.
+So curious to see how this ends up. Like
+competition is good. I love the
+competition. So it's 250 $2.50 input, 15
+output, and holy hell.
+30 input and 180 output.
+That must be good.
+Should I try it?
+Let's see if that can print money. Yeah,
+let's do it. Let's try it. Dude, I'm
+going to try to get into my actual
+account here, I guess, because this
+one's not showing that I'm paying very
+much. Maybe because I'm really not. But
+maybe I have a different account. So,
+let me go ahead and see if I'm getting
+hit for this because I would like to
+know what does it cost per hour really?
+You know, because then you can kind of,
+hey, if it finds me one strategy per
+hour, how much is that worth to you or
+how much does it cost?
+Upside's unlimited. Really?
+911
+342.
+911 342. Okay, I'm up in there.
+Say usage here.
+Maybe it's free right now or something.
+It's got to be free right now, dude. Cuz
+I looked at my other account. I thought
+I had two. Uh,
+it's also empty.
+Negative 2% to 50%.
+Back test successful.
+Not good though.
+Can you show me the code on the RBI PP
+multi to prove that it is using chat or
+GBT 5.4?
+I didn't say that, dude. I didn't say
+that. I didn't say that. It's just it's
+not printing money yet. And that means
+nothing. That's why like to give you a
+full review. I really got to lock in. I
+got to lock in for a few days. Yeah,
+we're good, dude. Says open open AI
+model 5.4. We are on Chat GPT 5.4. It
+does not print money yet, but let's see
+if the big boy does. Let's see if the
+big boy does. How about that? You know,
+it's it's tested a bunch of back tests
+thus far, and I haven't seen anything
+too good. So, it's on number six. Okay.
+Go ahead and add these new ideas to the
+list. Okay, thank you. And also change
+the model to this. I'm about to spend a
+bag and I don't even know where I'm
+getting hit at. Maybe it's slowed down.
+Okay, let's give her some ideas.
+Statistical arbitrage, event driven,
+seasonality, technical indicators. These
+are easy to
+Oh snap. Look at this. So sick, dude.
+What the hell? Can't believe I just give
+this away,
+but much love to you. I believe code's a
+great equalizer. If you learn how to
+code it, you could cook like this on a
+whim any day.
+So, here's some new ideas. Add these new
+ideas. Thank you.
+Sweet, dude. So, I'm going to kill this.
+Doesn't that one doesn't print money,
+but we'll see.
+I know it's the highest expectations,
+but it was just dropped. And this is the
+test that I like to I like to do because
+for all these reasons.
+So, I'm about to do $30 input, 180
+output. You better output 190 at least.
+If you output 190, dude, [&nbsp;__&nbsp;] I'll run
+it all day.
+I'll run it all day.
+Okay, so we're on 5.4 Pro now. Let's get
+it. This is my final test.
+Well, I'll use it all week. How about
+that? I'll use it all week and I'll be
+able to give you a real flow if it's
+fire or not. I want to see if it's
+better than Opus 4.6 all day.
+So,
+we'll see. You can see the GP5.4 4 Pro.
+Let's see how it does. 12 active. I'm
+sure it's going to take a little bit
+longer now,
+right? Because if if I'm not mistaken,
+Pro
+is just more thinking.
+I don't know. GBT 5.4 Pro, latest GBT
+5.4 learn best practice. GP5.4 4 is our
+most uh capable frontier model yet.
+Delivering high quality outputs with
+fewer iterations across GPT chbpt the
+API and codecs. Okay, so let's go check
+out Chad GPT in the meantime say auto.
+No way. 5.4 please. How do I get in
+there? I got to log out first. Log out.
+Hey dude, hit me up on the email if you
+want.
+log in.
+What's the pass? Gmail. Okay, we'll see.
+Won't have.
+Damn, another one. Why are they both
+starting 911 this time
+today? So far, Open AI on the some 911
+stuff ever ever since they started um
+supporting the the war, Department of
+War or whatever. Legacy models. Hm. How
+do you update it here?
+Maybe it because I'm in dev mode.
+Um,
+I guess it's not that important because
+I have GBTM. I'm running it right now.
+You can see it hasn't figured out any
+yet. So, I know it is using 5.4
+cuz it's taking longer. 5.4 Pro or
+whatever it's called, the expensive one.
+Let's see how much I can spend on this.
+And then while that is going, let's go
+ahead and go back to
+to here.
+It's our most capable frontier model
+yet. Delivering higher quality outputs
+with fewer iterations. We'll see. Here
+we go. So, strategy exhaustion. So, she
+is going. That's that's exactly what I
+need for this. I need fewer iterations.
+API and codeex. So, we got Codex up top.
+I'll let you know how that goes. Let me
+know below if you type Codex or
+something. If you want me to do a full
+review in a week or so, like after using
+it for for a week, I could do a little
+bit of a short review. Just let me know
+below by putting codecs or something.
+It helps people and teams analyze
+complex information, build produ
+production software, and automate
+multi-step workflows. In practice, GPT
+5.4 four is the default model for both
+broad
+general purpose work and most coding
+tasks.
+Start there
+when you want one model
+that can move between software
+engineering, reasoning, and writing.
+I'm curious what the 5.4 Pro is. The one
+that I'm using now. Okay. tough problems
+that may take longer to solve and need
+deeper reasoning. Yeah, back testing.
+Okay, let's see. Let's see if it comes
+up with anything here.
+How much gold would it make to coat the
+Statue of Liberty in a 1 mm layer? Okay.
+Using tools.
+Interesting. And I would be curious to
+see how this works on um
+open claw
+allowed tools
+migration guidance
+5.4 is our best model yet.
+You can see it takes a long time.
+It's really thinking. Huh.
+Oh, project.
+Maybe it's delayed on the the charging
+or something. I'm not sure
+cuz I'm getting nothing on the um
+the back end. opening eyes sight.
+But you can Okay, I'm getting this at
+least.
+You can see I'm using 5.4 Pro here.
+I'm just not getting the cost amount.
+That's okay.
+5.4 Pro says output. No output.
+Interesting.
+Maybe I'm capturing it incorrectly or
+something
+because you can see these ones with GBD
+5.4 that we were using earlier
+had perfectly fine output.
+Let's go ahead and double check that.
+Hey, so you can see I'm looking at the
+logs on OpenAI itself and it shows no
+output for the 5.4 Pro
+while the 5.4 regular shows output.
+What do you think is going on here?
+Everything okay?
+Is everything okay?
+3:21.
+So that was 6 minutes ago at this point.
+Here we go. Back test code saved.
+needs a parser patch. Let's see what she
+says. So, I am using 5.4 medium up top
+in the um codeex.
+Most likely the requests are reaching
+OpenAI, but 5.4 Pro is returning a
+response shape.
+Why I think that your screenshot shows
+calls.
+Can you do a go ahead and do a test? Go
+ahead and do a quick test. Build a
+script to test this the 5.4 regular call
+versus the protocol and see what's
+Gucci.
+I think it's working cuz it's now moving
+on to the package imports. But so
+essentially do a quick test of when you
+call 5.4 before say like, "Hey, send me
+a back testing a BWOP or something." And
+then do the same thing with the pro and
+get the responses back and you iterate
+through that and don't change anything
+in my code, but say come back to me and
+be like, "Yo, bro, I got you. I figured
+it out.
+Thank you."
+Okay. So, she'll come back with that
+information ideally. If not, I'll be
+hot.
+No output for all of these, but maybe
+this is a glitch on their end. And you
+can see what I was saying. I was not
+getting any usage here.
+61 cents. No way. No, it's 1 cent.
+Excuse me.
+I don't think that's true.
+Group by
+one day.
+Let's see.
+GBD4 Pro is thinking.
+Let's see here. Do you want me to run
+the following command?
+Yes.
+But don't show my key. I mean, it's not
+the worst if you see my key.
+I've rerun the test with network access
+so we can see the real results.
+Okay,
+you can see she's thinking 5.4 is
+thinking.
+The price is is heavy. It's heavy. It is
+what it is.
+Maybe it's the best in the world,
+you know.
+$30 in, 180 outs. Crazy, but
+could be the best ever. That's why I'm
+willing to pay it. I'm willing to test.
+Do you want me to rerun the uh direct
+open AI so I can see? Yeah, Gucci.
+What did I do right now? Um,
+GBT 5.4 gang
+plus one. Yes, you should get a point
+for that. Every time you log your
+things, you get a point. Every prompt
+you get, you get a point. Got to hack
+the brain. Got to keep pushing.
+Just keep going. You can do anything.
+5.4 regular just came back cleanly in
+about 10 seconds. Okay, I think this is
+working now. I just or finish reason
+stop.
+I think it's working. I tested directly
+isolated from your app code. No repo
+code was changed. What I found return
+normal text return no text output. The
+response contained only reasoning item
+with 800 tokens were consumed as
+reasoning tokens.
+Mhm. So maybe it's not working. The key
+result from the direct test.
+your OpenAI logs are consistent uh
+consistent with reality is not producing
+user visible text
+in the uh current responses API usage.
+So the issue is not that your RBI agent
+config switch itself. The issue is that
+pro is spending the budget on reasoning
+and not emitting final text. Bottom
+line, if you want the agent working
+reliably right now, use GBT 54. No,
+dude. No.
+What do you think is going on? Do you
+think it's just thinking for a long
+time? Because it is a big thinking model
+and it's extremely expensive. So maybe
+that's the reason.
+What do you think?
+Now you should tell me what it is
+because I don't want to influence you.
+Yes, that's likely the explanation.
+Based on the 5.4 Pro, it's not failing
+in the normal sense. It is burning its
+output budget on reasoning and never
+reaching the final text. Okay. The call
+completed reasoning tokens which means
+the entire output token was consumed
+internally. Oh yeah, dude. We got to up
+the budget.
+Yeah, we got to up the budget, bro. I
+didn't know we had a token limit in
+there. Take the limit off.
+Take the limit off.
+No limit soldiers 5.4 Pro.
+I'm removing the explicit output cap
+from Open AI. Okay, the hard cap is
+coming from two places. Okay, let's go
+ahead and see if we can get this
+switched up. 5.4 Pro 30 in 180 out.
+That's wild.
+That's wild. But if it prints, it
+prints. I doubt it prints, but I have to
+do this test every time. So, every time
+there's a big new model, I'm just going
+to do the same test because this is the
+core of my my existence here. Research
+and back test, find things that work.
+Okay, boom. Let's test it out in the
+real live market. If it works, okay,
+scale it up. If not, move on. Remove the
+output cap. Let's get it. Let's go ahead
+and give it another shot.
+So, to catch you up to speed, we got 5.4
+tested. Okay,
+I can't give you a full Listen, I can't
+give you a review on 5.4 just because it
+didn't print me money off some like
+moonv idea here. RBI agent just going
+crazy printing money. That's that's
+nuts. Can't give you a full review off
+that. If you want a full review of how
+it actually cooks as a coder, okay,
+that's going to take me a week or so.
+So, if you do want to see that, put
+Codeex below or something and I'll go
+ahead and in a week or so after using
+5.4 all day, then I'll go ahead and give
+you my actual thoughts on it. I'll just
+start using it starting now, even though
+I just switched to Miniax. Let's run it
+up, dude. Let's run it up. I'll switch
+to the $200 plan if needed. But the way
+I justify all this, dude, is you guys
+are watching me. You get to see
+everything that I do. So, if I spend a
+little more cash than I need to, that's
+great. We all see. Okay. I set up five
+open claws. Yes. And guess what? I found
+something huge. And guess what? Then I
+showed you that.
+I'm curious how this is going to work
+with computer use. Damn, this is fun,
+dude. This is fun. They just keep
+dropping heat on our heads. You can see
+one of the back tests did finish
+earlier.
+Damn.
+Go ahead and
+add exclamation marks to those last 10
+strategies you put in there so they can
+get going. Thank you.
+No output happens sometimes it looks
+like, but hopefully on this run here
+it won't happen again since we up the
+token budget or whatever.
+Here
+we go. There she goes. So, Williams R
+failure swing plus ADX confirmation, the
+parabolic SAR plus ADX expansion, CCI
+extreme reversion
+plus ADX weakness filter plus support
+resistance reclaim. Okay, sounds good,
+dude. If you print, you print. That's
+it. I know. I know. It's a big ass. Big
+ask. But why not? Why not? Why not ask
+the most out of these AIs? Like, figure
+out the most pie in the sky idea that
+you have and just test that new AIs
+every single time they drop, right?
+I mean, obviously, I'm going to be
+applying it for the next, I don't know,
+40 hours, seeing if it's better than
+Claude. That's it. I mean, those are the
+two.
+I gave you the budget version earlier
+with the Miniax. You know about the
+coding plan for $10.
+You get as much use as these expensive
+codeexes and the expensive clouds, but
+now you got it. The Mini Max. The Mini
+Max coding plant. I got you, bro.
+So, you can see it's taking a little bit
+of time here. 5.4 Pro.
+So 331, nothing yet.
+Starting processing,
+starting analysis. There's 10 active.
+So they each have their own thread as
+you can see here. But it's using GPT54
+Pro, meaning it's going to think a long
+long time,
+bro.
+It's going to take a long long time.
+We'll see here. See some inputs over
+here. 331. Nothing yet. That's a little
+weird to me.
+Research starting analysis. Maybe it
+does it after it logs it once once it's
+done. So it was logging it for me. No
+output. Probably once it was it was
+done. I wonder what the um time it will
+take
+is going to be here.
+So, this was at 3:36. Okay. Only two
+minutes ago. Damn, this is crazy. Do I
+really am I really just here all day
+yapping?
+Let me go ahead and push you to the max,
+dude. Let's go ahead and pump you up,
+model
+um 5.4 extra high. I want you to give me
+your 10 absolute best trading strategies
+that we can back test.
+approaches to the market. Generate as
+much alpha as possible. Okay, I want you
+to then write them down here and also
+add them to my ideas.txt so this mug
+could just keep going all day so you can
+see I'm on extra high now. Let's go
+ahead and lock in every day. Hey dude, I
+popped up on you in the afternoon.
+Remember when I used to do this?
+Yes, it's all private now. But we keep
+it in the private Zooms. We have to. We
+have to. Too many prying eyes.
+Just lock in. I'll see you tomorrow on
+the Zoom. We'll go ahead and have all of
+the results of this there, dude. Every
+single day just researching, back
+testing, and incubating into bots. I got
+bots on the screen. Let's see what's
+going on. Close order. It's trying to
+close a position. Sweet. You see that?
+It's much easier to trade this way
+mentally. Okay? It's not necessarily
+It's not It's not an easy way. It's not
+easy to trade to be an algo trade. It's
+not easy. I don't want to ever say that.
+It's just better. It's an easier more
+like
+more relaxing life than being a
+anxietyridden
+hand trader, dude. My 10 best back
+testable alpha frameworks from this
+batch.
+Cross selection, relative strength,
+rotation. We'll see if you can back test
+B. Let's see the Zcore. Okay. Halflife,
+perpetual funding, and basis
+dislocation. Yes.
+No output on 336. So that was 4 minutes
+ago.
+Still no output is interesting.
+Let's go ahead and do this because I
+don't have access to my
+cursor right now essentially.
+I got to restart my computer.
+Okay, shorty. Um,
+you can see all this.
+Can you see if they're actually creating
+the strategies?
+Because I'm still, you can see the
+screenshot here. I'm still getting no
+output on some of these. That's a little
+concerning.
+Okay, let's do this as well. Let's go
+ahead and make sure that she has all the
+information I do.
+API, where were we?
+GPT54.
+Okay. Best practices. Okay.
+Reasoning set. Okay. Just go ahead and
+throw her some slop as well.
+There you go. There you go. Looks like
+Moond is on top of the leaderboard
+today. I mean, I'm clearly the most
+locked.
+I'm clearly the most locked. So, let's
+get it, dude. Come on. It's time now.
+We've got AI. We've got these companies
+fighting for our business.
+They're fighting to make the best AIs
+for developers right now.
+Please, please, please learn how to code
+if you haven't already, or at least
+start messing around with code and AI
+along the way. Say, "Hey, can you
+explain that to me?" So, I got two cued,
+18 active. So, I have 18 different
+parallel processes going,
+and I'm actually striking out thus far
+if you think about it. Look at this no
+output stuff.
+But I just gave her a lot of information
+that should help her update this. Can
+see all my GPT 5.4 Pros. I'm actually
+getting cooked on it. But these 5.4
+regulars looking good.
+That was the step one of today's test
+and this is step two. Let's see if I can
+get Pro working and then throughout this
+week I'll just keep using it. So make
+sure to lock in on the Zooms. We do them
+in the morning times.
+We do them in the morning times.
+So it says creating back tests on
+number four
+and number 12. I've got enough evidence
+that the pipeline production is
+producing real artifacts. I'm doing one
+quick code check on the status counter
+so I can explain why you're seeing 18
+active.
+I need my cursor, dude. I need my
+cursor. I wonder how you can fix this.
+Reopen.
+Maybe I'll do a force quit. Yeah. Yeah.
+Yeah. There you go. Now you're thinking,
+big guy. Now you're really thinking.
+Okay, let's go up here and say um force
+quit. Please
+do a force quit on it. Get up out of
+here. Force quit. Don't come back.
+Actually, come back right now.
+code dot. Okay, here we go. So, you can
+see this is what I've been talking about
+the whole time. Just this idea.txt.
+Super chill way to just add ideas that
+she can go research. Okay, let's go
+ahead and see if we can find this
+folder. What day is it? It's 3
+something.
+35 right here. Okay, sweet. I I wish I
+would have done this earlier, but it's
+okay. It looks like it's cooking. So,
+35. You can see the back tests are
+outputed right here. Okay,
+I guess the question is which ones are
+the
+GPT 4.5
+Pro?
+These are all back test. Back test
+final. We only got one, huh?
+That's fire though.
+Oh my goodness. 1.6% return.
+a good strat, but
+let's see what shorty says up here.
+Okay, here we go. Yes, they are actually
+creating strategies.
+I opened up the research files and it
+contains full strategy write up
+only increments when the entire pipeline
+finishes.
+So 18 active, two cued, zero completed.
+So what is this? Percentile ADX pullback
+here. Logged. Okay. Creating back test.
+Percentile ADX pullback. Let's see if it
+actually did that. And what thread that
+was that on two
+T2
+percentile
+uh GPD 5.4 back testing.
+Dang, I spelled that wrong.
+Don't see that one. But maybe that's
+still cooking. So, let's go ahead up
+here and say
+creating back test climactic failure
+swing.
+And that was on
+T03.
+I don't know, bro.
+Yeah, I don't know about this. I don't
+think it's working. Can you pro can you
+make a print out of calling
+GBD5 or 5.4 Pro?
+GBD 5.4 Pro
+because I'm not so sure it's outputting
+new code. I know there is code in those
+folders. Okay, that's what I'm going to
+do. That's what I'm going to do. I got
+this. I got this. I'm deleting all this.
+I'm deleting all of it. Just going to
+delete the folder. See you. Everything
+we just did by I'll write it back.
+And then we're going to go ahead here
+and say boom.
+GBT 5.4 Pro initialize. Okay, we've got
+two threads. Keep it nice and clean.
+We'll see if it does anything or if I'm
+just not advanced enough to use the pro
+version yet. And that would be fine. It
+would be fine. I would I would respect
+that decision by OpenAI. You know, I'm
+just a vibe coder. 3.05.
+Okay, here we go. So, it should come up
+with a research first. So, let's see if
+it fills it up. If it fills it up, it's
+working, but I don't know, dude. I don't
+know. It says no output over here.
+No output. No output.
+I didn't know you could click on this.
+That's the input. This the output right
+here, dude. They've been gaslighting me
+the whole time, dude. That's crazy. That
+is crazy. Oh, AI, why you playing, dude?
+Why you playing? Stop playing with me
+like that. That's crazy, dude. No
+output. It's hella output.
+I've been going in a circle.
+I just deleted all today's work
+because you said no output. But there's
+output, bro. And it's still outputting.
+Let's see this other output. I could
+have clicked there, but I didn't know
+about this. That's insane. That's
+insane. Let's see what the usage is
+looking like, though. I want to see a
+big bar. I want to see a big body bar. I
+don't see it yet. So, maybe they're just
+giving me freebies these days, you know?
+They're like, "Hey, Mundaf's cooking. We
+better we better do him up with some
+cash." I mean, it's probably a good
+idea. So, good job. Good on them. Good
+on them. We're cooking every day. All
+right. So, it is outputting this entire
+time. Wow. It just takes dumb long. You
+can see the first thing it does is it
+takes one of these ideas and then
+expands them into a strategy. But why
+isn't it outputting into here is the
+question. It's March 5th
+output.
+Okay, this is good. Strategy name.
+That's the eerie thing here.
+It just said it outputed, right?
+Let's see what time it is. 3:40. Okay.
+No, it hasn't. Hasn't outputed yet. So,
+we're good. We're good.
+But this whole no output thing is a dud.
+It's a dud. They were capping.
+It is what it is.
+It is what it is. So, let's just be
+patient and wait. And in that meantime,
+let's go to Gemini here. Please make a
+thumbnail
+that says GPT5.4
+and then has the Open AI logo big in the
+background and then a chart going up and
+to the right. A candlestick chart that's
+green up and to the right. Okay. Thank
+you. Make sure this is so dirty. Like so
+clickable. Nice and clean. Smooth. Not
+too busy, but like holy hell.
+I have to click that.
+Okay, let's go ahead and cook with AI
+all day. Um, let's see if it made the
+strategy. Okay, so you can see both of
+the strategies are here now. Okay, so
+they were absolutely gaslighting me.
+And excuse me, I just learned what that
+word meant. So, if I'm using it
+incorrectly, please let me know in the
+chat below. Say, "Mund, you got to use
+that word better because I've been
+hearing it's been trendy for the last
+couple years and it's just too big, too
+big of a word for my small brain." You
+know, my teacher helped me back in
+seventh grade for a reason. Okay, so you
+can see the strategy here. Boom. Boom.
+But what's good about that is if I can
+do this, you can do it, too. I just
+follow a system and I'm just diligent
+about following that system. I've shown
+you the system, bro.
+roadmap. You got the whole system,
+the RBI system.
+I'm either researching, I'm back
+testing, or I'm incubating. Every day
+I'm doing one of those. This, I would
+say, is research research to see if
+OpenAI 5.4 can print yet.
+I'll actually test it all week building
+bots. But this is always the first thing
+I test with these new AIs.
+And I'm actually going to maybe test
+this as well on OpenCloud. Let me know
+if you want to see that cuz I haven't
+even used Open AI yet with Open Claw.
+And there's something interesting there
+as that they bought it, you know. You
+can see this takes dumb long. Dumb long.
+But that's okay. Let's just go ahead and
+get some things done here. It's not very
+good, dude. I need a cleaner. Like I
+can't I need the big numbers to be
+bigger. I need the
+Yeah, actually I just need the wording
+to be bigger and like pop out more. The
+white on top of the gray is a little
+tough, you know. So maybe like I don't
+know, bigger and
+I don't know, you think about it.
+Give me another image. Thank you. It's
+not bad, but it's just not very good,
+you know. So she's cooking while I have
+AI cooking a thumbnail.
+And then let's go have AI. Actually,
+let's go ahead. No, I can't. I can't do
+that. Let's do it over here. Let's use
+Let's see what her um writing skills are
+like.
+So, let's say codeex here. Yes.
+Continue. GBT 5.4 high. Okay. So, I got
+GBT 5.4 high here.
+And we also have GBT 5.4 Pro. I don't
+know the difference. I think pro must be
+high. I don't know. Okay. Um,
+I just made a a video about OpenAI's GPT
+5.4 for trading. I need you to make some
+panty dropper.
+Absolute must
+click and watch this video right now.
+Titles
+non-corny, short, concise.
+Give me five.
+Give me five fire titles because we have
+AI doing everything and we got GBT 5.4x
+high. We've got a test going to see if
+their title game is good enough to even
+get you here. If their title game was
+good enough to get you here, sprinkle on
+a little Gemini for the thumbnail. They
+win. I'm just cooking with the AI. Thank
+you very much. GBT 5.4 just changed
+trading, dude. I could have written
+that, but that's not bad. It's not bad.
+That one cooks the GPD 5.4 trading edge.
+I tested GBD54. Um, just change trading.
+Okay, we'll just do that one. We'll just
+do that one. Okay, so that's ready.
+Let's see how that thumbnail is doing
+because she's taking a dumb long time,
+dude. But I guess this is what you pay
+for, right? For extra thinking.
+Okay, that's better. But, you know, I'm
+I'm just I'm going to be lazy with it.
+I'm gonna be lazy with it because I
+don't know. I'm not even supposed to be
+here right now. I got the Zoom call
+tomorrow, dude. I got to get ready for
+that. I got to get ready for the Zoom
+call. We go hard on the Zooms, dude.
+Three, four hours every single day. Lock
+in. See what we can build. Okay, let's
+get it. That's it. That's what we do
+every day. That's so so fun.
+Maybe someday you'll join us. Maybe
+someday.
+Maybe someday.
+All right. So, I got the thumbnail done
+and the title done. So, I should just
+quit this video, but I really don't want
+to quit when it's I'm still waiting for
+the output. So, let's get our first back
+test done and then I'll fill you in
+later with more cuz I don't want this to
+go over an hour. If it goes over I'm
+cutting this off at an hour, dude. It
+can't go over an hour. It's been 56
+minutes. We got three minutes. We got
+three minutes. Holy hell.
+Three minutes. Three minutes.
+Can they do it is the question.
+Let's go ahead and explore and see if
+the um ever the things ever hit my
+account.
+Okay. 347. 347. So, she was cooking
+earlier. I just chopped her off.
+So, this just takes a long time. It's
+okay. It's okay because if it's fire,
+it's fire. Oh, wait. I'm patient. Is
+default project.
+My logs are showing that I'm maybe it's
+free right now to test or something. I
+could see that like the first hour free
+because this is like this is dropped
+like an hour ago, you know.
+We'll see, dude. We'll see. We'll see
+the fire they they have. But I think
+this week is really when we're going to
+dive deep into it. So, make sure you're
+locked on the Zoom calls because I can't
+share all of that
+cuz I got the ops. They're watching,
+dude. Just waiting, watching, and
+waiting.
+Just praying on my downfall.
+It is what it is, dude. It's okay. I get
+it. This is a vicious game, but I'm
+going to keep attacking every single
+day. So, much love to you. Thank you.
+Thank you for locking in with me.
+Thank you. Thank you.
+So, two active, zero queued, zero
+completed.
+We'll see, dude. I think you're going to
+have to wait and see though tomorrow,
+though, because we got uh less than a
+minute. I can't have this be over an
+hour.
+I got big things brewing on my
+whiteboard behind me. I thought I'd jump
+on real quick and show you one thing
+real quick with 5.4. I showed you 5.4.
+Does it print money? No.
+Does it write good YouTube titles? We'll
+see. If you're here, then it's a good
+title.
+Wh will it print money? I guess you'll
+have to tune in for next time because
+I'm not going over an

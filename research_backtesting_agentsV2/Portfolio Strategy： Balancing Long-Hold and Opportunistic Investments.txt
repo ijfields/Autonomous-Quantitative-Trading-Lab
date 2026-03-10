@@ -1,0 +1,744 @@
+Okay, everyone. We are back here again
+with another episode of Financial
+Engineering, how to actually make money.
+We're here with Jordy and Connor in
+London and Chattanooga, Tennessee. Um,
+so first thing like I know a lot of
+people have been following our
+portfolio. One thing I kind of want to
+bring up is how like these aren't set it
+and forget it strategies. They're always
+adapting and we want to talk about the
+concepts of what we're doing. basically
+how to fish not just giving you a fish.
+So the first thing that I wanted to
+cover is kind of the concept of video
+risk and systematic risk and then
+overarchingly what risk varity is. Um do
+you guys have any idea what those
+concepts are being what we've learned
+thus far with um you know the portfolio
+series type examples so you guys don't
+have to or you can ask some questions in
+general if you sound
+&gt;&gt; I don't want to cheat and say because
+Mark did just explain this to me so for
+the audience sake I think we could let
+let Mark explain the the bare basics.
+&gt;&gt; Yeah. So basically there's two types of
+risk present. One is called systematic
+risk and systematic risk is the risk of
+the overall market. So basically it's
+can also be called beta. We've talked
+about this as well is basically the
+volatile of your asset. So if you are in
+spy you have a beta of one and you're
+100% in systematic risk. If you had a
+spy covered call ETF, you would be like
+85% systematic risk because you're
+selling a $15 call, which would
+basically uh reduce that. And then if
+you're in long only assets like private
+equity or venture capital, you're
+basically 2x
+uh beta or systematic risk. Then the
+other risk is what's called
+idiosyncratic risk and it means risk
+risk remaining or unexplained risk. So
+gold and uh spy can move in the same
+direction. Um but if something is 0.1
+correlated that means 90% of the time
+the moves are unexplained by one
+another. So if they're now 20% explained
+by one another which always happens
+correlations are always fluctuating. Now
+you have twice that systematic risk
+tasty because it's all relating to
+oneself and these environments change
+and that's why back tests are not
+perfect and it is our general framework.
+So
+&gt;&gt; so hold on back. So does the risk come
+from the correlation itself or it's I
+mean or is it too simplistic?
+&gt;&gt; Uh so yeah we would call that
+clustering. So generally in times of
+distress um all long assets because
+there's just not as much liquidity in
+the system can cluster in terms of
+volatility or correlation. Um so
+generally when we look at the risk we
+say what's the correlation for a 10 the
+first 10% draw down and when the VIX is
+below 25 and then what's the correlation
+for a 25% uh a 20% draw down or when the
+VIX is above 25. So an example of this
+would be managed futures. So managed
+futures generally are negatively
+correlated, but the first 10% move down
+since most of them trend fall and it
+takes a month for them to respond,
+they're pretty correlated to the market
+because they're generally long assets.
+But since they can go short assets in a
+downturn, they have very low correlation
+over time. So I think the most
+simplistic way to kind of uh show this
+to begin is we can look at a 60% stock
+portfolio 40% uh bond portfolio. So that
+would basically be comprised of the A
+index which is the Barlay's US bond
+index 60% of our allocation and then
+40%.
+So when we're looking at portfolio
+visualizer we see the correlation and we
+see that the correlation is 0.9.
+So basically we have 90% systematic risk
+to the market. However, when we go down
+to here, um, this risk here under
+basically the systematic risk, it's only
+saying that even though we have a 60%
+allocation to bonds in agg 22% of our
+systematic risk is coming from this. So,
+you can see that even though bonds are
+uncorrelatedish in most environments, if
+we go to here, we can look at
+correlation.
+Now, with 100% bonds, we're only 02
+correlated. So the the the con the
+concept I kind of want to bring up here
+is
+your waitings are one factor of your
+risk budget because that's your
+allocation. But you need to understand
+if you have a volatile asset like the
+S&amp;P and then a nonvolatile asset like
+bonds you would generally have to size
+up the unvolatile asset to
+have the same risk budget or experience
+a low correlation. So if we were to do
+that, we have SD here. Let's go 15% spy
+and 85% bonds isn't going to have a high
+return but I'm trying to show you how
+the correlation is now 6 and then if we
+look at the risk budget we are you know
+now getting most of our risk for bonds
+does that kind of make sense
+&gt;&gt; so could we could we get the return and
+apply how correlated it is to get the
+risk is that the formula of the of the
+systematic risk or not really or is it
+too simplistic
+&gt;&gt; um what do you mean by that can I ask
+that question
+Yeah. So if you're saying that uh you
+know one is more correlated than the
+other and that's how it zigs and its
+could we apply the the like the the
+weight of the portfolio to the
+correlation to get that systematic risk
+or that's you know
+&gt;&gt; that's the the concept I'm trying to
+bring here is people are very afraid of
+the word leverage or
+&gt;&gt; whatever that is. Yeah. So it is less
+risky to take leverage because the thing
+is no one wants to be 85% bonds and 15%
+stock because you're going to make
+money. However, that bond allocation is
+a ballast to offset draw down. So if we
+wanted to maintain a 40% exposure to
+stocks, we may have to buy a treasury
+future that'll give us 120% exposure in
+bonds. So we could roughly get equal uh
+risk from each component. But when I
+talk about this, we have the systematic
+risk which is what's related to the
+market and then we have the um
+idiosyncratic risk. So you have to think
+of it kind of like a teeter totter like
+there's no direct formula because the
+correlation change of time but this is
+kind of a guiding light to us where we
+want to think how much risk do we want
+in a particular asset and we also need
+to consider is this going to be related
+to the rest of our portfolio. So, we
+would like to weight something heavier
+that is not related to the rest of our
+portfolio. So, like we can take more
+risk in an asset that isn't related to
+the S&amp;P or the S&amp;P and private equity or
+whatever because all those are going to
+cluster at the same time. I've got a any
+questions I have an example that I think
+&gt;&gt; yeah there on the correlation aspect of
+it. I'm understanding the risk aspect of
+it as well and the waiting on that. So,
+for this portfolio, where are we trying
+to get at on the correlation? How
+correlated do we want to be to the
+market but also while still being
+uncorrelated? I know obviously we don't
+want to be one because then you're gonna
+&gt;&gt; Yeah. So I would generally say what I
+like to be for what I would recommend
+for this type of portfolio is like I
+want to be 6 correlated to the market
+when the market's going up and I want to
+be three correlated to the market when
+the market's going down. And this should
+this should somewhat make sense because
+as asset prices appreciate there's
+demand for commodities. So, you're most
+likely long commodities, which is fine,
+or gold's going up because there's some
+type of inflation. Whereas, when assets
+go down, if you can short things in
+managed futures or you have that
+anti-baile ETF, you're now able to take
+some of um that idios that risk away.
+&gt;&gt; So, you're not talking about
+&gt;&gt; Yeah. So, you're not talking about the
+buffer ETF that you cap the downside.
+You're talking about correlation on the
+up move and correlation on the down
+move, right? Correct. So I'm
+&gt;&gt; Yeah. So like we want to look at how our
+assets are correlated
+the first 10% of the S&amp;P going down and
+when the VIX is like below 25 and then
+we want to look how those are correlated
+in a crisis. So the term that a lot of
+people finance is crisis alpha. So like
+hedge funds often underperform the
+market and then they're referred to as
+crisis alpha because when there's a
+crisis they're uncorrelated and end up
+making money which is kind of like the
+ballast for your uh thing. And and maybe
+to simplify this is I want to go back to
+portfolio visualizer and to not make
+these concepts as scary. So like this is
+kind of our portfolio here that we've
+been working on which is a uh it's gold
+spy with managed futures a buffer ETF
+and then that long short equity which is
+TQQQ and BTA. So when we look at this
+portfolio we want to look at our
+measures. So the first measure is what
+is our correlation? So it's pretty high.
+&gt;&gt; Yeah
+&gt;&gt; we like this is just something that's
+guiding us. So like I said 06 we
+probably want to get this down. Then
+this risk here this is kind of telling
+us what is our systematic risk for these
+assets. So you can see that we have a
+lot in spy. You can see that we
+obviously have a lot in TQQQ and then
+you can see that BTA is negative because
+it's a hedge basically.
+&gt;&gt; Yeah. And it says in the name antibeta
+which is really true which is very cool.
+So this this makes sense and that's a
+good pick by Jordy is like we're we're
+we are using finance terms but I don't
+want them to be scary. And then Connor,
+if you see something with a 1.33% risk
+even though we're 25% allocated to us,
+what do you think the correlation or
+beta is of this hashtag?
+&gt;&gt; Very very low. I mean
+&gt;&gt; perfect.
+&gt;&gt; Yeah. But we can't just size up DBMF to
+85%
+because so we want all these risks to
+look something similar. It just doesn't
+make sense. So this is our systematic
+risk. Then if we
+&gt;&gt; just click for me making so the
+correlation is tied with risk high if it
+has high risk it has high correlation
+low risk low correlation basically
+&gt;&gt; but but the kind of the concept here is
+in portfolio visualizer when you look at
+this tab this is systematic risk. It
+doesn't say that, but it's comparing it
+to our benchmark. And our benchmark is
+SPY.
+&gt;&gt; Perfect.
+&gt;&gt; Um, then if we go down here
+uh to the individual assets,
+this shows what our standard deviation
+is. So a standard deviation of 11% means
+that the asset will move up or down 11%
+either way over the course of the year
+roughly. So here, even though DBMF was
+only 1% of our risk budget, this
+standard deviation kind of shows our
+idiosyncratic risk budget. So you can
+see here that a waiting to DBMF and our
+waiting to spy roughly has the same
+idiosyncratic budget if we take out the
+overall market risk. Does that make
+sense?
+&gt;&gt; Yeah.
+&gt;&gt; And then as a quiz, Connor or Jory can
+answer this. We see that we have an
+allocation to the buffer ETF but it has
+a lower standard deviation. What do you
+think that is in relation to uh
+idiosyncratic or systematic risk? Does
+it have less systematic risk, less
+idiosyncratic risk or less of both?
+&gt;&gt; Do you guys know? I can give you the
+answer if you don't know. You can take
+yes.
+&gt;&gt; Hold on. Let's let's let's take it one
+step at a time. One question at a time.
+Don't don't throw all the questions at
+once. So
+&gt;&gt; yeah,
+&gt;&gt; systematic if it's a buffer ETF should
+be
+uh
+it should be systematic. So we're
+talking about the market it's a buffer
+ETF. It should be highly correlated.
+Therefore should be uh lower systematic
+risk. Is that right?
+&gt;&gt; Yeah. Yep. And then again to get you
+that hint we know where we look at even
+though we have a 10% allocation to it.
+our risk budget is 11% where when we
+have a 25% allocation this is more than
+two and a half times more.
+&gt;&gt; I see that.
+&gt;&gt; So the buffer ETF less systematic risk.
+&gt;&gt; Okay, does that make sense?
+&gt;&gt; Yep.
+&gt;&gt; Yes.
+&gt;&gt; And then if we go back down to here, I'm
+going to ask Connor this question. Does
+the buffer ETF have less idiosyncratic
+risk than SPY? Uh yes
+&gt;&gt; because you have that buffer or that
+protected put. So
+&gt;&gt; that's what I was going to ask is is the
+reason why is because of the is because
+it's capped. If not it'd be the same
+amount of risk. Right.
+&gt;&gt; Correct.
+&gt;&gt; Now if we look at the managed futures
+ETF DBMF does DBMF have very much
+systematic risk?
+&gt;&gt; Let me see.
+&gt;&gt; Meaning risk related to the market. um
+not a lot of risk related
+&gt;&gt; it has no risk related to the market.
+Now does DBMF have systematic risk? I
+mean uh idiosyncratic risk.
+&gt;&gt; Yes,
+&gt;&gt; there go.
+&gt;&gt; Oh, here we are. So you can see here
+that
+&gt;&gt; DVMF has almost the same idiosyncratic
+risk. So the asset moves up and down a
+lot just as much as SI. It just moves at
+a different time. Makes sense.
+&gt;&gt; Oh, so it zigs when exact. All right.
+So, I was going to say why is that? But
+it I mean it's just whatever it is. I
+mean that can move just as much as SPY
+or S&amp;P is.
+&gt;&gt; So we're talking correlation,
+we're talking total return, we're
+talking standard deviation, we so this
+filter thing. So it it's we we are
+putting it all together. Okay.
+&gt;&gt; Correct. And again, if I've lost people,
+I think this is the easiest way to look
+at it. These are the correlations
+related to basically each other and or
+spy. So if we go back to kindergarten,
+do we think red means correlated or
+uncorrelated?
+&gt;&gt; Uncorrelated.
+&gt;&gt; Okay. And then do we think white or I'd
+say red means inversely correlated?
+Because
+&gt;&gt; yeah, inverse. Then it would be
+uncorrelated be high or low when it's
+&gt;&gt; yeah I'd like if portfolio visualizer
+would have used green but do we think
+blue means correlated inversely
+correlated or uncorrelated
+&gt;&gt; could all say together correlated
+&gt;&gt; exactly
+&gt;&gt; and then what do we think white means
+&gt;&gt; not correlated yeah
+&gt;&gt; yeah not correlated and then yellow
+means
+&gt;&gt; middle ground yeah
+&gt;&gt; pretty yeah the in between inversely
+correlated and uncorrelated.
+&gt;&gt; Okay. So, I think that was a lot. We'll
+go into uh another concept next week,
+but I want to open it up to you guys now
+that I threw it to you. Like, I know I
+said a lot, but you guys job slowing me
+down. And I want the pictures to kind of
+be like this isn't that scary in your
+tool belt to look at it. Like if you
+were allocated from a financial adviser
+and you just typed in a ticker on
+portfolio visualizer, which is free
+portfolio visualizer, just by looking at
+the colors, you could go, "Oo, cavemen
+think I lose money in down market." You
+know what I'm saying? Like like that's
+just kind of the sniff check I want to
+people because we have some volatility
+in the market and when someone says,
+"Oh, in 40 years like you're going to be
+fine." And it's like, well, I don't want
+to be down for 40 years, so I want to
+pay a little bit attention to what my
+neutral is so I don't have to go through
+a decade of pain.
+&gt;&gt; But the problem I think a lot of a lot
+of people have a problem with the market
+has been on such a bull run that nobody
+cares about this. People will start
+people will get back to this video when
+things are going to go down, you know.
+So because now you buy SPY, you cannot
+lose, you know, just 38% 28%.
+just
+&gt;&gt; you guys Tanner will link it in the
+description, but you can check out our
+video when we showed you about DBMF and
+managed futures and managed futures is
+up like 7% this year as everything else
+in town. And guess what? They're
+probably long oil, which looks like it
+may be may be a good position here.
+&gt;&gt; I was looking up the return stack
+portfolio that you're showing me and
+they're up they beat the market last
+year. They're like 21%. The market was
+17%. So like
+&gt;&gt; Yeah. Um, I mean it's it's it's good
+&gt;&gt; and and psychologically what I want
+people to do when you have a good
+portfolio and like you know this is kind
+of what we're seeking to do with
+multiacet approaches is you can be
+talking to your neighbor Connor mowing
+your lawn and they go isn't it crazy gas
+is $9 a gallon and then you're like yeah
+I've been long managed futures since
+November I'm up you know like you
+Conor because he's long, you know.
+&gt;&gt; Exactly. And so that's what my question
+was just going to be like is your con
+your overarching concept about how to
+weight your what you're allocating to
+each um ticker to understand the risk to
+understand the correlation to the market
+and then going you know comparing the
+systematic risk to the other risk as
+well like is that the overarching theme
+like we're understanding our sizing of
+our portfolio here?
+&gt;&gt; Yeah. So the theme is I want you guys to
+understand
+what is going on and why stuff is
+happening like correlations are always
+going to change. Um you know like oil
+got crushed in 2020 because there was no
+demand for oil whereas like now people
+still have to go to work and you know if
+the Middle East isn't producing oil
+that's going to make oil prices go up.
+So, we can't just say, "Hey, we're going
+to stay in this forever." But we need to
+be aware of what's going on and where
+our our exposure is to certain things.
+And then when we're monitoring this, we
+can have an understanding because
+whatever your divers so like most people
+will get into whatever their model
+portfolio is or diversification and then
+they'll just sit in it for 30 years. And
+it's like it's true. If you go 6040
+stock bonds, it does okay. If you do 60%
+stocks, 20% bonds, and 20% gold, even
+though gold and bonds have the same
+return over time, you end up doing
+better. But when you're 60% uh stocks,
+20% gold, and 20% bonds, you never felt
+what the benefit was over your lifetime
+of being 90% in stocks and 10% in bonds
+when there was a bull market. and you
+never felt what the benefit was like
+when everything was going down and you
+were 60% managed futures and 10% stock
+and then the rest in bonds. So the key
+is that you're going to be positioned
+well in all environments which creates
+an evergreen type structure. Like if you
+go to San Francisco or New York, those
+are the trees that have seasons. That's
+the market, that's the business, the
+lead.
+&gt;&gt; But that means that you'll have to keep
+changing the allocation then, right?
+Which is
+&gt;&gt; yes.
+&gt;&gt; Yeah. in certain things like we showed
+you like a buffer ETF is a way to hold
+spy and not have to change as much if
+you hold gold covered calls
+because we spoke about in the other
+episode it's a way to hold gold without
+having to leave it so much and then if
+we have managed futures it naturally the
+little product trend follows whatever is
+moving so you never have to do anything
+with managed futures you may want to
+allocate a little more to it over time
+but always kind of going to get you in
+something. So, what I suggest most
+people do, and this is what we'll do
+next time, is we'll look at kind of half
+of our portfolio in a like diversified
+hold for a decade thing that we're not
+going to touch a Warren Buffett bot.
+We're going to look into it. If you
+could only hold 10 assets for the next
+decade, those are 10 assets. Then the
+other half we're going to think okay
+what are the signals that we will
+potentially take or inform our market
+basis to have a 90% allocation of stock
+10% allocation of bonds because we don't
+want to lose out on the bet on humanity
+of holding assets. We just want a
+smoother ride on the bet on humanity of
+holding long assets and then we also
+want something that
+&gt;&gt; makes us money
+&gt;&gt; in any environment. So when gas prices
+go up, Connor's still going to the
+national park with his family because
+he's long oil, you know.
+&gt;&gt; So you're we're doing two transitions
+here. The first transition that we had
+to do was from going from one asset or
+one trade to a portfolio. And now the
+second transition is we're going from a
+static portfolio to a to a dynamic
+portfolio based on
+&gt;&gt; so there's going to be two 50% of
+portfolio is going to be this neutral
+buy and hold
+better diversification for example a lot
+of people are 6040 we may be 60% stocks
+20% bonds 20% gold it'll obviously be a
+little more complex of that but that's
+kind of one thing we're doing and then
+the other half will basically
+dynamically
+use signals Yes, but the point is like
+comparing it to zero DDT at the
+beginning I think everybody looks for
+the trade that's going to print money
+and then you realize that that's not
+true. You have to look for the the
+portfolio that's going to make money
+&gt;&gt; exactly the portfolio the portfolio
+construction and the and then the third
+the third iteration that we all have to
+do Connor me and everybody who's kind of
+successful let's put it that way it's
+the sizing and that's what you're going
+at. So that is the the the because you
+know of course we're not talking about
+people sitting in cash everybody
+watching and all of us we know that
+that's not nothing but so it's the trade
+the portfolio and then sizing and sizing
+implies that the portfolio is somewhat
+dynamic. You can say 50/50, you can say
+whatever it is, but it's not one. You
+could design a portfolio before you die,
+but you know, like for the rest of your
+days, but you're implying that there's a
+way to also manage the portfolio in a
+way that it's dynamic that it's
+depending on what's happening, right? Is
+that is that a fair?
+&gt;&gt; So, so it's like we're running a
+business. So, like, yeah, you have to
+first know your clients and you have to
+know what their problems are. And then
+once you've solved a lot of those
+problems, you may need to hire an
+employee to help you accommodate more of
+those clients and you need to know how
+to communicate with your employee and
+what are their roadblocks. So this is
+essentially what we're trying to do with
+our portfolio is we're first going to
+get to know the individual assets, which
+is what we've been doing for the past
+several weeks. Gold, how do we implement
+that? Well, a buffer ETF that helps with
+SD, how do we implement that? Well, what
+are our managed features? How do we
+implement that? Well, now that we have
+these employees or clients, we need to
+say, you know, which clients do we need
+to look after and then which ones can
+just kind of roll on in perpetuity for
+how to do it. So now this is kind of
+what we're combining. And the thing is
+like I don't want to make this complex
+because everyone is somewhere on the
+spectrum. like I may be over here where
+like I originally started with one zero
+DT trade then I had 30 zerod trades then
+I did this whole hedge fund and zerodt
+then after that I was like okay I'm
+going to hold some long assets in
+multiple strategies then I'm going to go
+to more things so like we're all on a
+level of figuring this out it's just a
+question of with you guys instead of me
+trying to explain this where it may be
+too complex is I want to go step by step
+so each of your guys's experience will
+help other people learn and That's kind
+of why it comes into our homework
+assignment for next week and it's
+basically going to be, you know, we have
+a little hint with the initial portfolio
+visualizer is you guys will at least
+speak about each asset that's in that
+and why we chose this house for it. And
+there's no right or wrong answer. It's
+just that you can speak to it and we'll
+obviously improve and go from there. But
+we just want to make sure before we move
+on, we understand basically all of our
+clients and or employees that we're
+working in our tool belt.
+&gt;&gt; Makes perfect sense. So you got to be
+able to speak to the amounts of like why
+you chose this, why did it make this
+system out of risk go to this risk and
+like you have to be able to speak down
+that line of numbers that we just spoke
+about.
+&gt;&gt; Yeah. And it can be as simple as like
+what does what do the colors look like?
+&gt;&gt; If I can look at those colors and I was
+like yeah, Connor's portfolio looks
+good. uh like we're we're pretty well
+done, you know.
+&gt;&gt; All right.
+&gt;&gt; Because it just like that's the initial
+sniff test, you know, and then we can
+progress there. So, we still have a
+little more time, but do you guys have
+any questions kind of knowing that
+whereas we'll just kind of explain each
+of the assets and how we think they fit
+and look at how
+&gt;&gt; No, I I just have a comment that this is
+mind-blowing because it forces you to
+change the mindset from again what's
+going to make me the more money as a
+what do I buy and finding the secret
+stock that nobody knows about. it shifts
+to something that's stable stable that's
+long-term that makes sense that is
+quantifiable. That's the same thing with
+a portfolio of zero DTS or whatever
+shortly trades. It makes 100% sense, you
+know, and then
+&gt;&gt; I feel like it's fun for a guy like me
+to you feel like you're still beating
+the market and it it actually I don't
+have to be a quant to be able to beat
+the market. You know what I mean? Like
+you feel like the average Joe could go
+in and make his portfolio, understand
+what they're doing without having to do
+day trading because just we just know
+the level that it takes to be a
+successful day trader, you know.
+&gt;&gt; Yeah. in kind of coming back to this is
+like we're trying to use the leverage of
+putting our work in to understand what
+we're invested in and then having a
+bunch of free time to go work. Like
+that's the leverage we're going after.
+We're not trying to be the best prop
+trader and get funded by whatever or
+like get in front of Bitcoin or
+something on Twitter to where we can
+make money. It's like this is a way that
+you can still go on vacation with your
+family when airplane tickets are twice
+as expensive because you're long oil and
+you don't need to worry about basically
+what you're doing every day and how
+you're going about it. And also it's
+probably going to save you money on
+taxes too. Like we'll get into that
+component of how it could save money on
+taxes. So, it's like you have your
+sanity to be productive in all other
+aspects of your life, and you're not
+worried about this one long bet that
+your house is going up, your job's going
+to get a bigger bonus, and your stocks
+&gt;&gt; 100%. And you're not having to watch the
+market all day long because this is
+pretty much an evergreen platform, too.
+&gt;&gt; Yeah, it's it's that tree. I mean, there
+still are forest fires, but
+&gt;&gt; a lot of evergreen trees or redwoods,
+they can resist those forest fires. So
+this this isn't some holy grail that is
+going to make money on every three-month
+period. It's always going to outperform
+the market. But over a long period of
+time when forest fires come, we stand up
+and we're always able to basically have
+our leaves out if there's some debt.
+That's kind of more of the thought
+process.
+&gt;&gt; Yeah. Like less stress, we can leave to
+trade another day. Long-term positive
+growth. I mean, it has all the good
+things. Yeah, that's I it makes a lot of
+sense. I I really like this.
+&gt;&gt; And the thing is it's like I didn't even
+notice. So, so it's like Connor talked
+about it. Managed futures all last year
+did like one or two%. So, it was almost
+unnoticeable to SPY if you held SPY and
+managed futures and this year all this
+conflicts come up and then like out of
+nowhere everyone's a draw down and you
+are because of managed futures and it's
+like you're like whoa that is great. Um,
+so that's kind of the concept but I'll
+leave it for there. If you guys have
+anything you want us to cover on the
+next episode, put it in the comments and
+we will see you guys on the next one.

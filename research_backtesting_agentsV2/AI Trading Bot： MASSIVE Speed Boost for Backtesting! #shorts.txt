@@ -1,0 +1,78 @@
+This makes the bot more scalpy by
+letting it jump into trades when the
+spread is just starting to look
+stretched rather than waiting for an
+extra move. And faster response to
+shorten the Zcore look back to 10
+periods. This makes the bot react much
+faster to quick price swings in the oil
+market and steady cadence that kept your
+15-minute check-in time. Okay, cool. So,
+so far still no trades. Let's stop this
+other back test cuz it's really useful
+anymore. Let me check on this for speed.
+I'm going to in the meantime, I'm going
+to get this thing to work on some speed
+improvements. make speed management
+automatic so we don't forget. So first
+of all, we don't have Forex back testing
+for Interactive Brokers. As far as I
+understand it, I don't think that works
+at all. So you're talking about making
+it faster. That doesn't make any sense.
+And second of all, you should read, we
+created a document already on like how
+to do speed improvements in general. Can
+you read that document in the Lumiot
+docs folder and make sure that we're
+following all of that and all those
+instructions there and then give me a
+better game plan for all of this. This
+strategy that we're running here is like
+way too slow. We need to make it at
+least like 10 times faster for the code
+they gave you. It's the ETA is 40
+minutes for a oneweek back test. Like it
+should be more like 40 seconds, you
+know. So I think we need a pretty
+significant speed improvement here. So
+we want to work on that. So what is the
+game plan for all of this? First of all,
+getting at least a 10 maybe 30x
+improvement in speed would be ideal for
+the strategy that I gave you. And then
+we want to talk about seconds level
+futures back testing. And then also
+making sure that crypto is fast and also
+works with seconds level data. and then
+we could focus on forex trading after
+that, but that's less important here.
+Pretty crazy. You can just like talk to
+AI and just tell it like make this
+faster. And that's basically what I've
+been doing and it's been really working
+well. So, it seems like, you know,
+continuous contracts, we got a really
+nice speed boost, but these when you're
+picking the contracts for some reason,
+not yet, but we'll figure it out. We'll
+make this faster, too. Okay, I'll say it
+still does not seem to be trading. Can
+you check the logs to see what is
+happening? I don't know if it has the
+ability to check the logs for running
+back test, but that would be pretty
+useful if it did. So, we have to wait
+until it finishes.
+&gt;&gt; Yeah. Yeah, that would be good.
+&gt;&gt; Yeah, cuz it's trying to get the logs.
+CSV, but that's not going to work cuz
+that doesn't exist yet. Logs are pretty
+clear. So, what do you think about that?
+Put it into the comments. Let me know. I
+respond to all of your comments. So, I'm
+very interested to hear what you thought
+about the video and what do you want to
+see next. And of course, if you're
+interested in any of this stuff, go
+check it out at botsspot.trade.

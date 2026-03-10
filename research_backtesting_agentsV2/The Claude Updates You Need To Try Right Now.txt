@@ -1,0 +1,413 @@
+Anthropic recently dropped some of the
+biggest updates we've seen to claude
+possibly ever, including brand new
+models, Sonnet and Opus 4.6, new
+features like agent teams, co-work
+plugins, a bunch of upgrades to Claude
+code, and more. And in my opinion, these
+updates have solidified Claude's place
+as the top AI flagship model right now.
+So, in this video, I'm going to break it
+all down for you. What's changed, what
+it means, why you should care. Whether
+you're a developer, a business owner, or
+just someone who uses Claude every day,
+there's a lot to cover, so let's get
+into it. So, let's start with some of
+the freshest news. Claude Sonnet 4.6
+literally just dropped on February 17th,
+and honestly, this one caught me off
+guard with how good it is. Sonnet is the
+mid-tier model. It's faster and cheaper
+than Opus, but the gap between the two
+is getting smaller and smaller. Sonnet
+4.6 is a major upgrade for coding, tool
+use, and agentic work. It's the everyday
+model, the one built for getting real
+work done. It's now the default in the
+Claude app, including on the free plan.
+So, if you're using Claude right now,
+this is probably what you're talking to.
+But here's where it gets really
+interesting. On test after test, Sonet
+4.6 is pulling up right next to Opus and
+sometimes beating it. On real world
+software engineering tasks, the gap is
+almost nothing. On computer use,
+actually operating a desktop, clicking,
+typing, navigating, they're essentially
+tied. And on agentic office style work
+like spreadsheets and document
+workflows, Sonnet 4.6 has closed most of
+the gap with Opus. the smaller sibling
+is outgrowing its role. So the question
+becomes, if the mid-tier model can match
+the flagship on this many day-to-day
+tasks, what exactly is the flagship for?
+Now, Opus 4.6 dropped on February 5th,
+and it is still Anthropic's most
+advanced model. It follows instructions
+significantly better over longer
+conversations than the previous Opus
+model. And if you've ever been deep into
+a chat with Claude and it starts
+drifting or losing the thread, that's
+been dramatically improved. And it
+simply does not give up on hard
+problems. Previous models would
+sometimes hit a wall and give you
+surface level answers. This one pushes
+through and anthropic specifically said
+that this model sustains agentic tasks
+for longer and more reliably. Where opus
+still clearly leads is on the stuff that
+requires the deepest reasoning and the
+most general intelligence. They're
+really hard problems. Novel problem
+solving, complex multi-step reasoning,
+the kind of questions that pushes the
+boundaries of what AI can do. That's
+still opus territory. So here's the
+simple breakdown. Sauna has closed the
+gap on well-defined structured tasks,
+coding, financial analysis, office work,
+think Excel, PowerPoint, that kind of
+thing, and computer use. But when you
+need the absolute best reasoning on the
+hardest problems, Opus is still king.
+For most people, Sonnet 4.6 is going to
+be more than enough. Now, there's one
+thing I want to make sure that you know
+about. On February 11th, Anthropic made
+a bunch of previously paywalled features
+available on the free plan. So, let me
+walk through what those features are.
+File creation. So free users can now
+create and download word documents,
+excel spreadsheets, powerpoints and PDF
+from any clog conversation. And now
+connectors are also available on the
+free plan. So this is where clog
+connects to external tools like Google
+workspace. So docs, sheets, gmail,
+calendar, etc. Plus additional tools
+like Canva, notion, slack and more. And
+Claude skills are now available on the
+free plan. So these teach Claude how you
+work once and it remembers. Skills are
+like reusable mini playbooks. You define
+a process or a style and Claude can
+apply it automatically across future
+conversations. These are where you
+really start to see the power of Claude.
+So, I highly recommend trying these out.
+Now, in case you're wondering, we
+actually pay for the Max plan and have
+API access, and to us, it's worth every
+penny. And one more thing worth
+mentioning is that voice mode has been
+available on mobile for a while, but
+it's new to the desktop app and web.
+This was something that I was waiting
+patiently for because Chad GBT and
+Gemini have already had this feature for
+a while. So, this is really exciting. So
+now you can talk to Claude directly from
+your computer and say your prompts
+instead of always having to type them.
+You can also give it tasks with your
+voice and hear responses back. So keep
+an eye out for that. One more technical
+upgrade worth mentioning is that both
+Sonnet 4.6 and Opus 4.6 now support a 1
+million token context window in beta
+through the API for high usage
+developers and teams. So most of you
+won't have access to it yet, but it
+signals where things are headed. Now,
+speaking of context windows, what you
+will notice, no matter what plan you're
+on is the relatively new feature called
+compaction. When your conversation
+approaches the context limit, Claude
+automatically summarizes earlier parts,
+freeing up room to keep going. It does
+this by scanning your conversation
+history, prioritizing the most important
+information, things like decisions you
+made, code snippets, key context, and
+compressing the older, less critical
+messages into a concise summary. The
+recent messages stay fully intact. So
+the conversation feels continuous. When
+this is happening, you'll get a message
+from Claude in your chat that looks like
+this. So you essentially get much longer
+conversations now without hitting a
+wall. I've seen this message while doing
+work in Claude and it hasn't negatively
+impacted the quality of my conversations
+at all. It seems to still remember what
+I needed to. And this is available on a
+free plan, too, by the way. Okay, so the
+models are impressive on paper, but how
+do these upgrades actually affect the
+quality of the output that you're
+getting from Claude? One of the biggest
+improvements in both models ability
+shows up in claude code. It can explore
+bigger code bases, so it's better at
+understanding project structure and
+making changes across multiple files. It
+can write more code in a single prompt,
+give it a bigger task, and it handles
+more of that in one go, especially when
+you start in plan mode. And it writes
+better code on complex tasks, things
+with lots of moving parts where multiple
+components need to work together. And on
+coding benchmarks, cloud code shows a
+big jump in real world software
+engineering performance, especially on
+larger projects and more complex tasks.
+Now, I want to actually show you cloud
+code in action. And by the way, even if
+you're not a developer, stay with me
+here because what I'm about to show you
+is how Claude can build an entire
+website for you from a single prompt.
+You don't need to know how to code. You
+just need to know what you want. We're
+going to build an entire recipe website.
+But first, the question I always get is,
+okay, I built something with cloud code
+or lovable or bolt. How do I actually
+get it online? And that's where today's
+partner, Hostinger, comes in. Their
+managed hosting makes it really easy to
+take what you've built and put it live
+on the internet. You don't have to worry
+about servers, security, or keeping it
+running. Hostinger handles all of that
+for you. You can push your projects
+through GitHub, and it takes care of the
+rest. I'll show you how to connect the
+website to Hostinger in a moment, so
+stick with me. Now, they've got two
+plans, the business plan and the cloud
+plan. The cloud plan gives you more
+storage, more apps, and priority
+support, but for most people just
+getting started, the business plan is
+plenty. Both come with a free domain
+name, free email, and generous
+bandwidth. And unlike usage-based cloud
+hosting, the pricing is predictable. You
+pay a flat rate instead of per request
+fees, so you're much less likely to get
+surprise bills if your site gets a bunch
+of traffic. Now, let me walk you through
+the purchase quickly. Let's say we were
+going to select the business plan. I
+click on choose plan. Then you have a
+bunch of different options on the time
+frame. The longer the time frame you
+choose, the less expensive the monthly
+rate is. And right now they're running a
+discount. So the pricing is already
+lower than usual. On top of that, you
+can enter my coupon code envir hosting
+right here for an extra 10% off. I'll
+leave a link in the description. Now,
+let me show you how fast Cloud Code can
+build a recipe website from scratch. All
+right. Now, here we are in Claude Code.
+I'm going to give it a prompt to ask it
+to build a recipe website from scratch
+using next.js and shad cm. I'm going to
+give it a design reference, a website
+that I liked, that I found, and I'm
+asking it to come up with all the copy
+and the example recipes. And I'm going
+to be using plan mode by hitting shift
+tab. So, when you're using plan mode, it
+thinks through the project first and
+then it tells you what the plan is. This
+is a way to get better results. So you
+can see it's already planning out the
+entire project, the file structure, the
+components, the homepage sections, all
+of it. And it's generating all the
+recipe data, all the copy. I didn't tell
+it what to write. Now I'm going to ask
+it to use multiple agents. So now it's
+saying it is going to launch multiple
+agents to build the remaining components
+simultaneously. All right. Now, after
+working for about 10 more minutes, let's
+see what it came up with. And there it
+is. A complete recipe website. the
+homepage, the recipe details page here,
+responsive layout generated in minutes.
+I described what I wanted. I gave it a
+reference and it built the whole thing.
+And now we're going to take this and
+deploy it to Hostinger. So, first I'll
+select the option to import a Git
+repository. I just connect my GitHub
+account and select the recipe demo
+repository that Cloud Code just
+generated for us. Now, Hostinger is
+really intuitive here. It automatically
+detects that we're using the next.js JS
+framework and prefills all the correct
+build settings and root directories for
+me. All I have to do is hit deploy and
+Hostinger takes over. And just like
+that, we've got a live recipe website
+built by cloud code, hosted by
+Hostinger, done in minutes. This is what
+I mean when I say the models have gotten
+more autonomous. You give it a goal and
+it figures out how to get there. Now,
+what if you had a really big task to get
+done? Wouldn't it be great if instead of
+having one AI working on it, you had an
+entire team of AIs that could handle it
+all at the same time? Well, that's now
+possible. And that brings me to agent
+teams. So, what are agent teams? In
+cloud code, you can now spin up multiple
+AI agents that work on different parts
+of a task at the same time in parallel.
+Instead of one agent doing everything
+step by step, you split the work across
+a team. Think of it like this. Instead
+of having one really smart employee
+doing everything sequentially, you now
+have a team of really smart employees
+that can divide and conquer. One session
+acts as a team lead. It coordinates
+work, assigns tasks, and brings results
+together. The teammates each work on
+their stuff independently in their own
+context window, and they can actually
+communicate directly with each other.
+You can even interact with individual
+teammates without going through the
+lead. This is different from sub aents,
+which have been around for a while. Sub
+agents all run within a single session
+and can only report back to the main
+agent. With agent teams, each teammate
+is fully independent. They message each
+other, self-coordinate through a shared
+task list, and you can talk to any of
+them directly. This works best for work
+that can be broken into truly
+independent pieces, like building
+separate features, analyzing different
+data sets, or testing multiple
+approaches at the same time. Now, I want
+to be honest here. Agent teams uses
+significantly more tokens than a single
+session. All that coordination adds
+overhead, so be intentional about when
+you use them. Think of it this way. For
+parallel exploration, agent teams make
+sense. For sequential dependencyheavy
+work, where one step has to happen
+before the next step, a single session
+makes more sense. Asian teams are
+currently in research preview, so it's
+still early, but the potential is
+massive. Okay, so the example I showed
+you was a bit more technical, but what
+if you're in sales or legal or marketing
+and you're wondering how any of this
+applies to you? This next part is for
+you. Let me introduce you to Co-work.
+This is pretty new. It just launched in
+January as a research preview. And the
+simplest way to explain it is it's
+Claude code but for work rellated tasks.
+It's geared more towards non-technical
+people. So if you've seen Claude code
+and thought, well that's cool, but I'm
+not a coder. Co-work is the answer. It
+lets you give Claude a goal and Claude
+goes and does the work. Not just
+answering questions, actually doing the
+work. Reading your files, organizing
+folders, drafting documents, doing
+research, carrying out multi-step tasks.
+You describe what you need, step away,
+and come back to finished work. To use
+it, you need the Claude desktop app,
+which you can download from claude.com.
+It runs on both Mac and Windows. And
+right now, Co-work is available as a
+research preview on all paid plans, Pro,
+Max, Team, and Enterprise. Now, once
+you're in the Cloud app, you're going to
+see the Co-work tab at the top. Click
+that and you switch from a regular chat
+into task mode. And that's where the
+magic happens. Now, on top of Co-work,
+Anthropic recently released something
+called plugins. And this is where it
+gets really powerful. A plug-in bundles
+together skills and connections to your
+external tools and it turns Claude into
+a specialist for a particular role.
+Anthropic open sourced 11 starter
+plugins at launch covering functions
+like sales, legal, customer support,
+data analysis, marketing, productivity,
+and more. And they just came out with
+some new plugins for additional areas
+like HR support, finance and investing,
+and even engineering. You can install
+them right from within Co-work. There's
+a built-in plug-in library, and you can
+also customize them or build your own
+from scratch using a plugin called
+plug-in create. So, let's say you were
+looking to improve your sales processes.
+You could use a sales plugin to
+prospect, craft outreach, build deal
+strategies faster. It could help you
+prep for calls, manage your pipeline,
+and write personalized email messages
+that move deals forward. One really
+powerful addition that I wanted to
+mention is Claude in Chrome. This is a
+separate Chrome extension that lets
+Claude directly control your browser,
+reading pages, clicking, filling forms,
+and navigating apps. Pair it with
+co-work and Claude can handle tasks that
+need web access like research or
+repetitive web workflows. Just a heads
+up that you'll need to download the
+extension separately from the Chrome web
+store. These additional capabilities are
+a big deal because it takes Claude from
+a general purpose assistant to something
+tailored to how your specific company
+works. Now, stepping back, if you look
+at all these updates together, a clear
+picture forms. Claude is no longer just
+a chatbot that you're asking questions
+to. It's becoming a genuine collaborator
+that can do real sustained complex work.
+If AI can build apps, do financial
+analysis, review legal documents, handle
+sales prep, everything we just talked
+about. That shakes things up for a lot
+of traditional SAS companies. We're
+still early, but the direction is clear.
+AI is moving from assistant to co-orker
+fast. If you found this video helpful,
+then please give it a thumbs up. It
+really helps the channel.

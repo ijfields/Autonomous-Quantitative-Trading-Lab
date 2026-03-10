@@ -1,0 +1,267 @@
+If you drank the Kool-Aid recently, you
+might have spent $10,000 on a Mac Studio
+that you're never going to use ever
+again in your life. How stupid can you
+be? Wait, I did that. Hold on. Yeah. So,
+I made all these mistakes for you on
+this channel. I do the testing. I do the
+experimenting just so you guys don't
+have to do that. I bought previously a
+$4,000 Mac Studio and then I bought a
+$3,000 Mac Mini and I returned both of
+them. I have no shame to admit that. On
+this channel, we're open with failures.
+I've always been in my entire life and
+we're not going to stop now. So finally
+after about a month and 100 plus hours
+of messing around with OpenClaw, I
+finally have what I think is the most
+effective, productive, strongest way to
+be running OpenClaw. And I'm going to
+talk about in this short video just to
+make sure that you guys don't waste
+money and you don't make the same
+mistakes I did. So this was a very
+costly video. Let me put that out there.
+The mistakes that I made and the cost
+that it cost me was $4,000 for that Mac
+Studio, $2,000 for a Mac Mini. I did buy
+a previous Mac Mini as well, and then I
+had a gaming PC that cost like $1,100.
+This was a $10,000 video. So, if you
+learn anything from this video, please
+subscribe because I'm running out of
+money here and it's really not cool and
+uh my wife isn't believing in the goal
+and she's not seeing the vision anymore
+cuz I'm just losing money. It's not
+really fun anymore. No, but for real,
+let's talk about this. So, I returned
+all of these different things and I
+stopped using all these random different
+models that I was using before because I
+just truly believe that unless you're
+doing something absolutely insane that
+does require that level of hardware, you
+do not need an expensive local model.
+For those of you that don't know, a
+local LLM is why people are buying all
+of these expensive hardware and $10,000
+Mac Studios and stuff like that. And I'm
+not a hater. More power to you. I'm
+happy for you. This channel will never
+hate on people using their money for the
+way that they want to use their money.
+If you want to go experiment, go do
+that. That's why I bought it. Apple has
+a week grace period so that whatever you
+buy, if you return it within a week, you
+can get a full refund. That's what I
+did. I didn't even know that existed.
+So, you're welcome. Now you know that
+exists. Go buy that $10,000 Mac Studio.
+Test it for four days. If you don't like
+it, just return it. But like I was
+saying, they buy this expensive hardware
+so that you can run like a 512
+1,7B
+parameter AI local model and it's free
+and it runs 24/7 and it builds you a
+company and you're going to be a
+trillionaire. Not really. Don't feel the
+FOMO and do not spend your money unless
+you want to on these things because the
+main advantage that you get is that yes,
+it's free. That's amazing. You don't
+need to pay the subscription cost. You
+don't need to pay API fees. Number two,
+it is 247. If it's running on your local
+model, it can do stuff all the time. And
+since it's free, it won't cost you
+anything but the electricity and of
+course the hardware price to run it. And
+number three, it is private. So I don't
+know what these guys are doing that they
+needed to be private. I don't care.
+Netanyahu has my information. He's Ben
+had my information. He has my DNA at
+this point. But if you do care about
+privacy, then this is for you. So those
+three things matter, then that's fine.
+Don't worry about it. But if it doesn't
+for like the large majority of people,
+then you're going to want to pay
+attention. What I found to be the most
+effective model is this two cheapest Mac
+minis possible. Not even two, just one.
+You don't even need an actual physical
+device. I just think it's cool that I
+can look over and they're there and I
+can do stuff with them and I think it's
+fun. But get one for $600. If you have
+the student discount, you can get $100
+off. I'm pretty sure if you go to
+MicroEnter, you can get it for $400. Get
+the cheapest one and just buy a banger
+subscription to go with it. If you spend
+$2,000 on a Mac Mini or, god forbid,
+$5,000 on a Mac Studio, you will still
+be spending less because even if you
+spend, like I do, $200 a month for the
+Claude Max subscription, you have years
+until you hit that point. And you can
+always just cancel it if you're not
+using it, or you can always just use it
+for other stuff. But if you buy that
+$10,000 Mac Studio, even if you put it
+on that 12-month payment plan with the
+Apple Card, you need to spend $10,000.
+You better get your money back out of
+that somehow or just, you know, have
+enough fun with it for it to make sense.
+I think the CloudMax subscription for
+$200 or Kimmy K which is like really
+good for coding or another Chinese model
+that you can run like Miniax or even if
+you're running OpenAI if you're running
+anything else the subscriptionbased
+model is so much better than running
+these big fat Mac studios and having to
+deal with the open this and open that
+because the benefits you get from
+running a local LLM is not really that
+good for the majority of people. I think
+Opus 4.6 six again, strongest model,
+smartest, best inference, whatever is so
+good, it doesn't make sense to be
+running other worse models, especially
+if you need to buy an entire big fat Mac
+studio to do that. I ran Quen and then I
+ran O Lama and I didn't have enough
+storage to run all the better models
+like Kimmy K and stuff, but they suck.
+They're so slow and they're so dumb that
+I even tweeted about it. My number one
+open claw running the claw to Opus 4.6 6
+was so much smarter that it would yell
+at my other Open claw. You know how
+crazy that is? Like downgrading from
+Opus 4.6 to any other model is just like
+you can see it. It's a night and day
+difference and it sucks. So don't do
+that to yourself once you're used to
+butter chicken. Oh god, that's such an
+Indian thing of me to say. Once you're
+used to eating chicken, once you're used
+to eating butter chicken your whole
+life, why the hell would you want to
+downgrade to prawn? Butter butter prawn.
+Like why would you go to Seafood from
+Chicken? You know what I mean? Like are
+you stupid? So that's one thing I really
+really noticed and you will notice it in
+your day-to-day. Like you can tag Andre
+that's running a stupider model and
+he'll be like what? What is that? I
+don't have this. What's that? What is
+that? It'll take 20 minutes to respond.
+You'll hear your Mac Studio, your Mac
+Mini heat up and start running and dying
+and in that time Opus 4.6 has ran 10
+different commands and is even yelling
+at your other agent to like lock in and
+it doesn't do that. So that being said,
+there's a clear difference in what's
+available to most people for these
+models. But again, if you want to spend
+10K and get the smartest, greatest
+model, you can do that. Don't worry
+about that. That's your money. Do what
+you want. But I just don't think it's
+worth it. I think it's so much smarter
+to run the subscription on whatever
+model that you want. Spend $10 to $200 a
+month on it, and you'll end up spending
+so much less even with the cost of the
+Mac Mini, which is like $600. And in my
+own experience right now, as you can
+see, I'm running two. And again, I'm not
+bullshitting. I'm actually doing stuff.
+This is an app that I'm spinning into
+the iOS store, like I mentioned before,
+my Twitter. This is an app that I'm
+working that does security cameras. As
+you can see here, my green tank is
+getting fixed up. Don't worry about it.
+This app actually helped me with that.
+This is a YouTube channel that I'm
+running that these guys do themselves. I
+do nothing with it. They post lowfi
+hour-long videos, like background ASMR
+videos. And my charity, I run two
+charities. They run with ideas and
+content ideas, and they do research in
+Nigeria and Indonesia on what they can
+be doing to make it better. They
+actually do stuff. But because of that,
+I can tell you from experience whether
+or not you need to be doing this or that
+if you care about this or that. So
+ultimately, I truly believe majority of
+people, if you want to have fun with the
+Mac Studio and you want to run a local
+model, watch this video. I did that
+thing. I did it for you guys. And unless
+you really care about those three things
+like privacy and running it on your own
+device and 24/7 and free and stuff, it
+doesn't matter. Like, you're not going
+to care. It's not going to be like the
+make or break for you. If you want to
+have fun with it, go ahead, try it. Just
+return it because they have a week
+window. Just letting you know. But I
+don't think you need it. A lot of people
+are like scared and adverse to buy that
+expensive $200 a month clawed code
+thing. But I'm telling you, it's so
+good. I've never hit my limit on it.
+It's so much smarter than any other like
+the five or to 10 models that I've
+tested. It's so fast. Like everything
+that you want it to do, it can do.
+There's never anything it's like, "Oh,
+what the hell? What are you talking
+about?" Every now and then the Open
+Cloud will have a memory problem, but
+then I'm just like, "Hey, check your MD
+file." And it checks it and it's so much
+better. So that's what I would
+recommend. If you hit the limit,
+increase your limit. And if you really
+want to test other models, just buy them
+for one month and test it. buy it for
+one week and test it and you can see
+what I'm talking about and you can see
+that is actually true. Okay, so again,
+this video cost me $8,000 to make. I did
+get it all back. So, don't worry. But,
+uh, yeah, I made a lot of mistakes, over
+100 hours doing stuff with OpenCloud in
+the past like month. I finally found a
+system that works and I want people to
+know because a lot of people are still
+installing their OpenCloud, learning how
+to use it. So, go watch all the other
+videos I've made because I spent hours
+making them. And if you appreciated this
+video or any other videos, please sub.
+I'm trying to get to 50,000 subs by the
+end of this year. I only have 1,500, so
+we're not close at all. And over the
+next like months and years, I'm going to
+be keep posting videos and stuff about
+Open Cloud. So if you're interested in
+anything with AI, anything with crypto,
+new tech, whatever it is, this is the
+channel for that.

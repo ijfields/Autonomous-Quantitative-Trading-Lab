@@ -1,0 +1,171 @@
+Right now on my computer, I have a
+marketing team, a content repurposing
+team, a research team, and a brand
+manager. All inside of one app, no
+employees, no freelancers. This is
+Claude co-work with plugins. And by the
+end of this video, you're going to know
+exactly the same setup that I do. So, to
+get the plugins and to download
+everything, you have to get on the Claw
+desktop app. So, once you have the
+desktop app, you're going to go into
+co-work and you're going to hit
+customize. And this is where you're
+going to see browse plugins. And once
+you hit browse plugins, it's going to
+have a great amount of plugins that you
+could look into. Everything from
+customer service to data to legal to
+sales to project management. Pretty much
+any department that you want and think
+of plugins as a department. And we're
+going to be creating smaller teams
+inside of this department. So, right
+now, we're going to customize the
+marketing department. So, I don't want
+you to get intimidated by this. So, when
+we break this down, commands are just
+things that you're going to be typing to
+trigger this plugin. Connectors are
+going to be the apps that are connected
+to this plugin. And then skills are
+going to be what we call our teams,
+which has all the instructions to be
+able to do the task that you need. Now,
+to customize it to our company and our
+brand, we're going to hit customize, and
+it's already going to have a simple
+prompt. You can leave it and hit that,
+[music] or you could say based off of my
+brand. Now the biggest part is going to
+be switching to the folder where has all
+your documents. I'm talking about brand
+voice. I'm talking about any brand
+documents, company documents, everything
+that it can learn about you. [music]
+When you hit that folder, all you got to
+do is let's go and it does everything
+else for you. This is why I said don't
+get so intimidated because it will
+create the new commands, the skills, and
+it will figure out the connectors that
+it needs for that plugin. and whatever
+you don't have, it's going to ask you
+questions to help build out everything
+for you, customized to your liking. So,
+as you can see, it's now customized to
+my voice, the community that I have, and
+even the email system that I use. Now
+that we have the foundation of the
+marketing plug-in customized to us, now
+we have to create those smaller teams.
+So, right now, we're going to go back to
+customizing the marketing plugin, but to
+create a content repurposing system. So
+right here I have a simple prompt that
+talks about customize the marketing
+plugin to repurpose my content
+carousels, tweets, substack, LinkedIn,
+and so [music] it could create this new
+skill. Now, if you've never trained
+Claude of how you like content to be
+written out in your voice, I'm going to
+give you some content prompts inside of
+the description to help you out with
+that. Now once it's done, it has your
+content creation skill which is like
+your team that is going to be able to do
+the tweets, the threads, the substack
+posts, the structure that you like, the
+LinkedIn post, everything that you need
+for your content. And for me to test it,
+I'm just going to upload an old
+transcript that I have for my content
+corner live and see what it could
+create. And as you can see, it creates a
+whole document for me for all of the
+content that I need from that
+transcript. Now that we know how to
+install the plug-in, how to create the
+teams, aka the skills, now let's
+automate everything. [clears throat]
+Let's create a skill, our researcher,
+and then automate it so you never have
+to lift a finger anymore. Now, this is a
+skill I think everybody should be
+creating in their own niche, which is a
+research agent, aka your own research
+team. And so, the same way we created
+that content repurposing one, we're
+going to do the same thing for a
+research side of things. And so what you
+are going to see, same way we customized
+it. This one has all of the ones that
+the websites that I go to, the
+influencers that I look up, everything
+that I would do for my research is now
+inside of this skill. Now, to automate
+it, let me show you where to go. On the
+side menu, there's schedule where we can
+schedule certain tasks. And so we're
+going to hit new task and we're going to
+put a prompt in that we would want our
+output to be for the research. For even
+an easier way when you're doing
+everything in co-work and you want to
+automate a task, all you got to do is
+slash schedule and it'll automate it for
+you. The great thing is that you can
+pick the model that you want to use as
+well as the frequency of this actual
+task that you want and the folder that
+you could reference it. And don't forget
+the time that you want it to run. So
+when it's running, you can see that
+it'll go through all the websites that I
+want and then draft me up a whole report
+of the research that I need. Now, this
+is my favorite one, which I believe
+everyone should do after they watch this
+video, which is create your content
+strategist and allow co-work to take
+over your computer to find all the
+analytics for you. Cuz before we had to
+upload analytics manually. Not anymore.
+We're going to customize the marketing
+plugin again and say when I try to use
+the performance report, it will not ask
+me for a screenshot. It will open the
+browser and go to whatever platform is
+being asked, find the analytics and
+capture it from there. This is giving it
+permission to use the clawed extension
+on Chrome, which you have to have
+installed for this to work. All right,
+mine is all set up. Let's see if it
+works for Instagram. It will ask you
+some questions to make sure it gets the
+right information. And then, as you can
+see, it will pop up on Chrome. When it's
+blinking like that, it's taking over and
+it will go and find the exact analytics
+that it needs. And here is the full
+report. And I'm very transparent about
+my numbers. Talks about reach, [music]
+views, peak times, content, uh,
+performance, and even tells me some
+strategic recommendations. Claude makes
+this very easy to have your own team. I
+now have a marketing department. I also
+have a sales department that takes care
+of my brand manager side of things and I
+have a productivity side of things. Now,
+to have access to co-work, you do need a
+paid plan, but it could be the $20 plan.
+You could do all of this with that. So,
+let me know what is the first thing that
+you're going to be creating in your
+co-work space. And if you want more
+ideas on co-work, here's another video
+about it.
