@@ -1,0 +1,626 @@
+Hello. I've been running a Kubernetes
+home lab for over 3 years. And in this
+video, I'm going to show you exactly how
+I built it and everything that is
+running in my home lab. So, let's go.
+Starting with the hardware. The biggest
+mistake people make is thinking that you
+need very expensive hardware to build a
+home lab. That you need fancy racks and
+servers. Well, you don't. Like, my home
+lab is really ghetto. So, the main
+machines I use are HP Elite Desks. So,
+HP Elite Desk 800 G2 Mini. I'm using i5
+versions with 16 GB of RAM and i3
+versions with 8 GB of RAM. I have about
+six of those all clustered up and this
+is an amazing setup for a Kubernetes
+home lab. And that's also the beauty of
+Kubernetes because it allows you to
+cobble together whatever hardware you
+have on hand and just use that. So other
+options, really good options are
+Raspberry Pies. If you if you're doing
+this for learning, if you're actually
+hosting heavy applications, I don't
+really recommend using Raspberry Pies,
+but if you're just learning Kubernetes,
+it's a great option. And also Lenovo
+Think Centers, these are also good
+options for this kind of setup. So using
+Think Lines and the good thing about
+this is that you can get these really
+cheap because this is refurbished
+enterprise hardware. So here in the
+Netherlands, there are companies that
+specialize in buying up this old
+hardware, refurbishing it, and selling
+it for pretty cheap. Like these go for
+maybe$1, $150. You can get them very
+cheap, so you can build a really nice
+home lab that way. The second machine
+that I recently started using is a Minis
+Fororum NS MSA2. This is more like a
+knock. It has 32 GB of RAM, pretty
+decent processor. The only disadvantage
+is that it's pretty noisy, but if you
+get one or two of those, you already
+have a really good setup, too. And I'm
+actually also using my ThinkPad T480. I
+just have that as a Kubernetes node as
+well. So, again, you can just cobble
+together whatever hardware you have and
+go from there. And sure, if you want to
+invest and build a nice rack with
+enterprise servers, go for it. But I
+just want to say you don't need it. And
+my home lab is pretty ghetto, but I I do
+lots of interesting things on it. So
+let's just go into how I built the home
+lab then. So when I started out I was
+using K3S. So everybody probably knows
+K3S lightweight Kubernetes. This is what
+Rancher is built on or what Rancher uses
+under the hood. And it's really good for
+getting started. It's really good for
+running on small edge edge machines
+running on the edge. Optimized for ARM.
+So it's great for Raspberry Pies. So K3S
+is the one to start with. But I after a
+year of using that I moved to Talos
+Linux and that is actually what I am
+using now. This is the Kubernetes
+operating system. And why this is really
+good is because it basically you install
+it. It's an immutable OS and it takes
+over your whole disk and you don't even
+get an SSH endpoint. It's a completely
+secured, completely hardened operating
+system that only exposes the Talos API
+that you can then apply configuration
+to. So you cannot even SSH in there. So
+it's super secure, but it is its own
+rabbit hole. And I don't recommend this
+for beginners, but it is it is an
+amazing piece of software. And I've been
+using it for two years now and
+absolutely love it. So that's what I I
+use. In terms of cluster architecture,
+I'm actually using two clusters in my
+home lab. The first cluster is Mimir.
+This is where I'm running all of my
+let's say data and stateful workloads.
+So here I'm running my Postgress
+databases. I have about nine of them
+running right now and I'm going to show
+you exactly how that works in a second
+and this also contains my self-hosted
+git server which I'm going to show you
+in a second too. The second cluster that
+I have is called Yotenheim and this has
+my main applications and basically
+anything in Yotenheim is supposed to be
+completely stateless. So the idea here
+is that Yotenheim is also the cluster
+where I also will apply updates first.
+So all of my infrastructure upgrades
+when I upgrade my CNI etc. I will first
+do it on the application cluster and
+when everything goes well there then I'm
+confident of applying that to my
+database cluster and this way I don't
+really need to have a staging
+environment for my clusters although
+that would be ideal but I'm also
+optimizing for resource usage here and
+this was the the architecture that has
+start that worked really well for me so
+all of these databases are exposed as
+external IPs and I'm using the celium
+load balancer IPAM for that. I'm going
+to show you that in a second too. But
+these are all available on their own
+URLs. So all of the applications can
+then reach these databases over my
+internal network. And I've I found this
+to be work really well and it's a very
+clean architecture that I really like.
+So before we dive into all of the
+applications that you see on the screen,
+I will just address the question that
+you may be having right now, which is
+why Kubernetes and you may think that
+this is completely overkill for just
+running a few applications. Well, the
+point is that it's overkill on purpose.
+So, this home lab is not just something
+that I do only for fun. I'm using this
+as a career asset, right? So, when I
+built this home lab 3 years ago, I built
+that because I wanted a Kubernetes job.
+And by building a home lab like this, I
+could have proof of hands-on experience
+with the tooling that I wanted to work
+with. Because the thing is, nobody cares
+if you just spin up a quick cluster and
+put that on your CV. Like, that's not
+going to land you jobs. Hiring managers
+will care if you can demonstrate that
+you can expose applications to the
+internet in a secure way. If you run
+your own mini data center and your own
+production grade infrastructure, you can
+truly have proof of enterprisegrade
+skills built on your home lab. And that
+is why I do it. And this is also what I
+teach my private students. And they are
+landing jobs every single week because
+of this method. And just last week I had
+an interview with one of my students. He
+lives in the United States. He didn't
+have a CS degree and didn't have a tech
+background. But because he built the
+home lab as I taught him, he managed to
+land his first DevOps job in the
+industry even in this market as a
+junior. So building a home lab really is
+the gateway into a good tech career. You
+can watch the full interview over here
+if you're interested in that. And a
+second reason why this works so well is
+because if you use Kubernetes properly,
+you are using git ops, which means that
+you deploy your applications from git.
+And because you deploy from git, this
+also means that you can build a public
+portfolio of your home lab that you can
+then leverage to as a as a project to
+show to hiring managers. And this is
+also how Pedro landed that job. So it's
+a really effective method. So what's
+actually running on my home lab then?
+Well, we will start with the actual
+dashboard that you see here. This is
+already running as a container on my
+home lab. This is called homepage and
+it's a really clean nice home dashboard
+that I really like. You can configure it
+completely with with YAML files. And
+yeah, this is the one that I landed on.
+It's a really good option in my opinion.
+And from here, this is basically the
+portal into my home lab where I and the
+rest of my life basically um from where
+I manage everything. So, let's start
+with 4Jo. This is my self-hosted git
+instance. So here I have a few
+repositories for the applications that I
+built for myself and I'm also using this
+for mirroring other repositories from
+GitHub so that I will always have my own
+local copy of certain repositories that
+I want to store in case the author take
+decides to take it down and also by
+self-hosting my own git instance I
+actually I don't submit my code to
+GitHub so that they can use that for
+scanning and training AI models. So
+that's why I really liked it. I also did
+a full video on forj itself. I explained
+why I chose this and how I set it up and
+you can watch that by clicking somewhere
+over here. The next application is
+LinkedIn. You have maybe seen this in
+other videos as well. This is a really
+nice and simple applications really good
+for starting to learn. And this is
+basically a self-hosted bookmark manager
+because I tend to switch browsers a lot
+and I was getting tired of migrating all
+of the bookmarks. And this way I have a
+very nice setup where I have just store
+all of my bookmarks in a separate thing
+and it doesn't really matter what
+browser I'm using. I can always just
+visit and search and organize my
+bookmarks in this application. It's a
+highly recommended application. Oh, by
+the way, 73% of my viewers are not
+subscribed to my channel. So, please
+subscribe right now. It's a free way to
+support my channel. It allows me to put
+out more free content out like this
+every single week. The next application
+is N8N. So, you probably know about
+NATN, but this is a self-hosted
+automation workflow application. I have
+a few things like for example, I have a
+Telegram chat, and if I record voice
+notes there, then I have an automation
+there that will transcribe it and store
+it in a certain system that I use.
+Another interesting workflow that I have
+running is my GitHub workflow auto
+updater. So, every hour, this workflow
+will scan all of my PRs and then
+classify them and review them. And some
+of the PRs it will merge automatically
+but other PRs it will write me an
+assessment and for example my Celium um
+needs an update here and because that's
+a critical infrastructure component it
+then will tell me that I need to review
+this but if we check the pull requests
+uh which have been closed and we will
+also see that 1 hour ago it has closed
+or merged a few other applications on
+its own. my home lab infrastructure is
+actually being managed by AI to some
+degree. So I don't even have to review
+all of the upgrades anymore. This is
+just handled by an AI workflow, which is
+really good. So this is a very very nice
+use case of N8N, I have a few more
+workflows in mind. But if you're
+interested in getting this workflow and
+and knowing more about how I deployed
+N8N, check out the link below in the
+description because the that guide will
+provide some information about that as
+well completely for free. The next
+application is paperless. This is a
+relatively new addition to my home lab.
+This is a place where I upload documents
+and it will then scan them with OCR and
+then I get a searchable database of all
+of my paper documents. It's really cool.
+Uh I have not played with it too much
+yet, but I did set it up and I plan to
+just have all of my paper documents
+stored in here so that I have a
+searchable database of them. So, highly
+recommend this application as well. The
+next application is the reading list.
+This is something that I built myself
+with the help of a little bit of AI. And
+uh here this is the application where I
+track the books that I want to read and
+also which versions of those I own. So
+this is um a very nice little
+application that I built myself running
+in a container and yeah I love making
+these little small custom applications.
+The next one is Walabag. This is a read
+later app. So what I can do is I can
+visit any blog or web page on the
+internet and I can then use the browser
+plugin to send this to my self-hosted
+Wabag instance and then Wabag will
+scrape it and it will store that in my
+private instance. So I can get back to
+this article later at my own convenience
+running on my own infrastructure uh and
+read it. And the advantage of this is
+that if the author for example decides
+to take that article down, I always have
+my own copy of that. So I really like
+this. Whenever I come across an article
+that I want to store or that I want to
+read later, I will usually pull that
+into my walab instance and then I can
+take it from there. Now the next row is
+are some yeah external applications.
+Obviously I'm not self-hosting LinkedIn
+or X which is not possible. So these are
+just external links that I use every
+day. In the next section, my consume
+section here is miniflexux. So if you've
+seen my previous videos, you may know
+that I was using comma feed before and I
+switched to minifux which because this
+one has a better API and I'm doing a few
+interesting things that I'm going to
+show in a second. But this is basically
+an RSS feed reader. I subscribe to
+certain RSS feeds that I want to read.
+But what Minilelux allowed me to do is I
+actually have several instances of
+Miniflux running in my home lab and then
+I scrape those I pull those through AI.
+So one of my feeds here is the CubeCraft
+curated content feed and these are
+articles that are scored with an AI
+prompt and an algorithm that I wrote for
+myself and with based on this score I
+can determine if an article is worth my
+time or not. So I basically have a
+prefiltered list of content that I or
+that my AI deems useful for me and my
+business. So for example, why Kubernetes
+is retiring ingress engine X is of
+course very relevant to me and my
+business. And then I also get a AI
+generated summary here with all of the
+main points and all of the takeaways and
+the wisdom. So, I already have a very
+quick overview of the the content and
+then I can go and open that article and
+read it at my own convenience. I think
+this is a really nice setup and I'm
+always expanding on this more and more.
+But this really helps me to zone in on
+the content that I actually want and
+should be consuming rather than just
+letting the algorithms like the social
+media algorithms decide what I consume.
+So, I'm very very intentional with this
+kind of stuff and Minifilux is helping
+me with that. So it's a great great
+application. Works really well so far.
+Has a good API. Yeah, highly recommend
+Mini Flux. And the next application I
+want to show you is Audio Bookshelf.
+This is a really nice application. It
+works really well. I use this obviously
+to manage the audio books that I own,
+but another good use case of audio
+bookshelf that many people don't know
+about is its ability to download
+podcasts. So I have a several podcasts
+that I am subscribed to and then it will
+actually download those episodes on my
+own infrastructure and that also means
+that I can do things with those audio
+files like for example transcription
+automatic transcription. I haven't set
+it up yet but I so my plan is to also
+pull this into this content system that
+I'm building this this content curation
+system and audio bookshelf allows me to
+do that. This is a really interesting
+use case of audiobookshelf that I really
+like. So another great application. I've
+been using this for years. I support the
+project and it's a it's a really good
+application. So highly recommended to
+check that out. Now the next project I
+will show you is what I call quantified
+self and this is also a segue into my
+database setup. But basically what I do
+here is I wear a whoop and I wear an
+aura ring and I gather all sorts of
+metrics about myself from many different
+sources too, but these are the ones that
+I want to show you. And then I I scrape
+those APIs and I store them in my own
+databases. And what this allows me to do
+is to query those databases and
+visualize them in Graphana dashboards.
+And yeah, this is very nerdy and very
+geeky, but I absolutely love doing this.
+And what what this allows me to do is to
+have a copy of that data always stored
+on my own infrastructure so that
+whenever one of these companies goes
+down or they decide that I cannot use
+their service anymore, at least I will
+always have a a copy of the data that
+I've gathered of of myself over multiple
+years at this point. So these are just
+SQL queries that I then use to create
+these visualizations. So obviously to
+run a query like this you need a
+database where this data is stored in.
+And now I'll show you how I do that. So
+I'm now connected to my dev container. I
+always work inside of containers. I
+don't have cubectl installed on my main
+system as you can see which cubectl it
+doesn't exist on my main system. I only
+work inside of containers. So here I
+obviously have cubectl running. So if I
+do k get clusters- a so getting all of
+the clusters that I have running in my
+name spaces then I have how many are
+those kga get clusters and then let's
+count the lines I have 13 lines and if
+you exclude the top line so I have 12
+clusters running on my kubernetes
+cluster so these are database clusters
+not kubernetes clusters these are all
+postgress clusters which are provisioned
+using cloudnative pg anyone who says
+that you cannot or should not run
+databases on Kubernetes are full of
+They don't know what they're
+talking about. In fact, databases are
+one of the most common workloads that
+you'll see being run on Kubernetes. Huge
+government organizations are using
+databases on Kubernetes. And to do that,
+I recommend using cloud native PG. It's
+free and open source and it's a really
+really good project. I've been using it
+for years both in my home lab and
+professionally and it's it's worth your
+while learning this. And the way that
+works is that I simply apply a manifest
+to my cluster like this. And when I when
+I apply this, it will then provision a
+database cluster including backups to S3
+storage. So if I just quickly change to
+the quantified self namespace and if I
+do K get clusters here, then you will
+see I have the cluster. Then if I just
+quickly grab the name of that cluster
+like this and if I then encmpus
+cluster then the CMPG operator is going
+to give me a very nice little overview
+of my cluster here. Actually I see that
+I have a failed backup. Everything is in
+a healthy state. Everything is running
+well. I have three instances and my last
+successful backup was um a few hours
+ago. Everything is looking good. I have
+working wall archiving. All of my
+instances are working well. And if I
+then open K9s for example and and check
+it out in here, these are the pods that
+are running. So the CMPG operator
+deploys several pods and creates a
+Postgress cluster out of those
+practically. And if I execute um into
+one of these pods, then I can just run
+psql and then I have a shell into my
+database cluster. So if I do C, I can
+connect to my quantified self database
+and I'll show you the tables that are in
+here. So here you will see I am doing my
+body composition, my diet, I have my
+Strava data in there, Whoop, everything.
+And if I then for example do the Whoop
+uh sleep. So these are the columns that
+I have in my Whoop sleep section. And if
+I then want to show for example my
+scores, uh let me see which one is that.
+That will be my my sleep performance. If
+I just grab that line here and if I then
+select sleep performance percentage from
+Whoop sleep then it will show me my
+sleep performance percentages for
+example. And this is just the query that
+I use in my graphana dashboard. So
+everything is stored on my self-hosted
+Postgress clusters and then I'm able to
+visualize those in my graphana
+dashboards. I really like this because
+it brings all of my data together. And
+then I can do things like comparing my
+Whoop and URA metrics all in the same
+place. And again, I have my own copy of
+my own data and I'm not dependent on
+these companies if they decide to take
+it down. So the next question then is
+how do I get all of this data into my
+database? And surprise surprise, I'm
+also using Kubernetes for that. If I
+exit this pod and if I then go back to
+K9s
+and now I'm going to switch to my app
+cluster and open K9s here. If I then
+open up all of the jobs that I have
+here. Then if I check all all namespaces
+then you will see that I have a Whoop
+scraper and UA scraper running as jobs.
+So the the last one completed 25 minutes
+ago and it then scrapes the Whoop API
+and then stores the data that it finds
+there and adds that to my Postgress
+database. So I do that for my Whoop
+data, my Aura data and my Straa data.
+And that's how I do it. And the code for
+those scrapers is public on my GitHub.
+You can take it and do whatever you want
+with it. Uh just know that it's very
+bespoke and tailored to my own setup.
+But maybe it is some u source of
+inspiration for you to build your own
+scraping setup. So both the aura scraper
+and the whoop scraper are there and I'll
+link them down below as well. So in
+terms of infrastructure for my cluster,
+so all of the non- application
+components, we've already talked about
+how I run my databases. But for my
+monitoring, I obviously use Graphana and
+Prometheus. So I'm just using the
+standard cube Prometheus stack. And this
+also gives me all of the standard
+dashboards to monitor my resource usage
+on these clusters. All works really
+well. But monitoring is completely use
+useless if you don't alert if you don't
+have notification set up. So monitoring
+is useless without alerting and I have a
+pretty decent alerting setup where all
+of the applications are being monitored
+and if an application goes down I will
+be notified via telegram. So this is a
+really nice setup. I'm really satisfied
+with I'm using the Graphfana alert
+manager and not the Prometheus alert
+manager. And this is one of the things
+that I teach my students that if you can
+use Graphfana for something then then do
+that because basically the industry has
+decided and Graphfana is the way.
+Prometheus alert manager is pretty old
+and it's better to do it with Grafana.
+Let's just keep it at that. Another
+interesting piece of infrastructure is
+uptime Kuma. I'm using this to monitor
+the uptime of my applications. uh among
+them my my blog and I actually didn't
+mention that just now but my blog is
+also being run on my Kubernetes cluster.
+So if you visit my blog you are actually
+watching a page that's running on my
+Kubernetes cluster running at home and
+I'm also hosting all of the code and the
+CI/CD pipelines all on my Kubernetes
+cluster. It's completely self-hosted and
+I will show you exactly how that works
+in the forjio video that I just
+mentioned which will be linked in the
+screen up here. Now for my GitHub
+solution, I use the tool that real men
+use, which is flux CD. So if I do flux
+get customizations, you will see that I
+have a bunch of customizations, but I
+also have a few Helm releases that are
+running on my cluster as well. I mean,
+any self-respecting DevOps engineer will
+manage his GitOps workflows from the CLI
+and Flux CD is obviously it's the the
+superior option there. So that is the
+one that I I use and I chose with and
+I'm I'm very very happy with. And the
+last very important component of my
+infrastructure is Selium. I chose
+Pselium because it's Ebpfbased
+networking. And as you see here, plenty
+of huge companies are using this CNI in
+their production infrastructure. And
+again, as I mentioned in the beginning
+of my this video, my home lab is a
+career asset. I'm using my home lab to
+develop myself as an engineer. And then
+and in that context, Celium was the
+obvious choice for me. So I'm using
+that. It's uh it's very advanced.
+There's tons of stuff to configure here,
+but it works really well. And another
+reason why I like Celium is because I
+can do basically everything with it. So
+I can expose external IPs using the load
+balancers. I can create ingress
+resources and I can use the gateway API
+all with one component and I really like
+that. So it works really well. That's
+why I chose Selium. So everything you've
+seen so far has taken me years to learn.
+But if you want to build a Kubernetes
+home lab, you can use the free guide
+that is linked down below, so you can
+save a ton of time and learn from all of
+the mistakes I made. It also includes
+the code for the nitn um workflow that I
+just showed you earlier. Well, that's
+it. That's all of the applications and
+the infrastructure that's running on my
+Kubernetes home lab. Let me know in the
+comments if this gave you some
+inspiration. Which of these apps are you
+going to be trying yourself? Check out
+the free guide that is linked down
+below.

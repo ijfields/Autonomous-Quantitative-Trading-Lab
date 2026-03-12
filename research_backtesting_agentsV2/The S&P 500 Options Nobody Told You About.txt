@@ -1,0 +1,441 @@
+So today I want to put on a a handful of
+trades because I really don't have much
+on on the future side. We've been
+trading around uh this I mean this
+market has been amazing. There is I mean
+yesterday's move did you did you happen
+to get
+&gt;&gt; I saw a few Yeah. I I mean I was
+traveling and stuff but uh yeah it it's
+what's the may you live in interesting
+times proverb like
+&gt;&gt; it is it is certainly interesting time
+&gt;&gt; right? Yeah, this is about as good.
+&gt;&gt; Hopefully it's been treating you guys
+all right.
+&gt;&gt; Yeah, we've [clears throat] been we've
+been having fun with it.
+&gt;&gt; I think I think with volatility this
+high, I think we can put on a couple
+positions. Maybe start with like an ES.
+&gt;&gt; Sure.
+&gt;&gt; Big wide iron condor.
+&gt;&gt; Sure. Sure. Sure.
+&gt;&gt; Um
+&gt;&gt; so ES 50 bucks a point.
+&gt;&gt; Yeah.
+&gt;&gt; Get it the span margin. Very I I
+[clears throat] mean capital efficient
+way to to trade.
+&gt;&gt; Tony brought up single stocks. I'm glad
+you're bringing up ES options cuz um I
+go to a lot of industry events and
+things like that with retail trader,
+individual traders,
+&gt;&gt; and I'm I'm always surprised at people
+who might be trading S&amp;P or Spider
+options have no idea that they can get
+similar exposure using options on
+futures like the ES options or, you
+know, maybe they're trading QQQ options
+and they can they don't realize that NQ
+options exist. So, I I think it's great,
+Nick, that you're bringing this up. Um,
+because it's an awareness thing. I think
+in in a lot of cases, people just don't
+know uh that they're out there and like
+you just said, they're they're span
+margin. So, a lot of times if you're
+selling premium, which I think of Tasty
+Traders, got high rank,
+&gt;&gt; you get you get sort of advantageous
+margin versus some of the securities in
+some cases. So,
+&gt;&gt; yeah, I'm glad
+&gt;&gt; and a smaller product than than say half
+the size.
+&gt;&gt; Yeah, half the size. So, if you're
+looking to do something that maybe takes
+too much buying power in S&amp;P, you go to
+for/es, you get the same same exact,
+&gt;&gt; not same exact bang for your buck, but
+it's the same product.
+&gt;&gt; It's it's the S&amp;P 500, right? And and
+and we have expiration, they we have
+options expire every day of the week, u
+Monday through Friday.
+&gt;&gt; Um so, just like the one thing I will
+say is, um they are deliverable, right?
+to where the S&amp;P is going to settle to
+cash if if you're in the money at the
+end of the day. Uh you will wind up with
+a future if you're uh in the money. And
+&gt;&gt; yeah, that that that's why you see you
+see a bid ask uh up [laughter] on top of
+the screen and you see volume. If you go
+to just to compare the two, you go to
+SPX, you you know you'll see a bid ask,
+but you'll see no volume. There's no
+there's no trade in there. It's a good
+way
+&gt;&gt; under Yeah, exactly.
+&gt;&gt; to realize that something is
+deliverable.
+&gt;&gt; And Nick, I interrupted you, but you
+were saying 50. It's the multiplier on
+these options is 50. So, and that's one
+of the other things that people have to
+get used to if they're used to trading
+options on securities where, you know,
+it's 100 shares. So, instinctively, if
+you've been trading a lot, you know,
+like multiply this by 100 and that's
+your dollars. Like, it's instinctive.
+With futures options, you do have to get
+used to that multiplier. In this case,
+it's 50, right? So, it's
+&gt;&gt; I think that's the biggest surprise when
+somebody trades uh one of these futures
+for the first time, futures options for
+the first time. They'll see a hundred
+and think they're getting $1,000 and
+you're you're not. You're getting $500.
+So, it looks so good, so big to be true
+with the amount of uh buying power
+you're using. So, what are we looking to
+do? So, sorry.
+&gt;&gt; I I was thinking just like a 100 point
+wide wide iron condor. we go out to I
+was looking at the the April um 30th
+which is the end of the um end of the
+month contract. Do you do you find that
+most like liquidity is kind of centered
+around those end of the month type
+&gt;&gt; uh you know it's kind of throughout the
+curve now right so we've all heard and
+and I know this isn't necessarily the
+tasty trade philosophy the zero DTE
+phenomenon right and that's and I'm sure
+you have traders that are trading we go
+over it every Thursday options zero day
+yeah
+&gt;&gt; so certainly you know some of the growth
+that we've seen in options uh from the
+retail segment has been in zero DTS but
+we've also seen you know and I think
+it's a testament to like what you guys
+teach. We also see we've seen growth in
+like those 40 to you know the what you
+guys talk about a lot like put it on and
+then manage it and stuff like that which
+I love to see right because I think
+that's a very responsible way to to
+trade options
+&gt;&gt; and all these are are there there's not
+a liquidity issue I mean across the
+curve they all are you know a couple
+ticks wide at bad at most so it really
+doesn't you know you're the the
+advantage that you have with something
+like the ES options is and the fact that
+they have basically daily options here
+is you can pick whatever expiration you
+want. You want to go to 31 days, you
+want to go 34, 35, 38, they're all, you
+know, they're all pretty liquid. They're
+all kind of
+&gt;&gt; and they are most mo there's four
+options throughout the year that are
+American style, but everything else is
+European style, so you don't have that
+exercise risk. We do have the it's kind
+of a legacy thing, I guess, cuz back in
+the day, we only had four expirations a
+year, right? The court March June 70s.
+Uh so we actually have two options that
+expire on those four Fridays. We have
+the legacy quarterly uh which goes off
+in the morning actually and is America
+style and then the European that's the
+kind of the daily like most of the
+options are. So just again these are
+just things you kind of got to know but
+small things
+&gt;&gt; you'll see those so on the platform
+they'll be labeled with this AM. Um
+that's great so everyone so you know it.
+So people kind we get this question
+every once in a while like why are there
+two expirations here like these are both
+you know June 18th there's one
+&gt;&gt; not the most intuitive thing in the
+world. So the AM options, the last day
+to trade those are the Thursday prior.
+So they they settle in the morning,
+&gt;&gt; right,
+&gt;&gt; based on the on those,
+&gt;&gt; right? So there's essentially almost a
+whole day of premium in the other
+option, the European option that goes
+off on that.
+&gt;&gt; Yeah, you'll see it ex expire, but it'll
+still have premium because it's not
+settled yet.
+&gt;&gt; So, but these are just things you just
+got to know and and it's not rocket
+science, right? Um just a couple of
+nuances with these. Yeah. You were going
+to you were going to look at something,
+Nick.
+&gt;&gt; Yeah. So, here's what I'm looking at.
+Um, so I'm looking at 51 days out uh 100
+point widespread, which is about $5,000
+in total max uh value, right? So, you
+have I'm looking at about 40 um uh
+&gt;&gt; $4 in credit.
+&gt;&gt; $40 in credit. Here you'll see your max
+profit, which
+&gt;&gt; is $2,000.
+&gt;&gt; $2,000. That's 2,000 again because of
+the 50.
+&gt;&gt; And you get this extra margin relief.
+So, the buying power on this spread is
+going to be about $2,300 bucks. Whereas,
+your actual max loss is going to be
+$3,000 on this trade because five five
+uh [laughter]
+$5,000 is to the total value at 100
+points wide. Um, and if you're selling
+this at 40 ticks, it's going to be a
+$2,000 credit.
+&gt;&gt; And you're really just selling a call
+spread and a put spread, right? That's
+that's what an IR condor is. And and I
+think it's another great example because
+I I actually do a presentation sometimes
+called an option is an option. And my
+whole point is all of the stuff you know
+from securities options your Greeks and
+VSS and strategies they all work the
+same way here. So like an iron condor in
+this is going to work the same way as an
+iron condor in a spider and spx option.
+&gt;&gt; Yep. Same thing. we just got filled. So,
+I'm short the 7100 7200
+uh call spread and then on the put side
+the 6300
+6200
+uh it's basically a delta neutral.
+You're selling around the 20 delta for
+the short options. You're further out of
+the money because there is skew to the
+downside. So, you get a little bit
+further out of the money there. We
+talked about skew this morning. Uh so,
+this is a perfect kind of um example of
+that. So, uh, short volatility kind of
+neutral on price here for the next 51
+days. Um,
+&gt;&gt; and I think we've talked about on this
+show when when when did skew get
+introduced to the options market, Tony?
+&gt;&gt; O options on futures?
+&gt;&gt; No, the options. When did when did skew
+happen?
+&gt;&gt; Oh, skew didn't happen till87.87 crash.
+Before that, everything was uh, you
+know, $10 out of the money. The call was
+$4. The put was $4. You know,
+&gt;&gt; it's not that long ago.
+&gt;&gt; Not that long ago. I mean, it's a long
+time.
+&gt;&gt; It's a long time,
+&gt;&gt; but not that long.
+&gt;&gt; In dog years, it's a long time, but in
+trader years, it's a long time.
+&gt;&gt; Just a little piece of trivia. I've
+always liked
+&gt;&gt; Yeah. 1987. And that's when all the the
+margining changed too um on your
+positions, too. They uh looked at upside
+and downside completely different.
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Yeah.
+&gt;&gt; Um I also wanted to do the gold silver
+ratio. I actually looked it up cuz you
+have the new SIC contract which uh the
+sick contract the silver um
+&gt;&gt; as the kids say.
+&gt;&gt; As the kids say, you know, one one of us
+[laughter]
+um MGC, you can do 1 to 8 on the 1 MGC
+to 8 SIC is roughly.
+&gt;&gt; Well, what about the 1 oz gold then? If
+you want to do that like
+&gt;&gt; Oh, yeah.
+&gt;&gt; Cuz you've got the 1 oz gold which is
+going to give you a a
+&gt;&gt; more similar ratio there, right? You can
+do that one to one basically.
+&gt;&gt; Almost one to
+&gt;&gt; one to one cuz I mean well silver's more
+volatile. So I mean that's that's kind
+of where the trade that's where the
+trade comes in, right? But
+&gt;&gt; sure.
+&gt;&gt; Um but yeah, that's probably a better um
+&gt;&gt; you know, if you want to spread those
+two.
+&gt;&gt; So the the 1 oz contract is you got
+about 40,000 contracts traded just today
+in the 1 oz contract. So it's pretty
+liquid
+&gt;&gt; for Yeah. I mean it it's fairly new. Not
+as new as the sick
+um but but it's Yeah. Yeah, I mean it's
+really developed quickly, especially uh
+with the moves that we've had in metals,
+you know, months.
+&gt;&gt; We're going to do we're going to do
+that. We're going to do that one to one
+one. So, I'm going to I'm going to buy
+the 1 oz gold contract. I'm going to
+sell
+&gt;&gt; which you got filled on.
+&gt;&gt; Which I [clears throat] got filled on
+the SIC contract. We'll do that one to
+one um
+on here. Let's see if we can get filled
+here.
+&gt;&gt; Why not?
+&gt;&gt; Yes.
+&gt;&gt; Right.
+&gt;&gt; Yeah. So that'll give us our gold silver
+ratio. You got that ratio at what 58
+right now.
+&gt;&gt; Mhm.
+&gt;&gt; Were moving again this morning, right?
+&gt;&gt; Yeah. You got silver up about 5
+and a3% and gold's up uh a little over 2
+and a quarter. So pretty big move in in
+metals here. Uh we bought the dip a
+little bit yesterday too.
+&gt;&gt; Um
+&gt;&gt; you do that one to one.
+&gt;&gt; I did that one to one and we we can look
+at the the MGC SIL too a little later.
+But I also wanted to talk about so with
+span margining you can be pretty
+flexible with positions. So I was
+thinking of getting long the MNQ
+contracts. So look at the micro NASDAQ
+NASDAQ
+&gt;&gt; micro NASDAQ contracts which is um
+onetenth the size of the NASDAQ contract
+which is a big contract
+&gt;&gt; but we can sell a call spread in the
+NASDAQ futures and do this as sort a
+sort of pairs trade. it'll be slightly
+weighted towards the call spread cuz at
+the start it'll be a big
+&gt;&gt; sell the call spread in the NASDAQ
+options
+&gt;&gt; and then buy along the future. So it's
+essentially like a covered call that you
+spread off a little bit.
+&gt;&gt; That's what I'm thinking.
+&gt;&gt; That's I love it like you know and that
+so the that micro NASDAQ that's a
+futures contract worth let's say about
+$50,000 right because the multiplier on
+that's two.
+&gt;&gt; So one is going to be about $50,000
+worth of exposure.
+&gt;&gt; Mhm. So yeah, and and again like I love
+the example because once again it shows
+you that you you know a covered a
+covered call or in this case a call
+spread is going to work the same way in
+these options you know with paired with
+a future as it would you know in the
+security side. So if we do like
+maybe a 200 point wide
+&gt;&gt; sure
+&gt;&gt; call spread. Sure. So what I was
+thinking was from a delta perspective um
+so if you're if you're doing about so at
+one/10enth
+um the size
+if you have one micro NASDAQ contract
+it's going to be roughly 10 deltas to
+the NA to uh a NASDAQ.
+&gt;&gt; You got about you got about 90 deltas in
+spy is what it comes
+&gt;&gt; No an MNQ. Oh, an M MNQ
+&gt;&gt; MNQ onetenth the size. So if you had one
+micro NASDAQ
+&gt;&gt; and [clears throat] you had a 10 delta
+short call spread in the NASDAQ futures,
+you'd be basically delta neutral
+&gt;&gt; neutralish neutralish.
+&gt;&gt; It's a it's a great example because it
+shows you how you can use that micro
+future combined with the mini options
+because of the delta. And you know, in
+other words, if you had a 100 delta
+option on, like that would be 10 times
+the size of your future because you're
+doing the the regular size option with
+the micro future. But in this case,
+you're going I I love the example. And
+so if you're doing sort of a a covered
+&gt;&gt; futures position,
+&gt;&gt; we could do two of the micro NASDAQs. I
+bet you about 20ish delta. That's
+correct. If you were trying to reduce
+that by selling like a 25 delta call,
+you could sell about four or five deltas
+in the NASDAQ futures. That gives that
+net you about 15 NASDAQ delta
+&gt;&gt; at this time position total, which will
+be about, you know, like if you were
+thinking in like stock terms, it' be
+like a 70 delta.
+&gt;&gt; That's correct. That's correct.
+&gt;&gt; Position.
+&gt;&gt; That's correct.
+&gt;&gt; All right. So, we're going to do that.
+&gt;&gt; You did the math right. So, we'll do the
+26
+uh 26,500
+26,700.
+It trades at about one/ird the width of
+strikes is $1,000 in credit versus about
+three grand in in potential loss on that
+spread. So, it's about 25% of the width,
+but it nets out to be about, you know,
+I'm selling like a 23 delta call and
+then buying the 19 delta. So, it gets me
+that four delta basically reduces it by
+like 20% on the long position. So, I'm
+short. It gives me a short V component
+to a long NASDAQ position.
+&gt;&gt; So, we're we're going to try and get in
+that one. And we'll do that like 50 days
+out.
+&gt;&gt; Puts a time component onto the pure
+future position. Yeah. A decay a decay
+component onto it. You get a little
+&gt;&gt; data
+&gt;&gt; which we like to have. Yeah.
+&gt;&gt; On on our trades.
+&gt;&gt; Very good. Let's see where we got folks.
+All right. I'm in at 5450. So, I got two
+of the micro NASDAQ long contracts
+against a 200 point wide call spread in
+the NASDAQ futures. And those will be
+span margin against each other.
+&gt;&gt; Exactly. Right. You get that leverage.
+&gt;&gt; Exactly.
+&gt;&gt; Very nice. Put on the follow page. Good
+job out of you.

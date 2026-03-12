@@ -1,0 +1,390 @@
+So, you saw my UB key playlist, but you
+still have questions about multiffactor
+authentication and why these little
+hardware keys, like this one right here,
+are loads better than using SMS codes or
+codes sent to you in an app. Or maybe
+you keep on seeing popups on your phone
+asking you to set up a pass key and you
+keep exiting out because what the heck
+are those? Well, this video is for you.
+This is your UB key 101 video designed
+to explain the very basics of little
+keys, these UB keys. What are they? Why
+are they different from text or
+authenticator app codes? And how in the
+world do you set this thing up when you
+first buy one? Now, with any security
+and privacy upgrades like this one, the
+biggest hurdle is going to be just
+finding the time to set the thing up in
+the first place. But once you get over
+that part, the rest is going to be super
+super easy. So, what's up, s'mores? I am
+Shannon Morris. Welcome to my YouTube
+channel. If you like practical security
+tips without the doom, hit subscribe.
+And if you are already subbed, thank you
+so much for being here. I am working
+with Ubico on a series of security
+videos to show you how to upgrade your
+digital privacy. [music]
+So, thank you so much to Ubico for
+sponsoring this educational video. My
+channel sponsors are one of the reasons
+I can keep on doing approachable
+security content on this channel. So, if
+you are also a fan of these keys, then
+give them a shout out down in the
+comments. So, first up, what is a UB
+key? A UB key, like the one you see
+here, is a little hardware security key
+that looks a lot like a flash drive, but
+instead of using it to store data, you
+use it to prove to websites, servers, or
+operating systems that you are who you
+say you are. You physically plug this
+into your device or you tap it on your
+phone using NFC and that little movement
+triggers an agreement with the website
+that you are logging into. I will do a
+separate video going into a ton of
+detail explaining two-factor
+authentication and multifactor
+authentication or 2FA and MFA. But the
+basics here are that most people just
+use a username and password on websites
+to log in. But some websites allow you
+to add other pieces of required
+information to log in. Usually that's
+going to be a six-digit code that's
+texted to you and you have to enter that
+code into a website after your password.
+But there are other more secure options
+too. They just aren't advertised to
+users as much. Now since those sixdigit
+codes are human readable, they are
+actual text that you can see with your
+eyeballs and they can be stolen. The
+ultra security option is going to be a
+UB key. These are different because they
+can do fishing resistant login
+authentication using better standards
+and no six-digit code that somebody
+could copy. Now, in English, that's just
+going to mean it helps make sure that
+you are logging into a real website and
+it removes the possibility of somebody
+looking at a numerical code, memorizing
+it, and stealing it. [music] The nerdy
+part for all the nerds out there, I'm a
+nerd, too. When you set up a UB key on
+an online account that supports any of
+these fancier protocols, your key
+creates a special fingerprint for that
+specific website. Later, when you want
+to log into that website, the website
+sends your phone or your computer a
+challenge. Kind of like being carted at
+a restaurant when you ask to order a
+drink. And the UB Key is going to see
+that challenge and it says, "No problem.
+Here's the info you requested." You plug
+in the key and the website sees the key
+and it has to be your specific key cuz
+this is the only one with the
+fingerprint on it and it says, "Oh,
+good. You have your key. Let me open the
+door for you." And then it lets you log
+in. This interaction proves to the
+website that you are who you said you
+are and it lets you log into your
+account. So, the cool pro tip with this
+is the fishing resistance. When a UB key
+is supported on a website and you add a
+UB key to your account on that website,
+that key is tied to that specific
+website. So even if you visit a fake
+website that looks totally realistic,
+like a legit clone of the actual website
+you're trying to log into, the UB key
+can tell that it's fake because the
+website itself is going to be different.
+The dot will be different and the fake
+website cannot trick your key into
+giving up any of its [music] secrets.
+So, even if somebody stole your
+password, they still couldn't get into
+your accounts without your physical key,
+too. Now, when you go out and you buy a
+UB key, and if you buy one at Best Buy,
+it actually comes in this kind of
+packaging. It's super, super simple.
+It's very simplistic, very, very easy to
+open. Just one comes in the one that I
+got, but you can actually get packages
+that have two UB keys in them as well.
+They're really cool. So, when you go out
+and buy a UB key, there's several
+different options. I generally just tell
+people to get the one that has the
+correct USB plug on the end. Like, do
+your devices use USBC? This is USBC.
+Then get the USBC one. And here's a
+little pro tip. Get one that also
+supports NFC. This one says USBC plus
+[music] NFC on the side of the
+packaging. So, I know that it supports
+NFC, but NFC is going to be a little bit
+more convenient, especially if you want
+to use one of these with your phone.
+Okay, now back to the nerdy speak.
+Depending on the model and what you are
+trying to protect, UB Keys can support
+multiple authentication methods. The big
+ones you're going to hear about are 502
+or web offn. This is the one that most
+people are going to want. It is best for
+modern login. It supports fishing
+resistant MFA. It also powers pass keys
+depending on how a service implements
+them. Another protocol is called U2F.
+This one is a little bit older, but it's
+still very common on many services. It's
+also fishing resistant style security
+key login. And the third protocol that's
+really popular is OTP or one-time
+passwords. These keys can generate or
+output one-time codes for some systems,
+very similar to how you get those
+six-digit codes texted to you, but since
+it's authenticating via a key, it's a
+little bit more secure than getting a
+text message code. It's very useful for
+legacy scenarios in that case. And the
+last big protocol is using these things
+as a smart card or a PIV and open PGP
+login. So this is for more advanced use
+cases like workplace smart card login
+certificates or PGP stuff. Awesome. But
+not first security key territory for
+most people. Chances are most users are
+not going to be using a UB key for this
+last experience unless it was given to
+you for your job or if you're using it
+for something like SSH sessions or for
+decryption. And if all of that
+terminology sounded really weird, you
+don't really need to worry about it. So,
+I generally recommend a UB5 series
+device for most people. That's going to
+cover most bases. It's going to cover
+most use cases. And snag two of them if
+you can. one can be your primary key and
+the other one can be your secondary what
+if I lose it key. Now, if you are still
+here, I'm going to assume that you're
+really interested in getting a better
+grasp on all of this security stuff. So,
+please consider subscribing to my
+channel. I post cyber security news and
+tutorials every single month, and you
+can use my videos as a resource for your
+questions about hacks and privacy. Hit
+the subscribe button down below, and
+thank you so much for subscribing. It is
+completely free. Thank you so much for
+supporting my channel. Okay, let's get
+her set up. She's a pretty little key,
+but we need to actually add some
+accounts to this. So, a lot of people
+get confused here because they think
+that you need to create a UB key account
+on the key or install batteries or add
+the websites to the key, but you
+actually don't. The key itself doesn't
+require batteries or a setup or
+anything. you will need to go to each of
+the accounts that you already have
+online like logging into your email
+account or logging into your social
+media account and you add the key to
+your accounts on those different
+websites. So, step number one, get two
+keys. Do this first so you don't hate me
+later. Get two keys if you can and
+follow the setup guide for both of them
+at once. One is your primary and one is
+going to be your backup. Once you've got
+them both set up, put the backup one
+somewhere safe, like a small lock box or
+a safe. Multiple guides recommend having
+a backup key registered, not just me.
+Step two is starting with your most
+important accounts. So, start with your
+email account. If somebody owns your
+email, they can usually reset the
+passwords for everything else. Email is
+the keys to the kingdom account. That is
+your like skeleton key. Since there are
+lots of email services out there, use
+your search engine of choice to search
+how to set up a UB key with Gmail,
+Proton Mail, Yahoo Mail, whatever you
+use, and make sure to follow those
+specific guides. Step number three, add
+the key in the accounts security
+settings. Now, this is going to be an
+example flow, but it will vary by
+service. So you go into your account
+settings. [music]
+Then you go and find something like
+security or security and privacy account
+security. There should be security in
+the name somewhere. So click on whatever
+the menu is for security settings. Then
+you want to look for two-actor
+authentication, multifactor
+authentication, pass keys or security
+keys and choose to add a security key to
+your menu. This will begin the process
+of setting up your UB key so that it's
+connected to that online account. So,
+you want to go through those menus in
+the step-by-step guide which appears on
+your screen and insert the key or tap
+via NFC. Insert and tap via NFC whenever
+you are prompted to do so. And just a
+little side note here, sometimes on
+specific websites, totally depending on
+what protocol they use for the UB key,
+it may ask you to set up or enter a PIN
+code. So you will want to create a PIN
+code if asked. So that brings me to step
+number four. Set a PIN if asked and yes,
+do it. So a PIN is going to add
+protection if somebody physically steals
+your key. Many services are going to
+prompt for this during security key
+setup, but not all of them. So, don't
+worry if you're on a website and it
+doesn't require you to add a PIN. The
+PIN would add another layer on top of
+your security. So, I think it's pretty
+cool whenever a website does have this
+protocol set up. You have your username
+and your password, then you have your
+physical key, and then you have the PIN
+that's tied to this physical security
+key. Step number five, save recovery and
+backup codes. When you are going through
+this process of first setting up your UB
+key, when a service gives you recovery
+or backup codes, make sure to save them
+somewhere safe. Ideally, this would be
+like printing them out and storing them
+securely offline so they can't be hacked
+and stolen. Because if you lose your key
+and you don't have a backup key and you
+don't have backup code methods, recovery
+is going to be a whole side quest and
+you might not be able to recover your
+account at all. So, make sure you have
+all of these backup steps ready just in
+case of disaster. Now, I have a pro tip
+here. I would advise taking a very
+critical look at your own threat
+modeling and taking into consideration
+all the ways that you could lose access
+to your [music] accounts. Do you live in
+tornado alley? Are there fires that you
+have to worry about or hurricanes? Are
+you a highstakes target or do you work
+in an agency or a sector with access to
+proprietary data? Do you ride public
+transit in a place with high theft? Do
+you have a dog at home who could
+potentially chew up your UB key? Ask me
+how I know. Think about all those
+different things and choose your
+security response based on that threat
+modeling. If you have a dog at home who
+might chew up your UB key, you might
+want to make sure your UB key is
+protected in a lock box. Maybe keep your
+secondary key offsite or in a fireproof
+safe. You have to take future you into
+consideration and make a plan for the
+worst case scenario. I don't know your
+life and I can only tell you what to do
+based on my own scenarios. So build on
+that and do what works best for you. All
+right. Next I have an optional option
+here. This is the UB key manager tools.
+Now Ubico has tools like UB key manager
+and documentation for managing features
+depending on your model and your needs.
+For most people doing basic web authents
+like I just showed you, you often don't
+need to mess with advanced settings. You
+can just register it on your accounts
+and you're good to go. And the next step
+is pass keys versus security keys. So
+pass keys are basically a friendlier
+name for PHTO credentials used for
+passwordless login. Ubico explains on
+their own blog that there are copyable
+pass keys that sync across devices that
+could be like your smartphone and there
+are also hardwarebound pass keys like a
+Ubi key that stay on a portable
+authenticator like this UB key that I
+have right here. So the practical
+takeaway here is this. Synced pass keys
+are super convenient cuz they exist
+[music] and can be associated with your
+smartphone, your laptop, other devices
+like that. They're synced in your
+connected devices so you can use them
+wherever you are. Hardwarebound pass
+keys are a higher assurance option
+because the credential stays on the
+physical key. They're not going to be
+synced into connected devices and you
+can't save them up in a cloud. They only
+exist on your hardware key. You can use
+both. It depends on your threat model
+and what you're protecting. I prefer
+using the hardwarebound pass keys for my
+most crucial accounts and then I just
+choose whatever the most secure option
+is available on each website or service
+that I use. Step number nine, best
+practices. Now, if you take anything
+away from this video, let it be this
+checklist. [music]
+First, register a backup or a secondary
+key. Second, use a PIN when available.
+Third, lock your devices, especially if
+you leave a key plugged in. Fourth,
+protect your email and password manager
+first. Number five, be picky where you
+use OTP codes and prefer 502 or web
+authen whenever possible. And six, set
+up pass keys if available. And that is
+it for UB key 101. So if you want in the
+next video, we can go hands-on with
+setting one up on a password manager. We
+can use it with Google, Apple ID,
+Microsoft, or social accounts. Tell me
+in the comments what kind of video you
+would like to see next. Are you using a
+security key yet? If this helped, share
+it with a friend who still uses SMS
+codes for everything and is like one SIM
+swap away from having a very, very bad
+week. Thank you so much for watching and
+I'll see you in the next one. And thank
+you so much to Ubico for sponsoring this
+video. I'll see you next time. And by
+all.

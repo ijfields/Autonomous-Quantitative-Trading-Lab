@@ -1,0 +1,411 @@
+four position sizing formulas behind
+winning in trading. Now, most traders
+spend all their time obsessing over
+entries and exits, but position sizing
+is what actually determines whether you
+make money or if you blow up. These are
+the exact same methods I use across my
+own automated trading portfolio. And
+here are also the results uh
+specifically in crypto over the past
+couple of months. As we can see, I've
+been outperforming BTC and mock by a
+significant margin. We're actually up
+around 13 to 15% depending on
+volatility, while most of crypto is down
+around 30 to even 40%. And it's all
+really because I size my positions
+correctly. Now, these principles also
+help me run alos in the futures markets
+that are fully automated using Ninja
+Trader and a bit of code. Now, of
+course, I'm not the only one saying
+this, and I'm not the original founder
+to to realize position sizing is a huge
+part of trading. Let's actually listen
+to a hedge fund manager and how he says
+position sizing is the core of trading.
+&gt;&gt; To me, this is like the the two most
+important things, especially between
+tournament poker and and and uh and
+trading are are patience and and bet
+sizing, right? And you know, if you've
+got pocket aces, you don't want to have
+your life savings at risk as a 4 to1
+favorite cuz one out of five times
+you're bankrupt. Um, and the same thing
+goes in trading. But I promise you, it
+can always go to a more obscene level.
+And so you want to make sure that, you
+know, that that you're not in a position
+where if it moves against you more than
+you think that you are stopped out uh,
+you know, blowing up, whatever you want
+to call it, um, where you know, where
+where you're done.
+&gt;&gt; And he's completely right. You can have
+the best strategy in the world, but if
+you size your positions wrong, you will
+lose money. And if you size them right,
+even an average strategy can compound
+for years. So, in this video, I'm going
+to break down the four position sizing
+methods that actually matter, when to
+use each one, and the one rule that
+matters more than any formula. So, let's
+get straight into it.
+Now, method one, let's start with the
+foundation, and this is fixed percentage
+position sizing. This is where most
+traders start and the idea is very
+simple. You risk a fixed percentage of
+your account on every single trade. So,
+for example, if you had an $80,000
+account, you'd risk 2%, for example, and
+that would be 1,600. The math is dead
+simple. And the position sizing
+basically just equals your account value
+times your risk percentage. That's it.
+Now, why does this work so well? It's
+because it does two things at once. When
+you're winning, your position sizing
+grows so you compound faster. And when
+you're losing, your position sizing
+shrinks so you can protect your original
+capital, making it self-correcting. Now,
+the downside is is that it treats every
+trade the same. It doesn't care if
+you're trading Bitcoin which moves 5% a
+day or some boring bond ETF that barely
+moves. It doesn't account for how
+confident you are in that trade as well.
+Everything gets the same percentage
+whether that be 1 2% etc. Now at least
+for myself I normally use about 1 to 2%
+of account as a baseline. Now this is
+normally for strategies where I don't
+have a more advanced method or maybe
+they don't need a more advanced method.
+Overall method one it's very simple it's
+effective and most importantly it keeps
+you alive if you stick to it.
+Now method two this one is called equal
+waiting. This one shifts from thinking
+about individual trades and to thinking
+about your portfolio as a whole. So
+instead of sizing each trade separately,
+you divide your capital equally among
+all your positions. Well, this can
+either be based on positions or it can
+be based on strategies. But in this
+case, let's say you have 10 positions.
+If each one gets 10% of your capital,
+and if you have five positions, each get
+20% of your capital. This is also
+another way of people looking at it. You
+know, if you were creating a portfolio,
+you could sometimes weight it by market
+cap. But in this case, when we're
+particularly talking about position
+sizing, normally we're going to be
+dividing capital across them. Just to
+give you a very easy example, if you
+have $100,000, you divide that across 10
+positions, $10,000 per each asset or per
+strategy if you had 10 strategies. Now,
+this works really well when you're
+running a diversified portfolio of
+uncorrelated strategies. And it makes it
+very easy. You don't have to overthink
+it. You can just run clean exposure
+across everything. The big advantage
+here is that it forces diversification.
+You can't accidentally concentrate all
+your capital into one position. It's
+also very transparent and easy to
+explain and it does reduce correlation
+risk a bit because you're equally
+divided between everything. So you're
+not having, you know, one position that
+just has 80 grand, for example, of your
+100K. But the downside is the same
+problems as really the fixed percentage.
+It completely ignores volatility. So a
+100% volatility asset is going to get
+the same allocation as a 20% volatility
+asset. So even though your dollar
+amounts are equal, your actual risk
+exposure is completely unbalanced. And
+this is a problem we're going to try and
+solve with method four. And also you
+you'll realize I said one word and this
+is very important for equal waiting is
+uncorrelated. If you have correlated uh
+strategies or correlated assets for
+example equal waiting method isn't
+really going to be ideal most of the
+time. The reason being is that if
+they're let's say fully correlated right
+so one that means if you have 10 grand
+in one position and you have 10 grand in
+another position. Technically you kind
+of have double exposure cuz you'd have
+like 20 grand in that position because
+it's fully correlated. Meaning if one
+goes up the other one goes up. If the
+other one goes down the other one goes
+down. Which means you're basically
+losing double the amount. But if they
+are uncorrelated or at least low
+correlation, then equal waiting can be a
+pretty good method.
+Now, method number three is the Kelly
+criterion. This one sounds amazing on
+paper and a lot of people like to
+reference it, but it's actually quite
+dangerous in practice. To give you some
+backstory, Kelly was developed in the
+1950s at Bell Labs. It was originally
+designed to optimize signal to noise
+ratios in telecommunication. Then
+gamblers discovered it and started using
+it for poker, blackjack, and has also
+made its way into trading. Now, the
+formula primarily calculates the
+theoretical optimal position size to
+maximize your long-term capital growth.
+It takes your win rate, your average
+win, your average loss. It tells you
+exactly what percentage of your capital
+should be at risk. Now, if you want to
+see the actual math, this is a very
+popular uh Kelly criteria formula.
+Primarily, all it really does is it
+equals your win rate times your win loss
+ratio plus one minus one and all the
+divided by the win loss ratio. So, let's
+say you have a 60% win rate, [snorts]
+your average win is $300 and your
+average loss is $150. That gives you a
+win- loss ratio of two. You plug that
+into the Kelly criterion and it tells
+you that you're probably going to risk
+around 40% of your capital on one
+particular trade. And that's the exact
+problem with Kelly. It's mathematically
+optimal if you have perfect information.
+Nobody does really in trading. So, the
+first reason why this method often fails
+in trading is it's extremely sensitive
+to input errors. If you think a win
+rate, for example, is 60%. Maybe you've
+done a really good back test. It's a
+5-year back test and it's it's told you
+it's actually 60%. But actually, maybe
+there was some missing data or you
+didn't, you know, back test it correctly
+and your win rate is actually 55%, Kelly
+just told you to overlever by almost
+like 50%. This small estimation errors
+translates into massive sizing mistakes.
+And then this leads into the second
+issue. It assumes your edge is constant.
+Your win rate, for example, in 2023 is
+not going to be the same as 2024.
+Markets change, regimes change, and your
+edges often decay. And then lastly, even
+with a real edge, Kelly can produce 50%
+plus drawdowns. Most traders can't
+physically handle that. Three bad trades
+in a row and at 40% risk, you're
+basically done. That isn't going to be a
+recipe for long-term growth. Now, if you
+do get lucky, if you have a very high
+win rate strategy, for example, you
+could compound your account beyond any
+extreme that most um traditional sizing
+methods would be even possible to do.
+So, you are taking this risk.
+Ultimately, you are just kind of trading
+high leverage in in some aspects cuz
+you're just sizing every position so
+high. But I do know some traders that
+have grown, you know, very decent
+sizable account from this method and
+then have switched to a very
+conservative sizing method like you know
+1% 2%. Now this also leads to what some
+people use Kelly for. They call it
+fractional Kelly. Typically this is a
+quarter to a half of what the formula
+actually recommends. But the irony kind
+of comes out that if you're using
+quarter Kelly, you're just going to end
+up at around 5 to 10% risk for a trade.
+And at that point, you could basically
+just use a more aggressive version of
+the fixed percentage sizing. You don't
+really need to be using Kelly in that
+case. Now the theoretical appeal is very
+strong for Kelly but the practical
+implementation in trading is kind of a
+nightmare because we don't have perfect
+information whereas in blackjack and for
+example even been in poker you kind of
+have closer to perfect information
+whereas in trading you really never get
+close to it. Now the only scenario where
+it might make sense to run and I have
+heard and and read papers that have done
+it is a very high frequency strategy
+with thousands of trades per year or
+even per month and because of the volume
+of the amount of trades their
+statistical probabilities are very
+robust where it means they could maybe
+use the Kelly formula for this. Uh I
+haven't seen that many people do it but
+I've definitely read a couple of papers
+where they said they mentioned it.
+However, I would say for most traders,
+unless you are obviously a very riskone
+trader, I would probably ignore the
+Kelly criterion, but it could be a
+method to at least be aware of.
+Now, method number four, and it's
+primarily the method I use in most of my
+strategies. This method kind of ties
+everything together that we've been
+talking about, and it's called
+volatility targeting. Instead of sizing
+based on dollars or fixed percentage,
+you size based on how much risk each
+position actually contributes to your
+portfolio. So, high volatility assets
+get small positions, lower volatility
+assets get larger positions. The goal is
+that every position contributes roughly
+equal risk. So, let me give you an
+example and also show you why this
+matters. Let's say you have $10,000 in
+Bitcoin, which has around 80% annualized
+volatility, and $10,000 in Apple, which
+is around 30% volatility. These numbers
+are both made up. Apple, I think, is a
+lot lower than 30%, but let's say it is
+for this. Now, your dollar amounts are
+equal. You have 10,000 each position,
+but your risk is completely unequal.
+Bitcoin is going to be probably
+contributing around three times more the
+risk to your portfolio than Apple is
+going to be. that's not balanced in any
+way and also maybe you didn't intend to
+want to have Bitcoin, you know,
+contributing three times more of the
+risk. So, this becomes slowly a hidden
+concentration problem. Volatility
+targeting is a way to fix this. There
+are a few ways to implement it, so I'll
+guide you through each one. The simplest
+is using ATR. This just stands for the
+average true range. It's a very common
+indicator and you can pretty much load
+it up on Trading View or really any
+market or really any platform. ATR
+measures how much an asset typically
+moves per day. So, you take the risk per
+trade and divide it by ATR to get your
+position size. So in volatile markets
+ATR goes up and your position
+automatically gets smaller. In calm
+markets ATR goes down and your position
+naturally gets larger. It's a very easy
+self-adjusting uh method to use. Another
+approach is percent volatility model.
+This is where you take your account
+value times a risk percentage and divide
+it by that assets and volatility. So if
+you have a $100,000 account for example
+and you have 2% risk and that asset has
+40% volatility, your position size is
+around $5,000. If that volatility then
+doubles to 80% annualized volatility,
+then you could automatically reduce your
+position to around 2,500. And then
+lastly, there's also fixed percentage
+with volatility adjustment. This is
+where you start with a base allocation,
+for example, like 10% of the capital
+that scales inversely to volatility. If
+so, if you have high volatility assets,
+let's say at 60%, that might get around
+$5,000 while a low volatility asset at
+maybe 15 gets $20,000. low volatility
+asset gets around four times the capital
+because it contributes less risk per
+dollar, meaning you can size bigger in
+that particular position. And this is
+also a great case where you want to set
+a target volatility for your portfolio.
+So a lot of the times, especially in our
+crypto models, I'll normally want to
+have x percentage volatility that I'm
+targeting as that is something I'm
+capable and happy to uh kind of like
+take on for that portfolio. Now to
+actually calculate volatility, the
+standard approach, there are a couple of
+different ways, but the most standard is
+just to take the daily returns over the
+past 20 trading days. Calculate the
+standard deviation and annualize it by
+multiplying it by the square root of 252
+for equities and futures or by 365 for
+crypto just because crypto is always
+trading. Now, this is the most
+sophisticated method on the list, but
+it's essential when you're trading
+multiple asset classes and when you want
+to run a diversified portfolio,
+especially if it's going to be an
+automated portfolio, whether that be in
+futures, crypto, etc. Also, it's a
+really key thing to keep in mind.
+volatility is constantly changing in all
+these markets. So, you do want to have a
+way where your position sizing, you
+know, checks for that. For example,
+we've had the crazy oil volatility come
+in because of the war in Iran and uh
+that's also why this terrible setup I
+had to get away from Dubai for at least
+a couple of weeks and I'm just currently
+in an Airbnb with my laptop. All of that
+actual volatility obviously in my life
+and also in the markets causes where you
+want to reduce your position sizes
+automatically and that's something where
+I'm very lucky cuz I have automated
+trading that automatically is just
+updated for me. Now, one last rule that
+you cannot break with this is that it
+doesn't matter what formula you're using
+or a formula I've shown you. If losing a
+trade makes you afraid to take the next
+trading signal, you've sized way too
+big. If you want to do revenge trading
+because of one particular loss, you've
+sized way too big. If it makes you
+question your entire system and your
+entire strategy, you've sized way too
+big. The perfect position size is one
+that lets you execute the strategy
+without emotional interference. Now,
+obviously, that can be helped with
+automation, but ideally, you never want
+to be sized so big that it's going to
+change the way you trade. And often
+that's why actually trading smaller is
+uh what the math suggests and it's also
+better for you uh emotionally.

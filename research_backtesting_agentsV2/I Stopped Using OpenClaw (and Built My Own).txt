@@ -1,0 +1,404 @@
+All I see online is people running to
+the Apple store to buy Mac Mini M4 so
+they can spin up their own version of
+Open Claw. I tried spinning up Open
+Claw. I spent 10 hours with it the other
+night and in my opinion it's not a very
+good piece of equipment. Now a few
+reasons for my opinion on OpenClaw to be
+negative is the way I tried to set it up
+was fully locally. I don't want any data
+leaving my network especially with a
+tool like OpenClaw. I mean there is
+several hundred vulnerabilities
+currently. Skills are pretty much
+unprotected for MCP servers. you don't
+know what it's actually doing yet. Um,
+OpenClaw itself was vibe coded. Nothing
+wrong with vibe coding applications, but
+then again, an AI built the app to
+interface with other AI, so you don't
+really know what's going on there.
+Documentation changes all the time. But
+I tried to set up with Olama, Quen,
+Llama 3.2b, Quen 3, Quen 2.5, different
+parameter models, and I found Open Claw
+would take about two and a half minutes
+to reply to a message, whereas a
+terminal will take under a second. Now
+upon investigation I found that open
+claw when I would send it a message via
+telegram it would then wrap my prompt
+the text I sent in 30,000 tokens which
+was a like a wrapper so openclaw knew
+what to do it had the skills the context
+the setup how everything was working and
+it would send back to openclaw and poor
+Quen or Lama then has to dig through all
+that now the big downside to that is 90%
+of people that I've seen on Tik Tok
+Instagram X setting this up they're
+using claw API Open AI. Now, the problem
+there is you are going to eat into a
+monthly budget. I asked Claude, "How
+much would it cost if I did 50 messages
+a day with 30,000 tokens plus a prompt?"
+If I was to use Opus 4.6, which is the
+best at coding. So, if you're setting up
+a coding agent with OpenClaw, you're
+looking at 6 to800 a month.
+If you're using chat GPT4.1
+mini, this is obviously the cheapest
+model that OpenAI can do at some stage.
+Uh it would cost you like maybe $2 to
+$20 a day, but your code is going to be
+My point is OpenC Claw is an
+expensive way to do AI. So I done it my
+own way. Introducing Gerald. So I've
+built Gerald. Now this is a native Mac
+OS app that I've built specifically to
+interface with my N web hook. So I've
+built my own version of OpenClaw from
+scratch. Now, I built this in less time
+than it took me to test and get Open
+Claw to reply to a singular message. I
+built an entire automation system and an
+Xcode app to talk to it on my phone and
+on my MacBook. So, we're actually going
+to talk to Gerald this time. So, first
+going to start with hello, how are you?
+So, this was an app that I built very
+quickly so it doesn't look the
+prettiest. So, hey, doing top notch.
+Thanks for asking. How can Gerald assist
+the mighty Nath today? So, you can see
+it's got it own personality. Now, this
+is all self-hosted. I control all of the
+prompts, all of the tools, everything
+there. So, what I'm going to ask it next
+is, can you please check the GPU usage
+on the AI server? So, what it's going to
+do is it's going to use that SSH
+terminal to log into the AI server and
+find out what's actually going on. Now,
+that's pretty quick. So, you can see we
+got the 3080 in there. It's 59°. No fans
+on, which is nice. Uh, so about 94%
+usage. the utilization stat seems to be
+wrong, but there's a few things we can
+keep asking it. So, what uh AI models do
+I have running via O Lama on the AI
+server? This is obviously very low-level
+stuff compared to what you can do with
+OpenClaw, but this is just proof that my
+8hour build can still interact with
+servers as an AI agent and control AI
+agents in sub workflows and subworkflows
+within sub workflows, which is all
+openclaw is. There you go. I've asked it
+to create a file in the home directory
+called test. The file test has been
+created in the home directory. So it
+says your but we use the same home
+directory which is why. Okay. Moving on
+from that. We're going to test it live
+knowledge. So can you tell me about the
+movie? It's scary movie 6. Now what it
+should then do is go out to Wikipedia
+and actually get the information. Does
+mean Scream which is part of the horror
+films. Now it's asking me for more
+information. Um I'll just tell it to do
+some research for me. I meant Scary
+Movie. There you go. So now it should
+automatically go and pick up that
+Wikipedia node. There you So, Scary
+Movie 6 is an upcoming American par
+parody film. The cast includes a
+returning actors. There we go. So, now
+we have up-to-date knowledge. We can
+access our entire home service UIs. I
+can add separate tools to access my Mac
+Mini as well as my mini PC as well as my
+partner's PC as well as my TV. Any smart
+home device I can connect to. Especially
+since I've done Home Assistant, this AI
+can control my heating, my hot water, my
+TV, my light bulbs.
+Gerald is the most powerful thing in my
+home network right now. I'm sure he has
+more control than I do. Okay, so let's
+jump into how this actually works then
+because I want to I want to show people
+that there's a different way to do AI.
+So, if I bring up my N system here, now
+it's important to know that N is exposed
+via Cloudflare for me. So I have my
+services and my IP addresses and I have
+special security for web hooks and API
+calls. This is not something I'm too
+sure on how open claw does. Now the way
+that Telegram API works is it only
+accepts web hooks over HTTPS, not HTTP.
+When I installed OpenClaw, I didn't
+install any reverse proxy beforehand. I
+didn't specify how I wanted a traffic to
+reach out to Telegram. It just made it
+work. Somehow openclaw managed to
+configure a HTTPS tunnel to Telegram
+without me knowing how. So that that's
+my first concern is I need to dig into
+how that worked more. And I I I just
+want to add that I am on a Mac Mini M4,
+but I did not buy this for open core. I
+bought this last year. Just just
+throwing it out there before somebody
+comments. Um okay, but let's actually
+jump into the workflow, the kind of
+exciting bit. So we have Gerald at the
+top. This looks complicated and like a
+lot of jargon, but I promise you it's
+not. This is this is the entire workflow
+here. And then you'll see I've got two
+models here that go into AI agent. This
+is Quen 2.5
+and Llama 3.2b.
+And then I have a memory node so it can
+remember the last 10 messages or even
+further. I'll show you this more in a
+minute. And then just a boatload of
+tools. So you can think of tools the
+same way you think of skills with
+openclaw. But the benefit to nan is I
+can fully control these subworkflows and
+I can add a full personal memory system
+which has a sub AI model. So this is
+kind of what open claw does. You have
+the orchestrator which controls the sub
+AI models. That's exactly what I'm doing
+here. You'll see that I have this will
+be llama uh 3.2 the latest. That will be
+the 3B model I believe that interacts
+with my personal memory. it remembers
+facts about me. So when my AI agent
+which gets my input from the hook when
+it is pulled and it needs to remember
+something about me maybe it needs a bit
+more context about what I've asked it
+will pull down from personal memory oama
+will then find a specific memory and
+then it can go into the vector store
+because it's Postgress database and then
+inside of here I have another AI model
+called nomic embed text latest. So in
+here we already have one, two, three
+models for one prompt that does not go
+outside my home network. I know exactly
+how these work. I can control these
+models. And but the thing that I think
+that some people don't understand with
+open claw is when you use an API and
+you're getting open claw to interact
+with your whole file system. It can
+interact with your calendar. It can
+connect your emails. That's like the big
+thing about open claw is you connect it
+to everything. Now, every time you do a
+prompt and it collects that data, you're
+sending it to Anthropic or OpenAI. I
+think that's a security thing that
+people don't really think about is you
+are sending all of your data outside of
+your home network to companies, which is
+why OpenClaw is currently being
+sponsored by OpenAI because more chat
+GBT usage via API is more money. More
+money is better trained models. It's an
+endless cycle. Whereas this, this I own.
+Nobody gets any money from me except you
+know my energy company. Okay, so let's
+jump into a little bit more about tools
+and then we'll cover some kind of how we
+can make it a bit more open glory with
+some MCP servers in a minute. So all of
+these tools, these are sub workflows
+except for this one. This is a built-in
+Wikipedia tool which just allows my AI
+agent to go and get any article off
+Wikipedia so it has up-to-date knowledge
+all the time. But for example, I do have
+this tool here called call call AI
+server SSH. So I've described it as a
+mandatory tool and what I can do is
+execute bash commands on my Linux server
+via SSH and use it immediately whenever
+I tell it to. So if I come back to our
+overview, you'll see our subflows here.
+I should have tags really to tidy this
+up. But I built this in under 8 hours
+this entire system. So if we go to Oama
+SSH terminal, it's very easy. This is
+the entire sub workflow. So you'll see
+the command is a string and then inside
+execute a command, it just has my SSH
+set up and then it executes the command
+from the input in the working directory
+you can give it. So if I then go back to
+Gerald and into that SSH tool, you'll
+see that the command here which is the
+input of the sub workflow is defined
+automatically by the model. Whichever
+model I have selected over here, if it's
+Quen or Lava 3.2, it will decide what
+command to run for me and it can
+reiterate and reiterate. So I see a lot
+of people with open claw saying it just
+keeps getting stuck. It it can't do
+much. It says can I need to try again
+and errors or it needs human
+intervention. It can't self captures.
+Well, we can get around that with a few
+a few cool tools. So I'm building this
+out properly and I do actually have
+something that Gerald stands for. I just
+can't remember what it is. Oh yeah. So I
+I acronymed him as guy executing random
+local automation duties, but I think I
+can get something better than that.
+when I send it a message from my Mac OS
+app, it will then set the system prompt.
+So, inside here, this is not the best
+way to do it. Um, I went through a whole
+rabbit hole of making Gerald be able to
+edit his master prompt as well as his
+memory. Kind of got it working, but then
+he overwrit his master prompt once, and
+I need to think of a better way to do
+it. But this this is like under a day of
+work that I put in here. And then it it
+will execute an SQL query on our
+database that we have to gather any
+Gerald rules. If I talk to Gerald and I
+tell it to call me boss man, for
+example, Gerald will put that into the
+not in this memory here. It will put it
+into personal memory that this is
+long-term and permanent and can be
+accessed all the time. And that way he
+can also delete memories as well. So if
+I go don't call me that anymore, he will
+then delete the memory from here.
+Whereas this is just like the last 10 or
+so messages. And that's that will be
+like um the call manage rules. So this
+will be another sub workflow if we jump
+in here.
+There you go. So that's it. So it just
+passes the instructions and then edits
+my database and job done. And then over
+here I just have a filter node. So
+sometimes with Quen models, the AIS can
+wrap thinking around it where it be like
+okay the user wants me to do D. I don't
+want any of that. So I got Claude to
+make me a nice code node which filters
+everything out. And then finally, I'll
+just respond to the web hook, which is
+this original one here. Uh, my favorite
+thing about this as well is I do have
+Home Assistant set up. I've removed it
+just for a minute because uh, as you can
+see, I've actually got it set up and
+working. So, I could message Gerald from
+my phone at work saying, "Put my heating
+on." So, when I get home at 6, my house
+is 20°. So, if I come into here, you'll
+see our action switch. It can get the
+entities, clean statuses. There's loads
+it can do in here. So, I am building my
+own version of OpenClaw. I do not want
+to be sending my data to another company
+and I do not want to know what how open
+claw is configuring its HTTP access to
+telegram or all its gateway stuff. I
+don't know how secure that is on the
+network. I imagine I would isolate that
+on an entire subnet if I was to use it.
+But the AI that actually does things, we
+have made that with Gerald and I love
+Gerald. I'm going to add image
+generation, video generation. I can pass
+images through to him which is something
+I'm working through on the app now. And
+as far as code generation goes, what I
+can do is then create a subworkflow. So
+for example, a lot of people use clawed
+um clawed code with a pro subscription
+and then they tie their clawed code into
+open claw and then get opus or sonet to
+code for them. What I can do in this
+instance is just add a tool just do a
+sub workflow and I'll go create a new
+sub workflow and inside there I'll then
+download an OAMA coding model. So it's
+um the this is the orchestrator and then
+inside of here would be the agent which
+does the coding passes it back up to
+here. We can do some final checks. We
+can add that into the system prompt and
+it can just reiterate until the code
+works. So it can work for itself as
+well. It's not like a one and done. The
+AI agent will bounce between different
+tools as needed. And the big thing for
+me, a lot of people on open core are
+like, bang, I can use, you know,
+blender. I can do all of this. All of
+that is just an MCP server. So all an
+MCP server is so this over here. So if
+you know an API call is, an MCP is the
+same thing just for AI models to
+interact with other interfaces. So if I
+wanted to connect Blender here, I could
+give Gerald access to Blender via an MCP
+server rather than an open clause skill.
+So I hope that kind of made sense as to
+what I've built. I'm hoping that I've
+kind of showed you today that using n um
+you know Xcode and GitHub copilot to
+make your own app. But you don't need to
+download open claw if you don't want to
+if you're struggling. I struggled for
+over, you know, like 10 hours to get it
+actually working at all. And even then
+it was like 3 minutes per message which
+is painful on Telegram. I mean you can
+see how fast Gerald is. So if I come
+back up here and just go hello. If I if
+I actually type in my box. There you go.
+That's so much quicker. And this is all
+locally hosted. The big thing for me is
+no data leaves my network and I don't
+pay subscription fees. I feel bad for
+the some people who have forgot to set
+API limits and in 3 weeks time are going
+to get hit with the biggest open claw
+bill ever because they wanted to try and
+make some websites. I just want to add a
+disclaimer that I'm not on
+OpenClaw. It's a very very cool tool. Uh
+I am going to put some more time in
+setting it up. I just thought that I
+could build something better myself in
+less time than it took me to set up Open
+Claw. So this is tuned to me at the
+moment. Now I'm more than happy to also
+share my NA executions
+uh my workflow. Sorry. Just let me know
+if that's of interest. If you also
+wouldn't mind hitting that subscribe
+button. It would really help me out
+fighting the algorithm. But with that,
+enjoy your new Mac Mini from the Apple
+Store for Open Claw, and I will see you
+later.

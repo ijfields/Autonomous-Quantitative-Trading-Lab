@@ -1,0 +1,3176 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.230 align:start position:0%
+ 
+If<00:00:00.240><c> you</c><00:00:00.400><c> use</c><00:00:00.640><c> things</c><00:00:00.880><c> like</c><00:00:01.120><c> Gmail,</c><00:00:01.920><c> Google</c>
+
+00:00:02.230 --> 00:00:02.240 align:start position:0%
+If you use things like Gmail, Google
+ 
+
+00:00:02.240 --> 00:00:04.710 align:start position:0%
+If you use things like Gmail, Google
+Calendar,<00:00:03.040><c> Google</c><00:00:03.439><c> Drive,</c><00:00:03.919><c> or</c><00:00:04.160><c> anything</c><00:00:04.480><c> in</c>
+
+00:00:04.710 --> 00:00:04.720 align:start position:0%
+Calendar, Google Drive, or anything in
+ 
+
+00:00:04.720 --> 00:00:06.950 align:start position:0%
+Calendar, Google Drive, or anything in
+the<00:00:04.880><c> Google</c><00:00:05.279><c> ecosystem,</c><00:00:06.240><c> then</c><00:00:06.400><c> I'm</c><00:00:06.640><c> about</c><00:00:06.799><c> to</c>
+
+00:00:06.950 --> 00:00:06.960 align:start position:0%
+the Google ecosystem, then I'm about to
+ 
+
+00:00:06.960 --> 00:00:09.430 align:start position:0%
+the Google ecosystem, then I'm about to
+show<00:00:07.120><c> you</c><00:00:07.279><c> a</c><00:00:07.600><c> free</c><00:00:08.080><c> powerful</c><00:00:08.480><c> tool</c><00:00:08.960><c> that</c><00:00:09.200><c> you</c>
+
+00:00:09.430 --> 00:00:09.440 align:start position:0%
+show you a free powerful tool that you
+ 
+
+00:00:09.440 --> 00:00:11.030 align:start position:0%
+show you a free powerful tool that you
+can<00:00:09.519><c> add</c><00:00:09.679><c> to</c><00:00:09.840><c> your</c><00:00:10.000><c> stack</c><00:00:10.400><c> that</c><00:00:10.639><c> will</c><00:00:10.800><c> take</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+can add to your stack that will take
+ 
+
+00:00:11.040 --> 00:00:13.270 align:start position:0%
+can add to your stack that will take
+your<00:00:11.200><c> productivity</c><00:00:11.920><c> and</c><00:00:12.240><c> your</c><00:00:12.400><c> AI</c><00:00:12.719><c> agents</c><00:00:13.120><c> to</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+your productivity and your AI agents to
+ 
+
+00:00:13.280 --> 00:00:15.030 align:start position:0%
+your productivity and your AI agents to
+the<00:00:13.440><c> next</c><00:00:13.599><c> level.</c><00:00:13.920><c> Google</c><00:00:14.240><c> just</c><00:00:14.480><c> handed</c><00:00:14.799><c> all</c>
+
+00:00:15.030 --> 00:00:15.040 align:start position:0%
+the next level. Google just handed all
+ 
+
+00:00:15.040 --> 00:00:17.430 align:start position:0%
+the next level. Google just handed all
+of<00:00:15.120><c> us</c><00:00:15.360><c> a</c><00:00:15.679><c> golden</c><00:00:16.080><c> key,</c><00:00:16.560><c> and</c><00:00:16.720><c> it's</c><00:00:16.960><c> called</c><00:00:17.119><c> the</c>
+
+00:00:17.430 --> 00:00:17.440 align:start position:0%
+of us a golden key, and it's called the
+ 
+
+00:00:17.440 --> 00:00:19.670 align:start position:0%
+of us a golden key, and it's called the
+Google<00:00:17.840><c> Workspace</c><00:00:18.480><c> CLI.</c><00:00:19.039><c> It's</c><00:00:19.279><c> now</c><00:00:19.439><c> the</c>
+
+00:00:19.670 --> 00:00:19.680 align:start position:0%
+Google Workspace CLI. It's now the
+ 
+
+00:00:19.680 --> 00:00:21.910 align:start position:0%
+Google Workspace CLI. It's now the
+easiest<00:00:20.160><c> and</c><00:00:20.400><c> most</c><00:00:20.640><c> elegant</c><00:00:21.039><c> way</c><00:00:21.439><c> to</c><00:00:21.680><c> provide</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+easiest and most elegant way to provide
+ 
+
+00:00:21.920 --> 00:00:24.070 align:start position:0%
+easiest and most elegant way to provide
+your<00:00:22.160><c> AI</c><00:00:22.560><c> agents</c><00:00:23.119><c> full</c><00:00:23.439><c> access</c><00:00:23.760><c> to</c><00:00:23.920><c> your</c>
+
+00:00:24.070 --> 00:00:24.080 align:start position:0%
+your AI agents full access to your
+ 
+
+00:00:24.080 --> 00:00:26.150 align:start position:0%
+your AI agents full access to your
+Google<00:00:24.400><c> account.</c><00:00:24.800><c> No</c><00:00:24.960><c> need</c><00:00:25.119><c> for</c><00:00:25.279><c> Zapier,</c><00:00:25.920><c> no</c>
+
+00:00:26.150 --> 00:00:26.160 align:start position:0%
+Google account. No need for Zapier, no
+ 
+
+00:00:26.160 --> 00:00:28.150 align:start position:0%
+Google account. No need for Zapier, no
+need<00:00:26.240><c> for</c><00:00:26.480><c> make.com,</c><00:00:27.279><c> and</c><00:00:27.519><c> no</c><00:00:27.680><c> need</c><00:00:27.840><c> for</c><00:00:28.000><c> any</c>
+
+00:00:28.150 --> 00:00:28.160 align:start position:0%
+need for make.com, and no need for any
+ 
+
+00:00:28.160 --> 00:00:29.429 align:start position:0%
+need for make.com, and no need for any
+of<00:00:28.320><c> them.</c><00:00:28.400><c> So,</c><00:00:28.560><c> in</c><00:00:28.720><c> this</c><00:00:28.880><c> video,</c><00:00:29.119><c> I'm</c><00:00:29.279><c> going</c><00:00:29.359><c> to</c>
+
+00:00:29.429 --> 00:00:29.439 align:start position:0%
+of them. So, in this video, I'm going to
+ 
+
+00:00:29.439 --> 00:00:31.910 align:start position:0%
+of them. So, in this video, I'm going to
+show<00:00:29.599><c> you</c><00:00:29.760><c> exactly</c><00:00:30.320><c> what</c><00:00:30.560><c> it</c><00:00:30.800><c> is,</c><00:00:31.359><c> how</c><00:00:31.599><c> you</c><00:00:31.760><c> can</c>
+
+00:00:31.910 --> 00:00:31.920 align:start position:0%
+show you exactly what it is, how you can
+ 
+
+00:00:31.920 --> 00:00:33.910 align:start position:0%
+show you exactly what it is, how you can
+set<00:00:32.079><c> it</c><00:00:32.239><c> up</c><00:00:32.320><c> in</c><00:00:32.559><c> under</c><00:00:32.800><c> 2</c><00:00:33.040><c> minutes,</c><00:00:33.440><c> and</c><00:00:33.680><c> most</c>
+
+00:00:33.910 --> 00:00:33.920 align:start position:0%
+set it up in under 2 minutes, and most
+ 
+
+00:00:33.920 --> 00:00:35.750 align:start position:0%
+set it up in under 2 minutes, and most
+importantly,<00:00:34.640><c> how</c><00:00:34.800><c> you</c><00:00:35.040><c> can</c><00:00:35.120><c> leverage</c><00:00:35.520><c> this</c>
+
+00:00:35.750 --> 00:00:35.760 align:start position:0%
+importantly, how you can leverage this
+ 
+
+00:00:35.760 --> 00:00:37.670 align:start position:0%
+importantly, how you can leverage this
+with<00:00:36.000><c> something</c><00:00:36.239><c> like</c><00:00:36.480><c> Cloud</c><00:00:36.960><c> Code</c><00:00:37.280><c> to</c><00:00:37.520><c> build</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+with something like Cloud Code to build
+ 
+
+00:00:37.680 --> 00:00:40.069 align:start position:0%
+with something like Cloud Code to build
+the<00:00:37.920><c> Agentic</c><00:00:38.480><c> Workflows</c><00:00:39.040><c> that</c><00:00:39.280><c> you</c><00:00:39.520><c> wish</c><00:00:39.760><c> no</c>
+
+00:00:40.069 --> 00:00:40.079 align:start position:0%
+the Agentic Workflows that you wish no
+ 
+
+00:00:40.079 --> 00:00:41.830 align:start position:0%
+the Agentic Workflows that you wish no
+code<00:00:40.320><c> tools</c><00:00:40.640><c> could</c><00:00:40.800><c> have</c><00:00:40.960><c> done,</c><00:00:41.280><c> but</c><00:00:41.600><c> never</c>
+
+00:00:41.830 --> 00:00:41.840 align:start position:0%
+code tools could have done, but never
+ 
+
+00:00:41.840 --> 00:00:43.110 align:start position:0%
+code tools could have done, but never
+quite<00:00:42.079><c> could.</c><00:00:42.399><c> Let's</c><00:00:42.640><c> get</c><00:00:42.719><c> into</c><00:00:42.879><c> it.</c><00:00:43.120><c> All</c>
+
+00:00:43.110 --> 00:00:43.120 align:start position:0%
+quite could. Let's get into it. All
+ 
+
+00:00:43.120 --> 00:00:44.470 align:start position:0%
+quite could. Let's get into it. All
+right,<00:00:43.280><c> so</c><00:00:43.440><c> if</c><00:00:43.600><c> you</c><00:00:43.760><c> go</c><00:00:43.920><c> on</c><00:00:44.160><c> to</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+right, so if you go on to
+ 
+
+00:00:44.480 --> 00:00:48.389 align:start position:0%
+right, so if you go on to
+github.com/googleworkspace/cli,
+
+00:00:48.389 --> 00:00:48.399 align:start position:0%
+ 
+ 
+
+00:00:48.399 --> 00:00:50.310 align:start position:0%
+ 
+you<00:00:48.559><c> will</c><00:00:48.719><c> see</c><00:00:48.879><c> the</c><00:00:49.120><c> following</c><00:00:49.520><c> page.</c><00:00:50.160><c> And</c>
+
+00:00:50.310 --> 00:00:50.320 align:start position:0%
+you will see the following page. And
+ 
+
+00:00:50.320 --> 00:00:52.229 align:start position:0%
+you will see the following page. And
+this<00:00:50.480><c> goes</c><00:00:50.719><c> through</c><00:00:50.960><c> all</c><00:00:51.200><c> the</c><00:00:51.360><c> functionality,</c>
+
+00:00:52.229 --> 00:00:52.239 align:start position:0%
+this goes through all the functionality,
+ 
+
+00:00:52.239 --> 00:00:54.069 align:start position:0%
+this goes through all the functionality,
+how<00:00:52.399><c> it</c><00:00:52.640><c> works,</c><00:00:53.120><c> and</c><00:00:53.360><c> most</c><00:00:53.600><c> importantly,</c><00:00:53.920><c> how</c>
+
+00:00:54.069 --> 00:00:54.079 align:start position:0%
+how it works, and most importantly, how
+ 
+
+00:00:54.079 --> 00:00:56.389 align:start position:0%
+how it works, and most importantly, how
+you<00:00:54.239><c> can</c><00:00:54.320><c> set</c><00:00:54.480><c> it</c><00:00:54.640><c> up.</c><00:00:55.039><c> Now,</c><00:00:55.440><c> the</c><00:00:55.680><c> install</c><00:00:56.079><c> path</c>
+
+00:00:56.389 --> 00:00:56.399 align:start position:0%
+you can set it up. Now, the install path
+ 
+
+00:00:56.399 --> 00:00:57.990 align:start position:0%
+you can set it up. Now, the install path
+for<00:00:56.640><c> someone</c><00:00:56.879><c> that</c><00:00:57.120><c> is</c><00:00:57.280><c> technical</c><00:00:57.600><c> is</c><00:00:57.840><c> pretty</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+for someone that is technical is pretty
+ 
+
+00:00:58.000 --> 00:01:00.150 align:start position:0%
+for someone that is technical is pretty
+straightforward,<00:00:58.719><c> but</c><00:00:58.879><c> I've</c><00:00:59.120><c> created</c><00:00:59.440><c> a</c><00:00:59.760><c> mega</c>
+
+00:01:00.150 --> 00:01:00.160 align:start position:0%
+straightforward, but I've created a mega
+ 
+
+00:01:00.160 --> 00:01:01.910 align:start position:0%
+straightforward, but I've created a mega
+prompt<00:01:00.559><c> that</c><00:01:00.800><c> will</c><00:01:00.879><c> allow</c><00:01:01.120><c> you</c><00:01:01.280><c> to</c><00:01:01.440><c> just</c><00:01:01.680><c> run</c>
+
+00:01:01.910 --> 00:01:01.920 align:start position:0%
+prompt that will allow you to just run
+ 
+
+00:01:01.920 --> 00:01:04.310 align:start position:0%
+prompt that will allow you to just run
+this<00:01:02.079><c> one</c><00:01:02.320><c> command,</c><00:01:02.960><c> run</c><00:01:03.199><c> this</c><00:01:03.440><c> prompt,</c><00:01:04.080><c> and</c>
+
+00:01:04.310 --> 00:01:04.320 align:start position:0%
+this one command, run this prompt, and
+ 
+
+00:01:04.320 --> 00:01:06.390 align:start position:0%
+this one command, run this prompt, and
+let<00:01:04.559><c> Cloud</c><00:01:04.879><c> Code</c><00:01:05.199><c> do</c><00:01:05.439><c> all</c><00:01:05.600><c> the</c><00:01:05.760><c> dirty</c><00:01:06.080><c> work</c><00:01:06.240><c> for</c>
+
+00:01:06.390 --> 00:01:06.400 align:start position:0%
+let Cloud Code do all the dirty work for
+ 
+
+00:01:06.400 --> 00:01:07.750 align:start position:0%
+let Cloud Code do all the dirty work for
+you.<00:01:06.720><c> And</c><00:01:06.880><c> just</c><00:01:07.040><c> in</c><00:01:07.200><c> case</c><00:01:07.439><c> you're</c>
+
+00:01:07.750 --> 00:01:07.760 align:start position:0%
+you. And just in case you're
+ 
+
+00:01:07.760 --> 00:01:09.590 align:start position:0%
+you. And just in case you're
+non-technical<00:01:08.400><c> and</c><00:01:08.720><c> don't</c><00:01:08.960><c> even</c><00:01:09.119><c> know</c><00:01:09.280><c> what</c><00:01:09.439><c> a</c>
+
+00:01:09.590 --> 00:01:09.600 align:start position:0%
+non-technical and don't even know what a
+ 
+
+00:01:09.600 --> 00:01:12.149 align:start position:0%
+non-technical and don't even know what a
+CLI<00:01:10.240><c> is,</c><00:01:10.720><c> I'll</c><00:01:10.960><c> walk</c><00:01:11.200><c> through</c><00:01:11.439><c> what</c><00:01:11.680><c> it</c><00:01:11.920><c> is</c>
+
+00:01:12.149 --> 00:01:12.159 align:start position:0%
+CLI is, I'll walk through what it is
+ 
+
+00:01:12.159 --> 00:01:14.070 align:start position:0%
+CLI is, I'll walk through what it is
+conceptually,<00:01:13.040><c> and</c><00:01:13.280><c> then</c><00:01:13.439><c> go</c><00:01:13.600><c> through</c><00:01:13.840><c> why</c>
+
+00:01:14.070 --> 00:01:14.080 align:start position:0%
+conceptually, and then go through why
+ 
+
+00:01:14.080 --> 00:01:16.149 align:start position:0%
+conceptually, and then go through why
+this<00:01:14.240><c> one</c><00:01:14.400><c> is</c><00:01:14.560><c> so</c><00:01:14.799><c> special.</c><00:01:15.119><c> Now,</c><00:01:15.360><c> CLI</c><00:01:15.920><c> stands</c>
+
+00:01:16.149 --> 00:01:16.159 align:start position:0%
+this one is so special. Now, CLI stands
+ 
+
+00:01:16.159 --> 00:01:18.870 align:start position:0%
+this one is so special. Now, CLI stands
+for<00:01:16.400><c> command</c><00:01:16.880><c> line</c><00:01:17.280><c> interface.</c><00:01:18.159><c> And</c><00:01:18.320><c> before</c>
+
+00:01:18.870 --> 00:01:18.880 align:start position:0%
+for command line interface. And before
+ 
+
+00:01:18.880 --> 00:01:20.710 align:start position:0%
+for command line interface. And before
+we<00:01:19.040><c> used</c><00:01:19.200><c> to</c><00:01:19.360><c> live</c><00:01:19.439><c> in</c><00:01:19.600><c> a</c><00:01:19.840><c> world</c><00:01:20.080><c> where</c><00:01:20.320><c> you</c><00:01:20.479><c> had</c>
+
+00:01:20.710 --> 00:01:20.720 align:start position:0%
+we used to live in a world where you had
+ 
+
+00:01:20.720 --> 00:01:23.510 align:start position:0%
+we used to live in a world where you had
+to<00:01:20.960><c> manually</c><00:01:21.520><c> type</c><00:01:21.840><c> and</c><00:01:22.080><c> understand</c><00:01:22.880><c> what</c><00:01:23.280><c> a</c>
+
+00:01:23.510 --> 00:01:23.520 align:start position:0%
+to manually type and understand what a
+ 
+
+00:01:23.520 --> 00:01:25.590 align:start position:0%
+to manually type and understand what a
+command<00:01:23.840><c> line</c><00:01:24.080><c> interface</c><00:01:24.720><c> for</c><00:01:25.040><c> a</c><00:01:25.280><c> particular</c>
+
+00:01:25.590 --> 00:01:25.600 align:start position:0%
+command line interface for a particular
+ 
+
+00:01:25.600 --> 00:01:27.510 align:start position:0%
+command line interface for a particular
+provider<00:01:26.240><c> looked</c><00:01:26.479><c> like</c><00:01:26.720><c> in</c><00:01:26.880><c> terms</c><00:01:27.119><c> of</c><00:01:27.280><c> the</c>
+
+00:01:27.510 --> 00:01:27.520 align:start position:0%
+provider looked like in terms of the
+ 
+
+00:01:27.520 --> 00:01:28.710 align:start position:0%
+provider looked like in terms of the
+different<00:01:27.759><c> commands,</c><00:01:28.320><c> the</c><00:01:28.560><c> different</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+different commands, the different
+ 
+
+00:01:28.720 --> 00:01:30.789 align:start position:0%
+different commands, the different
+syntax,<00:01:29.520><c> the</c><00:01:29.759><c> different</c><00:01:30.080><c> ways</c><00:01:30.320><c> that</c><00:01:30.479><c> you</c><00:01:30.640><c> can</c>
+
+00:01:30.789 --> 00:01:30.799 align:start position:0%
+syntax, the different ways that you can
+ 
+
+00:01:30.799 --> 00:01:32.710 align:start position:0%
+syntax, the different ways that you can
+access<00:01:31.280><c> all</c><00:01:31.520><c> of</c><00:01:31.680><c> its</c><00:01:31.920><c> functionality.</c><00:01:32.479><c> But</c>
+
+00:01:32.710 --> 00:01:32.720 align:start position:0%
+access all of its functionality. But
+ 
+
+00:01:32.720 --> 00:01:34.550 align:start position:0%
+access all of its functionality. But
+ever<00:01:32.880><c> since</c><00:01:33.119><c> getting</c><00:01:33.360><c> the</c><00:01:33.600><c> gift</c><00:01:33.840><c> of</c><00:01:34.079><c> agentic</c>
+
+00:01:34.550 --> 00:01:34.560 align:start position:0%
+ever since getting the gift of agentic
+ 
+
+00:01:34.560 --> 00:01:36.310 align:start position:0%
+ever since getting the gift of agentic
+workflows<00:01:35.119><c> through</c><00:01:35.439><c> things</c><00:01:35.680><c> like</c><00:01:35.920><c> cloud</c>
+
+00:01:36.310 --> 00:01:36.320 align:start position:0%
+workflows through things like cloud
+ 
+
+00:01:36.320 --> 00:01:38.469 align:start position:0%
+workflows through things like cloud
+code,<00:01:36.960><c> you</c><00:01:37.119><c> can</c><00:01:37.280><c> now</c><00:01:37.520><c> offload</c><00:01:38.079><c> all</c><00:01:38.240><c> the</c>
+
+00:01:38.469 --> 00:01:38.479 align:start position:0%
+code, you can now offload all the
+ 
+
+00:01:38.479 --> 00:01:40.950 align:start position:0%
+code, you can now offload all the
+understanding<00:01:39.040><c> of</c><00:01:39.280><c> how</c><00:01:39.520><c> to</c><00:01:39.680><c> use</c><00:01:39.920><c> the</c><00:01:40.079><c> CLI</c><00:01:40.799><c> and</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+understanding of how to use the CLI and
+ 
+
+00:01:40.960 --> 00:01:43.030 align:start position:0%
+understanding of how to use the CLI and
+you<00:01:41.200><c> and</c><00:01:41.360><c> I</c><00:01:41.600><c> can</c><00:01:41.759><c> just</c><00:01:41.920><c> use</c><00:01:42.159><c> natural</c><00:01:42.560><c> language</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+you and I can just use natural language
+ 
+
+00:01:43.040 --> 00:01:44.789 align:start position:0%
+you and I can just use natural language
+to<00:01:43.360><c> navigate</c><00:01:43.680><c> throughout.</c><00:01:44.159><c> So</c><00:01:44.320><c> the</c><00:01:44.479><c> workflow</c>
+
+00:01:44.789 --> 00:01:44.799 align:start position:0%
+to navigate throughout. So the workflow
+ 
+
+00:01:44.799 --> 00:01:46.710 align:start position:0%
+to navigate throughout. So the workflow
+in<00:01:44.960><c> a</c><00:01:45.119><c> nutshell</c><00:01:45.439><c> is</c><00:01:45.680><c> you</c><00:01:45.920><c> describe</c><00:01:46.240><c> the</c><00:01:46.479><c> task</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+in a nutshell is you describe the task
+ 
+
+00:01:46.720 --> 00:01:48.789 align:start position:0%
+in a nutshell is you describe the task
+and<00:01:46.960><c> claude</c><00:01:47.360><c> code</c><00:01:47.680><c> writes</c><00:01:48.000><c> the</c><00:01:48.159><c> command</c><00:01:48.560><c> and</c>
+
+00:01:48.789 --> 00:01:48.799 align:start position:0%
+and claude code writes the command and
+ 
+
+00:01:48.799 --> 00:01:50.950 align:start position:0%
+and claude code writes the command and
+then<00:01:48.960><c> the</c><00:01:49.200><c> command</c><00:01:49.520><c> line</c><00:01:49.759><c> interface</c><00:01:50.479><c> executes</c>
+
+00:01:50.950 --> 00:01:50.960 align:start position:0%
+then the command line interface executes
+ 
+
+00:01:50.960 --> 00:01:52.469 align:start position:0%
+then the command line interface executes
+it.<00:01:51.200><c> Now</c><00:01:51.280><c> the</c><00:01:51.439><c> core</c><00:01:51.680><c> difference</c><00:01:51.920><c> between</c><00:01:52.240><c> a</c>
+
+00:01:52.469 --> 00:01:52.479 align:start position:0%
+it. Now the core difference between a
+ 
+
+00:01:52.479 --> 00:01:54.789 align:start position:0%
+it. Now the core difference between a
+terminal<00:01:52.960><c> and</c><00:01:53.200><c> a</c><00:01:53.360><c> command</c><00:01:53.680><c> line</c><00:01:54.000><c> interface</c><00:01:54.560><c> is</c>
+
+00:01:54.789 --> 00:01:54.799 align:start position:0%
+terminal and a command line interface is
+ 
+
+00:01:54.799 --> 00:01:56.789 align:start position:0%
+terminal and a command line interface is
+a<00:01:55.040><c> terminal</c><00:01:55.360><c> is</c><00:01:55.520><c> just</c><00:01:55.680><c> a</c><00:01:55.920><c> blank</c><00:01:56.240><c> state</c><00:01:56.560><c> that</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+a terminal is just a blank state that
+ 
+
+00:01:56.799 --> 00:01:59.190 align:start position:0%
+a terminal is just a blank state that
+has<00:01:57.040><c> access</c><00:01:57.360><c> to</c><00:01:57.600><c> your</c><00:01:57.920><c> operating</c><00:01:58.399><c> system.</c>
+
+00:01:59.190 --> 00:01:59.200 align:start position:0%
+has access to your operating system.
+ 
+
+00:01:59.200 --> 00:02:02.389 align:start position:0%
+has access to your operating system.
+Whereas<00:01:59.600><c> a</c><00:01:59.920><c> CLI,</c><00:02:00.560><c> this</c><00:02:00.719><c> one</c><00:02:00.880><c> is</c><00:02:01.040><c> called</c><00:02:01.439><c> GWS,</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+Whereas a CLI, this one is called GWS,
+ 
+
+00:02:02.399 --> 00:02:05.030 align:start position:0%
+Whereas a CLI, this one is called GWS,
+Google<00:02:02.719><c> Workspace,</c><00:02:04.000><c> allows</c><00:02:04.240><c> you</c><00:02:04.479><c> to</c><00:02:04.640><c> have</c><00:02:04.799><c> a</c>
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+Google Workspace, allows you to have a
+ 
+
+00:02:05.040 --> 00:02:07.429 align:start position:0%
+Google Workspace, allows you to have a
+terminal<00:02:05.600><c> with</c><00:02:05.920><c> built-in</c><00:02:06.479><c> commands.</c><00:02:07.200><c> Lucky</c>
+
+00:02:07.429 --> 00:02:07.439 align:start position:0%
+terminal with built-in commands. Lucky
+ 
+
+00:02:07.439 --> 00:02:09.350 align:start position:0%
+terminal with built-in commands. Lucky
+for<00:02:07.680><c> you</c><00:02:07.759><c> and</c><00:02:08.000><c> I,</c><00:02:08.160><c> we</c><00:02:08.399><c> don't</c><00:02:08.479><c> have</c><00:02:08.640><c> to</c><00:02:08.879><c> manually</c>
+
+00:02:09.350 --> 00:02:09.360 align:start position:0%
+for you and I, we don't have to manually
+ 
+
+00:02:09.360 --> 00:02:10.949 align:start position:0%
+for you and I, we don't have to manually
+write<00:02:09.520><c> this</c><00:02:09.759><c> command.</c><00:02:10.239><c> But</c><00:02:10.399><c> this</c><00:02:10.640><c> is</c><00:02:10.720><c> an</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+write this command. But this is an
+ 
+
+00:02:10.959 --> 00:02:12.710 align:start position:0%
+write this command. But this is an
+example<00:02:11.280><c> of</c><00:02:11.440><c> a</c><00:02:11.680><c> command</c><00:02:12.080><c> that</c><00:02:12.319><c> you</c><00:02:12.480><c> can</c>
+
+00:02:12.710 --> 00:02:12.720 align:start position:0%
+example of a command that you can
+ 
+
+00:02:12.720 --> 00:02:14.869 align:start position:0%
+example of a command that you can
+execute<00:02:13.440><c> with</c><00:02:13.680><c> this</c><00:02:13.840><c> command</c><00:02:14.160><c> line</c><00:02:14.400><c> interface</c>
+
+00:02:14.869 --> 00:02:14.879 align:start position:0%
+execute with this command line interface
+ 
+
+00:02:14.879 --> 00:02:16.390 align:start position:0%
+execute with this command line interface
+that<00:02:15.120><c> would</c><00:02:15.280><c> allow</c><00:02:15.520><c> you</c><00:02:15.680><c> to</c><00:02:15.840><c> go</c><00:02:16.000><c> through</c><00:02:16.239><c> your</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+that would allow you to go through your
+ 
+
+00:02:16.400 --> 00:02:18.309 align:start position:0%
+that would allow you to go through your
+Gmail<00:02:16.879><c> messages.</c><00:02:17.520><c> So</c><00:02:17.599><c> you</c><00:02:17.760><c> can</c><00:02:17.840><c> see</c><00:02:17.920><c> the</c><00:02:18.160><c> first</c>
+
+00:02:18.309 --> 00:02:18.319 align:start position:0%
+Gmail messages. So you can see the first
+ 
+
+00:02:18.319 --> 00:02:20.630 align:start position:0%
+Gmail messages. So you can see the first
+part<00:02:18.640><c> is</c><00:02:18.959><c> GWS</c><00:02:19.680><c> the</c><00:02:19.920><c> name</c><00:02:20.000><c> of</c><00:02:20.160><c> the</c><00:02:20.319><c> actual</c>
+
+00:02:20.630 --> 00:02:20.640 align:start position:0%
+part is GWS the name of the actual
+ 
+
+00:02:20.640 --> 00:02:22.550 align:start position:0%
+part is GWS the name of the actual
+command<00:02:20.879><c> line.</c><00:02:21.440><c> Then</c><00:02:21.599><c> you</c><00:02:21.760><c> have</c><00:02:21.920><c> the</c><00:02:22.160><c> service</c>
+
+00:02:22.550 --> 00:02:22.560 align:start position:0%
+command line. Then you have the service
+ 
+
+00:02:22.560 --> 00:02:25.030 align:start position:0%
+command line. Then you have the service
+you<00:02:22.800><c> are</c><00:02:23.040><c> targeting</c><00:02:23.760><c> Gmail.</c><00:02:24.560><c> Then</c><00:02:24.720><c> you</c><00:02:24.879><c> have</c>
+
+00:02:25.030 --> 00:02:25.040 align:start position:0%
+you are targeting Gmail. Then you have
+ 
+
+00:02:25.040 --> 00:02:27.589 align:start position:0%
+you are targeting Gmail. Then you have
+the<00:02:25.280><c> resource</c><00:02:25.760><c> of</c><00:02:26.000><c> that</c><00:02:26.239><c> service</c><00:02:26.800><c> messages.</c>
+
+00:02:27.589 --> 00:02:27.599 align:start position:0%
+the resource of that service messages.
+ 
+
+00:02:27.599 --> 00:02:29.030 align:start position:0%
+the resource of that service messages.
+And<00:02:27.680><c> then</c><00:02:27.840><c> you</c><00:02:28.080><c> have</c><00:02:28.160><c> the</c><00:02:28.400><c> action</c><00:02:28.720><c> that</c><00:02:28.959><c> you</c>
+
+00:02:29.030 --> 00:02:29.040 align:start position:0%
+And then you have the action that you
+ 
+
+00:02:29.040 --> 00:02:31.030 align:start position:0%
+And then you have the action that you
+want<00:02:29.120><c> to</c><00:02:29.280><c> execute.</c><00:02:29.680><c> In</c><00:02:29.840><c> this</c><00:02:29.920><c> case</c><00:02:30.319><c> you</c><00:02:30.560><c> want</c><00:02:30.720><c> a</c>
+
+00:02:31.030 --> 00:02:31.040 align:start position:0%
+want to execute. In this case you want a
+ 
+
+00:02:31.040 --> 00:02:33.030 align:start position:0%
+want to execute. In this case you want a
+list<00:02:31.360><c> of</c><00:02:31.599><c> your</c><00:02:31.840><c> messages.</c><00:02:32.560><c> Then</c><00:02:32.720><c> you</c><00:02:32.959><c> have</c>
+
+00:02:33.030 --> 00:02:33.040 align:start position:0%
+list of your messages. Then you have
+ 
+
+00:02:33.040 --> 00:02:34.869 align:start position:0%
+list of your messages. Then you have
+some<00:02:33.280><c> parameters</c><00:02:33.760><c> that</c><00:02:34.000><c> are</c><00:02:34.080><c> optional.</c><00:02:34.720><c> And</c>
+
+00:02:34.869 --> 00:02:34.879 align:start position:0%
+some parameters that are optional. And
+ 
+
+00:02:34.879 --> 00:02:36.710 align:start position:0%
+some parameters that are optional. And
+then<00:02:35.200><c> you</c><00:02:35.440><c> go</c><00:02:35.599><c> through</c><00:02:35.760><c> and</c><00:02:36.000><c> say</c><00:02:36.239><c> how</c><00:02:36.480><c> many</c>
+
+00:02:36.710 --> 00:02:36.720 align:start position:0%
+then you go through and say how many
+ 
+
+00:02:36.720 --> 00:02:39.830 align:start position:0%
+then you go through and say how many
+pages<00:02:37.519><c> worth</c><00:02:37.760><c> of</c><00:02:38.000><c> context</c><00:02:38.480><c> do</c><00:02:38.720><c> you</c><00:02:38.879><c> want.</c><00:02:39.599><c> In</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+pages worth of context do you want. In
+ 
+
+00:02:39.840 --> 00:02:41.910 align:start position:0%
+pages worth of context do you want. In
+the<00:02:40.000><c> world</c><00:02:40.239><c> of</c><00:02:40.480><c> old,</c><00:02:40.959><c> you'd</c><00:02:41.200><c> have</c><00:02:41.360><c> to</c><00:02:41.680><c> learn</c>
+
+00:02:41.910 --> 00:02:41.920 align:start position:0%
+the world of old, you'd have to learn
+ 
+
+00:02:41.920 --> 00:02:43.589 align:start position:0%
+the world of old, you'd have to learn
+this,<00:02:42.319><c> write</c><00:02:42.480><c> it</c><00:02:42.640><c> on</c><00:02:42.800><c> some</c><00:02:42.959><c> form</c><00:02:43.120><c> of</c><00:02:43.280><c> sticky</c>
+
+00:02:43.589 --> 00:02:43.599 align:start position:0%
+this, write it on some form of sticky
+ 
+
+00:02:43.599 --> 00:02:45.270 align:start position:0%
+this, write it on some form of sticky
+note,<00:02:43.920><c> and</c><00:02:44.080><c> commit</c><00:02:44.319><c> it</c><00:02:44.480><c> to</c><00:02:44.640><c> memory.</c><00:02:44.959><c> And</c><00:02:45.120><c> if</c>
+
+00:02:45.270 --> 00:02:45.280 align:start position:0%
+note, and commit it to memory. And if
+ 
+
+00:02:45.280 --> 00:02:47.110 align:start position:0%
+note, and commit it to memory. And if
+you<00:02:45.440><c> take</c><00:02:45.519><c> a</c><00:02:45.680><c> look</c><00:02:45.840><c> at</c><00:02:46.000><c> the</c><00:02:46.239><c> repo,</c><00:02:46.800><c> you'll</c><00:02:47.040><c> see</c>
+
+00:02:47.110 --> 00:02:47.120 align:start position:0%
+you take a look at the repo, you'll see
+ 
+
+00:02:47.120 --> 00:02:49.509 align:start position:0%
+you take a look at the repo, you'll see
+that<00:02:47.280><c> it's</c><00:02:47.599><c> composed</c><00:02:48.080><c> of</c><00:02:48.480><c> skills</c><00:02:49.120><c> and</c><00:02:49.360><c> what</c>
+
+00:02:49.509 --> 00:02:49.519 align:start position:0%
+that it's composed of skills and what
+ 
+
+00:02:49.519 --> 00:02:53.430 align:start position:0%
+that it's composed of skills and what
+are<00:02:49.680><c> called</c><00:02:50.000><c> recipes.</c><00:02:50.720><c> It</c><00:02:50.959><c> has</c><00:02:51.519><c> 101</c><00:02:52.560><c> of</c><00:02:52.720><c> these.</c>
+
+00:02:53.430 --> 00:02:53.440 align:start position:0%
+are called recipes. It has 101 of these.
+ 
+
+00:02:53.440 --> 00:02:54.790 align:start position:0%
+are called recipes. It has 101 of these.
+Skills<00:02:53.840><c> are</c><00:02:54.000><c> what</c><00:02:54.160><c> you're</c><00:02:54.319><c> now</c><00:02:54.560><c> familiar</c>
+
+00:02:54.790 --> 00:02:54.800 align:start position:0%
+Skills are what you're now familiar
+ 
+
+00:02:54.800 --> 00:02:57.110 align:start position:0%
+Skills are what you're now familiar
+with.<00:02:55.200><c> The</c><00:02:55.360><c> ability</c><00:02:55.599><c> to</c><00:02:55.840><c> have</c><00:02:56.000><c> these</c><00:02:56.800><c> very</c>
+
+00:02:57.110 --> 00:02:57.120 align:start position:0%
+with. The ability to have these very
+ 
+
+00:02:57.120 --> 00:02:58.949 align:start position:0%
+with. The ability to have these very
+predictable<00:02:57.680><c> workflows</c><00:02:58.319><c> execute</c><00:02:58.720><c> from</c>
+
+00:02:58.949 --> 00:02:58.959 align:start position:0%
+predictable workflows execute from
+ 
+
+00:02:58.959 --> 00:03:00.550 align:start position:0%
+predictable workflows execute from
+things<00:02:59.120><c> like</c><00:02:59.360><c> cloud</c><00:02:59.680><c> code.</c><00:03:00.080><c> And</c><00:03:00.239><c> then</c><00:03:00.400><c> you</c>
+
+00:03:00.550 --> 00:03:00.560 align:start position:0%
+things like cloud code. And then you
+ 
+
+00:03:00.560 --> 00:03:03.670 align:start position:0%
+things like cloud code. And then you
+have<00:03:00.800><c> recipes</c><00:03:01.519><c> which</c><00:03:01.760><c> are</c><00:03:01.920><c> basically</c><00:03:02.480><c> SOPs</c><00:03:03.280><c> of</c>
+
+00:03:03.670 --> 00:03:03.680 align:start position:0%
+have recipes which are basically SOPs of
+ 
+
+00:03:03.680 --> 00:03:05.910 align:start position:0%
+have recipes which are basically SOPs of
+executing<00:03:04.560><c> different</c><00:03:04.959><c> skills,</c><00:03:05.440><c> commands</c><00:03:05.760><c> and</c>
+
+00:03:05.910 --> 00:03:05.920 align:start position:0%
+executing different skills, commands and
+ 
+
+00:03:05.920 --> 00:03:07.910 align:start position:0%
+executing different skills, commands and
+workflows.<00:03:06.400><c> So</c><00:03:06.480><c> when</c><00:03:06.720><c> you</c><00:03:06.800><c> install</c><00:03:07.120><c> the</c><00:03:07.360><c> CLI,</c>
+
+00:03:07.910 --> 00:03:07.920 align:start position:0%
+workflows. So when you install the CLI,
+ 
+
+00:03:07.920 --> 00:03:09.670 align:start position:0%
+workflows. So when you install the CLI,
+you<00:03:08.080><c> can</c><00:03:08.239><c> interact</c><00:03:08.640><c> with</c><00:03:08.800><c> it</c><00:03:09.040><c> through</c><00:03:09.360><c> those</c>
+
+00:03:09.670 --> 00:03:09.680 align:start position:0%
+you can interact with it through those
+ 
+
+00:03:09.680 --> 00:03:11.670 align:start position:0%
+you can interact with it through those
+commands<00:03:10.000><c> that</c><00:03:10.159><c> cloud</c><00:03:10.560><c> code</c><00:03:10.800><c> will</c><00:03:11.040><c> execute.</c>
+
+00:03:11.670 --> 00:03:11.680 align:start position:0%
+commands that cloud code will execute.
+ 
+
+00:03:11.680 --> 00:03:14.470 align:start position:0%
+commands that cloud code will execute.
+You<00:03:11.840><c> can</c><00:03:12.000><c> also</c><00:03:12.159><c> use</c><00:03:12.400><c> their</c><00:03:12.640><c> MCP,</c><00:03:13.680><c> their</c><00:03:14.000><c> skills</c>
+
+00:03:14.470 --> 00:03:14.480 align:start position:0%
+You can also use their MCP, their skills
+ 
+
+00:03:14.480 --> 00:03:16.550 align:start position:0%
+You can also use their MCP, their skills
+or<00:03:14.800><c> combination</c><00:03:15.280><c> of</c><00:03:15.440><c> all</c><00:03:15.599><c> of</c><00:03:15.760><c> them</c><00:03:15.920><c> if</c><00:03:16.159><c> needed.</c>
+
+00:03:16.550 --> 00:03:16.560 align:start position:0%
+or combination of all of them if needed.
+ 
+
+00:03:16.560 --> 00:03:18.550 align:start position:0%
+or combination of all of them if needed.
+So<00:03:16.720><c> now</c><00:03:16.879><c> you</c><00:03:17.040><c> can</c><00:03:17.120><c> say</c><00:03:17.360><c> something</c><00:03:17.760><c> like</c><00:03:18.080><c> get</c><00:03:18.400><c> my</c>
+
+00:03:18.550 --> 00:03:18.560 align:start position:0%
+So now you can say something like get my
+ 
+
+00:03:18.560 --> 00:03:20.630 align:start position:0%
+So now you can say something like get my
+last<00:03:18.879><c> emails</c><00:03:19.440><c> sorted</c><00:03:19.760><c> by</c><00:03:20.000><c> priority.</c><00:03:20.480><c> I'm</c>
+
+00:03:20.630 --> 00:03:20.640 align:start position:0%
+last emails sorted by priority. I'm
+ 
+
+00:03:20.640 --> 00:03:21.990 align:start position:0%
+last emails sorted by priority. I'm
+about<00:03:20.800><c> to</c><00:03:20.959><c> show</c><00:03:21.120><c> you</c><00:03:21.360><c> five</c><00:03:21.680><c> different</c>
+
+00:03:21.990 --> 00:03:22.000 align:start position:0%
+about to show you five different
+ 
+
+00:03:22.000 --> 00:03:24.070 align:start position:0%
+about to show you five different
+examples<00:03:22.319><c> of</c><00:03:22.480><c> this</c><00:03:22.720><c> by</c><00:03:22.879><c> the</c><00:03:23.040><c> way.</c><00:03:23.519><c> And</c><00:03:23.680><c> then</c><00:03:23.840><c> it</c>
+
+00:03:24.070 --> 00:03:24.080 align:start position:0%
+examples of this by the way. And then it
+ 
+
+00:03:24.080 --> 00:03:25.670 align:start position:0%
+examples of this by the way. And then it
+will<00:03:24.319><c> run</c><00:03:24.480><c> all</c><00:03:24.640><c> the</c><00:03:24.800><c> commands</c><00:03:25.120><c> and</c><00:03:25.440><c> provide</c>
+
+00:03:25.670 --> 00:03:25.680 align:start position:0%
+will run all the commands and provide
+ 
+
+00:03:25.680 --> 00:03:26.949 align:start position:0%
+will run all the commands and provide
+you<00:03:25.760><c> the</c><00:03:26.000><c> result.</c><00:03:26.239><c> And</c><00:03:26.480><c> because</c><00:03:26.640><c> you</c><00:03:26.800><c> don't</c>
+
+00:03:26.949 --> 00:03:26.959 align:start position:0%
+you the result. And because you don't
+ 
+
+00:03:26.959 --> 00:03:28.949 align:start position:0%
+you the result. And because you don't
+have<00:03:27.040><c> to</c><00:03:27.200><c> go</c><00:03:27.280><c> through</c><00:03:27.440><c> an</c><00:03:27.760><c> intermediary</c><00:03:28.720><c> like</c>
+
+00:03:28.949 --> 00:03:28.959 align:start position:0%
+have to go through an intermediary like
+ 
+
+00:03:28.959 --> 00:03:31.270 align:start position:0%
+have to go through an intermediary like
+a<00:03:29.120><c> Zap</c><00:03:29.360><c> year,</c><00:03:29.760><c> like</c><00:03:29.920><c> a</c><00:03:30.080><c> make.com,</c><00:03:30.959><c> you</c><00:03:31.120><c> don't</c>
+
+00:03:31.270 --> 00:03:31.280 align:start position:0%
+a Zap year, like a make.com, you don't
+ 
+
+00:03:31.280 --> 00:03:33.430 align:start position:0%
+a Zap year, like a make.com, you don't
+have<00:03:31.360><c> to</c><00:03:31.519><c> worry</c><00:03:31.680><c> about</c><00:03:32.000><c> running</c><00:03:32.480><c> costs</c><00:03:33.120><c> of</c>
+
+00:03:33.430 --> 00:03:33.440 align:start position:0%
+have to worry about running costs of
+ 
+
+00:03:33.440 --> 00:03:35.430 align:start position:0%
+have to worry about running costs of
+executing<00:03:33.920><c> these</c><00:03:34.159><c> commands.</c><00:03:34.640><c> Basically,</c><00:03:35.200><c> one</c>
+
+00:03:35.430 --> 00:03:35.440 align:start position:0%
+executing these commands. Basically, one
+ 
+
+00:03:35.440 --> 00:03:38.070 align:start position:0%
+executing these commands. Basically, one
+zap<00:03:35.840><c> at</c><00:03:35.920><c> a</c><00:03:36.080><c> time</c><00:03:36.400><c> or</c><00:03:36.640><c> one</c><00:03:36.959><c> credit</c><00:03:37.280><c> at</c><00:03:37.440><c> a</c><00:03:37.599><c> time.</c>
+
+00:03:38.070 --> 00:03:38.080 align:start position:0%
+zap at a time or one credit at a time.
+ 
+
+00:03:38.080 --> 00:03:39.670 align:start position:0%
+zap at a time or one credit at a time.
+The<00:03:38.239><c> only</c><00:03:38.400><c> thing</c><00:03:38.480><c> you're</c><00:03:38.799><c> concerned</c><00:03:39.120><c> with</c><00:03:39.440><c> is</c>
+
+00:03:39.670 --> 00:03:39.680 align:start position:0%
+The only thing you're concerned with is
+ 
+
+00:03:39.680 --> 00:03:41.430 align:start position:0%
+The only thing you're concerned with is
+your<00:03:39.840><c> token</c><00:03:40.159><c> usage.</c><00:03:40.560><c> Now,</c><00:03:40.799><c> some</c><00:03:40.959><c> people</c><00:03:41.120><c> find</c>
+
+00:03:41.430 --> 00:03:41.440 align:start position:0%
+your token usage. Now, some people find
+ 
+
+00:03:41.440 --> 00:03:43.670 align:start position:0%
+your token usage. Now, some people find
+skills<00:03:41.920><c> overwhelming</c><00:03:42.560><c> enough</c><00:03:42.799><c> on</c><00:03:43.040><c> their</c><00:03:43.280><c> own.</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+skills overwhelming enough on their own.
+ 
+
+00:03:43.680 --> 00:03:45.430 align:start position:0%
+skills overwhelming enough on their own.
+So,<00:03:43.840><c> this</c><00:03:44.000><c> is</c><00:03:44.080><c> a</c><00:03:44.239><c> little</c><00:03:44.319><c> bit</c><00:03:44.480><c> of</c><00:03:44.560><c> a</c><00:03:44.799><c> TLDDR</c>
+
+00:03:45.430 --> 00:03:45.440 align:start position:0%
+So, this is a little bit of a TLDDR
+ 
+
+00:03:45.440 --> 00:03:47.910 align:start position:0%
+So, this is a little bit of a TLDDR
+cheat<00:03:45.680><c> sheet</c><00:03:46.000><c> on</c><00:03:46.319><c> when</c><00:03:46.480><c> you</c><00:03:46.640><c> can</c><00:03:46.799><c> use</c><00:03:46.959><c> the</c><00:03:47.200><c> CLI,</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+cheat sheet on when you can use the CLI,
+ 
+
+00:03:47.920 --> 00:03:51.030 align:start position:0%
+cheat sheet on when you can use the CLI,
+the<00:03:48.159><c> MCP,</c><00:03:49.120><c> or</c><00:03:49.280><c> the</c><00:03:49.519><c> skills.</c><00:03:50.080><c> Now,</c><00:03:50.239><c> the</c><00:03:50.400><c> CLI</c><00:03:50.879><c> is</c>
+
+00:03:51.030 --> 00:03:51.040 align:start position:0%
+the MCP, or the skills. Now, the CLI is
+ 
+
+00:03:51.040 --> 00:03:52.869 align:start position:0%
+the MCP, or the skills. Now, the CLI is
+the<00:03:51.280><c> most</c><00:03:51.440><c> potent</c><00:03:51.760><c> of</c><00:03:51.920><c> the</c><00:03:52.080><c> three</c><00:03:52.400><c> because</c><00:03:52.720><c> you</c>
+
+00:03:52.869 --> 00:03:52.879 align:start position:0%
+the most potent of the three because you
+ 
+
+00:03:52.879 --> 00:03:54.390 align:start position:0%
+the most potent of the three because you
+can<00:03:52.959><c> do</c><00:03:53.120><c> whatever</c><00:03:53.440><c> you</c><00:03:53.680><c> want,</c><00:03:53.920><c> but</c><00:03:54.239><c> it's</c>
+
+00:03:54.390 --> 00:03:54.400 align:start position:0%
+can do whatever you want, but it's
+ 
+
+00:03:54.400 --> 00:03:56.630 align:start position:0%
+can do whatever you want, but it's
+optimized<00:03:54.879><c> for</c><00:03:55.120><c> one-off</c><00:03:55.599><c> tasks.</c><00:03:56.239><c> If</c><00:03:56.400><c> you</c><00:03:56.560><c> do</c>
+
+00:03:56.630 --> 00:03:56.640 align:start position:0%
+optimized for one-off tasks. If you do
+ 
+
+00:03:56.640 --> 00:03:58.789 align:start position:0%
+optimized for one-off tasks. If you do
+the<00:03:56.879><c> exact</c><00:03:57.120><c> same</c><00:03:57.360><c> task</c><00:03:57.840><c> in</c><00:03:58.080><c> the</c><00:03:58.239><c> exact</c><00:03:58.560><c> same</c>
+
+00:03:58.789 --> 00:03:58.799 align:start position:0%
+the exact same task in the exact same
+ 
+
+00:03:58.799 --> 00:04:01.270 align:start position:0%
+the exact same task in the exact same
+way<00:03:59.200><c> two,</c><00:03:59.599><c> three,</c><00:03:59.920><c> four</c><00:04:00.239><c> times,</c><00:04:00.879><c> it</c><00:04:01.120><c> makes</c>
+
+00:04:01.270 --> 00:04:01.280 align:start position:0%
+way two, three, four times, it makes
+ 
+
+00:04:01.280 --> 00:04:03.750 align:start position:0%
+way two, three, four times, it makes
+sense<00:04:01.519><c> to</c><00:04:01.920><c> crystallize</c><00:04:02.560><c> this</c><00:04:02.799><c> process</c><00:04:03.360><c> as</c><00:04:03.599><c> a</c>
+
+00:04:03.750 --> 00:04:03.760 align:start position:0%
+sense to crystallize this process as a
+ 
+
+00:04:03.760 --> 00:04:06.070 align:start position:0%
+sense to crystallize this process as a
+skill.<00:04:04.080><c> And</c><00:04:04.239><c> then</c><00:04:04.400><c> MCP</c><00:04:05.040><c> was</c><00:04:05.280><c> all</c><00:04:05.519><c> the</c><00:04:05.680><c> rave</c>
+
+00:04:06.070 --> 00:04:06.080 align:start position:0%
+skill. And then MCP was all the rave
+ 
+
+00:04:06.080 --> 00:04:08.309 align:start position:0%
+skill. And then MCP was all the rave
+this<00:04:06.400><c> time</c><00:04:06.640><c> last</c><00:04:06.959><c> year.</c><00:04:07.599><c> But</c><00:04:07.760><c> now,</c><00:04:08.000><c> since</c>
+
+00:04:08.309 --> 00:04:08.319 align:start position:0%
+this time last year. But now, since
+ 
+
+00:04:08.319 --> 00:04:10.309 align:start position:0%
+this time last year. But now, since
+skills<00:04:08.799><c> came</c><00:04:08.959><c> out,</c><00:04:09.280><c> especially</c><00:04:09.519><c> with</c><00:04:09.760><c> their</c>
+
+00:04:10.309 --> 00:04:10.319 align:start position:0%
+skills came out, especially with their
+ 
+
+00:04:10.319 --> 00:04:12.149 align:start position:0%
+skills came out, especially with their
+context<00:04:10.799><c> efficiency</c><00:04:11.280><c> when</c><00:04:11.680><c> it</c><00:04:11.760><c> comes</c><00:04:11.920><c> to</c>
+
+00:04:12.149 --> 00:04:12.159 align:start position:0%
+context efficiency when it comes to
+ 
+
+00:04:12.159 --> 00:04:15.750 align:start position:0%
+context efficiency when it comes to
+token<00:04:12.560><c> usage,</c><00:04:13.280><c> I</c><00:04:13.519><c> would</c><00:04:13.680><c> use</c><00:04:14.159><c> in</c><00:04:14.480><c> order</c><00:04:15.200><c> CLI</c>
+
+00:04:15.750 --> 00:04:15.760 align:start position:0%
+token usage, I would use in order CLI
+ 
+
+00:04:15.760 --> 00:04:17.509 align:start position:0%
+token usage, I would use in order CLI
+number<00:04:16.000><c> one,</c><00:04:16.400><c> then</c><00:04:16.720><c> skills</c><00:04:17.120><c> once</c><00:04:17.359><c> you</c>
+
+00:04:17.509 --> 00:04:17.519 align:start position:0%
+number one, then skills once you
+ 
+
+00:04:17.519 --> 00:04:19.110 align:start position:0%
+number one, then skills once you
+crystallize.<00:04:18.160><c> And</c><00:04:18.239><c> then</c><00:04:18.400><c> if</c><00:04:18.560><c> you</c><00:04:18.720><c> feel</c><00:04:18.880><c> the</c>
+
+00:04:19.110 --> 00:04:19.120 align:start position:0%
+crystallize. And then if you feel the
+ 
+
+00:04:19.120 --> 00:04:21.110 align:start position:0%
+crystallize. And then if you feel the
+need<00:04:19.440><c> then</c><00:04:19.680><c> you</c><00:04:19.840><c> can</c><00:04:19.919><c> go</c><00:04:20.000><c> to</c><00:04:20.239><c> MCP</c><00:04:20.799><c> and</c><00:04:20.959><c> that's</c>
+
+00:04:21.110 --> 00:04:21.120 align:start position:0%
+need then you can go to MCP and that's
+ 
+
+00:04:21.120 --> 00:04:23.030 align:start position:0%
+need then you can go to MCP and that's
+it<00:04:21.280><c> from</c><00:04:21.519><c> a</c><00:04:21.680><c> conceptual</c><00:04:22.240><c> standpoint.</c><00:04:22.880><c> So</c>
+
+00:04:23.030 --> 00:04:23.040 align:start position:0%
+it from a conceptual standpoint. So
+ 
+
+00:04:23.040 --> 00:04:24.950 align:start position:0%
+it from a conceptual standpoint. So
+let's<00:04:23.280><c> hop</c><00:04:23.520><c> into</c><00:04:23.759><c> the</c><00:04:23.919><c> terminal</c><00:04:24.560><c> and</c><00:04:24.720><c> I'll</c>
+
+00:04:24.950 --> 00:04:24.960 align:start position:0%
+let's hop into the terminal and I'll
+ 
+
+00:04:24.960 --> 00:04:26.710 align:start position:0%
+let's hop into the terminal and I'll
+walk<00:04:25.120><c> you</c><00:04:25.280><c> through</c><00:04:25.600><c> how</c><00:04:25.919><c> easily</c><00:04:26.400><c> you</c><00:04:26.639><c> can</c>
+
+00:04:26.710 --> 00:04:26.720 align:start position:0%
+walk you through how easily you can
+ 
+
+00:04:26.720 --> 00:04:28.790 align:start position:0%
+walk you through how easily you can
+install<00:04:27.040><c> this</c><00:04:27.440><c> with</c><00:04:27.759><c> my</c><00:04:27.919><c> adjusted</c><00:04:28.400><c> prompt</c>
+
+00:04:28.790 --> 00:04:28.800 align:start position:0%
+install this with my adjusted prompt
+ 
+
+00:04:28.800 --> 00:04:30.629 align:start position:0%
+install this with my adjusted prompt
+that<00:04:29.040><c> I'll</c><00:04:29.280><c> give</c><00:04:29.440><c> you</c><00:04:29.600><c> in</c><00:04:29.840><c> the</c><00:04:30.000><c> second</c><00:04:30.240><c> link</c><00:04:30.479><c> in</c>
+
+00:04:30.629 --> 00:04:30.639 align:start position:0%
+that I'll give you in the second link in
+ 
+
+00:04:30.639 --> 00:04:32.070 align:start position:0%
+that I'll give you in the second link in
+the<00:04:30.800><c> description</c><00:04:31.040><c> below.</c><00:04:31.360><c> So</c><00:04:31.600><c> step</c><00:04:31.759><c> one</c><00:04:31.919><c> is</c>
+
+00:04:32.070 --> 00:04:32.080 align:start position:0%
+the description below. So step one is
+ 
+
+00:04:32.080 --> 00:04:34.710 align:start position:0%
+the description below. So step one is
+you<00:04:32.320><c> want</c><00:04:32.400><c> to</c><00:04:32.560><c> run</c><00:04:32.880><c> this</c><00:04:33.120><c> command</c><00:04:33.840><c> npm</c>
+
+00:04:34.710 --> 00:04:34.720 align:start position:0%
+you want to run this command npm
+ 
+
+00:04:34.720 --> 00:04:36.390 align:start position:0%
+you want to run this command npm
+install-g
+
+00:04:36.390 --> 00:04:36.400 align:start position:0%
+install-g
+ 
+
+00:04:36.400 --> 00:04:38.710 align:start position:0%
+install-g
+at<00:04:36.639><c> Google</c><00:04:36.960><c> Workspace</c><00:04:37.440><c> CLI.</c><00:04:38.240><c> Once</c><00:04:38.479><c> you</c><00:04:38.639><c> do</c>
+
+00:04:38.710 --> 00:04:38.720 align:start position:0%
+at Google Workspace CLI. Once you do
+ 
+
+00:04:38.720 --> 00:04:40.790 align:start position:0%
+at Google Workspace CLI. Once you do
+that,<00:04:38.960><c> you</c><00:04:39.199><c> should</c><00:04:39.360><c> get</c><00:04:39.520><c> a</c><00:04:39.840><c> confirmation</c><00:04:40.479><c> that</c>
+
+00:04:40.790 --> 00:04:40.800 align:start position:0%
+that, you should get a confirmation that
+ 
+
+00:04:40.800 --> 00:04:42.629 align:start position:0%
+that, you should get a confirmation that
+it's<00:04:41.040><c> installed</c><00:04:41.440><c> and</c><00:04:41.680><c> ready</c><00:04:41.840><c> to</c><00:04:42.000><c> go</c><00:04:42.160><c> and</c><00:04:42.400><c> it's</c>
+
+00:04:42.629 --> 00:04:42.639 align:start position:0%
+it's installed and ready to go and it's
+ 
+
+00:04:42.639 --> 00:04:45.270 align:start position:0%
+it's installed and ready to go and it's
+installed<00:04:43.199><c> globally.</c><00:04:44.080><c> And</c><00:04:44.240><c> then</c><00:04:44.479><c> this</c><00:04:44.800><c> is</c><00:04:44.960><c> my</c>
+
+00:04:45.270 --> 00:04:45.280 align:start position:0%
+installed globally. And then this is my
+ 
+
+00:04:45.280 --> 00:04:46.790 align:start position:0%
+installed globally. And then this is my
+mega<00:04:45.600><c> prompt.</c><00:04:45.919><c> And</c><00:04:46.080><c> I'll</c><00:04:46.320><c> walk</c><00:04:46.479><c> through</c><00:04:46.639><c> this</c>
+
+00:04:46.790 --> 00:04:46.800 align:start position:0%
+mega prompt. And I'll walk through this
+ 
+
+00:04:46.800 --> 00:04:48.469 align:start position:0%
+mega prompt. And I'll walk through this
+prompt<00:04:47.120><c> with</c><00:04:47.280><c> you</c><00:04:47.440><c> so</c><00:04:47.600><c> you</c><00:04:47.840><c> can</c><00:04:47.919><c> see</c><00:04:48.080><c> exactly</c>
+
+00:04:48.469 --> 00:04:48.479 align:start position:0%
+prompt with you so you can see exactly
+ 
+
+00:04:48.479 --> 00:04:50.150 align:start position:0%
+prompt with you so you can see exactly
+all<00:04:48.720><c> the</c><00:04:48.880><c> nuts</c><00:04:49.120><c> and</c><00:04:49.280><c> bolts</c><00:04:49.600><c> in</c><00:04:49.759><c> case</c><00:04:49.919><c> you</c><00:04:50.080><c> want</c>
+
+00:04:50.150 --> 00:04:50.160 align:start position:0%
+all the nuts and bolts in case you want
+ 
+
+00:04:50.160 --> 00:04:52.790 align:start position:0%
+all the nuts and bolts in case you want
+to<00:04:50.320><c> change</c><00:04:50.479><c> it</c><00:04:50.639><c> up.</c><00:04:51.360><c> So</c><00:04:51.759><c> the</c><00:04:52.000><c> task</c><00:04:52.320><c> is</c><00:04:52.479><c> to</c><00:04:52.639><c> set</c>
+
+00:04:52.790 --> 00:04:52.800 align:start position:0%
+to change it up. So the task is to set
+ 
+
+00:04:52.800 --> 00:04:54.469 align:start position:0%
+to change it up. So the task is to set
+up<00:04:52.880><c> the</c><00:04:53.120><c> Google</c><00:04:53.360><c> workspace</c><00:04:53.840><c> and</c><00:04:54.000><c> then</c><00:04:54.160><c> we</c><00:04:54.240><c> say</c>
+
+00:04:54.469 --> 00:04:54.479 align:start position:0%
+up the Google workspace and then we say
+ 
+
+00:04:54.479 --> 00:04:57.350 align:start position:0%
+up the Google workspace and then we say
+perform<00:04:54.880><c> the</c><00:04:55.120><c> complete</c><00:04:55.440><c> setup</c><00:04:56.000><c> on</c><00:04:56.320><c> my</c><00:04:56.560><c> behalf</c>
+
+00:04:57.350 --> 00:04:57.360 align:start position:0%
+perform the complete setup on my behalf
+ 
+
+00:04:57.360 --> 00:04:59.830 align:start position:0%
+perform the complete setup on my behalf
+using<00:04:57.680><c> bash</c><00:04:58.080><c> for</c><00:04:58.240><c> terminal</c><00:04:58.720><c> steps</c><00:04:59.440><c> clawed</c>
+
+00:04:59.830 --> 00:04:59.840 align:start position:0%
+using bash for terminal steps clawed
+ 
+
+00:04:59.840 --> 00:05:01.749 align:start position:0%
+using bash for terminal steps clawed
+with<00:05:00.000><c> chrome</c><00:05:00.400><c> browser</c><00:05:00.800><c> automation</c><00:05:01.280><c> for</c><00:05:01.520><c> web</c>
+
+00:05:01.749 --> 00:05:01.759 align:start position:0%
+with chrome browser automation for web
+ 
+
+00:05:01.759 --> 00:05:03.510 align:start position:0%
+with chrome browser automation for web
+steps.<00:05:02.240><c> Now</c><00:05:02.479><c> the</c><00:05:02.720><c> reason</c><00:05:02.880><c> why</c><00:05:03.040><c> I'm</c><00:05:03.280><c> using</c>
+
+00:05:03.510 --> 00:05:03.520 align:start position:0%
+steps. Now the reason why I'm using
+ 
+
+00:05:03.520 --> 00:05:05.590 align:start position:0%
+steps. Now the reason why I'm using
+cloud<00:05:03.840><c> and</c><00:05:04.000><c> chrome</c><00:05:04.479><c> is</c><00:05:04.800><c> typically</c><00:05:05.280><c> if</c><00:05:05.440><c> you've</c>
+
+00:05:05.590 --> 00:05:05.600 align:start position:0%
+cloud and chrome is typically if you've
+ 
+
+00:05:05.600 --> 00:05:07.510 align:start position:0%
+cloud and chrome is typically if you've
+ever<00:05:05.759><c> set</c><00:05:05.919><c> up</c><00:05:06.160><c> any</c><00:05:06.639><c> or</c><00:05:06.880><c> something</c><00:05:07.039><c> similar</c>
+
+00:05:07.510 --> 00:05:07.520 align:start position:0%
+ever set up any or something similar
+ 
+
+00:05:07.520 --> 00:05:09.110 align:start position:0%
+ever set up any or something similar
+where<00:05:07.759><c> you</c><00:05:07.919><c> have</c><00:05:08.000><c> to</c><00:05:08.240><c> go</c><00:05:08.479><c> to</c><00:05:08.639><c> your</c><00:05:08.800><c> Google</c>
+
+00:05:09.110 --> 00:05:09.120 align:start position:0%
+where you have to go to your Google
+ 
+
+00:05:09.120 --> 00:05:12.469 align:start position:0%
+where you have to go to your Google
+project<00:05:09.919><c> log</c><00:05:10.240><c> in</c><00:05:10.880><c> somehow</c><00:05:11.360><c> find</c><00:05:11.600><c> the</c><00:05:11.759><c> APIs</c><00:05:12.240><c> and</c>
+
+00:05:12.469 --> 00:05:12.479 align:start position:0%
+project log in somehow find the APIs and
+ 
+
+00:05:12.479 --> 00:05:14.710 align:start position:0%
+project log in somehow find the APIs and
+services<00:05:13.120><c> then</c><00:05:13.360><c> find</c><00:05:13.600><c> the</c><00:05:13.759><c> client</c><00:05:14.160><c> section</c>
+
+00:05:14.710 --> 00:05:14.720 align:start position:0%
+services then find the client section
+ 
+
+00:05:14.720 --> 00:05:16.790 align:start position:0%
+services then find the client section
+then<00:05:14.960><c> create</c><00:05:15.199><c> the</c><00:05:15.440><c> clients.</c><00:05:16.240><c> If</c><00:05:16.479><c> you're</c><00:05:16.639><c> not</c>
+
+00:05:16.790 --> 00:05:16.800 align:start position:0%
+then create the clients. If you're not
+ 
+
+00:05:16.800 --> 00:05:18.310 align:start position:0%
+then create the clients. If you're not
+used<00:05:17.039><c> to</c><00:05:17.199><c> that</c><00:05:17.360><c> interface</c><00:05:17.919><c> it's</c><00:05:18.160><c> very</c>
+
+00:05:18.310 --> 00:05:18.320 align:start position:0%
+used to that interface it's very
+ 
+
+00:05:18.320 --> 00:05:19.749 align:start position:0%
+used to that interface it's very
+overwhelming.<00:05:19.039><c> So</c><00:05:19.199><c> since</c><00:05:19.360><c> we</c><00:05:19.520><c> have</c><00:05:19.600><c> a</c>
+
+00:05:19.749 --> 00:05:19.759 align:start position:0%
+overwhelming. So since we have a
+ 
+
+00:05:19.759 --> 00:05:21.830 align:start position:0%
+overwhelming. So since we have a
+language<00:05:20.080><c> model</c><00:05:20.320><c> that's</c><00:05:20.560><c> so</c><00:05:20.800><c> smart</c><00:05:21.360><c> I</c><00:05:21.600><c> just</c>
+
+00:05:21.830 --> 00:05:21.840 align:start position:0%
+language model that's so smart I just
+ 
+
+00:05:21.840 --> 00:05:24.310 align:start position:0%
+language model that's so smart I just
+offload<00:05:22.320><c> that</c><00:05:22.560><c> work</c><00:05:22.880><c> onto</c><00:05:23.280><c> cloud</c><00:05:23.680><c> code</c><00:05:24.080><c> since</c>
+
+00:05:24.310 --> 00:05:24.320 align:start position:0%
+offload that work onto cloud code since
+ 
+
+00:05:24.320 --> 00:05:26.710 align:start position:0%
+offload that work onto cloud code since
+it<00:05:24.479><c> can</c><00:05:24.639><c> use</c><00:05:24.880><c> my</c><00:05:25.039><c> existing</c><00:05:25.520><c> browser</c><00:05:26.320><c> go</c><00:05:26.479><c> into</c>
+
+00:05:26.710 --> 00:05:26.720 align:start position:0%
+it can use my existing browser go into
+ 
+
+00:05:26.720 --> 00:05:28.550 align:start position:0%
+it can use my existing browser go into
+my<00:05:26.880><c> existing</c><00:05:27.280><c> Google</c><00:05:27.520><c> workspace</c><00:05:28.240><c> and</c>
+
+00:05:28.550 --> 00:05:28.560 align:start position:0%
+my existing Google workspace and
+ 
+
+00:05:28.560 --> 00:05:30.469 align:start position:0%
+my existing Google workspace and
+navigate<00:05:28.960><c> as</c><00:05:29.280><c> needed.</c><00:05:29.600><c> Now,</c><00:05:29.840><c> in</c><00:05:30.000><c> this</c><00:05:30.080><c> case,</c><00:05:30.240><c> I</c>
+
+00:05:30.469 --> 00:05:30.479 align:start position:0%
+navigate as needed. Now, in this case, I
+ 
+
+00:05:30.479 --> 00:05:32.550 align:start position:0%
+navigate as needed. Now, in this case, I
+said,<00:05:30.639><c> "Do</c><00:05:30.880><c> not</c><00:05:31.120><c> pause</c><00:05:31.360><c> for</c><00:05:31.600><c> confirmations.</c>
+
+00:05:32.550 --> 00:05:32.560 align:start position:0%
+said, "Do not pause for confirmations.
+ 
+
+00:05:32.560 --> 00:05:34.390 align:start position:0%
+said, "Do not pause for confirmations.
+Only<00:05:32.880><c> stop</c><00:05:33.120><c> if</c><00:05:33.360><c> something</c><00:05:33.600><c> truly</c><00:05:34.000><c> blocks</c>
+
+00:05:34.390 --> 00:05:34.400 align:start position:0%
+Only stop if something truly blocks
+ 
+
+00:05:34.400 --> 00:05:36.469 align:start position:0%
+Only stop if something truly blocks
+progress."<00:05:35.120><c> This</c><00:05:35.280><c> is</c><00:05:35.440><c> my</c><00:05:35.680><c> personal</c><00:05:36.000><c> account.</c>
+
+00:05:36.469 --> 00:05:36.479 align:start position:0%
+progress." This is my personal account.
+ 
+
+00:05:36.479 --> 00:05:38.070 align:start position:0%
+progress." This is my personal account.
+But<00:05:36.560><c> if</c><00:05:36.800><c> this</c><00:05:36.880><c> is</c><00:05:37.039><c> a</c><00:05:37.280><c> Google</c><00:05:37.520><c> Cloud</c><00:05:37.840><c> account</c>
+
+00:05:38.070 --> 00:05:38.080 align:start position:0%
+But if this is a Google Cloud account
+ 
+
+00:05:38.080 --> 00:05:40.230 align:start position:0%
+But if this is a Google Cloud account
+for<00:05:38.400><c> your</c><00:05:38.639><c> business,</c><00:05:39.039><c> for</c><00:05:39.199><c> a</c><00:05:39.440><c> company,</c><00:05:40.000><c> I</c>
+
+00:05:40.230 --> 00:05:40.240 align:start position:0%
+for your business, for a company, I
+ 
+
+00:05:40.240 --> 00:05:41.830 align:start position:0%
+for your business, for a company, I
+would<00:05:40.400><c> remove</c><00:05:40.720><c> this</c><00:05:40.960><c> part</c><00:05:41.280><c> because</c><00:05:41.520><c> you</c><00:05:41.759><c> want</c>
+
+00:05:41.830 --> 00:05:41.840 align:start position:0%
+would remove this part because you want
+ 
+
+00:05:41.840 --> 00:05:43.110 align:start position:0%
+would remove this part because you want
+to<00:05:42.000><c> make</c><00:05:42.080><c> sure</c><00:05:42.160><c> that</c><00:05:42.240><c> you're</c><00:05:42.479><c> babysitting</c>
+
+00:05:43.110 --> 00:05:43.120 align:start position:0%
+to make sure that you're babysitting
+ 
+
+00:05:43.120 --> 00:05:44.070 align:start position:0%
+to make sure that you're babysitting
+every<00:05:43.360><c> single</c><00:05:43.600><c> thing</c><00:05:43.680><c> that</c><00:05:43.919><c> it's</c>
+
+00:05:44.070 --> 00:05:44.080 align:start position:0%
+every single thing that it's
+ 
+
+00:05:44.080 --> 00:05:45.830 align:start position:0%
+every single thing that it's
+configuring.<00:05:44.960><c> And</c><00:05:45.120><c> then</c><00:05:45.280><c> I</c><00:05:45.360><c> say</c><00:05:45.520><c> what</c><00:05:45.680><c> the</c>
+
+00:05:45.830 --> 00:05:45.840 align:start position:0%
+configuring. And then I say what the
+ 
+
+00:05:45.840 --> 00:05:47.830 align:start position:0%
+configuring. And then I say what the
+objective<00:05:46.240><c> is.</c><00:05:46.560><c> I</c><00:05:46.800><c> walk</c><00:05:47.039><c> through</c><00:05:47.360><c> what</c><00:05:47.600><c> the</c>
+
+00:05:47.830 --> 00:05:47.840 align:start position:0%
+objective is. I walk through what the
+ 
+
+00:05:47.840 --> 00:05:50.310 align:start position:0%
+objective is. I walk through what the
+steps<00:05:48.160><c> are,</c><00:05:48.560><c> which</c><00:05:48.880><c> are</c><00:05:49.039><c> to</c><00:05:49.360><c> authenticate</c><00:05:50.000><c> my</c>
+
+00:05:50.310 --> 00:05:50.320 align:start position:0%
+steps are, which are to authenticate my
+ 
+
+00:05:50.320 --> 00:05:52.070 align:start position:0%
+steps are, which are to authenticate my
+Google<00:05:50.639><c> Cloud,</c><00:05:51.199><c> ensure</c><00:05:51.600><c> we</c><00:05:51.759><c> have</c><00:05:51.840><c> fresh</c>
+
+00:05:52.070 --> 00:05:52.080 align:start position:0%
+Google Cloud, ensure we have fresh
+ 
+
+00:05:52.080 --> 00:05:54.469 align:start position:0%
+Google Cloud, ensure we have fresh
+credentials<00:05:52.560><c> that</c><00:05:52.720><c> it</c><00:05:52.960><c> grabs,</c><00:05:53.840><c> initialize</c>
+
+00:05:54.469 --> 00:05:54.479 align:start position:0%
+credentials that it grabs, initialize
+ 
+
+00:05:54.479 --> 00:05:56.629 align:start position:0%
+credentials that it grabs, initialize
+the<00:05:54.720><c> GWS</c><00:05:55.440><c> authentication,</c><00:05:56.000><c> so</c><00:05:56.240><c> it</c><00:05:56.320><c> basically</c>
+
+00:05:56.629 --> 00:05:56.639 align:start position:0%
+the GWS authentication, so it basically
+ 
+
+00:05:56.639 --> 00:05:58.469 align:start position:0%
+the GWS authentication, so it basically
+creates<00:05:56.880><c> a</c><00:05:57.120><c> brand</c><00:05:57.280><c> new</c><00:05:57.520><c> service.</c><00:05:58.080><c> that</c><00:05:58.320><c> I'll</c>
+
+00:05:58.469 --> 00:05:58.479 align:start position:0%
+creates a brand new service. that I'll
+ 
+
+00:05:58.479 --> 00:06:00.070 align:start position:0%
+creates a brand new service. that I'll
+show<00:05:58.560><c> you</c><00:05:58.639><c> the</c><00:05:58.880><c> manual</c><00:05:59.199><c> way</c><00:05:59.440><c> in</c><00:05:59.759><c> just</c><00:05:59.919><c> a</c>
+
+00:06:00.070 --> 00:06:00.080 align:start position:0%
+show you the manual way in just a
+ 
+
+00:06:00.080 --> 00:06:02.790 align:start position:0%
+show you the manual way in just a
+second.<00:06:00.720><c> Then</c><00:06:00.960><c> it</c><00:06:01.120><c> opens</c><00:06:01.440><c> the</c><00:06:01.840><c> cloud</c><00:06:02.320><c> console.</c>
+
+00:06:02.790 --> 00:06:02.800 align:start position:0%
+second. Then it opens the cloud console.
+ 
+
+00:06:02.800 --> 00:06:04.870 align:start position:0%
+second. Then it opens the cloud console.
+I<00:06:02.960><c> already</c><00:06:03.280><c> logged</c><00:06:03.600><c> in,</c><00:06:04.080><c> it</c><00:06:04.319><c> knows</c><00:06:04.479><c> that</c><00:06:04.639><c> I'm</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+I already logged in, it knows that I'm
+ 
+
+00:06:04.880 --> 00:06:06.629 align:start position:0%
+I already logged in, it knows that I'm
+logging<00:06:05.120><c> in</c><00:06:05.360><c> with</c><00:06:05.600><c> this</c><00:06:05.840><c> specific</c><00:06:06.240><c> account.</c>
+
+00:06:06.629 --> 00:06:06.639 align:start position:0%
+logging in with this specific account.
+ 
+
+00:06:06.639 --> 00:06:08.710 align:start position:0%
+logging in with this specific account.
+And<00:06:06.800><c> if</c><00:06:06.960><c> it</c><00:06:07.120><c> doesn't</c><00:06:07.360><c> see</c><00:06:07.520><c> that</c><00:06:08.080><c> to</c><00:06:08.240><c> switch</c><00:06:08.560><c> to</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+And if it doesn't see that to switch to
+ 
+
+00:06:08.720 --> 00:06:10.710 align:start position:0%
+And if it doesn't see that to switch to
+set<00:06:08.960><c> account,</c><00:06:09.680><c> then</c><00:06:09.840><c> it</c><00:06:10.000><c> configures</c><00:06:10.479><c> the</c>
+
+00:06:10.710 --> 00:06:10.720 align:start position:0%
+set account, then it configures the
+ 
+
+00:06:10.720 --> 00:06:13.510 align:start position:0%
+set account, then it configures the
+OOTH,<00:06:11.440><c> the</c><00:06:11.680><c> authentication,</c><00:06:12.960><c> creates</c><00:06:13.280><c> a</c>
+
+00:06:13.510 --> 00:06:13.520 align:start position:0%
+OOTH, the authentication, creates a
+ 
+
+00:06:13.520 --> 00:06:15.430 align:start position:0%
+OOTH, the authentication, creates a
+local<00:06:13.840><c> file,</c><00:06:14.319><c> downloads</c><00:06:14.639><c> it</c><00:06:14.800><c> onto</c><00:06:15.199><c> my</c>
+
+00:06:15.430 --> 00:06:15.440 align:start position:0%
+local file, downloads it onto my
+ 
+
+00:06:15.440 --> 00:06:17.350 align:start position:0%
+local file, downloads it onto my
+computer,<00:06:16.000><c> then</c><00:06:16.319><c> uses</c><00:06:16.639><c> it</c><00:06:16.720><c> for</c><00:06:16.880><c> the</c><00:06:17.039><c> setup.</c>
+
+00:06:17.350 --> 00:06:17.360 align:start position:0%
+computer, then uses it for the setup.
+ 
+
+00:06:17.360 --> 00:06:19.510 align:start position:0%
+computer, then uses it for the setup.
+And<00:06:17.520><c> once</c><00:06:17.759><c> you</c><00:06:17.919><c> execute</c><00:06:18.319><c> this,</c><00:06:18.720><c> within</c><00:06:19.120><c> a</c><00:06:19.360><c> few</c>
+
+00:06:19.510 --> 00:06:19.520 align:start position:0%
+And once you execute this, within a few
+ 
+
+00:06:19.520 --> 00:06:21.670 align:start position:0%
+And once you execute this, within a few
+minutes,<00:06:19.840><c> it</c><00:06:20.080><c> will</c><00:06:20.160><c> be</c><00:06:20.319><c> able</c><00:06:20.479><c> to</c><00:06:20.720><c> go</c><00:06:20.960><c> through,</c>
+
+00:06:21.670 --> 00:06:21.680 align:start position:0%
+minutes, it will be able to go through,
+ 
+
+00:06:21.680 --> 00:06:23.749 align:start position:0%
+minutes, it will be able to go through,
+use<00:06:21.919><c> cloud</c><00:06:22.240><c> and</c><00:06:22.400><c> chrome,</c><00:06:23.039><c> navigate</c><00:06:23.440><c> to</c><00:06:23.600><c> your</c>
+
+00:06:23.749 --> 00:06:23.759 align:start position:0%
+use cloud and chrome, navigate to your
+ 
+
+00:06:23.759 --> 00:06:25.830 align:start position:0%
+use cloud and chrome, navigate to your
+account,<00:06:24.240><c> and</c><00:06:24.479><c> come</c><00:06:24.720><c> back</c><00:06:25.039><c> with</c><00:06:25.199><c> a</c><00:06:25.440><c> fully</c>
+
+00:06:25.830 --> 00:06:25.840 align:start position:0%
+account, and come back with a fully
+ 
+
+00:06:25.840 --> 00:06:27.670 align:start position:0%
+account, and come back with a fully
+installed<00:06:26.319><c> CLI.</c><00:06:26.880><c> And</c><00:06:27.039><c> you</c><00:06:27.199><c> can</c><00:06:27.360><c> see</c><00:06:27.520><c> right</c>
+
+00:06:27.670 --> 00:06:27.680 align:start position:0%
+installed CLI. And you can see right
+ 
+
+00:06:27.680 --> 00:06:29.590 align:start position:0%
+installed CLI. And you can see right
+here,<00:06:27.919><c> right</c><00:06:28.160><c> after</c><00:06:28.479><c> entering</c><00:06:28.800><c> that</c><00:06:29.039><c> prompt,</c>
+
+00:06:29.590 --> 00:06:29.600 align:start position:0%
+here, right after entering that prompt,
+ 
+
+00:06:29.600 --> 00:06:31.430 align:start position:0%
+here, right after entering that prompt,
+it<00:06:29.840><c> took</c><00:06:30.080><c> the</c><00:06:30.240><c> wheel.</c><00:06:30.720><c> It</c><00:06:30.880><c> took</c><00:06:31.120><c> care</c><00:06:31.280><c> of</c>
+
+00:06:31.430 --> 00:06:31.440 align:start position:0%
+it took the wheel. It took care of
+ 
+
+00:06:31.440 --> 00:06:33.590 align:start position:0%
+it took the wheel. It took care of
+everything.<00:06:32.160><c> Everything</c><00:06:32.479><c> was</c><00:06:32.800><c> authenticated</c>
+
+00:06:33.590 --> 00:06:33.600 align:start position:0%
+everything. Everything was authenticated
+ 
+
+00:06:33.600 --> 00:06:35.590 align:start position:0%
+everything. Everything was authenticated
+and<00:06:33.840><c> we</c><00:06:34.080><c> are</c><00:06:34.240><c> now</c><00:06:34.479><c> able</c><00:06:34.720><c> to</c><00:06:34.880><c> use</c><00:06:35.039><c> it.</c><00:06:35.280><c> So</c><00:06:35.520><c> now</c>
+
+00:06:35.590 --> 00:06:35.600 align:start position:0%
+and we are now able to use it. So now
+ 
+
+00:06:35.600 --> 00:06:37.270 align:start position:0%
+and we are now able to use it. So now
+that<00:06:35.840><c> you</c><00:06:36.000><c> have</c><00:06:36.080><c> it,</c><00:06:36.319><c> the</c><00:06:36.639><c> natural</c><00:06:37.039><c> question</c>
+
+00:06:37.270 --> 00:06:37.280 align:start position:0%
+that you have it, the natural question
+ 
+
+00:06:37.280 --> 00:06:38.950 align:start position:0%
+that you have it, the natural question
+that<00:06:37.520><c> will</c><00:06:37.680><c> pop</c><00:06:37.919><c> up</c><00:06:38.000><c> is</c><00:06:38.319><c> what</c><00:06:38.479><c> can</c><00:06:38.560><c> you</c><00:06:38.720><c> do</c><00:06:38.800><c> with</c>
+
+00:06:38.950 --> 00:06:38.960 align:start position:0%
+that will pop up is what can you do with
+ 
+
+00:06:38.960 --> 00:06:40.390 align:start position:0%
+that will pop up is what can you do with
+it?<00:06:39.199><c> So</c><00:06:39.360><c> one</c><00:06:39.520><c> thing</c><00:06:39.600><c> you</c><00:06:39.759><c> could</c><00:06:39.919><c> do</c><00:06:40.160><c> is</c>
+
+00:06:40.390 --> 00:06:40.400 align:start position:0%
+it? So one thing you could do is
+ 
+
+00:06:40.400 --> 00:06:42.629 align:start position:0%
+it? So one thing you could do is
+literally<00:06:40.639><c> ask</c><00:06:40.880><c> cloud</c><00:06:41.280><c> code,</c><00:06:42.000><c> what</c><00:06:42.160><c> can</c><00:06:42.319><c> I</c><00:06:42.479><c> do</c>
+
+00:06:42.629 --> 00:06:42.639 align:start position:0%
+literally ask cloud code, what can I do
+ 
+
+00:06:42.639 --> 00:06:45.029 align:start position:0%
+literally ask cloud code, what can I do
+with<00:06:42.880><c> GWS?</c><00:06:43.840><c> And</c><00:06:44.000><c> you</c><00:06:44.160><c> want</c><00:06:44.240><c> to</c><00:06:44.319><c> be</c><00:06:44.479><c> careful</c><00:06:44.880><c> in</c>
+
+00:06:45.029 --> 00:06:45.039 align:start position:0%
+with GWS? And you want to be careful in
+ 
+
+00:06:45.039 --> 00:06:46.950 align:start position:0%
+with GWS? And you want to be careful in
+case<00:06:45.199><c> you</c><00:06:45.440><c> have</c><00:06:45.600><c> different</c><00:06:46.000><c> skills</c><00:06:46.560><c> that</c><00:06:46.800><c> are</c>
+
+00:06:46.950 --> 00:06:46.960 align:start position:0%
+case you have different skills that are
+ 
+
+00:06:46.960 --> 00:06:48.469 align:start position:0%
+case you have different skills that are
+related<00:06:47.199><c> to</c><00:06:47.360><c> the</c><00:06:47.520><c> Google</c><00:06:47.759><c> ecosystem.</c><00:06:48.319><c> Let's</c>
+
+00:06:48.469 --> 00:06:48.479 align:start position:0%
+related to the Google ecosystem. Let's
+ 
+
+00:06:48.479 --> 00:06:50.390 align:start position:0%
+related to the Google ecosystem. Let's
+say<00:06:48.639><c> you've</c><00:06:48.880><c> maggyvered</c><00:06:49.440><c> one</c><00:06:49.600><c> like</c><00:06:49.759><c> I</c><00:06:50.000><c> have</c>
+
+00:06:50.390 --> 00:06:50.400 align:start position:0%
+say you've maggyvered one like I have
+ 
+
+00:06:50.400 --> 00:06:53.110 align:start position:0%
+say you've maggyvered one like I have
+for<00:06:50.720><c> Google</c><00:06:51.039><c> calendar</c><00:06:51.440><c> and</c><00:06:51.680><c> Gmail,</c><00:06:52.319><c> etc.</c><00:06:52.880><c> You</c>
+
+00:06:53.110 --> 00:06:53.120 align:start position:0%
+for Google calendar and Gmail, etc. You
+ 
+
+00:06:53.120 --> 00:06:55.350 align:start position:0%
+for Google calendar and Gmail, etc. You
+want<00:06:53.199><c> to</c><00:06:53.360><c> make</c><00:06:53.440><c> sure</c><00:06:53.600><c> that</c><00:06:53.759><c> you</c><00:06:54.000><c> call</c><00:06:54.240><c> out</c><00:06:54.560><c> GWS</c>
+
+00:06:55.350 --> 00:06:55.360 align:start position:0%
+want to make sure that you call out GWS
+ 
+
+00:06:55.360 --> 00:06:57.270 align:start position:0%
+want to make sure that you call out GWS
+until<00:06:55.759><c> you</c><00:06:55.919><c> can</c><00:06:56.080><c> decide</c><00:06:56.560><c> which</c><00:06:56.960><c> skills</c>
+
+00:06:57.270 --> 00:06:57.280 align:start position:0%
+until you can decide which skills
+ 
+
+00:06:57.280 --> 00:06:59.350 align:start position:0%
+until you can decide which skills
+deserve<00:06:57.600><c> to</c><00:06:57.759><c> survive</c><00:06:58.319><c> versus</c><00:06:58.639><c> which</c><00:06:58.960><c> ones</c><00:06:59.199><c> can</c>
+
+00:06:59.350 --> 00:06:59.360 align:start position:0%
+deserve to survive versus which ones can
+ 
+
+00:06:59.360 --> 00:07:00.790 align:start position:0%
+deserve to survive versus which ones can
+now<00:06:59.520><c> be</c><00:06:59.680><c> shelved.</c><00:07:00.080><c> So</c><00:07:00.240><c> in</c><00:07:00.400><c> this</c><00:07:00.479><c> case,</c><00:07:00.639><c> it</c>
+
+00:07:00.790 --> 00:07:00.800 align:start position:0%
+now be shelved. So in this case, it
+ 
+
+00:07:00.800 --> 00:07:02.070 align:start position:0%
+now be shelved. So in this case, it
+walks<00:07:01.039><c> you</c><00:07:01.199><c> through</c><00:07:01.360><c> and</c><00:07:01.520><c> it</c><00:07:01.680><c> tells</c><00:07:01.919><c> you</c>
+
+00:07:02.070 --> 00:07:02.080 align:start position:0%
+walks you through and it tells you
+ 
+
+00:07:02.080 --> 00:07:04.070 align:start position:0%
+walks you through and it tells you
+everything<00:07:02.479><c> that</c><00:07:02.720><c> you</c><00:07:02.880><c> can</c><00:07:02.960><c> do.</c><00:07:03.440><c> And</c><00:07:03.599><c> the</c><00:07:03.840><c> real</c>
+
+00:07:04.070 --> 00:07:04.080 align:start position:0%
+everything that you can do. And the real
+ 
+
+00:07:04.080 --> 00:07:06.550 align:start position:0%
+everything that you can do. And the real
+firepower<00:07:04.880><c> is</c><00:07:05.120><c> that</c><00:07:05.280><c> you</c><00:07:05.520><c> can</c><00:07:05.759><c> combine</c>
+
+00:07:06.550 --> 00:07:06.560 align:start position:0%
+firepower is that you can combine
+ 
+
+00:07:06.560 --> 00:07:08.710 align:start position:0%
+firepower is that you can combine
+multiple<00:07:07.039><c> actions</c><00:07:07.440><c> to</c><00:07:07.759><c> different</c><00:07:08.000><c> services</c>
+
+00:07:08.710 --> 00:07:08.720 align:start position:0%
+multiple actions to different services
+ 
+
+00:07:08.720 --> 00:07:10.790 align:start position:0%
+multiple actions to different services
+in<00:07:09.120><c> one</c><00:07:09.360><c> step.</c><00:07:09.919><c> And</c><00:07:10.080><c> if</c><00:07:10.240><c> that</c><00:07:10.479><c> seems</c>
+
+00:07:10.790 --> 00:07:10.800 align:start position:0%
+in one step. And if that seems
+ 
+
+00:07:10.800 --> 00:07:12.550 align:start position:0%
+in one step. And if that seems
+amorphous,<00:07:11.360><c> then</c><00:07:11.599><c> just</c><00:07:11.759><c> give</c><00:07:11.919><c> me</c><00:07:12.000><c> a</c><00:07:12.240><c> second</c><00:07:12.400><c> to</c>
+
+00:07:12.550 --> 00:07:12.560 align:start position:0%
+amorphous, then just give me a second to
+ 
+
+00:07:12.560 --> 00:07:14.950 align:start position:0%
+amorphous, then just give me a second to
+show<00:07:12.720><c> you</c><00:07:12.880><c> a</c><00:07:13.120><c> couple</c><00:07:13.440><c> prompt</c><00:07:13.840><c> examples.</c><00:07:14.880><c> But</c>
+
+00:07:14.950 --> 00:07:14.960 align:start position:0%
+show you a couple prompt examples. But
+ 
+
+00:07:14.960 --> 00:07:17.350 align:start position:0%
+show you a couple prompt examples. But
+it<00:07:15.199><c> has</c><00:07:15.440><c> a</c><00:07:15.599><c> 101</c><00:07:16.240><c> capabilities.</c><00:07:16.880><c> Like</c><00:07:17.120><c> we've</c>
+
+00:07:17.350 --> 00:07:17.360 align:start position:0%
+it has a 101 capabilities. Like we've
+ 
+
+00:07:17.360 --> 00:07:19.670 align:start position:0%
+it has a 101 capabilities. Like we've
+said,<00:07:18.000><c> there</c><00:07:18.160><c> are</c><00:07:18.319><c> some</c><00:07:18.479><c> example</c><00:07:18.880><c> workflows.</c>
+
+00:07:19.670 --> 00:07:19.680 align:start position:0%
+said, there are some example workflows.
+ 
+
+00:07:19.680 --> 00:07:22.230 align:start position:0%
+said, there are some example workflows.
+So<00:07:19.840><c> in</c><00:07:20.000><c> this</c><00:07:20.160><c> case,</c><00:07:20.400><c> I</c><00:07:20.720><c> asked</c><00:07:21.039><c> it.</c><00:07:21.280><c> I</c><00:07:21.599><c> run</c><00:07:21.759><c> an</c><00:07:21.919><c> AI</c>
+
+00:07:22.230 --> 00:07:22.240 align:start position:0%
+So in this case, I asked it. I run an AI
+ 
+
+00:07:22.240 --> 00:07:24.309 align:start position:0%
+So in this case, I asked it. I run an AI
+consultancy<00:07:23.039><c> and</c><00:07:23.360><c> a</c><00:07:23.520><c> custom</c><00:07:23.919><c> development</c>
+
+00:07:24.309 --> 00:07:24.319 align:start position:0%
+consultancy and a custom development
+ 
+
+00:07:24.319 --> 00:07:26.309 align:start position:0%
+consultancy and a custom development
+shop.<00:07:24.880><c> What</c><00:07:25.120><c> do</c><00:07:25.280><c> you</c><00:07:25.520><c> think</c><00:07:25.680><c> are</c><00:07:25.919><c> the</c><00:07:26.160><c> most</c>
+
+00:07:26.309 --> 00:07:26.319 align:start position:0%
+shop. What do you think are the most
+ 
+
+00:07:26.319 --> 00:07:28.870 align:start position:0%
+shop. What do you think are the most
+pertinent<00:07:27.039><c> skills</c><00:07:27.440><c> and</c><00:07:27.680><c> recipes?</c><00:07:28.560><c> And</c><00:07:28.720><c> then</c>
+
+00:07:28.870 --> 00:07:28.880 align:start position:0%
+pertinent skills and recipes? And then
+ 
+
+00:07:28.880 --> 00:07:30.950 align:start position:0%
+pertinent skills and recipes? And then
+it<00:07:29.039><c> goes</c><00:07:29.199><c> through</c><00:07:29.599><c> and</c><00:07:29.840><c> it</c><00:07:30.080><c> breaks</c><00:07:30.400><c> down</c><00:07:30.720><c> which</c>
+
+00:07:30.950 --> 00:07:30.960 align:start position:0%
+it goes through and it breaks down which
+ 
+
+00:07:30.960 --> 00:07:32.629 align:start position:0%
+it goes through and it breaks down which
+ones<00:07:31.280><c> might</c><00:07:31.520><c> make</c><00:07:31.680><c> sense</c><00:07:31.919><c> for</c><00:07:32.080><c> me</c><00:07:32.240><c> to</c><00:07:32.479><c> use</c>
+
+00:07:32.629 --> 00:07:32.639 align:start position:0%
+ones might make sense for me to use
+ 
+
+00:07:32.639 --> 00:07:35.029 align:start position:0%
+ones might make sense for me to use
+daily.<00:07:32.960><c> So</c><00:07:33.120><c> in</c><00:07:33.280><c> this</c><00:07:33.440><c> case,</c><00:07:33.840><c> email</c><00:07:34.240><c> triage,</c>
+
+00:07:35.029 --> 00:07:35.039 align:start position:0%
+daily. So in this case, email triage,
+ 
+
+00:07:35.039 --> 00:07:37.029 align:start position:0%
+daily. So in this case, email triage,
+meeting<00:07:35.360><c> prep</c><00:07:35.680><c> brief,</c><00:07:36.319><c> client</c><00:07:36.639><c> follow-up</c>
+
+00:07:37.029 --> 00:07:37.039 align:start position:0%
+meeting prep brief, client follow-up
+ 
+
+00:07:37.039 --> 00:07:39.510 align:start position:0%
+meeting prep brief, client follow-up
+automation,<00:07:37.759><c> etc.</c><00:07:38.479><c> Tier</c><00:07:38.880><c> two</c><00:07:39.039><c> is</c><00:07:39.280><c> high</c>
+
+00:07:39.510 --> 00:07:39.520 align:start position:0%
+automation, etc. Tier two is high
+ 
+
+00:07:39.520 --> 00:07:41.749 align:start position:0%
+automation, etc. Tier two is high
+leverage,<00:07:40.080><c> so</c><00:07:40.319><c> email</c><00:07:40.639><c> to</c><00:07:40.880><c> task,</c><00:07:41.280><c> standup</c>
+
+00:07:41.749 --> 00:07:41.759 align:start position:0%
+leverage, so email to task, standup
+ 
+
+00:07:41.759 --> 00:07:43.670 align:start position:0%
+leverage, so email to task, standup
+reports.<00:07:42.560><c> And</c><00:07:42.639><c> then</c><00:07:42.800><c> we</c><00:07:42.960><c> have</c><00:07:43.120><c> tier</c><00:07:43.440><c> three,</c>
+
+00:07:43.670 --> 00:07:43.680 align:start position:0%
+reports. And then we have tier three,
+ 
+
+00:07:43.680 --> 00:07:46.070 align:start position:0%
+reports. And then we have tier three,
+person<00:07:44.319><c> explore,</c><00:07:44.960><c> basically</c><00:07:45.280><c> a</c><00:07:45.599><c> pseudo</c>
+
+00:07:46.070 --> 00:07:46.080 align:start position:0%
+person explore, basically a pseudo
+ 
+
+00:07:46.080 --> 00:07:48.309 align:start position:0%
+person explore, basically a pseudo
+executive<00:07:46.639><c> assistant,</c><00:07:47.360><c> and</c><00:07:47.599><c> that</c><00:07:47.840><c> is</c><00:07:48.000><c> a</c>
+
+00:07:48.309 --> 00:07:48.319 align:start position:0%
+executive assistant, and that is a
+ 
+
+00:07:48.319 --> 00:07:50.870 align:start position:0%
+executive assistant, and that is a
+version<00:07:48.639><c> of</c><00:07:48.800><c> a</c><00:07:49.039><c> recipe.</c><00:07:50.000><c> And</c><00:07:50.160><c> then</c><00:07:50.400><c> the</c><00:07:50.639><c> real</c>
+
+00:07:50.870 --> 00:07:50.880 align:start position:0%
+version of a recipe. And then the real
+ 
+
+00:07:50.880 --> 00:07:53.029 align:start position:0%
+version of a recipe. And then the real
+play<00:07:51.280><c> walks</c><00:07:51.599><c> through</c><00:07:51.840><c> some</c><00:07:52.000><c> more</c><00:07:52.240><c> detail.</c><00:07:52.800><c> I</c>
+
+00:07:53.029 --> 00:07:53.039 align:start position:0%
+play walks through some more detail. I
+ 
+
+00:07:53.039 --> 00:07:55.110 align:start position:0%
+play walks through some more detail. I
+give<00:07:53.120><c> it</c><00:07:53.360><c> my</c><00:07:53.520><c> example</c><00:07:53.759><c> of</c><00:07:53.919><c> my</c><00:07:54.160><c> website</c><00:07:54.639><c> to</c><00:07:54.879><c> go</c>
+
+00:07:55.110 --> 00:07:55.120 align:start position:0%
+give it my example of my website to go
+ 
+
+00:07:55.120 --> 00:07:57.510 align:start position:0%
+give it my example of my website to go
+through<00:07:55.759><c> and</c><00:07:56.000><c> really</c><00:07:56.319><c> give</c><00:07:56.560><c> me</c><00:07:56.800><c> specific</c>
+
+00:07:57.510 --> 00:07:57.520 align:start position:0%
+through and really give me specific
+ 
+
+00:07:57.520 --> 00:07:59.189 align:start position:0%
+through and really give me specific
+examples<00:07:57.919><c> of</c><00:07:58.080><c> where</c><00:07:58.240><c> it</c><00:07:58.319><c> might</c><00:07:58.479><c> be</c><00:07:58.639><c> helpful.</c>
+
+00:07:59.189 --> 00:07:59.199 align:start position:0%
+examples of where it might be helpful.
+ 
+
+00:07:59.199 --> 00:08:00.869 align:start position:0%
+examples of where it might be helpful.
+And<00:07:59.360><c> you</c><00:07:59.599><c> can</c><00:07:59.680><c> do</c><00:07:59.759><c> the</c><00:08:00.000><c> exact</c><00:08:00.240><c> same</c><00:08:00.479><c> thing</c>
+
+00:08:00.869 --> 00:08:00.879 align:start position:0%
+And you can do the exact same thing
+ 
+
+00:08:00.879 --> 00:08:02.790 align:start position:0%
+And you can do the exact same thing
+whether<00:08:01.199><c> you</c><00:08:01.360><c> have</c><00:08:01.520><c> a</c><00:08:01.680><c> business</c><00:08:01.919><c> or</c><00:08:02.240><c> work</c><00:08:02.400><c> in</c><00:08:02.560><c> a</c>
+
+00:08:02.790 --> 00:08:02.800 align:start position:0%
+whether you have a business or work in a
+ 
+
+00:08:02.800 --> 00:08:04.070 align:start position:0%
+whether you have a business or work in a
+business<00:08:03.120><c> or</c><00:08:03.360><c> you</c><00:08:03.520><c> want</c><00:08:03.599><c> to</c><00:08:03.680><c> use</c><00:08:03.840><c> this</c><00:08:04.000><c> for</c>
+
+00:08:04.070 --> 00:08:04.080 align:start position:0%
+business or you want to use this for
+ 
+
+00:08:04.080 --> 00:08:05.430 align:start position:0%
+business or you want to use this for
+your<00:08:04.240><c> day-to-day</c><00:08:04.639><c> life.</c><00:08:04.879><c> Before</c><00:08:05.120><c> walking</c>
+
+00:08:05.430 --> 00:08:05.440 align:start position:0%
+your day-to-day life. Before walking
+ 
+
+00:08:05.440 --> 00:08:06.950 align:start position:0%
+your day-to-day life. Before walking
+through<00:08:05.599><c> the</c><00:08:05.840><c> five</c><00:08:06.160><c> examples</c><00:08:06.560><c> that</c><00:08:06.800><c> I've</c>
+
+00:08:06.950 --> 00:08:06.960 align:start position:0%
+through the five examples that I've
+ 
+
+00:08:06.960 --> 00:08:08.469 align:start position:0%
+through the five examples that I've
+prepped,<00:08:07.520><c> I</c><00:08:07.759><c> want</c><00:08:07.840><c> to</c><00:08:07.919><c> make</c><00:08:08.000><c> sure</c><00:08:08.080><c> that</c><00:08:08.319><c> you</c>
+
+00:08:08.469 --> 00:08:08.479 align:start position:0%
+prepped, I want to make sure that you
+ 
+
+00:08:08.479 --> 00:08:10.070 align:start position:0%
+prepped, I want to make sure that you
+know<00:08:08.639><c> where</c><00:08:08.800><c> to</c><00:08:08.960><c> navigate</c><00:08:09.360><c> if</c><00:08:09.599><c> you</c><00:08:09.680><c> want</c><00:08:09.840><c> to</c><00:08:09.919><c> do</c>
+
+00:08:10.070 --> 00:08:10.080 align:start position:0%
+know where to navigate if you want to do
+ 
+
+00:08:10.080 --> 00:08:11.909 align:start position:0%
+know where to navigate if you want to do
+this<00:08:10.240><c> manually.</c><00:08:10.960><c> So</c><00:08:11.120><c> all</c><00:08:11.280><c> you</c><00:08:11.440><c> have</c><00:08:11.520><c> to</c><00:08:11.599><c> do</c><00:08:11.759><c> is</c>
+
+00:08:11.909 --> 00:08:11.919 align:start position:0%
+this manually. So all you have to do is
+ 
+
+00:08:11.919 --> 00:08:14.710 align:start position:0%
+this manually. So all you have to do is
+go<00:08:12.080><c> to</c><00:08:12.240><c> your</c><00:08:12.479><c> Google</c><00:08:12.879><c> Cloud,</c><00:08:13.599><c> pick</c><00:08:13.919><c> or</c><00:08:14.319><c> create</c>
+
+00:08:14.710 --> 00:08:14.720 align:start position:0%
+go to your Google Cloud, pick or create
+ 
+
+00:08:14.720 --> 00:08:16.710 align:start position:0%
+go to your Google Cloud, pick or create
+a<00:08:15.039><c> project,</c><00:08:15.680><c> and</c><00:08:15.840><c> then</c><00:08:16.000><c> you</c><00:08:16.160><c> want</c><00:08:16.240><c> to</c><00:08:16.319><c> go</c><00:08:16.479><c> to</c>
+
+00:08:16.710 --> 00:08:16.720 align:start position:0%
+a project, and then you want to go to
+ 
+
+00:08:16.720 --> 00:08:18.950 align:start position:0%
+a project, and then you want to go to
+API<00:08:17.360><c> and</c><00:08:17.599><c> services.</c><00:08:18.160><c> You</c><00:08:18.400><c> can</c><00:08:18.479><c> enter</c><00:08:18.720><c> that</c>
+
+00:08:18.950 --> 00:08:18.960 align:start position:0%
+API and services. You can enter that
+ 
+
+00:08:18.960 --> 00:08:20.550 align:start position:0%
+API and services. You can enter that
+right<00:08:19.199><c> here.</c><00:08:19.680><c> It</c><00:08:19.840><c> will</c><00:08:20.000><c> take</c><00:08:20.080><c> you</c><00:08:20.240><c> there.</c><00:08:20.400><c> So,</c>
+
+00:08:20.550 --> 00:08:20.560 align:start position:0%
+right here. It will take you there. So,
+ 
+
+00:08:20.560 --> 00:08:23.430 align:start position:0%
+right here. It will take you there. So,
+if<00:08:20.639><c> you</c><00:08:20.720><c> write</c><00:08:20.960><c> API</c><00:08:21.840><c> and</c><00:08:22.160><c> services,</c><00:08:22.960><c> it</c><00:08:23.199><c> should</c>
+
+00:08:23.430 --> 00:08:23.440 align:start position:0%
+if you write API and services, it should
+ 
+
+00:08:23.440 --> 00:08:25.270 align:start position:0%
+if you write API and services, it should
+show<00:08:23.680><c> up,</c><00:08:23.919><c> especially</c><00:08:24.319><c> now</c><00:08:24.479><c> with</c><00:08:24.720><c> their</c><00:08:24.879><c> added</c>
+
+00:08:25.270 --> 00:08:25.280 align:start position:0%
+show up, especially now with their added
+ 
+
+00:08:25.280 --> 00:08:28.469 align:start position:0%
+show up, especially now with their added
+AI<00:08:25.840><c> features.</c><00:08:26.639><c> So,</c><00:08:26.960><c> if</c><00:08:27.120><c> I</c><00:08:27.280><c> can</c><00:08:27.520><c> type,</c><00:08:28.240><c> you'll</c>
+
+00:08:28.469 --> 00:08:28.479 align:start position:0%
+AI features. So, if I can type, you'll
+ 
+
+00:08:28.479 --> 00:08:30.390 align:start position:0%
+AI features. So, if I can type, you'll
+see<00:08:28.639><c> it</c><00:08:28.800><c> right</c><00:08:28.960><c> here.</c><00:08:29.360><c> So,</c><00:08:29.520><c> you</c><00:08:29.680><c> want</c><00:08:29.759><c> to</c><00:08:29.919><c> click</c>
+
+00:08:30.390 --> 00:08:30.400 align:start position:0%
+see it right here. So, you want to click
+ 
+
+00:08:30.400 --> 00:08:32.630 align:start position:0%
+see it right here. So, you want to click
+right<00:08:30.639><c> here.</c><00:08:31.280><c> You</c><00:08:31.440><c> will</c><00:08:31.680><c> navigate</c><00:08:32.080><c> to</c><00:08:32.399><c> the</c>
+
+00:08:32.630 --> 00:08:32.640 align:start position:0%
+right here. You will navigate to the
+ 
+
+00:08:32.640 --> 00:08:34.630 align:start position:0%
+right here. You will navigate to the
+credential<00:08:33.200><c> section</c><00:08:33.839><c> and</c><00:08:34.080><c> then</c><00:08:34.240><c> you'll</c><00:08:34.560><c> want</c>
+
+00:08:34.630 --> 00:08:34.640 align:start position:0%
+credential section and then you'll want
+ 
+
+00:08:34.640 --> 00:08:36.790 align:start position:0%
+credential section and then you'll want
+to<00:08:34.800><c> create</c><00:08:35.200><c> brand</c><00:08:35.519><c> new</c><00:08:35.680><c> credentials.</c><00:08:36.560><c> When</c>
+
+00:08:36.790 --> 00:08:36.800 align:start position:0%
+to create brand new credentials. When
+ 
+
+00:08:36.800 --> 00:08:38.389 align:start position:0%
+to create brand new credentials. When
+you<00:08:36.959><c> go</c><00:08:37.039><c> and</c><00:08:37.360><c> create</c><00:08:37.599><c> them,</c><00:08:37.919><c> again,</c><00:08:38.159><c> you</c><00:08:38.320><c> can</c>
+
+00:08:38.389 --> 00:08:38.399 align:start position:0%
+you go and create them, again, you can
+ 
+
+00:08:38.399 --> 00:08:40.230 align:start position:0%
+you go and create them, again, you can
+have<00:08:38.560><c> Cloud</c><00:08:38.880><c> Code</c><00:08:39.200><c> help</c><00:08:39.440><c> you,</c><00:08:39.839><c> but</c><00:08:40.080><c> you</c><00:08:40.159><c> want</c>
+
+00:08:40.230 --> 00:08:40.240 align:start position:0%
+have Cloud Code help you, but you want
+ 
+
+00:08:40.240 --> 00:08:42.310 align:start position:0%
+have Cloud Code help you, but you want
+to<00:08:40.399><c> create</c><00:08:40.560><c> a</c><00:08:40.800><c> desktop</c><00:08:41.279><c> app.</c><00:08:41.760><c> It'll</c><00:08:42.000><c> give</c><00:08:42.159><c> you</c>
+
+00:08:42.310 --> 00:08:42.320 align:start position:0%
+to create a desktop app. It'll give you
+ 
+
+00:08:42.320 --> 00:08:44.710 align:start position:0%
+to create a desktop app. It'll give you
+this<00:08:42.560><c> file</c><00:08:42.959><c> JSON.</c><00:08:43.519><c> You</c><00:08:43.760><c> download</c><00:08:44.000><c> this</c><00:08:44.240><c> JSON</c>
+
+00:08:44.710 --> 00:08:44.720 align:start position:0%
+this file JSON. You download this JSON
+ 
+
+00:08:44.720 --> 00:08:46.389 align:start position:0%
+this file JSON. You download this JSON
+and<00:08:44.959><c> you</c><00:08:45.120><c> provide</c><00:08:45.360><c> it</c><00:08:45.440><c> to</c><00:08:45.600><c> Cloud</c><00:08:45.920><c> Code.</c><00:08:46.240><c> And</c>
+
+00:08:46.389 --> 00:08:46.399 align:start position:0%
+and you provide it to Cloud Code. And
+ 
+
+00:08:46.399 --> 00:08:48.070 align:start position:0%
+and you provide it to Cloud Code. And
+beyond<00:08:46.720><c> that,</c><00:08:46.959><c> you'll</c><00:08:47.200><c> be</c><00:08:47.279><c> able</c><00:08:47.440><c> to</c><00:08:47.680><c> execute</c>
+
+00:08:48.070 --> 00:08:48.080 align:start position:0%
+beyond that, you'll be able to execute
+ 
+
+00:08:48.080 --> 00:08:49.509 align:start position:0%
+beyond that, you'll be able to execute
+everything<00:08:48.320><c> that</c><00:08:48.560><c> I</c><00:08:48.720><c> showed</c><00:08:48.880><c> you</c><00:08:49.040><c> in</c><00:08:49.360><c> one</c>
+
+00:08:49.509 --> 00:08:49.519 align:start position:0%
+everything that I showed you in one
+ 
+
+00:08:49.519 --> 00:08:51.110 align:start position:0%
+everything that I showed you in one
+shot.<00:08:49.839><c> Now,</c><00:08:50.000><c> on</c><00:08:50.160><c> to</c><00:08:50.240><c> the</c><00:08:50.320><c> prompts.</c><00:08:50.720><c> Now,</c><00:08:50.880><c> the</c>
+
+00:08:51.110 --> 00:08:51.120 align:start position:0%
+shot. Now, on to the prompts. Now, the
+ 
+
+00:08:51.120 --> 00:08:52.870 align:start position:0%
+shot. Now, on to the prompts. Now, the
+first<00:08:51.279><c> example</c><00:08:51.600><c> I'll</c><00:08:51.839><c> show</c><00:08:52.000><c> you</c><00:08:52.160><c> is</c><00:08:52.480><c> email</c>
+
+00:08:52.870 --> 00:08:52.880 align:start position:0%
+first example I'll show you is email
+ 
+
+00:08:52.880 --> 00:08:55.190 align:start position:0%
+first example I'll show you is email
+prioritization.<00:08:54.080><c> So,</c><00:08:54.320><c> this</c><00:08:54.480><c> prompt</c><00:08:54.800><c> is</c><00:08:54.959><c> very</c>
+
+00:08:55.190 --> 00:08:55.200 align:start position:0%
+prioritization. So, this prompt is very
+ 
+
+00:08:55.200 --> 00:08:58.550 align:start position:0%
+prioritization. So, this prompt is very
+straightforward.<00:08:56.080><c> Use</c><00:08:56.399><c> the</c><00:08:56.720><c> GWS</c><00:08:57.440><c> CLI</c><00:08:58.080><c> to</c><00:08:58.320><c> read</c>
+
+00:08:58.550 --> 00:08:58.560 align:start position:0%
+straightforward. Use the GWS CLI to read
+ 
+
+00:08:58.560 --> 00:09:01.590 align:start position:0%
+straightforward. Use the GWS CLI to read
+my<00:08:58.800><c> last</c><00:08:59.279><c> 20</c><00:08:59.680><c> Gmail</c><00:09:00.080><c> messages.</c><00:09:00.640><c> For</c><00:09:00.880><c> each</c><00:09:01.040><c> one,</c>
+
+00:09:01.590 --> 00:09:01.600 align:start position:0%
+my last 20 Gmail messages. For each one,
+ 
+
+00:09:01.600 --> 00:09:03.910 align:start position:0%
+my last 20 Gmail messages. For each one,
+read<00:09:01.839><c> the</c><00:09:02.000><c> subject,</c><00:09:02.560><c> sender,</c><00:09:02.959><c> and</c><00:09:03.200><c> first</c><00:09:03.519><c> 200</c>
+
+00:09:03.910 --> 00:09:03.920 align:start position:0%
+read the subject, sender, and first 200
+ 
+
+00:09:03.920 --> 00:09:05.670 align:start position:0%
+read the subject, sender, and first 200
+characters<00:09:04.240><c> of</c><00:09:04.399><c> the</c><00:09:04.560><c> body.</c><00:09:05.040><c> Then</c><00:09:05.200><c> I</c><00:09:05.360><c> tell</c><00:09:05.519><c> it</c>
+
+00:09:05.670 --> 00:09:05.680 align:start position:0%
+characters of the body. Then I tell it
+ 
+
+00:09:05.680 --> 00:09:08.150 align:start position:0%
+characters of the body. Then I tell it
+how<00:09:05.839><c> to</c><00:09:06.000><c> categorize</c><00:09:06.560><c> them</c><00:09:07.200><c> and</c><00:09:07.519><c> to</c><00:09:07.760><c> create</c><00:09:08.000><c> a</c>
+
+00:09:08.150 --> 00:09:08.160 align:start position:0%
+how to categorize them and to create a
+ 
+
+00:09:08.160 --> 00:09:09.670 align:start position:0%
+how to categorize them and to create a
+Google<00:09:08.480><c> sheet.</c><00:09:08.720><c> And</c><00:09:08.880><c> this</c><00:09:09.040><c> is</c><00:09:09.120><c> the</c><00:09:09.279><c> power</c><00:09:09.440><c> of</c>
+
+00:09:09.670 --> 00:09:09.680 align:start position:0%
+Google sheet. And this is the power of
+ 
+
+00:09:09.680 --> 00:09:11.750 align:start position:0%
+Google sheet. And this is the power of
+combining<00:09:10.160><c> all</c><00:09:10.399><c> the</c><00:09:10.640><c> ecosystem</c><00:09:11.279><c> and</c><00:09:11.440><c> all</c><00:09:11.600><c> the</c>
+
+00:09:11.750 --> 00:09:11.760 align:start position:0%
+combining all the ecosystem and all the
+ 
+
+00:09:11.760 --> 00:09:14.150 align:start position:0%
+combining all the ecosystem and all the
+services<00:09:12.080><c> in</c><00:09:12.320><c> one</c><00:09:12.560><c> shot.</c><00:09:13.200><c> You</c><00:09:13.360><c> can</c><00:09:13.519><c> go</c><00:09:13.680><c> from</c>
+
+00:09:14.150 --> 00:09:14.160 align:start position:0%
+services in one shot. You can go from
+ 
+
+00:09:14.160 --> 00:09:16.870 align:start position:0%
+services in one shot. You can go from
+Google<00:09:14.480><c> Sheet</c><00:09:14.880><c> to</c><00:09:15.120><c> a</c><00:09:15.440><c> Google</c><00:09:15.760><c> Slide</c><00:09:16.399><c> to</c><00:09:16.640><c> a</c>
+
+00:09:16.870 --> 00:09:16.880 align:start position:0%
+Google Sheet to a Google Slide to a
+ 
+
+00:09:16.880 --> 00:09:19.030 align:start position:0%
+Google Sheet to a Google Slide to a
+Google<00:09:17.200><c> Meet</c><00:09:17.680><c> in</c><00:09:17.920><c> the</c><00:09:18.080><c> course</c><00:09:18.240><c> of</c><00:09:18.480><c> one</c><00:09:18.720><c> single</c>
+
+00:09:19.030 --> 00:09:19.040 align:start position:0%
+Google Meet in the course of one single
+ 
+
+00:09:19.040 --> 00:09:20.790 align:start position:0%
+Google Meet in the course of one single
+prompt.<00:09:19.360><c> Now,</c><00:09:19.600><c> naturally</c><00:09:20.000><c> here</c><00:09:20.240><c> for</c><00:09:20.480><c> all</c><00:09:20.720><c> of</c>
+
+00:09:20.790 --> 00:09:20.800 align:start position:0%
+prompt. Now, naturally here for all of
+ 
+
+00:09:20.800 --> 00:09:22.870 align:start position:0%
+prompt. Now, naturally here for all of
+my<00:09:21.040><c> prompts,</c><00:09:21.440><c> I</c><00:09:21.600><c> have</c><00:09:21.760><c> this</c><00:09:22.000><c> privacy</c><00:09:22.480><c> rules</c>
+
+00:09:22.870 --> 00:09:22.880 align:start position:0%
+my prompts, I have this privacy rules
+ 
+
+00:09:22.880 --> 00:09:24.310 align:start position:0%
+my prompts, I have this privacy rules
+section<00:09:23.440><c> just</c><00:09:23.600><c> to</c><00:09:23.760><c> make</c><00:09:23.920><c> sure</c><00:09:24.000><c> I</c><00:09:24.160><c> don't</c>
+
+00:09:24.310 --> 00:09:24.320 align:start position:0%
+section just to make sure I don't
+ 
+
+00:09:24.320 --> 00:09:26.790 align:start position:0%
+section just to make sure I don't
+disclose<00:09:24.800><c> anyone's</c><00:09:25.279><c> name</c><00:09:25.519><c> or</c><00:09:25.760><c> email</c><00:09:26.320><c> in</c><00:09:26.640><c> this</c>
+
+00:09:26.790 --> 00:09:26.800 align:start position:0%
+disclose anyone's name or email in this
+ 
+
+00:09:26.800 --> 00:09:28.870 align:start position:0%
+disclose anyone's name or email in this
+video.<00:09:27.360><c> So,</c><00:09:27.519><c> I</c><00:09:27.680><c> can</c><00:09:27.760><c> show</c><00:09:27.920><c> you</c><00:09:28.080><c> the</c><00:09:28.320><c> end</c><00:09:28.480><c> result</c>
+
+00:09:28.870 --> 00:09:28.880 align:start position:0%
+video. So, I can show you the end result
+ 
+
+00:09:28.880 --> 00:09:31.030 align:start position:0%
+video. So, I can show you the end result
+here,<00:09:29.120><c> which</c><00:09:29.360><c> is</c><00:09:29.519><c> this</c><00:09:29.760><c> Google</c><00:09:30.080><c> sheet.</c><00:09:30.720><c> And</c><00:09:30.880><c> if</c>
+
+00:09:31.030 --> 00:09:31.040 align:start position:0%
+here, which is this Google sheet. And if
+ 
+
+00:09:31.040 --> 00:09:32.949 align:start position:0%
+here, which is this Google sheet. And if
+we<00:09:31.200><c> go</c><00:09:31.279><c> to</c><00:09:31.440><c> said</c><00:09:31.680><c> Google</c><00:09:32.000><c> sheet,</c><00:09:32.399><c> all</c><00:09:32.560><c> of</c><00:09:32.720><c> these</c>
+
+00:09:32.949 --> 00:09:32.959 align:start position:0%
+we go to said Google sheet, all of these
+ 
+
+00:09:32.959 --> 00:09:35.350 align:start position:0%
+we go to said Google sheet, all of these
+names,<00:09:33.600><c> etc.</c><00:09:33.839><c> are</c><00:09:34.000><c> all</c><00:09:34.320><c> completely</c><00:09:34.720><c> fake.</c><00:09:35.200><c> So,</c>
+
+00:09:35.350 --> 00:09:35.360 align:start position:0%
+names, etc. are all completely fake. So,
+ 
+
+00:09:35.360 --> 00:09:37.590 align:start position:0%
+names, etc. are all completely fake. So,
+looking<00:09:35.600><c> at</c><00:09:35.760><c> this,</c><00:09:36.080><c> it</c><00:09:36.320><c> has</c><00:09:36.480><c> autocategorized</c>
+
+00:09:37.590 --> 00:09:37.600 align:start position:0%
+looking at this, it has autocategorized
+ 
+
+00:09:37.600 --> 00:09:39.590 align:start position:0%
+looking at this, it has autocategorized
+everything<00:09:37.920><c> by</c><00:09:38.240><c> priority.</c><00:09:38.959><c> It's</c><00:09:39.279><c> even</c>
+
+00:09:39.590 --> 00:09:39.600 align:start position:0%
+everything by priority. It's even
+ 
+
+00:09:39.600 --> 00:09:42.710 align:start position:0%
+everything by priority. It's even
+colorcoded<00:09:40.240><c> it</c><00:09:40.640><c> using</c><00:09:41.279><c> Google</c><00:09:41.680><c> sheet</c><00:09:42.000><c> rules.</c>
+
+00:09:42.710 --> 00:09:42.720 align:start position:0%
+colorcoded it using Google sheet rules.
+ 
+
+00:09:42.720 --> 00:09:44.310 align:start position:0%
+colorcoded it using Google sheet rules.
+See,<00:09:42.959><c> here's</c><00:09:43.200><c> the</c><00:09:43.360><c> level</c><00:09:43.519><c> of</c><00:09:43.680><c> depth</c><00:09:44.080><c> you</c><00:09:44.240><c> can</c>
+
+00:09:44.310 --> 00:09:44.320 align:start position:0%
+See, here's the level of depth you can
+ 
+
+00:09:44.320 --> 00:09:46.470 align:start position:0%
+See, here's the level of depth you can
+use<00:09:44.560><c> now</c><00:09:44.800><c> formatting</c><00:09:45.440><c> because</c><00:09:45.839><c> everything</c><00:09:46.160><c> is</c>
+
+00:09:46.470 --> 00:09:46.480 align:start position:0%
+use now formatting because everything is
+ 
+
+00:09:46.480 --> 00:09:48.949 align:start position:0%
+use now formatting because everything is
+native<00:09:46.720><c> to</c><00:09:46.959><c> the</c><00:09:47.120><c> Google</c><00:09:47.360><c> ecosystem.</c><00:09:48.480><c> We</c><00:09:48.720><c> have</c>
+
+00:09:48.949 --> 00:09:48.959 align:start position:0%
+native to the Google ecosystem. We have
+ 
+
+00:09:48.959 --> 00:09:51.110 align:start position:0%
+native to the Google ecosystem. We have
+the<00:09:49.360><c> name,</c><00:09:49.760><c> the</c><00:09:50.000><c> sender</c><00:09:50.399><c> email,</c><00:09:50.720><c> which</c>
+
+00:09:51.110 --> 00:09:51.120 align:start position:0%
+the name, the sender email, which
+ 
+
+00:09:51.120 --> 00:09:52.870 align:start position:0%
+the name, the sender email, which
+obviously<00:09:51.600><c> are</c><00:09:51.839><c> fake</c><00:09:52.080><c> for</c><00:09:52.320><c> the</c><00:09:52.480><c> course</c><00:09:52.640><c> of</c>
+
+00:09:52.870 --> 00:09:52.880 align:start position:0%
+obviously are fake for the course of
+ 
+
+00:09:52.880 --> 00:09:55.269 align:start position:0%
+obviously are fake for the course of
+this<00:09:53.120><c> demo.</c><00:09:53.839><c> And</c><00:09:54.080><c> we're</c><00:09:54.320><c> pretty</c><00:09:54.560><c> much</c><00:09:54.720><c> done</c><00:09:54.959><c> in</c>
+
+00:09:55.269 --> 00:09:55.279 align:start position:0%
+this demo. And we're pretty much done in
+ 
+
+00:09:55.279 --> 00:09:57.670 align:start position:0%
+this demo. And we're pretty much done in
+one<00:09:55.519><c> shot.</c><00:09:55.839><c> The</c><00:09:56.000><c> next</c><00:09:56.160><c> example</c><00:09:56.560><c> is</c><00:09:56.880><c> going</c><00:09:57.200><c> from</c>
+
+00:09:57.670 --> 00:09:57.680 align:start position:0%
+one shot. The next example is going from
+ 
+
+00:09:57.680 --> 00:09:59.910 align:start position:0%
+one shot. The next example is going from
+meetings<00:09:58.240><c> to</c><00:09:58.560><c> slide</c><00:09:58.959><c> decks</c><00:09:59.360><c> about</c><00:09:59.680><c> said</c>
+
+00:09:59.910 --> 00:09:59.920 align:start position:0%
+meetings to slide decks about said
+ 
+
+00:09:59.920 --> 00:10:02.470 align:start position:0%
+meetings to slide decks about said
+meetings.<00:10:00.640><c> So</c><00:10:00.959><c> the</c><00:10:01.200><c> exact</c><00:10:01.519><c> prompt</c><00:10:01.839><c> here</c><00:10:02.160><c> is</c>
+
+00:10:02.470 --> 00:10:02.480 align:start position:0%
+meetings. So the exact prompt here is
+ 
+
+00:10:02.480 --> 00:10:05.030 align:start position:0%
+meetings. So the exact prompt here is
+use<00:10:02.720><c> the</c><00:10:02.959><c> CLI,</c><00:10:03.760><c> pull</c><00:10:04.080><c> my</c><00:10:04.240><c> calendar</c><00:10:04.640><c> events</c>
+
+00:10:05.030 --> 00:10:05.040 align:start position:0%
+use the CLI, pull my calendar events
+ 
+
+00:10:05.040 --> 00:10:07.509 align:start position:0%
+use the CLI, pull my calendar events
+from<00:10:05.279><c> this</c><00:10:05.519><c> week,</c><00:10:05.839><c> Monday</c><00:10:06.080><c> to</c><00:10:06.320><c> today,</c><00:10:07.040><c> count</c>
+
+00:10:07.509 --> 00:10:07.519 align:start position:0%
+from this week, Monday to today, count
+ 
+
+00:10:07.519 --> 00:10:09.590 align:start position:0%
+from this week, Monday to today, count
+total<00:10:07.839><c> number</c><00:10:08.000><c> of</c><00:10:08.160><c> meetings,</c><00:10:08.720><c> total</c><00:10:09.040><c> hours</c><00:10:09.360><c> in</c>
+
+00:10:09.590 --> 00:10:09.600 align:start position:0%
+total number of meetings, total hours in
+ 
+
+00:10:09.600 --> 00:10:11.030 align:start position:0%
+total number of meetings, total hours in
+meetings,<00:10:10.000><c> and</c><00:10:10.160><c> which</c><00:10:10.399><c> three</c><00:10:10.640><c> people</c><00:10:10.800><c> or</c>
+
+00:10:11.030 --> 00:10:11.040 align:start position:0%
+meetings, and which three people or
+ 
+
+00:10:11.040 --> 00:10:13.110 align:start position:0%
+meetings, and which three people or
+groups<00:10:11.279><c> I</c><00:10:11.519><c> met</c><00:10:11.680><c> with</c><00:10:11.839><c> the</c><00:10:12.080><c> most.</c><00:10:12.640><c> Then</c><00:10:12.880><c> look</c><00:10:12.959><c> at</c>
+
+00:10:13.110 --> 00:10:13.120 align:start position:0%
+groups I met with the most. Then look at
+ 
+
+00:10:13.120 --> 00:10:14.870 align:start position:0%
+groups I met with the most. Then look at
+my<00:10:13.279><c> last</c><00:10:13.519><c> 30</c><00:10:13.839><c> emails.</c><00:10:14.240><c> Here</c><00:10:14.480><c> we're</c><00:10:14.720><c> now</c>
+
+00:10:14.870 --> 00:10:14.880 align:start position:0%
+my last 30 emails. Here we're now
+ 
+
+00:10:14.880 --> 00:10:17.190 align:start position:0%
+my last 30 emails. Here we're now
+chaining<00:10:15.360><c> functionality</c><00:10:16.399><c> and</c><00:10:16.640><c> count</c><00:10:16.959><c> how</c>
+
+00:10:17.190 --> 00:10:17.200 align:start position:0%
+chaining functionality and count how
+ 
+
+00:10:17.200 --> 00:10:19.829 align:start position:0%
+chaining functionality and count how
+many<00:10:17.440><c> came</c><00:10:17.680><c> from</c><00:10:17.920><c> each</c><00:10:18.160><c> email</c><00:10:18.480><c> domain.</c><00:10:19.360><c> Create</c>
+
+00:10:19.829 --> 00:10:19.839 align:start position:0%
+many came from each email domain. Create
+ 
+
+00:10:19.839 --> 00:10:22.470 align:start position:0%
+many came from each email domain. Create
+Google<00:10:20.160><c> Slides</c><00:10:21.200><c> with</c><00:10:21.440><c> a</c><00:10:21.680><c> presentation</c><00:10:22.160><c> called</c>
+
+00:10:22.470 --> 00:10:22.480 align:start position:0%
+Google Slides with a presentation called
+ 
+
+00:10:22.480 --> 00:10:24.310 align:start position:0%
+Google Slides with a presentation called
+weekly<00:10:22.880><c> report</c><00:10:23.519><c> with</c><00:10:23.839><c> four</c><00:10:24.160><c> different</c>
+
+00:10:24.310 --> 00:10:24.320 align:start position:0%
+weekly report with four different
+ 
+
+00:10:24.320 --> 00:10:25.750 align:start position:0%
+weekly report with four different
+slides.<00:10:24.640><c> I</c><00:10:24.800><c> tell</c><00:10:24.959><c> it</c><00:10:25.120><c> exactly</c><00:10:25.360><c> what</c><00:10:25.600><c> those</c>
+
+00:10:25.750 --> 00:10:25.760 align:start position:0%
+slides. I tell it exactly what those
+ 
+
+00:10:25.760 --> 00:10:28.470 align:start position:0%
+slides. I tell it exactly what those
+are.<00:10:26.240><c> Now,</c><00:10:26.640><c> I</c><00:10:27.200><c> built</c><00:10:27.519><c> this</c><00:10:27.680><c> up.</c><00:10:28.000><c> I</c><00:10:28.240><c> didn't</c><00:10:28.320><c> like</c>
+
+00:10:28.470 --> 00:10:28.480 align:start position:0%
+are. Now, I built this up. I didn't like
+ 
+
+00:10:28.480 --> 00:10:30.069 align:start position:0%
+are. Now, I built this up. I didn't like
+the<00:10:28.720><c> very</c><00:10:28.880><c> last</c><00:10:29.040><c> slide</c><00:10:29.360><c> because</c><00:10:29.600><c> I</c><00:10:29.760><c> couldn't</c>
+
+00:10:30.069 --> 00:10:30.079 align:start position:0%
+the very last slide because I couldn't
+ 
+
+00:10:30.079 --> 00:10:32.069 align:start position:0%
+the very last slide because I couldn't
+hide<00:10:30.320><c> some</c><00:10:30.560><c> privacy.</c><00:10:31.200><c> So,</c><00:10:31.360><c> if</c><00:10:31.600><c> we</c><00:10:31.760><c> take</c><00:10:31.920><c> a</c>
+
+00:10:32.069 --> 00:10:32.079 align:start position:0%
+hide some privacy. So, if we take a
+ 
+
+00:10:32.079 --> 00:10:34.230 align:start position:0%
+hide some privacy. So, if we take a
+look,<00:10:32.240><c> it's</c><00:10:32.399><c> gonna</c><00:10:32.560><c> be</c><00:10:32.720><c> missing</c><00:10:33.040><c> one.</c><00:10:33.839><c> But</c><00:10:34.079><c> you</c>
+
+00:10:34.230 --> 00:10:34.240 align:start position:0%
+look, it's gonna be missing one. But you
+ 
+
+00:10:34.240 --> 00:10:36.150 align:start position:0%
+look, it's gonna be missing one. But you
+can<00:10:34.320><c> see</c><00:10:34.560><c> right</c><00:10:34.720><c> here,</c><00:10:35.040><c> it</c><00:10:35.279><c> memorizes</c><00:10:35.920><c> the</c>
+
+00:10:36.150 --> 00:10:36.160 align:start position:0%
+can see right here, it memorizes the
+ 
+
+00:10:36.160 --> 00:10:38.230 align:start position:0%
+can see right here, it memorizes the
+meetings<00:10:36.480><c> for</c><00:10:36.640><c> the</c><00:10:36.880><c> week</c><00:10:37.360><c> and</c><00:10:37.600><c> it</c><00:10:37.760><c> memorizes</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+meetings for the week and it memorizes
+ 
+
+00:10:38.240 --> 00:10:40.550 align:start position:0%
+meetings for the week and it memorizes
+who<00:10:38.480><c> I</c><00:10:38.640><c> met</c><00:10:38.800><c> with</c><00:10:39.120><c> and</c><00:10:39.360><c> the</c><00:10:39.600><c> top</c><00:10:39.839><c> email</c><00:10:40.160><c> senders</c>
+
+00:10:40.550 --> 00:10:40.560 align:start position:0%
+who I met with and the top email senders
+ 
+
+00:10:40.560 --> 00:10:42.230 align:start position:0%
+who I met with and the top email senders
+by<00:10:40.720><c> domain.</c><00:10:41.279><c> Now,</c><00:10:41.519><c> are</c><00:10:41.680><c> these</c><00:10:41.839><c> the</c><00:10:42.079><c> most</c>
+
+00:10:42.230 --> 00:10:42.240 align:start position:0%
+by domain. Now, are these the most
+ 
+
+00:10:42.240 --> 00:10:44.310 align:start position:0%
+by domain. Now, are these the most
+beautiful?<00:10:42.800><c> No.</c><00:10:43.360><c> But</c><00:10:43.519><c> you</c><00:10:43.680><c> can</c><00:10:43.839><c> create</c><00:10:44.079><c> your</c>
+
+00:10:44.310 --> 00:10:44.320 align:start position:0%
+beautiful? No. But you can create your
+ 
+
+00:10:44.320 --> 00:10:46.630 align:start position:0%
+beautiful? No. But you can create your
+own<00:10:44.560><c> skills</c><00:10:44.959><c> on</c><00:10:45.200><c> top</c><00:10:45.360><c> of</c><00:10:45.519><c> these</c><00:10:45.839><c> skills</c><00:10:46.399><c> to</c>
+
+00:10:46.630 --> 00:10:46.640 align:start position:0%
+own skills on top of these skills to
+ 
+
+00:10:46.640 --> 00:10:48.870 align:start position:0%
+own skills on top of these skills to
+really<00:10:46.959><c> dial</c><00:10:47.279><c> in</c><00:10:47.680><c> what</c><00:10:47.920><c> these</c><00:10:48.240><c> Google</c><00:10:48.480><c> Slides</c>
+
+00:10:48.870 --> 00:10:48.880 align:start position:0%
+really dial in what these Google Slides
+ 
+
+00:10:48.880 --> 00:10:50.389 align:start position:0%
+really dial in what these Google Slides
+should<00:10:49.040><c> look</c><00:10:49.120><c> like.</c><00:10:49.360><c> Now,</c><00:10:49.600><c> the</c><00:10:49.760><c> next</c><00:10:49.920><c> one,</c><00:10:50.160><c> if</c>
+
+00:10:50.389 --> 00:10:50.399 align:start position:0%
+should look like. Now, the next one, if
+ 
+
+00:10:50.399 --> 00:10:52.150 align:start position:0%
+should look like. Now, the next one, if
+you're<00:10:50.560><c> like</c><00:10:50.800><c> me</c><00:10:51.040><c> and</c><00:10:51.360><c> have</c><00:10:51.600><c> thousands</c><00:10:52.000><c> of</c>
+
+00:10:52.150 --> 00:10:52.160 align:start position:0%
+you're like me and have thousands of
+ 
+
+00:10:52.160 --> 00:10:53.829 align:start position:0%
+you're like me and have thousands of
+emails<00:10:52.640><c> when</c><00:10:52.800><c> you</c><00:10:52.959><c> want</c><00:10:53.120><c> to</c><00:10:53.200><c> look</c><00:10:53.360><c> for</c><00:10:53.600><c> that</c>
+
+00:10:53.829 --> 00:10:53.839 align:start position:0%
+emails when you want to look for that
+ 
+
+00:10:53.839 --> 00:10:56.150 align:start position:0%
+emails when you want to look for that
+needle<00:10:54.160><c> in</c><00:10:54.320><c> the</c><00:10:54.480><c> haystack</c><00:10:55.040><c> email</c><00:10:55.360><c> from</c><00:10:55.760><c> a</c><00:10:56.000><c> year</c>
+
+00:10:56.150 --> 00:10:56.160 align:start position:0%
+needle in the haystack email from a year
+ 
+
+00:10:56.160 --> 00:10:58.389 align:start position:0%
+needle in the haystack email from a year
+and<00:10:56.240><c> a</c><00:10:56.399><c> half</c><00:10:56.560><c> ago,</c><00:10:57.120><c> it's</c><00:10:57.360><c> always</c><00:10:57.680><c> tricky</c><00:10:58.160><c> what</c>
+
+00:10:58.389 --> 00:10:58.399 align:start position:0%
+and a half ago, it's always tricky what
+ 
+
+00:10:58.399 --> 00:11:00.389 align:start position:0%
+and a half ago, it's always tricky what
+you<00:10:58.560><c> should</c><00:10:58.800><c> enter</c><00:10:59.040><c> into</c><00:10:59.279><c> the</c><00:10:59.519><c> search</c><00:10:59.760><c> bar.</c>
+
+00:11:00.389 --> 00:11:00.399 align:start position:0%
+you should enter into the search bar.
+ 
+
+00:11:00.399 --> 00:11:01.829 align:start position:0%
+you should enter into the search bar.
+This<00:11:00.640><c> helps</c><00:11:00.880><c> you</c><00:11:01.040><c> with</c><00:11:01.200><c> that.</c><00:11:01.440><c> So,</c><00:11:01.600><c> in</c><00:11:01.760><c> this</c>
+
+00:11:01.829 --> 00:11:01.839 align:start position:0%
+This helps you with that. So, in this
+ 
+
+00:11:01.839 --> 00:11:03.990 align:start position:0%
+This helps you with that. So, in this
+case,<00:11:02.000><c> you</c><00:11:02.160><c> could</c><00:11:02.320><c> say,</c><00:11:02.640><c> "Use</c><00:11:02.959><c> a</c><00:11:03.200><c> CLI.</c><00:11:03.760><c> Search</c>
+
+00:11:03.990 --> 00:11:04.000 align:start position:0%
+case, you could say, "Use a CLI. Search
+ 
+
+00:11:04.000 --> 00:11:06.310 align:start position:0%
+case, you could say, "Use a CLI. Search
+my<00:11:04.240><c> Gmail</c><00:11:04.720><c> for</c><00:11:04.959><c> email</c><00:11:05.279><c> threads</c><00:11:05.839><c> where</c><00:11:06.079><c> the</c>
+
+00:11:06.310 --> 00:11:06.320 align:start position:0%
+my Gmail for email threads where the
+ 
+
+00:11:06.320 --> 00:11:08.630 align:start position:0%
+my Gmail for email threads where the
+subject<00:11:06.800><c> contains</c><00:11:07.440><c> proposal,</c><00:11:08.079><c> quote,</c>
+
+00:11:08.630 --> 00:11:08.640 align:start position:0%
+subject contains proposal, quote,
+ 
+
+00:11:08.640 --> 00:11:11.030 align:start position:0%
+subject contains proposal, quote,
+invoice,<00:11:09.120><c> or</c><00:11:09.440><c> contract</c><00:11:10.160><c> from</c><00:11:10.399><c> the</c><00:11:10.560><c> last</c><00:11:10.800><c> 30</c>
+
+00:11:11.030 --> 00:11:11.040 align:start position:0%
+invoice, or contract from the last 30
+ 
+
+00:11:11.040 --> 00:11:12.710 align:start position:0%
+invoice, or contract from the last 30
+days."<00:11:11.440><c> And</c><00:11:11.600><c> you</c><00:11:11.760><c> can</c><00:11:11.839><c> imagine</c><00:11:12.320><c> if</c><00:11:12.560><c> you're</c>
+
+00:11:12.710 --> 00:11:12.720 align:start position:0%
+days." And you can imagine if you're
+ 
+
+00:11:12.720 --> 00:11:14.790 align:start position:0%
+days." And you can imagine if you're
+doing<00:11:12.880><c> your</c><00:11:13.120><c> taxes,</c><00:11:13.839><c> this</c><00:11:14.000><c> is</c><00:11:14.160><c> super</c><00:11:14.480><c> helpful</c>
+
+00:11:14.790 --> 00:11:14.800 align:start position:0%
+doing your taxes, this is super helpful
+ 
+
+00:11:14.800 --> 00:11:16.790 align:start position:0%
+doing your taxes, this is super helpful
+for<00:11:15.040><c> finding</c><00:11:15.360><c> those</c><00:11:15.600><c> flimsy</c><00:11:16.079><c> receipts</c><00:11:16.560><c> that</c>
+
+00:11:16.790 --> 00:11:16.800 align:start position:0%
+for finding those flimsy receipts that
+ 
+
+00:11:16.800 --> 00:11:18.310 align:start position:0%
+for finding those flimsy receipts that
+just<00:11:17.040><c> disappear.</c><00:11:17.440><c> And</c><00:11:17.600><c> then</c><00:11:17.760><c> you</c><00:11:17.839><c> can</c><00:11:17.920><c> say</c><00:11:18.160><c> for</c>
+
+00:11:18.310 --> 00:11:18.320 align:start position:0%
+just disappear. And then you can say for
+ 
+
+00:11:18.320 --> 00:11:20.310 align:start position:0%
+just disappear. And then you can say for
+each<00:11:18.560><c> thread</c><00:11:18.959><c> check</c><00:11:19.200><c> whether</c><00:11:19.519><c> I</c><00:11:19.760><c> sent</c><00:11:20.079><c> the</c>
+
+00:11:20.310 --> 00:11:20.320 align:start position:0%
+each thread check whether I sent the
+ 
+
+00:11:20.320 --> 00:11:22.790 align:start position:0%
+each thread check whether I sent the
+last<00:11:20.560><c> email</c><00:11:20.959><c> if</c><00:11:21.200><c> I</c><00:11:21.440><c> did</c><00:11:21.920><c> and</c><00:11:22.079><c> it</c><00:11:22.320><c> was</c><00:11:22.399><c> more</c><00:11:22.640><c> than</c>
+
+00:11:22.790 --> 00:11:22.800 align:start position:0%
+last email if I did and it was more than
+ 
+
+00:11:22.800 --> 00:11:25.590 align:start position:0%
+last email if I did and it was more than
+5<00:11:23.040><c> days</c><00:11:23.200><c> ago</c><00:11:23.680><c> chaining</c><00:11:24.079><c> instructions</c><00:11:24.959><c> draft</c><00:11:25.279><c> a</c>
+
+00:11:25.590 --> 00:11:25.600 align:start position:0%
+5 days ago chaining instructions draft a
+ 
+
+00:11:25.600 --> 00:11:27.670 align:start position:0%
+5 days ago chaining instructions draft a
+follow-up<00:11:26.079><c> email</c><00:11:26.800><c> using</c><00:11:27.120><c> this</c><00:11:27.279><c> template.</c>
+
+00:11:27.670 --> 00:11:27.680 align:start position:0%
+follow-up email using this template.
+ 
+
+00:11:27.680 --> 00:11:29.350 align:start position:0%
+follow-up email using this template.
+Then<00:11:27.839><c> we</c><00:11:28.000><c> provide</c><00:11:28.160><c> it</c><00:11:28.320><c> some</c><00:11:28.560><c> template</c><00:11:28.959><c> and</c><00:11:29.200><c> it</c>
+
+00:11:29.350 --> 00:11:29.360 align:start position:0%
+Then we provide it some template and it
+ 
+
+00:11:29.360 --> 00:11:31.350 align:start position:0%
+Then we provide it some template and it
+goes<00:11:29.600><c> and</c><00:11:29.839><c> executes</c><00:11:30.240><c> it.</c><00:11:30.560><c> Now</c><00:11:30.800><c> pulling</c><00:11:31.120><c> on</c>
+
+00:11:31.350 --> 00:11:31.360 align:start position:0%
+goes and executes it. Now pulling on
+ 
+
+00:11:31.360 --> 00:11:34.150 align:start position:0%
+goes and executes it. Now pulling on
+that<00:11:31.519><c> thread</c><00:11:32.079><c> pun</c><00:11:32.480><c> intended</c><00:11:33.120><c> of</c><00:11:33.440><c> specificity</c>
+
+00:11:34.150 --> 00:11:34.160 align:start position:0%
+that thread pun intended of specificity
+ 
+
+00:11:34.160 --> 00:11:35.910 align:start position:0%
+that thread pun intended of specificity
+and<00:11:34.399><c> needle</c><00:11:34.640><c> in</c><00:11:34.800><c> the</c><00:11:34.880><c> haststack.</c><00:11:35.600><c> You</c><00:11:35.839><c> can</c>
+
+00:11:35.910 --> 00:11:35.920 align:start position:0%
+and needle in the haststack. You can
+ 
+
+00:11:35.920 --> 00:11:38.470 align:start position:0%
+and needle in the haststack. You can
+also<00:11:36.240><c> ask</c><00:11:36.640><c> very</c><00:11:37.120><c> detailed</c><00:11:37.680><c> questions.</c><00:11:38.160><c> So</c><00:11:38.320><c> in</c>
+
+00:11:38.470 --> 00:11:38.480 align:start position:0%
+also ask very detailed questions. So in
+ 
+
+00:11:38.480 --> 00:11:41.190 align:start position:0%
+also ask very detailed questions. So in
+this<00:11:38.640><c> case</c><00:11:38.880><c> we</c><00:11:39.120><c> ask</c><00:11:39.360><c> the</c><00:11:39.600><c> CLI</c><00:11:40.079><c> to</c><00:11:40.320><c> find</c><00:11:40.640><c> my</c><00:11:40.880><c> next</c>
+
+00:11:41.190 --> 00:11:41.200 align:start position:0%
+this case we ask the CLI to find my next
+ 
+
+00:11:41.200 --> 00:11:43.269 align:start position:0%
+this case we ask the CLI to find my next
+calendar<00:11:41.600><c> event</c><00:11:42.000><c> that</c><00:11:42.320><c> has</c><00:11:42.480><c> at</c><00:11:42.560><c> least</c><00:11:43.040><c> one</c>
+
+00:11:43.269 --> 00:11:43.279 align:start position:0%
+calendar event that has at least one
+ 
+
+00:11:43.279 --> 00:11:46.150 align:start position:0%
+calendar event that has at least one
+other<00:11:43.600><c> attendee.</c><00:11:44.399><c> get</c><00:11:44.640><c> the</c><00:11:44.880><c> names</c><00:11:45.360><c> and</c><00:11:45.680><c> email</c>
+
+00:11:46.150 --> 00:11:46.160 align:start position:0%
+other attendee. get the names and email
+ 
+
+00:11:46.160 --> 00:11:48.230 align:start position:0%
+other attendee. get the names and email
+addresses<00:11:46.640><c> of</c><00:11:46.800><c> all</c><00:11:46.959><c> the</c><00:11:47.120><c> attendees,</c><00:11:48.000><c> search</c>
+
+00:11:48.230 --> 00:11:48.240 align:start position:0%
+addresses of all the attendees, search
+ 
+
+00:11:48.240 --> 00:11:50.630 align:start position:0%
+addresses of all the attendees, search
+my<00:11:48.480><c> Gmail</c><00:11:48.880><c> for</c><00:11:49.040><c> any</c><00:11:49.279><c> emails</c><00:11:49.680><c> I've</c><00:11:49.920><c> sent</c><00:11:50.320><c> or</c>
+
+00:11:50.630 --> 00:11:50.640 align:start position:0%
+my Gmail for any emails I've sent or
+ 
+
+00:11:50.640 --> 00:11:52.550 align:start position:0%
+my Gmail for any emails I've sent or
+received<00:11:51.360><c> from</c><00:11:51.600><c> those</c><00:11:51.839><c> people</c><00:11:52.000><c> in</c><00:11:52.240><c> the</c><00:11:52.399><c> last</c>
+
+00:11:52.550 --> 00:11:52.560 align:start position:0%
+received from those people in the last
+ 
+
+00:11:52.560 --> 00:11:54.310 align:start position:0%
+received from those people in the last
+14<00:11:52.880><c> days,</c><00:11:53.200><c> which</c><00:11:53.360><c> would</c><00:11:53.519><c> be</c><00:11:53.680><c> helpful</c><00:11:54.000><c> for</c>
+
+00:11:54.310 --> 00:11:54.320 align:start position:0%
+14 days, which would be helpful for
+ 
+
+00:11:54.320 --> 00:11:56.150 align:start position:0%
+14 days, which would be helpful for
+contextualization.<00:11:55.200><c> So</c><00:11:55.440><c> now</c><00:11:55.519><c> we've</c><00:11:55.760><c> chained</c>
+
+00:11:56.150 --> 00:11:56.160 align:start position:0%
+contextualization. So now we've chained
+ 
+
+00:11:56.160 --> 00:11:58.550 align:start position:0%
+contextualization. So now we've chained
+calendar,<00:11:56.880><c> Gmail,</c><00:11:57.440><c> and</c><00:11:57.680><c> we</c><00:11:57.839><c> chain</c><00:11:58.160><c> one</c><00:11:58.320><c> more</c>
+
+00:11:58.550 --> 00:11:58.560 align:start position:0%
+calendar, Gmail, and we chain one more
+ 
+
+00:11:58.560 --> 00:12:00.790 align:start position:0%
+calendar, Gmail, and we chain one more
+service,<00:11:58.959><c> Google</c><00:11:59.279><c> Docs.</c><00:11:59.920><c> Create</c><00:12:00.240><c> a</c><00:12:00.480><c> Google</c>
+
+00:12:00.790 --> 00:12:00.800 align:start position:0%
+service, Google Docs. Create a Google
+ 
+
+00:12:00.800 --> 00:12:03.350 align:start position:0%
+service, Google Docs. Create a Google
+Doc<00:12:01.200><c> called</c><00:12:01.600><c> meeting</c><00:12:02.000><c> brief</c><00:12:02.399><c> event</c><00:12:02.640><c> name</c><00:12:03.120><c> with</c>
+
+00:12:03.350 --> 00:12:03.360 align:start position:0%
+Doc called meeting brief event name with
+ 
+
+00:12:03.360 --> 00:12:05.110 align:start position:0%
+Doc called meeting brief event name with
+these<00:12:03.600><c> sections.</c><00:12:04.079><c> Then</c><00:12:04.320><c> we</c><00:12:04.480><c> specify</c><00:12:04.880><c> all</c><00:12:05.040><c> of</c>
+
+00:12:05.110 --> 00:12:05.120 align:start position:0%
+these sections. Then we specify all of
+ 
+
+00:12:05.120 --> 00:12:07.030 align:start position:0%
+these sections. Then we specify all of
+them.<00:12:05.440><c> And</c><00:12:05.519><c> then</c><00:12:05.680><c> it</c><00:12:05.920><c> creates</c><00:12:06.160><c> a</c><00:12:06.480><c> beautifully</c>
+
+00:12:07.030 --> 00:12:07.040 align:start position:0%
+them. And then it creates a beautifully
+ 
+
+00:12:07.040 --> 00:12:09.670 align:start position:0%
+them. And then it creates a beautifully
+formatted<00:12:07.760><c> inmarkdown</c><00:12:08.720><c> Google</c><00:12:09.040><c> doc</c><00:12:09.360><c> with</c>
+
+00:12:09.670 --> 00:12:09.680 align:start position:0%
+formatted inmarkdown Google doc with
+ 
+
+00:12:09.680 --> 00:12:11.430 align:start position:0%
+formatted inmarkdown Google doc with
+everything<00:12:09.920><c> you're</c><00:12:10.240><c> asking</c><00:12:10.480><c> for</c><00:12:10.800><c> and</c><00:12:11.120><c> more</c>
+
+00:12:11.430 --> 00:12:11.440 align:start position:0%
+everything you're asking for and more
+ 
+
+00:12:11.440 --> 00:12:14.069 align:start position:0%
+everything you're asking for and more
+along<00:12:11.760><c> with</c><00:12:11.920><c> a</c><00:12:12.160><c> suggested</c><00:12:12.639><c> agenda.</c><00:12:13.440><c> So,</c><00:12:13.680><c> in</c><00:12:13.920><c> a</c>
+
+00:12:14.069 --> 00:12:14.079 align:start position:0%
+along with a suggested agenda. So, in a
+ 
+
+00:12:14.079 --> 00:12:16.629 align:start position:0%
+along with a suggested agenda. So, in a
+way,<00:12:14.240><c> you</c><00:12:14.480><c> have</c><00:12:14.639><c> an</c><00:12:14.880><c> entire</c><00:12:15.839><c> executive</c>
+
+00:12:16.629 --> 00:12:16.639 align:start position:0%
+way, you have an entire executive
+ 
+
+00:12:16.639 --> 00:12:19.430 align:start position:0%
+way, you have an entire executive
+assistant<00:12:17.279><c> AI</c><00:12:17.680><c> agent</c><00:12:18.079><c> team</c><00:12:18.399><c> in</c><00:12:18.639><c> a</c><00:12:18.880><c> box.</c><00:12:19.279><c> And</c>
+
+00:12:19.430 --> 00:12:19.440 align:start position:0%
+assistant AI agent team in a box. And
+ 
+
+00:12:19.440 --> 00:12:21.590 align:start position:0%
+assistant AI agent team in a box. And
+I've<00:12:19.600><c> saved</c><00:12:19.920><c> the</c><00:12:20.240><c> best</c><00:12:20.480><c> use</c><00:12:20.720><c> case</c><00:12:21.040><c> for</c><00:12:21.279><c> last</c>
+
+00:12:21.590 --> 00:12:21.600 align:start position:0%
+I've saved the best use case for last
+ 
+
+00:12:21.600 --> 00:12:23.750 align:start position:0%
+I've saved the best use case for last
+because<00:12:21.920><c> if</c><00:12:22.160><c> your</c><00:12:22.480><c> Google</c><00:12:22.800><c> Drive</c><00:12:23.360><c> looks</c>
+
+00:12:23.750 --> 00:12:23.760 align:start position:0%
+because if your Google Drive looks
+ 
+
+00:12:23.760 --> 00:12:25.750 align:start position:0%
+because if your Google Drive looks
+anything<00:12:24.399><c> like</c><00:12:24.639><c> my</c><00:12:24.959><c> companies</c><00:12:25.279><c> or</c><00:12:25.519><c> my</c>
+
+00:12:25.750 --> 00:12:25.760 align:start position:0%
+anything like my companies or my
+ 
+
+00:12:25.760 --> 00:12:27.910 align:start position:0%
+anything like my companies or my
+personal,<00:12:26.399><c> then</c><00:12:26.639><c> this</c><00:12:26.800><c> might</c><00:12:27.040><c> be</c><00:12:27.120><c> helpful.</c>
+
+00:12:27.910 --> 00:12:27.920 align:start position:0%
+personal, then this might be helpful.
+ 
+
+00:12:27.920 --> 00:12:30.069 align:start position:0%
+personal, then this might be helpful.
+So,<00:12:28.320><c> this</c><00:12:28.560><c> prompt</c><00:12:28.880><c> says,</c><00:12:29.120><c> "Search</c><00:12:29.519><c> my</c><00:12:29.760><c> Google</c>
+
+00:12:30.069 --> 00:12:30.079 align:start position:0%
+So, this prompt says, "Search my Google
+ 
+
+00:12:30.079 --> 00:12:32.710 align:start position:0%
+So, this prompt says, "Search my Google
+Drive<00:12:30.320><c> for</c><00:12:30.560><c> files</c><00:12:30.880><c> that</c><00:12:31.120><c> have</c><00:12:31.360><c> draft,</c><00:12:32.160><c> old,</c>
+
+00:12:32.710 --> 00:12:32.720 align:start position:0%
+Drive for files that have draft, old,
+ 
+
+00:12:32.720 --> 00:12:36.550 align:start position:0%
+Drive for files that have draft, old,
+copy,<00:12:33.360><c> backup,</c><00:12:34.079><c> V1</c><00:12:34.720><c> or</c><00:12:34.959><c> V2</c><00:12:35.440><c> or</c><00:12:35.680><c> V3</c><00:12:36.079><c> or</c><00:12:36.320><c> in</c><00:12:36.480><c> my</c>
+
+00:12:36.550 --> 00:12:36.560 align:start position:0%
+copy, backup, V1 or V2 or V3 or in my
+ 
+
+00:12:36.560 --> 00:12:39.030 align:start position:0%
+copy, backup, V1 or V2 or V3 or in my
+case,<00:12:37.040><c> final</c><00:12:37.440><c> one,</c><00:12:37.839><c> final</c><00:12:38.240><c> two,</c><00:12:38.639><c> final</c>
+
+00:12:39.030 --> 00:12:39.040 align:start position:0%
+case, final one, final two, final
+ 
+
+00:12:39.040 --> 00:12:41.750 align:start position:0%
+case, final one, final two, final
+infinity."<00:12:39.839><c> And</c><00:12:40.079><c> for</c><00:12:40.320><c> each</c><00:12:40.639><c> file</c><00:12:41.120><c> get</c><00:12:41.440><c> the</c>
+
+00:12:41.750 --> 00:12:41.760 align:start position:0%
+infinity." And for each file get the
+ 
+
+00:12:41.760 --> 00:12:43.990 align:start position:0%
+infinity." And for each file get the
+file<00:12:42.000><c> name,</c><00:12:42.320><c> file</c><00:12:42.639><c> type,</c><00:12:43.200><c> last</c><00:12:43.440><c> modified</c>
+
+00:12:43.990 --> 00:12:44.000 align:start position:0%
+file name, file type, last modified
+ 
+
+00:12:44.000 --> 00:12:46.389 align:start position:0%
+file name, file type, last modified
+date,<00:12:44.480><c> file</c><00:12:44.800><c> size,</c><00:12:45.200><c> sharable</c><00:12:45.680><c> link,</c><00:12:46.000><c> and</c><00:12:46.160><c> then</c>
+
+00:12:46.389 --> 00:12:46.399 align:start position:0%
+date, file size, sharable link, and then
+ 
+
+00:12:46.399 --> 00:12:48.470 align:start position:0%
+date, file size, sharable link, and then
+create<00:12:46.639><c> a</c><00:12:46.880><c> Google</c><00:12:47.200><c> sheet</c><00:12:47.760><c> called</c><00:12:48.160><c> drive</c>
+
+00:12:48.470 --> 00:12:48.480 align:start position:0%
+create a Google sheet called drive
+ 
+
+00:12:48.480 --> 00:12:50.629 align:start position:0%
+create a Google sheet called drive
+audit.<00:12:49.120><c> And</c><00:12:49.279><c> this</c><00:12:49.440><c> will</c><00:12:49.600><c> basically</c><00:12:50.000><c> map</c><00:12:50.320><c> out</c>
+
+00:12:50.629 --> 00:12:50.639 align:start position:0%
+audit. And this will basically map out
+ 
+
+00:12:50.639 --> 00:12:52.230 align:start position:0%
+audit. And this will basically map out
+everything<00:12:50.959><c> in</c><00:12:51.200><c> our</c><00:12:51.360><c> Google</c><00:12:51.600><c> Drive.</c><00:12:51.920><c> And</c><00:12:52.079><c> then</c>
+
+00:12:52.230 --> 00:12:52.240 align:start position:0%
+everything in our Google Drive. And then
+ 
+
+00:12:52.240 --> 00:12:54.710 align:start position:0%
+everything in our Google Drive. And then
+we<00:12:52.399><c> get</c><00:12:52.560><c> a</c><00:12:52.880><c> comprehensive</c><00:12:53.600><c> list</c><00:12:54.079><c> of</c><00:12:54.320><c> all</c><00:12:54.560><c> the</c>
+
+00:12:54.710 --> 00:12:54.720 align:start position:0%
+we get a comprehensive list of all the
+ 
+
+00:12:54.720 --> 00:12:56.629 align:start position:0%
+we get a comprehensive list of all the
+file<00:12:55.040><c> names,</c><00:12:55.440><c> all</c><00:12:55.519><c> the</c><00:12:55.760><c> file</c><00:12:56.000><c> types,</c><00:12:56.480><c> their</c>
+
+00:12:56.629 --> 00:12:56.639 align:start position:0%
+file names, all the file types, their
+ 
+
+00:12:56.639 --> 00:12:59.269 align:start position:0%
+file names, all the file types, their
+last<00:12:56.959><c> modified</c><00:12:57.519><c> date,</c><00:12:58.000><c> their</c><00:12:58.320><c> size,</c><00:12:58.880><c> and</c><00:12:59.040><c> we</c>
+
+00:12:59.269 --> 00:12:59.279 align:start position:0%
+last modified date, their size, and we
+ 
+
+00:12:59.279 --> 00:13:01.030 align:start position:0%
+last modified date, their size, and we
+can<00:12:59.360><c> ask</c><00:12:59.519><c> it</c><00:12:59.680><c> for</c><00:12:59.760><c> the</c><00:12:59.920><c> sharable</c><00:13:00.399><c> link</c><00:13:00.639><c> if</c><00:13:00.880><c> we</c>
+
+00:13:01.030 --> 00:13:01.040 align:start position:0%
+can ask it for the sharable link if we
+ 
+
+00:13:01.040 --> 00:13:02.550 align:start position:0%
+can ask it for the sharable link if we
+need.<00:13:01.279><c> So</c><00:13:01.519><c> hopefully</c><00:13:01.839><c> this</c><00:13:02.000><c> gives</c><00:13:02.160><c> you</c><00:13:02.320><c> a</c>
+
+00:13:02.550 --> 00:13:02.560 align:start position:0%
+need. So hopefully this gives you a
+ 
+
+00:13:02.560 --> 00:13:04.790 align:start position:0%
+need. So hopefully this gives you a
+glimpse<00:13:02.800><c> of</c><00:13:03.040><c> the</c><00:13:03.279><c> sheer</c><00:13:03.839><c> firepower</c><00:13:04.399><c> that</c><00:13:04.639><c> you</c>
+
+00:13:04.790 --> 00:13:04.800 align:start position:0%
+glimpse of the sheer firepower that you
+ 
+
+00:13:04.800 --> 00:13:06.870 align:start position:0%
+glimpse of the sheer firepower that you
+could<00:13:05.040><c> have</c><00:13:05.600><c> just</c><00:13:05.839><c> by</c><00:13:06.000><c> adding</c><00:13:06.320><c> the</c><00:13:06.560><c> Google</c>
+
+00:13:06.870 --> 00:13:06.880 align:start position:0%
+could have just by adding the Google
+ 
+
+00:13:06.880 --> 00:13:09.030 align:start position:0%
+could have just by adding the Google
+Workspace<00:13:07.360><c> CLI</c><00:13:07.839><c> to</c><00:13:08.000><c> your</c><00:13:08.240><c> stack.</c><00:13:08.560><c> And</c><00:13:08.720><c> if</c><00:13:08.880><c> you</c>
+
+00:13:09.030 --> 00:13:09.040 align:start position:0%
+Workspace CLI to your stack. And if you
+ 
+
+00:13:09.040 --> 00:13:10.790 align:start position:0%
+Workspace CLI to your stack. And if you
+run<00:13:09.200><c> some</c><00:13:09.440><c> form</c><00:13:09.680><c> of</c><00:13:09.920><c> remote</c><00:13:10.399><c> personal</c>
+
+00:13:10.790 --> 00:13:10.800 align:start position:0%
+run some form of remote personal
+ 
+
+00:13:10.800 --> 00:13:13.350 align:start position:0%
+run some form of remote personal
+assistant<00:13:11.279><c> like</c><00:13:11.519><c> I</c><00:13:11.760><c> do</c><00:13:11.920><c> on</c><00:13:12.240><c> my</c><00:13:12.480><c> Telegram,</c><00:13:13.200><c> then</c>
+
+00:13:13.350 --> 00:13:13.360 align:start position:0%
+assistant like I do on my Telegram, then
+ 
+
+00:13:13.360 --> 00:13:15.590 align:start position:0%
+assistant like I do on my Telegram, then
+this<00:13:13.600><c> is</c><00:13:13.760><c> one</c><00:13:14.079><c> huge</c><00:13:14.480><c> gift</c><00:13:14.880><c> for</c><00:13:15.120><c> your</c><00:13:15.279><c> AI</c>
+
+00:13:15.590 --> 00:13:15.600 align:start position:0%
+this is one huge gift for your AI
+ 
+
+00:13:15.600 --> 00:13:17.430 align:start position:0%
+this is one huge gift for your AI
+agents.<00:13:16.000><c> And</c><00:13:16.160><c> like</c><00:13:16.320><c> I</c><00:13:16.399><c> said,</c><00:13:16.639><c> I'll</c><00:13:16.880><c> make</c><00:13:17.040><c> the</c>
+
+00:13:17.430 --> 00:13:17.440 align:start position:0%
+agents. And like I said, I'll make the
+ 
+
+00:13:17.440 --> 00:13:19.110 align:start position:0%
+agents. And like I said, I'll make the
+starter<00:13:17.839><c> prompt</c><00:13:18.160><c> to</c><00:13:18.399><c> set</c><00:13:18.560><c> this</c><00:13:18.720><c> all</c><00:13:18.880><c> up</c>
+
+00:13:19.110 --> 00:13:19.120 align:start position:0%
+starter prompt to set this all up
+ 
+
+00:13:19.120 --> 00:13:20.790 align:start position:0%
+starter prompt to set this all up
+available<00:13:19.519><c> to</c><00:13:19.680><c> you</c><00:13:20.079><c> in</c><00:13:20.320><c> the</c><00:13:20.480><c> description</c>
+
+00:13:20.790 --> 00:13:20.800 align:start position:0%
+available to you in the description
+ 
+
+00:13:20.800 --> 00:13:22.470 align:start position:0%
+available to you in the description
+below<00:13:21.360><c> along</c><00:13:21.600><c> with</c><00:13:21.760><c> these</c><00:13:22.079><c> additional</c>
+
+00:13:22.470 --> 00:13:22.480 align:start position:0%
+below along with these additional
+ 
+
+00:13:22.480 --> 00:13:24.389 align:start position:0%
+below along with these additional
+prompts<00:13:22.800><c> as</c><00:13:23.040><c> well</c><00:13:23.279><c> in</c><00:13:23.519><c> case</c><00:13:23.680><c> they</c><00:13:23.839><c> inspire</c>
+
+00:13:24.389 --> 00:13:24.399 align:start position:0%
+prompts as well in case they inspire
+ 
+
+00:13:24.399 --> 00:13:26.470 align:start position:0%
+prompts as well in case they inspire
+even<00:13:24.639><c> more</c><00:13:24.880><c> use</c><00:13:25.120><c> cases</c><00:13:25.440><c> for</c><00:13:25.600><c> you.</c><00:13:25.839><c> If</c><00:13:26.079><c> you</c><00:13:26.160><c> love</c>
+
+00:13:26.470 --> 00:13:26.480 align:start position:0%
+even more use cases for you. If you love
+ 
+
+00:13:26.480 --> 00:13:28.470 align:start position:0%
+even more use cases for you. If you love
+tips<00:13:26.800><c> and</c><00:13:27.040><c> tricks</c><00:13:27.440><c> just</c><00:13:27.680><c> like</c><00:13:27.920><c> this</c><00:13:28.160><c> to</c><00:13:28.320><c> take</c>
+
+00:13:28.470 --> 00:13:28.480 align:start position:0%
+tips and tricks just like this to take
+ 
+
+00:13:28.480 --> 00:13:30.470 align:start position:0%
+tips and tricks just like this to take
+you<00:13:28.560><c> to</c><00:13:28.720><c> the</c><00:13:28.880><c> next</c><00:13:29.040><c> level</c><00:13:29.519><c> in</c><00:13:29.839><c> Cloud</c><00:13:30.160><c> Code,</c>
+
+00:13:30.470 --> 00:13:30.480 align:start position:0%
+you to the next level in Cloud Code,
+ 
+
+00:13:30.480 --> 00:13:31.829 align:start position:0%
+you to the next level in Cloud Code,
+then<00:13:30.720><c> you'll</c><00:13:30.880><c> want</c><00:13:31.040><c> to</c><00:13:31.120><c> check</c><00:13:31.200><c> out</c><00:13:31.360><c> the</c><00:13:31.600><c> first</c>
+
+00:13:31.829 --> 00:13:31.839 align:start position:0%
+then you'll want to check out the first
+ 
+
+00:13:31.839 --> 00:13:33.590 align:start position:0%
+then you'll want to check out the first
+link<00:13:32.000><c> in</c><00:13:32.240><c> the</c><00:13:32.320><c> description</c><00:13:32.639><c> below</c><00:13:33.120><c> for</c><00:13:33.360><c> more</c>
+
+00:13:33.590 --> 00:13:33.600 align:start position:0%
+link in the description below for more
+ 
+
+00:13:33.600 --> 00:13:35.350 align:start position:0%
+link in the description below for more
+content,<00:13:34.160><c> more</c><00:13:34.399><c> tutorials,</c><00:13:34.959><c> and</c><00:13:35.200><c> more</c>
+
+00:13:35.350 --> 00:13:35.360 align:start position:0%
+content, more tutorials, and more
+ 
+
+00:13:35.360 --> 00:13:36.949 align:start position:0%
+content, more tutorials, and more
+skills.<00:13:35.839><c> And</c><00:13:36.000><c> for</c><00:13:36.160><c> the</c><00:13:36.320><c> rest</c><00:13:36.399><c> of</c><00:13:36.480><c> you,</c><00:13:36.720><c> if</c><00:13:36.880><c> you</c>
+
+00:13:36.949 --> 00:13:36.959 align:start position:0%
+skills. And for the rest of you, if you
+ 
+
+00:13:36.959 --> 00:13:38.949 align:start position:0%
+skills. And for the rest of you, if you
+found<00:13:37.120><c> this</c><00:13:37.360><c> video</c><00:13:37.680><c> helpful,</c><00:13:38.399><c> illuminating,</c>
+
+00:13:38.949 --> 00:13:38.959 align:start position:0%
+found this video helpful, illuminating,
+ 
+
+00:13:38.959 --> 00:13:41.269 align:start position:0%
+found this video helpful, illuminating,
+and<00:13:39.279><c> concise,</c><00:13:40.000><c> I'd</c><00:13:40.240><c> super</c><00:13:40.560><c> appreciate</c><00:13:40.959><c> if</c><00:13:41.120><c> you</c>
+
+00:13:41.269 --> 00:13:41.279 align:start position:0%
+and concise, I'd super appreciate if you
+ 
+
+00:13:41.279 --> 00:13:43.269 align:start position:0%
+and concise, I'd super appreciate if you
+leave<00:13:41.519><c> a</c><00:13:41.760><c> like</c><00:13:41.920><c> and</c><00:13:42.079><c> a</c><00:13:42.240><c> comment</c><00:13:42.480><c> on</c><00:13:42.639><c> the</c><00:13:42.800><c> video.</c>
+
+00:13:43.269 --> 00:13:43.279 align:start position:0%
+leave a like and a comment on the video.
+ 
+
+00:13:43.279 --> 00:13:44.790 align:start position:0%
+leave a like and a comment on the video.
+Really<00:13:43.519><c> helps</c><00:13:43.760><c> the</c><00:13:44.000><c> reach</c><00:13:44.160><c> and</c><00:13:44.399><c> helps</c><00:13:44.639><c> the</c>
+
+00:13:44.790 --> 00:13:44.800 align:start position:0%
+Really helps the reach and helps the
+ 
+
+00:13:44.800 --> 00:13:47.839 align:start position:0%
+Really helps the reach and helps the
+channel.<00:13:45.120><c> I'll</c><00:13:45.279><c> see</c><00:13:45.440><c> you</c><00:13:45.440><c> the</c><00:13:45.600><c> next</c><00:13:45.680><c> one.</c>
+
