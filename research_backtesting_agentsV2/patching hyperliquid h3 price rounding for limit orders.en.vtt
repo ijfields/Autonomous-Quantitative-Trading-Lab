@@ -1,0 +1,120 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:02.389 align:start position:0%
+ 
+Yes,<00:00:00.480><c> that</c><00:00:00.640><c> was</c><00:00:00.800><c> real</c><00:00:01.199><c> price</c><00:00:01.680><c> uh</c><00:00:01.839><c> formatting</c>
+
+00:00:02.389 --> 00:00:02.399 align:start position:0%
+Yes, that was real price uh formatting
+ 
+
+00:00:02.399 --> 00:00:04.150 align:start position:0%
+Yes, that was real price uh formatting
+issue.<00:00:02.800><c> I</c><00:00:02.879><c> found</c><00:00:03.040><c> the</c><00:00:03.280><c> rule</c><00:00:03.520><c> in</c><00:00:03.679><c> the</c><00:00:03.919><c> local</c>
+
+00:00:04.150 --> 00:00:04.160 align:start position:0%
+issue. I found the rule in the local
+ 
+
+00:00:04.160 --> 00:00:06.550 align:start position:0%
+issue. I found the rule in the local
+hyperlquid<00:00:04.799><c> SDK.</c><00:00:05.359><c> Per</c><00:00:05.680><c> prices</c><00:00:06.000><c> are</c><00:00:06.160><c> rounded</c>
+
+00:00:06.550 --> 00:00:06.560 align:start position:0%
+hyperlquid SDK. Per prices are rounded
+ 
+
+00:00:06.560 --> 00:00:09.830 align:start position:0%
+hyperlquid SDK. Per prices are rounded
+to<00:00:06.799><c> five</c><00:00:07.120><c> significant</c><00:00:07.680><c> figures.</c><00:00:09.040><c> Okay,</c><00:00:09.360><c> so</c><00:00:09.599><c> I</c>
+
+00:00:09.830 --> 00:00:09.840 align:start position:0%
+to five significant figures. Okay, so I
+ 
+
+00:00:09.840 --> 00:00:12.790 align:start position:0%
+to five significant figures. Okay, so I
+patched<00:00:10.160><c> it.</c><00:00:10.480><c> Ah,</c><00:00:10.800><c> nice.</c><00:00:12.080><c> Okay,</c><00:00:12.480><c> what</c>
+
+00:00:12.790 --> 00:00:12.800 align:start position:0%
+patched it. Ah, nice. Okay, what
+ 
+
+00:00:12.800 --> 00:00:15.829 align:start position:0%
+patched it. Ah, nice. Okay, what
+changed?<00:00:13.280><c> Added</c><00:00:13.759><c> H3</c><00:00:14.320><c> price</c><00:00:14.719><c> to</c><00:00:15.120><c> order</c><00:00:15.440><c> price</c>
+
+00:00:15.829 --> 00:00:15.839 align:start position:0%
+changed? Added H3 price to order price
+ 
+
+00:00:15.839 --> 00:00:20.310 align:start position:0%
+changed? Added H3 price to order price
+in<00:00:16.560><c> nice</c><00:00:16.880><c> funks.</c><00:00:17.359><c> H3</c><00:00:18.000><c> limit</c><00:00:18.320><c> order.</c><00:00:19.119><c> H3</c><00:00:19.920><c> lick</c>
+
+00:00:20.310 --> 00:00:20.320 align:start position:0%
+in nice funks. H3 limit order. H3 lick
+ 
+
+00:00:20.320 --> 00:00:23.189 align:start position:0%
+in nice funks. H3 limit order. H3 lick
+momentum.<00:00:21.439><c> That</c><00:00:21.680><c> matters</c><00:00:22.000><c> because</c><00:00:22.320><c> if</c><00:00:22.720><c> you</c>
+
+00:00:23.189 --> 00:00:23.199 align:start position:0%
+momentum. That matters because if you
+ 
+
+00:00:23.199 --> 00:00:26.950 align:start position:0%
+momentum. That matters because if you
+size<00:00:23.760><c> off</c><00:00:24.080><c> the</c><00:00:24.320><c> mid</c><00:00:25.039><c> but</c><00:00:25.359><c> submit</c><00:00:25.760><c> a</c><00:00:26.240><c> rounded</c>
+
+00:00:26.950 --> 00:00:26.960 align:start position:0%
+size off the mid but submit a rounded
+ 
+
+00:00:26.960 --> 00:00:29.830 align:start position:0%
+size off the mid but submit a rounded
+down<00:00:27.840><c> limit</c><00:00:28.160><c> price,</c><00:00:28.640><c> the</c><00:00:28.880><c> actual</c><00:00:29.199><c> order</c><00:00:29.519><c> can</c>
+
+00:00:29.830 --> 00:00:29.840 align:start position:0%
+down limit price, the actual order can
+ 
+
+00:00:29.840 --> 00:00:33.190 align:start position:0%
+down limit price, the actual order can
+fall<00:00:30.080><c> under</c><00:00:30.480><c> minimum</c><00:00:30.960><c> notional.</c><00:00:31.439><c> Yes.</c><00:00:32.880><c> Okay.</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+fall under minimum notional. Yes. Okay.
+ 
+
+00:00:33.200 --> 00:00:34.870 align:start position:0%
+fall under minimum notional. Yes. Okay.
+And<00:00:33.360><c> then</c><00:00:33.520><c> let's</c><00:00:33.680><c> get</c><00:00:33.920><c> this</c><00:00:34.320><c> because</c><00:00:34.559><c> this</c>
+
+00:00:34.870 --> 00:00:34.880 align:start position:0%
+And then let's get this because this
+ 
+
+00:00:34.880 --> 00:00:36.389 align:start position:0%
+And then let's get this because this
+there's<00:00:35.120><c> something</c><00:00:35.360><c> wrong</c><00:00:35.680><c> here</c><00:00:36.000><c> and</c><00:00:36.160><c> we'll</c>
+
+00:00:36.389 --> 00:00:36.399 align:start position:0%
+there's something wrong here and we'll
+ 
+
+00:00:36.399 --> 00:00:39.270 align:start position:0%
+there's something wrong here and we'll
+figure<00:00:36.640><c> it</c><00:00:36.800><c> out</c><00:00:37.040><c> because</c><00:00:37.280><c> we</c><00:00:37.440><c> always</c><00:00:37.760><c> do.</c><00:00:39.040><c> I've</c>
+
+00:00:39.270 --> 00:00:39.280 align:start position:0%
+figure it out because we always do. I've
+ 
+
+00:00:39.280 --> 00:00:41.920 align:start position:0%
+figure it out because we always do. I've
+already<00:00:39.520><c> updated</c>
+
