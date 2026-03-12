@@ -1,0 +1,357 @@
+We're hitting 900 megabytes a second for
+$20. Making YouTube videos requires
+cutting through tons of footage. And to
+do so efficiently, it's not exactly a
+huge team here. You need a fast
+computer, which means I've basically
+been the younger sibling that never gets
+to play on the Xbox for months now,
+except with my personal computer.
+Thanks, editor.
+Very funny. Fortunately, my shiny new
+titanium rig is ready to take its place.
+But before old Bessie here can ascend to
+a torturous life in an Adobe themed
+hell, there's a much bigger problem.
+The townhouse I rent only has Cat 5e
+Ethernet. It's much better than Wi-Fi,
+sure, but for video editing on network
+storage, you need fast. Like 10 gig
+fast. But Jake, I read the Cap 5B can't
+do 10 gig. Sure, that's what the spec
+says. But what if I told you in the real
+world with a little bit of care, Cat 5e
+can easily handle full 10 GB speeds,
+even running all the way down to the
+home data center. And that you can do
+the same in your own house with your own
+NAS or pair of computers or whatever
+with these Intel 10 gig nicks, which you
+can find on eBay for like $10. I bet
+you'd like that, huh? You dirty little.
+Now, I'm sure your next question is, why
+not just put the editing rig right next
+to your NAS? Then I don't have to worry
+about the networking. You think I
+haven't thought of that? Hm. The problem
+is the power in here is already totally
+maxed. I don't I don't even actually run
+this 3D printer. It's just down here
+because I ran out of space upstairs. So,
+that PC needs to go somewhere else. Like
+maybe this bathroom up here. It's got
+its own circuit. What for blow drying
+your hair? And um I don't usually shower
+in here.
+It's just that there's no Ethernet in
+here for obvious reasons. You know where
+there is internet?
+Here in the kitchen, right next to this
+20 amp electrical outlet,
+huh? Don't worry, my partner's not home.
+And by the time we're done, it's going
+to be too late for them to do anything
+about it. Oh god. Wow. That is some uh
+workmanship.
+Now, you might be wondering why there's
+an Ethernet jack in the kitchen. That's
+because this is meant for a phone.
+That's why there's only two wires in use
+here. The rest of them are all wrapped
+around. That wouldn't fly for our 10 gig
+Ethernet, and neither would this. For
+Cat 5e to work at 10 GB speeds, it needs
+to be terminated really well. So, the
+amount of untwisted pairs you got, oh my
+god. Oh, and it's like kinkedked, too.
+needs to be like a quarter of an inch,
+not um that's like uh 6 in probably. You
+sick. For the record, I already
+terminated this cable downstairs like 2
+years ago or something like that. I just
+never made use of it. So, we really only
+just have to terminate this side. I am
+going to pull a bit back though. Oh. Oh,
+he's discovered the hole. You know,
+there could be mouses in there.
+Can I get in there?
+Sorry, landlord.
+Canipex. Canipex.
+Recognize the colors. Link in the
+description. Also down there will be all
+the other stuff we featured today. And
+while you're down there, get subscribed.
+Okay. God. There are two different types
+of Ethernet terminations. You can do a
+mail jack like this. This is the pass
+through type that everyone said I was
+psychotic for not using last time when I
+did Alex and Andy's internet upgrade. Or
+keystone jacks. And this is what we're
+going to be using because this is what's
+meant to be used when you're installing
+it in a permanent location like this.
+With our pairs untwisted, stick the
+little toolless thingy on. And then we
+need to pull the wires into their
+correct position, which um there's two
+different ways to do it. There's a B
+termination and an A termination. Most
+of the time people use B nowadays, so
+that's what I'm using. And that's what I
+did on the other side. If you do the
+opposite, you have made a crossover
+cable, which unless you have a reason to
+need a crossover cable, it's not going
+to work very well for you. We're gonna
+do B.
+&gt;&gt; White, blue into the white blue spot.
+Blue into the blue spot. You see the B
+there? That means the green goes over
+here for a B termination. Boop, boop,
+boop. And then the same on this side.
+And then just to make sure that the
+wires are like really in there because
+sometimes they don't quite align super
+correctly, I usually just take my pliers
+and just just do them like a slight push
+into the little spots. We trim off the
+extra
+and then you stick it in the hole.
+And we're not Normally you would put a
+cover plate here, but um I neglected to
+order one. So she's fine. The wife's not
+even going to see it. There's going to
+be a giant computer here blocking it
+anyways. It's fine.
+See, it's mint. Can't even tell.
+There's nothing weird about this at all.
+I mean, an RTX 5090 in your kitchen. I
+like it. Also has a 9800 X3D. The 96 GB
+of RAM that I put in the Titanium PC
+because, yep, editors get priority. I
+guess I don't need 96 gigs of RAM to
+play video games, right? What I do need
+is my Linux boot drive. O. Oh, that was
+very unpleasant.
+In goes
+the cheapo random Intel SSD that I put
+Windows on because to be honest, if I
+made my editor use Linux any longer, I'd
+probably get murdered. I'm also probably
+going to get murdered for this. So, last
+but not least, our network card. This is
+an Intel X540T.
+It's a dualport 10 GB network card. It's
+PCIe Gen 2 by8. So, it's important that
+whatever slot you plug it into and
+whatever computer you're using has at
+least a BY4 slot because if you go in a
+B1 slot at PCIe Gen 2 speeds, that's
+only like 500 megabytes a second. Maybe
+that's fine. Usually, the fan on the
+inside is like toast or really noisy.
+So, I actually removed it and in place
+I'm going to stick this cute little
+knock to a fan I stole from a 3D
+printer. I wouldn't recommend not
+running a fan though because when they
+overheat, they just disconnect. Let's
+stick it in. Woohoo! Look at how
+professionally installed this fan is
+going to be. It It's janked. But you
+basically just need any amount of air
+flow to cool these things.
+And since I have no idea which cable it
+is downstairs, we're going to use this
+handy dandy little Klein probe tool. You
+just turn it on. It's probing between
+800 and 1,000 hertz. Stick it into the
+cable and then you use the probe and you
+can hear the little song it plays. Let's
+go find it. No.
+No.
+Hey, the system works. This patch panel
+is kind of a piece of crap, but it is at
+least Cat 6 rated. And I did terminate
+it um as tightly as I possibly could.
+We'll see if it works at 10 gig speed.
+There you can see what a good male
+termination is supposed to look like.
+It's nice and tight with like barely a/4
+in of untwisted pair. Plug that in.
+This cable is Cat 6A, so it's uh nice
+and thick and shouldn't cause any
+problems.
+Got to be that one. And now another
+termination. Heck, if you still don't
+believe that Cat 5e works, consider
+this. It's like a 60 ft run from the
+garage up to the kitchen and then it's
+patched in the garage another like 20 ft
+into here. There's going to be loss at
+that patch obviously. And then it's also
+patched here. That's three separate
+connections when you include the patch
+cable we're going to put in upstairs.
+And uh I guarantee you it's going to
+work at 10 gig 100%. I am that
+confident. Okay, it's too close. Now
+that we've got a 10 gig nick in the
+computer, it's patched in the rack. We
+can plug in our other side. Now, if you
+were just trying to go for the most
+basic setup, get a second X540 T2. Stick
+it in your NAS if you can, and boom,
+you've got a direct 10 gig connection.
+You just got to set some static IPs. If
+you want to share it with multiple
+computers, you don't need a like insane
+ubiquity switch like this. You can pick
+up something like this Mooker link one I
+found on Amazon. It's got six 10 gig
+ports. Two of them are SFP, four of them
+are RJ45. But what you might also want
+to plug into it is today's sponsor, UG
+Green, and their new AI NAS. This thing
+is crazy. It's got dual 10 gig ports.
+You can plug your crazy computer right
+into that, no problem. It can support up
+to 196 terabytes thanks to its six hard
+drive bays. That's good enough for
+literally millions of photos, thousands
+of movies. This thing has a 14 core
+Intel processor with up to 64 GB of
+LPDDR5X memory. That good enough to run
+local AI models. It's like having your
+own private cloud except without the
+monthly subscription. With their
+universal search, you can use simple
+keywords to find whatever you're looking
+for across photos, videos, documents.
+Like, look, I typed in license and it
+found it right away. And with their Ulia
+localhosted smart assistant, you can use
+natural language commands and
+instructions to interact with your
+files, like having Ulia summarize long
+and complicated documents, or using
+smart commands to find movies or songs
+you want to listen to without scrolling
+through lists of files. Heck, it can
+even do voice memos where your NAS
+locally transcribes the audio,
+summarizes key points, and can even
+generate cute little mind maps like
+this. And it's fast, too. They've got
+support for up to two NVME SSDs, the
+dual 40 gig Thunderbolt ports up front.
+And they even have an SD card if you
+need to ingest media off your camera,
+you're filming, you're taking photos,
+and if you are, you should be taking
+control of your data, too, by checking
+out the UG IDX 6011 AIS at the link down
+in the description. What are you waiting
+for? Just go check it out. It's
+genuinely sick. And honestly, I'm
+probably just going to use that as my
+backup NAS because I do already have
+this NAS, which already has an X540 T2
+in it. That thing has been in there
+probably 5 years and it's just rock
+solid. Patch it in and then let's go
+turn it on. For remote access to our
+computer, I'm going to be using this
+GLET Comet Pro KVM. It's very nice. Just
+plugs right in like this. HDMI power and
+then the USB connection for like the
+virtual keyboard and mouse. And then
+we've got our 10 gig. Very nicely cable
+managed and blue and really matches the
+kitchen.
+And then we just need power. Green is 10
+gig. Yes.
+Yeah. You didn't believe me. And I I I
+knew it was going to work. I was a
+little nervous it wasn't going to work.
+And would you look at that? Number 19,
+Jake. It's working. Woo.
+Okay, let's let's do a file transfer or
+something. By default, if you're on
+Linux, the X540T2 is just going to work
+right out of the box. The driver is
+baked into the kernel. On Windows,
+however, it is not. So, you have to
+download it. And for some reason, Intel
+removed the downloads from the X540 T2
+product page. So, in order to get
+drivers for it, you have to download the
+complete driver pack for Intel Ethernet
+adapters from their website. Just click
+download here. Then, open up device
+manager. Find our two missing Ethernet
+controllers here. Click update driver.
+Browse computer for driver. And then
+select the folder we extracted earlier.
+Release 31. Click okay. And just make
+sure you have include subfolders
+checked. Next. Can't verify the
+publisher of this driver software.
+Install it anyways. We don't care about
+that. We just downloaded from the Intel
+website. For the other one, same deal.
+Update driver. Just click the search
+automatically one because it's already
+in the driver database. And now we can
+test it. Nine G. Well, it's going
+between 7 and 8 and 9 GB. That's close
+enough for me. I don't think that's a
+problem with the network card. I think
+that's a problem with the SSD in this
+computer being kind of a turd. And um
+Windows file copy not being the most
+amazing thing ever. But look at that.
+We're hitting 900 megabytes a second for
+$20. And a RTX 5090 computer. Look, it
+works in any computer. Okay? As long as
+you have a PCIe slot, that's all you
+need. I can believe it works. I was
+going to say I can't believe it works,
+but I knew that this was going to work.
+Try it in your own house. And if you
+don't have Cat 5e in the walls, maybe
+just run some Ethernet. Now you know how
+to terminate it properly, right? Pretty
+cool. And then we'll go back the other
+way. Boom. Same deal. 800 900 megabytes
+a second. Basically 10 gig. It's a
+little bit slower the other way. Look, I
+told you guys my NAS was being slow. I
+need to put the Mac Mini in the rack. I
+haven't done that yet. Might as well get
+my head start. I might be sleeping here
+for a little bit. Is this um is this
+okay to be in the kitchen?
+&gt;&gt; I don't care. You really want me to say
+no?
+&gt;&gt; What? This doesn't bother you?
+&gt;&gt; No. There's already everywhere. It's not
+like it makes that big of a difference.
+&gt;&gt; Oh my god. So, there you have it. You
+should put an editing rig, a gaming rig,
+whatever you want in your kitchen. We
+got approval from uh uh the boss, and uh
+I think that she can speak on behalf of
+all other bosses to say that this is
+acceptable. And uh you have your
+computer in the kitchen pass now. You're
+welcome. And since you owe me a huge
+favor now, I'm gonna ask you to get
+subscribed, hit the like button, and let
+me know down in the comments if you've
+ever run 10 gig over Cat 5e. Let me know
+how your experience has been because
+I've been doing it for a while and now
+I'm doing it even more apparently
+approved manner.

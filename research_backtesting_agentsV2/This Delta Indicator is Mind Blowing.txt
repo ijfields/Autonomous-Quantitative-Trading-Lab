@@ -1,0 +1,86 @@
+Dude, yes. This is exactly what we
+wanted. Okay, so I have an insane idea
+for an indicator and I want to see if
+Quant can build it. So I want to build
+an indicator that is essentially topdown
+analysis for delta, but you can visually
+see the candle deltas on multiple time
+frames. If my chart is on the five
+minute time frame, I want to see the
+delta values under the candles on the
+chart. But to the right of price, I also
+want to see the delta values of three
+different other time frames. So
+essentially, I want to see the delta for
+the chart that I'm on. And then to the
+right of price, I want to see uh higher
+time frame candles with the delta as
+well. Let's see what this builds. All
+right, so just like that, it built it
+out. We have our code here, top down
+delta analysis. I'm just going to copy
+that. Go over to trading view and then
+pine editor. And I'm going to create new
+indicator. And I'm going to paste that
+in and add it to my chart. Okay, so we
+currently have our delta values
+underneath each candle. Exactly what I
+wanted. And then to the right, we
+actually have a dashboard here that
+floats in the middle of the screen,
+which is nice. Uh, so I can see the 15
+minute, 60 minute, and then the 4 hour.
+And it does let me change that as well.
+Now, this is awesome. It's a good start
+of what I wanted. I can see the
+15-minute has a bullish delta right now,
+while the 60-minute is still in a
+bearish delta. I want to see those
+candles on my chart. So, I'm going to go
+back to quant. All right. So, I said
+this is a good start. Now, instead of a
+dashboard, I want the higher time frame
+candles to appear on my chart, like PO3
+indicator, so I can see how the candles
+are forming in real time. So, Quant's
+going to build this out. You can already
+see remove the dashboard table. I'm just
+waiting for the new code. All right, so
+we just got our code back. It changed
+the name a little bit. Htf delta P3.
+Okay, so it's understanding we want the
+P3. So we copy the code here. Let's
+bring that over and see and add it to
+our chart. Dude, yes, this is exactly
+what we wanted. Okay, so the 15-minute
+here, you can see this is the 15-minute
+candle. That' be the 60-minute candle,
+240. We can change that to show 4 hour,
+but we can see how each candle is
+forming in real time with a delta.
+What's actually interesting is I want to
+know how much time is left in these
+candles. So that's the next thing we're
+actually going to add. So I'm going to
+go back to quant. So all I said was I
+would like to add a countdown on each
+higher time frame candle so I know how
+much time is left in that candle. So I'm
+going to send that and we'll wait for
+the code to update again. All right. So
+we have the updated code again. I'm just
+going to copy it. Go back over to
+Trading View. Paste it in here. Refresh.
+Perfect. Okay. So you can see the
+countdown. We have an hour and 9 minutes
+on the 4 hour. Uh we have 9 minutes left
+on the 1 hour. 40 seconds left on the 1
+minute. That's exactly what I want
+because now I know if we're in the back
+half of a 4 hour or in the front half of
+a 4 hour, I can see how much it's
+accumulated. If you want to build an
+indicator just like this with your very
+own idea or the exact same idea I had,
+comment the word quant and I'll send you
+the link.

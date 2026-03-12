@@ -1,0 +1,56 @@
+There's a lot of tools out there for
+trading S&amp;P zeroday options, but the
+trend spread engine from Alpha Crunching
+is the only tool that combines trend
+analysis, strike selection, time of day
+with back testing and real-time alerts
+with levels into a single system
+designed specifically for trading S&amp;P
+zero DTE credit spreads. Now, here's how
+it works. Every day, the trend spread
+engine posts a zerodte credit spread
+trade in our Discord server from 10:00
+a.m. to 3:00 p.m. Eastern time. Each of
+those trades are put into the database
+and then we run a report each week that
+you can check on Sunday to know which
+time frames have been the best
+performers over the last 90 days. In
+this particular update, we can see the
+top time frames are 10:30, 10, 10:15,
+11:30, and 12:15. Those are the top
+five. So, in the upcoming week, these
+particular time frames, whatever the
+trend is, those credit spreads will be
+posted as levels that you can trade off
+of. And let's go ahead and take a look
+at that. Now, here's the latest alert on
+the Discord server, and we can see that
+this is at 11:30 a.m. We post the
+strikes for the alert, but we also post
+a chart that shows you which time frames
+were in the top five and includes the
+win uh rate or the percentage over the
+last 90 days, that was from the weekly
+report. What this means is that over the
+last 90 days, the 10:30 a.m. trend
+spread expired worthless 91.8%
+of the time. You can see the 10 and
+1015. So, these are great levels to work
+with if the market starts to rally back
+up. You can then sell credit spreads
+above or wait for the trend to reverse
+um and and might start putting out put
+credit spreads. Today happened to be a
+more bearish day, so we're going to see
+more call credit spreads here, but these
+are some great levels to work with for
+trading S&amp;P credit spreads. We know that
+these uh levels are back tested and we
+give you the win rates over the past 90
+days. Again, this is all based on the
+trend spread engine from
+alphaccrunching.com.
+To learn more, check out the blog on
+alphaccrunching.com. And I'll see you in
+the next video.

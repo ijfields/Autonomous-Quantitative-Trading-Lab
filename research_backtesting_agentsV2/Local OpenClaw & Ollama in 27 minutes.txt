@@ -1,0 +1,670 @@
+This tiny computer runs my Open Claw
+locally 24 hours a day. No cloud APIs,
+no token costs, and even if the internet
+goes down, it's still working. But
+getting this system working was way
+harder than I thought. I had to test
+different local models, configure
+networking, and even split the system on
+two machines. In this video, I'm going
+to show you how to run Local Claw
+locally, how to pick the right models
+for your computer, and a setup I'm using
+at home with a Jetson Nano and an old
+gaming laptop. Why should you run Open
+Claw locally? First of all, Open Claw is
+expensive to run. It eats up a lot of
+tokens and before you know it, you run
+out of credits or you're spending $100,
+$200 on your Open Claw. Secondly, if
+you're concerned with privacy, you don't
+want to send all your data to a public
+LLM.
+Everything stays within your network and
+nobody else can see your data. Most
+importantly, what I found was that my
+open claw keeps going down because
+either I'm out of credits or claw just
+went down the other day. The servers all
+went down and I couldn't call anymore.
+So when your cloud provider is not
+working for whatever reason, it's
+updated as model. You always have
+something running as long as your local
+server is running. So your open claw is
+available to you at all times. Another
+thing that caught me by surprise is that
+when I first started using Open Claw, I
+was able to use it with my OpenAI
+subscription, my Claude code
+subscription, and my Gemini
+subscription. And now Gemini and Claude
+bans users who use the pro plan with
+their open claw. So now you don't have
+to worry about the policies of all the
+different AI providers. You have full
+control. But I must also say that the
+concept of local AI is really good. But
+getting it running locally, it's really
+hard. Complex setup, you have to
+understand networking configurations.
+You have to have the hardware. You need
+to have a fast computer. Otherwise, it's
+just super slow. And it's taken me more
+time to fix and configure things than I
+would like. Running Open Claw locally
+gives you a lot of freedom, but you also
+become the system administrator. But
+what does running open claw locally
+mean? Actually, I think there's two
+components. Number one is where does
+your open claw run? And then open claw
+needs to call an AI model to process the
+request. And where is that AI model
+running? You can have a cloud setup
+where your open claw is hosted on a
+server somewhere on Amazon on hosting
+wherever it is and then that open claw
+calls open AAI or claude. That's a fully
+cloud setup or you can have a fully
+local setup where you have a machine and
+it runs open claw and on the machine
+have a local llm model running so it can
+provide the responses to your open claw
+or you can have a hybrid setup where you
+buy a Mac mini and it's running openclaw
+right in front of you in your house but
+it's calling open AI cloud gemini and
+that openclaw calls a cloud LLM. So,
+we're going to cover how to run OpenClaw
+locally on your own device and hosting
+the AI model locally within your house.
+We're going to go through two examples
+in this video. The first one is the
+beginner setup, which is everything on
+one machine. I'm going to show you how
+to install OAMA and then using OAMA,
+install Open Claw, and then run a local
+model. So, that's the beginner setup and
+then we're going to go [clears throat]
+into my current setup. I have a Jetson
+Nano which is like a tiny computer
+almost like a Raspberry Pi running open
+claw and then I have an old gaming
+laptop that's running Lama and serving
+the AI model. Why? Because number one, I
+don't want to run open claw on my
+MacBook because of security reasons. And
+number two, my MacBook is really slow.
+So when I talk to Open Claw, it takes a
+long time for it to respond. So, by
+running it on a old gaming laptop, I get
+much better performance. And I'm going
+to go into how to set that up. And I
+also want to show how you don't have to
+buy a super powerful computer like a Mac
+Mini to do this. You can do this on some
+computer you have lying around, an old
+gaming laptop, and put them together and
+make your own local Open Claw setup.
+Okay, enough talking. Now, let me show
+you step by step how to set up Open Claw
+on your own computer. The first thing
+we're going to do is go to alama.com and
+install Alama. There are two ways to do
+it. Either you can run this terminal
+command or you can download a lama. So
+you can press download and install it
+there. But the best way to use a lama is
+through the terminal. I'm going to copy
+this command and then just run the
+command. And then I can run a lama by
+typing in a lama. And now I can run a
+model launch cloud code launch codeex
+launch open claw. So, let's start with
+running a model. And then you're allowed
+to choose different models. And it's
+giving me recommendations based on my
+specs. The recommended list is not the
+best. So, you can choose, you know, GLM
+4.7 Flash if you wish just to get
+started. I already have a model
+downloader, so I'm going to use that.
+And I'm going to show you how to pick
+the best one and update that later. And
+I'm going to give it a test. Hi. All
+right. And so, Alama is running. And now
+let's download Quen 3.5. So I go to a
+llama. I click on models. I click on
+Quen 3.5 and I'm going to select Quen
+3.59B latest. Copy this. And then I type
+in OAMA run and then paste Quen 3.59B.
+And it's going to start downloading the
+model. And let me run that model. Okay.
+And it's done. So let's give it a test.
+Hi. And it works. The next thing we're
+going to do is a new thing that open
+claw has enabled which is you can now
+use lama to install open claw. To
+install open claw with lama all you need
+to do is copy this command. Alama launch
+open claw. Copy it. Then go to your
+terminal and paste that in. And then
+it's telling me to choose my model. I'm
+going to choose quen 3.59b. I understand
+the risk. Okay. So, it's finished
+installing and I just sent it a message
+saying, you know, I'm Keith and it
+responded, but it's taking a very long
+time. So, the problem with Quen 3.59B is
+that it's got reasoning and it thinks a
+lot before it does that. So, I'm going
+to tell Open Claw to set it to no think
+mode. It's taking too long to respond.
+Okay, now it's set it to no thinking
+mode. So, it should be faster. Now, now
+that you're set up, you also want to
+make sure your web interface is working.
+So when you first installed it, you
+should have an address like 127.0.0.1
+18789. So let's go to that. We've opened
+our browser and then we're going to
+paste in the address. Now it's going to
+say gateway token missing. When you
+first install it, it should display a
+URL with a token equals something. And
+in my case I need to come to overview go
+to open gateway token and my gateway
+token is a llama. I press connect click
+refresh and once I click refresh
+I can see that on the top right the
+health is okay and I'm connected is all
+green. You can click on overview and see
+stat is okay. Then if I come to chat,
+you're going to see that the messages
+that I've been sending earlier are
+working. And I can also chat here. So
+let's give it a try. And it's responded
+to my high. It's working.
+Congratulations. You have local llm
+working with your open claw. I know that
+a lot of people already installed open
+claw. And if you're not using lama to
+install open claw, how do you add lama
+to your existing open claw? Well, if I
+come here in my web dashboard, I come to
+config and then I click on raw, you're
+going to see the configuration file. And
+in the configuration file, you can
+change your configuration file to
+models, providers, or llama. And then it
+sets it to quen 3.5 9b. But I have to be
+honest with you, I hate changing the
+config file. It's really hard. You keep
+making mistakes and it doesn't work. So,
+what's the best way to do it? I'm going
+to show you two ways to do it. Number
+one, we're going to use any vibe coding
+tool you have, OpenAI codeex or Claude
+Code or Gemini, whatever you have, you
+can use that to add to your model list.
+And then number two is to directly tell
+Open Claw to update your config file to
+include Lama in your model selection.
+So, let's go back to our terminal
+interface. And if I select slash
+open model picker, it's going to allow
+me to search. I'm going to type in a
+lama. Right now, it's only got a llama
+quen 3.5 9b. Now, let's say it's not
+even there. How do I add new models to
+that? So, I'm going to exit this. And
+you can use whatever you like. I'm going
+to use claude. And I'm going to bring up
+our llama. You can see I have GMA 3 4B
+which I downloaded a long time ago and
+it's not available in my model list. So
+let's add that. I'm using open claw menu
+and new addama
+3 to my config get as a model. So what
+it's going to do is that it's going to
+search all the files on my computer find
+the config file and it's going to add to
+my config file so then they can find my
+model and it's done. So, it's found the
+config file and it's added GMA 4B
+automatically without me manually going
+in and making a mistake. Let's go open
+model picker. Okay. And you can see that
+now it's added GMA 4B. And before this,
+I realized I needed to restart my
+gateway for it to recognize. So, what
+you do is you need to type in open claw
+gateway restart and it will refresh and
+reload config. and then you'll be able
+to find the new model you just added. So
+that's the easiest way to add your lama
+models to an existing open claw when you
+haven't installed it using. And the
+other way is if you're already connected
+to a cloud platform and you can chat
+with open claw. What you can do is you
+can say can you add gamma 3 to my config
+file so I can choose as a model. Now
+that will work too but sometimes I
+realize it does funky things. The best
+way is to use Claude Codeex or Gemini,
+whatever AI coding agent you have to do
+it, but this also works too. So you can
+try that. And then the last way is to
+just go in into your config file and
+modify the configuration file manually.
+Now that we have open claw installed,
+this is the hardest part, choosing the
+right LLM for Lama. And the trick is you
+have to download another software
+because in Olama it doesn't give you
+much information. So download LM Studio,
+try out different model and then once
+you find the best model, run it in O
+Lama because Lama works better with Open
+Claw. It's got a smaller footprint and
+it just runs better. So go to
+lmstudio.ai and then download the app.
+And once you have it, click on the
+search icon, click on the discover icon,
+and you'll see all this great
+information. Compared to Lama, which
+only gives you the model name, LM Studio
+gives you a lot more. Most importantly,
+it gives you a best match. So, it
+recognizes your computer's
+specifications and then recommends the
+best one for you. What you have to pay
+attention to is two things. Number one,
+how big is the model? So, the larger the
+model size, the more powerful it is, but
+also the longer it takes to run. So,
+it's recommending a lot of smaller
+models for me, like 9B, 1.2 billion. But
+let's look at the most downloads. You
+have ones are 20 billion, 30 billion,
+and that's just too much for my computer
+to run. The second thing you should look
+for is you probably want to look for a
+model that is compatible with tool use
+because it means it's designed for agent
+use like Open Claw. So, pick models that
+have this symbol on it and then just
+click download. And after you've
+selected it, you need to give it a test
+run to test it speed and its
+performance. So, let's give it a try.
+I'm going to load a model and right now
+I have Quen 4B
+and I'm going to type test. Okay, so it
+came back and you can see that this took
+about 10 seconds and for me this is a
+little bit slow for me. I want something
+faster. So I'll test a different model.
+So keep testing to find the one where
+the speed is good for you and also
+you're happy with the results it's
+giving you. All right, I've been testing
+a lot of models and I made another video
+on setting up your own local AI, but
+here's what I found. It's basically a
+balance between speed and performance.
+So, with Open Claw, a lot of people say
+Kimmy K 2.5 is really good. It is really
+good. The results that it comes back
+with is really good, but my computer is
+not fast enough to run it. So, I get
+super slow response speeds. Then I tried
+using LFM2, which is super fast and
+lightweight. is one of the smallest and
+fastest models out there. But the
+results that it gives me are not very
+smart and I've switched to the current
+winner is Quen 3.59B. In terms of speed
+and performance is the best one so far
+on the market. But the key is you have
+to keep constantly updating. I was using
+Quen 3 6 months ago and now the model
+has improved so much. So, the key is to
+check for new models every month or two,
+play around with it in LM Studio, and
+then strike a balance between speed and
+quality. And I'm excited because the
+open- source models you can download are
+getting much better very quickly. Okay,
+now we're going to go into a more
+advanced setup. And this is my setup. I
+have a Jetson Nano, kind of like a
+Raspberry Pi, running my Open Claw. But
+although it is a cheap device, it's not
+powerful enough to run AI models on it.
+So I can only run open claw. So I use my
+old gaming laptop and on that I install
+llama and I run my AI model on that. Why
+don't I just run open claw on my gaming
+laptop as well? Well, because my gaming
+laptop is not designed to be run 24/7.
+And I do want it to run 24/7 because I
+want to message it at any time and I
+want it to run tasks overnight. is not
+designed for that. The Jetson Nano is.
+So, I have both computers running at
+home and this only turns on when I need
+to run AI models on it. And why the
+Jetson Nano? Well, I wouldn't recommend
+it. It's just something that I have
+lying around. The best option is
+actually a Raspberry Pi. So, you can get
+an $80, $150 option out there where you
+can buy a Raspberry Pi, buy a nice
+little case, and you can leave it on
+running with low electricity costs 24/7,
+no problem. or you can get a Mac Mini.
+More expensive, but you can even run
+your LL models allin-one. So, it depends
+on your budget. Enough talk. I'm going
+to show you my setup with a Jetson Nano
+running Open Claw and having my old
+gaming laptop as a Lama LLM server
+connecting to each other. Here's my
+Jetson Nano. I bought a little case and
+it even shows the temperature, the CPU
+usage, the RAM.
+That's my Jessen Nano running 24/7.
+Here's my old gaming laptop. It's
+running. It's on. And the screen isn't
+even on to conserve energy. And I'm
+plugged it in so that it can wake on
+LAN. I'm on my Windows machine right
+now, which will act as a server to my
+JSON Nano. And I've gone to the website.
+I've copied the command, which is this
+command. And now I'm installing it on my
+Windows machine. So, I typed in
+terminal, open terminal, and now it's
+installing OAMA. And so, I've installed
+it. And the next thing you need to do is
+to download a model. So, all you need to
+do is put in this command, Alama run,
+and then copy the model name and put it
+in. So, you can go to models. We're
+running Quen 3.59B. Copy that and then
+paste it in and then hit enter. And it
+will download the model and also run it
+at the same time. Okay. And it's done.
+So, let's give it test. And it's work.
+Okay. And it's working. So, I'm going to
+just exit this for a little sec. I'm
+going to exit this. Now, this is only
+running on my Windows, but in order for
+it to be a server, I need to allow other
+computers to access my Windows. So,
+first of all, I need to type in IP
+config. And you'll see that my IP
+address is 1 192.168.68.62.
+So I need to remember this address.
+Going to copy it. Then you have to run a
+command calledama serve. Now you'll see
+that right now it's serving on what's
+called localhost 11434,
+port 11434. And even though this is on,
+it doesn't mean that my other devices on
+the network can access it. So, I'll need
+to set the IP to the IP we just
+discovered earlier. So, I'm going to
+come out of here and I'm need to type in
+this command dollar sign envah host
+equals and then we're going to put in
+the address we did earlier. Okay, I put
+in the address and then now I type in
+serve and the host is now at this
+address. So from my other devices, my
+Justin Ano, I can now call this address
+and it should be able to communicate
+with it and use this as my server for my
+open call. But every time you turn off
+the computer and you restart it, your IP
+address may change. So I'm going to show
+you how I set a static IP on my router.
+And there's more. I'm gonna put this on
+wake on land. So then my computer can
+turn off when it's not being used and
+then only when it's being called by my
+open call, it'll wake up, turn on the
+power and then run the llama. Every time
+my gaming laptop shuts down and then
+powers on again, it will get a new IP
+address. And I don't want that because
+if my Justin Nano is calling it, we want
+a fixed address so it knows exactly
+where it is. So depending on your router
+settings, this is my router. I use TP
+link. What I do is I can come to more. I
+come to advanced.
+I go to address reservation.
+And basically I've reserved my device to
+always have a static IP on 192.168
+6865.
+And so it's fixed and that's reserved
+for my Alama server running on my gaming
+laptop. So depending on your router
+settings, you need to set a static IP.
+And that's how you set it. Now I'm going
+to show you how to set some settings. So
+then you can have the computer turn off
+and then wake on land. So it only turns
+on when you actually need to use it. I'm
+going to go and restart my
+Windows.
+And then while it's restarting, just
+keep tapping the delete button to bring
+up the BIOS. Okay, now the BIOS is
+brought up. You want to go to advanced.
+You want to enable USB power and sleep
+in hibernation. You want to disable
+fast boot and then you want to enable
+wake on land and then you save and
+reset. Now depending on your machine,
+you might have a different BIOS. So
+check with AI what settings you need,
+but generally that's what you need to
+enable wake on land. One more thing,
+just make sure you use an Ethernet cable
+so you have a cable plugged in because
+it doesn't wake up if it's just on
+Wi-Fi. Now that I have Alama as a
+server, there's a quick little tip. By
+default, the context length might be too
+small. And so, you need to go and type
+in a command that says show and then
+quen 3.59B and it will show you your
+context length. So right now it's at
+26,000 2,144.
+So I've increased it, but you might just
+see 4,000 here. And if that's the case,
+you need to increase it to a
+recommendation of at least 16,000. The
+way to set the context length is to
+enter run your model name dash context
+and then enter your number. Play around
+with the number. Obviously, the larger
+the context length, the better. But
+also, if you have a really long request,
+it might crash your computer. So, play
+around with this number. I've set mine
+to 26,000. At the minimum you should set
+it to is around 16,000. Another thing
+that I did was that once I've got the
+llama running, I don't want my gaming
+computer to be on all the time because
+it's not designed that way and it'll
+overheat really quickly. So, what I've
+done is I've gone into my system power
+and battery. I'm going to turn off my
+screen after 5 minutes of nothing going
+on. And then it will hibernate after 10
+minutes. And if it goes to sleep, that's
+fine. We're going to wake on land. So
+then when my other devices call this
+device, it will wake up. So how do you
+do that? Well, you have to come to your
+device manager and you have to look for
+your internet connection devices. So I
+have my Wi-Fi and I also have a LAN
+connection where you plug in a cable. So
+this is my Wi-Fi.
+So if I want to wake my Wi-Fi, I can
+come to power management and allow this
+device to wake the computer and press
+okay. Enable that. And the other one is
+my LAN cable and I do the same. And you
+can find this uh inside your network
+adapter. And once you do that, the last
+remaining thing you can do is to restart
+your computer and in your BIOS set wake
+on land. And one final thing is that you
+don't have to set a static IP. There's
+an even more advanced way to set this up
+and that's by using tail scale. By using
+tails scale, not only is it more secure,
+but you can also access this server from
+any device even when you are outside of
+your house. In my current setup,
+everything has to happen in the same
+network and you have to be on the same
+Wi-Fi to work. But let's say I'm out and
+about and I want to access my Olama
+server. I can do that using tail scale
+and tunnel in and it's even more secure,
+but that's for another video. So stay
+tuned for my other video. I'm back on my
+Mac. I have open claw installed. And
+then we have a lama set up on my old
+gaming laptop on a separate machine. So
+the first thing we need to do is to
+check if it can connect to it. You can
+do that by using a curl command in your
+terminal. So open your terminal, type in
+this command, curl http your IP address
+of your gaming machine/ ai/tags and it's
+returned that it's got a model 3.59b. So
+it's working. Okay, now that it's
+connected to it, let's see if it
+actually runs. So the next command is
+curl API generate d choose a model. Say
+my prompt is hello and I want to choose
+stream. So I'll include this prompt
+inside the description and you can see
+that it's coming back with some response
+and it's thinking. It's thinking. Let's
+check back in when it gives me a result.
+Okay. And it's done and it's giving me a
+response. So it's working. So now we're
+ready to go to open claw. So let's go to
+open claw tui. So now that my MacBook
+can connect to the server. There's three
+ways to change the configuration
+settings. So then open claw can use the
+model remotely. Number one, you can go
+into config file and paste this into it
+and set your provider as a llama, your
+IP address and the model. You can do
+that manually, but every time I've done
+that, it has not been successful. But if
+you really want to do it, all you need
+to do is go to finder, go to your home
+directory, and then go command, shift,
+and period. And you're going to see all
+the hidden files. And in there, I'm
+going to find open claw. So let's find
+open claw openclaw.json. Let's open it.
+And here I can input my I can copy this
+the model provider and paste it into
+here. But so far every time I've done
+it, it has not been successful. So I'm
+going to do in my opinion the best
+option which is to use vibe coding to do
+it. So in this case I'm going to use
+cloud code. You can use openai Gemini.
+I'm going to choose a folder and I'm
+going to go back into the same folder.
+I'm going to go back into open claw.
+Okay. And then I'm just going to say
+modify the open claw config file. So
+then it points to my remote or llama
+server. And then you plug in the
+details, your IP address and the model.
+And then it should automatically make
+those changes. Okay, it says it's done.
+And so I need to come back. And then the
+thing I need to do is open call gateway
+restart. So, I need to restart the
+gateway to activate the change and then
+let's test it out. And there we have it.
+It's returned a response. Hi there, I'm
+still awake. Let's start with the
+basics. So, it's working right now. And
+the third option is a chicken and egg
+problem. You can ask open claw to update
+the model similar to how I did it in
+cloud code. Just tell it that you have a
+new remote server. Give it the IP and
+the model and it will update it. But the
+chicken egg problem is that you need an
+AI LLM provider connected to do this. So
+either connect to your cloud service to
+do this or you can run a really small
+model on your local computer just so
+then you can get the configuration done
+so then openclaw can set its own config
+file. So those are the three options you
+can use to connect and change your model
+to point to a remote server. So that's
+how you run open claw locally. We
+started with the beginner setup where
+you're running openclaw on just one
+machine and then I showed you my current
+setup where a small computer runs open
+claw 24/7 and another machine runs AI
+model. But the bigger question is should
+you run open claw locally at all? If
+you're an absolute beginner honestly the
+best option is to run open claw on a
+virtual private server. So, you rent a
+server somewhere and then call a cloud
+model like OpenAI, Gemini, or Claude
+using their API. There are ton of
+one-click services out there for Open
+Claw and you'll spend much less time
+configuring things. But if privacy
+matters to you or you're worried about
+the API cost, then running Open Claw
+could be a very powerful option. Your
+data stays on your machine and your
+system keeps running even if the cloud
+goes down. And the number one
+requirement is that you need a computer
+that's fast enough to run a local LLM.
+In my case, I'm just using an old gaming
+laptop, and that works surprisingly
+well. The trade-off is that local setups
+require more work, networking, hardware,
+testing different local LLM models until
+you find the right balance between speed
+and quality. But once everything is
+running, you basically have your own AI
+infrastructure at home. And that's
+pretty sweet. Local AI gives you the
+control, but it also makes you the
+system administrator. If you've liked
+this video, please like and subscribe to
+my channel. If you want to learn more
+about AI, you can join my free AI
+community in the description. I look
+forward to seeing you

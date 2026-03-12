@@ -1,0 +1,688 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.320 --> 00:00:03.750 align:start position:0%
+ 
+Dude,<00:00:01.520><c> yes.</c><00:00:02.720><c> This</c><00:00:02.879><c> is</c><00:00:03.040><c> exactly</c><00:00:03.360><c> what</c><00:00:03.600><c> we</c>
+
+00:00:03.750 --> 00:00:03.760 align:start position:0%
+Dude, yes. This is exactly what we
+ 
+
+00:00:03.760 --> 00:00:05.829 align:start position:0%
+Dude, yes. This is exactly what we
+wanted.<00:00:04.240><c> Okay,</c><00:00:04.480><c> so</c><00:00:04.560><c> I</c><00:00:04.720><c> have</c><00:00:04.880><c> an</c><00:00:05.040><c> insane</c><00:00:05.520><c> idea</c>
+
+00:00:05.829 --> 00:00:05.839 align:start position:0%
+wanted. Okay, so I have an insane idea
+ 
+
+00:00:05.839 --> 00:00:07.430 align:start position:0%
+wanted. Okay, so I have an insane idea
+for<00:00:06.080><c> an</c><00:00:06.240><c> indicator</c><00:00:06.640><c> and</c><00:00:06.799><c> I</c><00:00:06.960><c> want</c><00:00:07.040><c> to</c><00:00:07.120><c> see</c><00:00:07.279><c> if</c>
+
+00:00:07.430 --> 00:00:07.440 align:start position:0%
+for an indicator and I want to see if
+ 
+
+00:00:07.440 --> 00:00:11.350 align:start position:0%
+for an indicator and I want to see if
+Quant<00:00:07.839><c> can</c><00:00:08.080><c> build</c><00:00:08.320><c> it.</c><00:00:08.639><c> So</c><00:00:09.519><c> I</c><00:00:09.840><c> want</c><00:00:10.240><c> to</c><00:00:10.639><c> build</c>
+
+00:00:11.350 --> 00:00:11.360 align:start position:0%
+Quant can build it. So I want to build
+ 
+
+00:00:11.360 --> 00:00:15.669 align:start position:0%
+Quant can build it. So I want to build
+an<00:00:11.759><c> indicator</c><00:00:12.719><c> that</c><00:00:13.120><c> is</c><00:00:13.759><c> essentially</c><00:00:14.799><c> topdown</c>
+
+00:00:15.669 --> 00:00:15.679 align:start position:0%
+an indicator that is essentially topdown
+ 
+
+00:00:15.679 --> 00:00:19.750 align:start position:0%
+an indicator that is essentially topdown
+analysis<00:00:16.720><c> for</c><00:00:17.119><c> delta,</c><00:00:17.840><c> but</c><00:00:18.160><c> you</c><00:00:18.480><c> can</c><00:00:18.880><c> visually</c>
+
+00:00:19.750 --> 00:00:19.760 align:start position:0%
+analysis for delta, but you can visually
+ 
+
+00:00:19.760 --> 00:00:23.750 align:start position:0%
+analysis for delta, but you can visually
+see<00:00:20.080><c> the</c><00:00:20.480><c> candle</c><00:00:21.279><c> deltas</c><00:00:22.080><c> on</c><00:00:22.560><c> multiple</c><00:00:23.519><c> time</c>
+
+00:00:23.750 --> 00:00:23.760 align:start position:0%
+see the candle deltas on multiple time
+ 
+
+00:00:23.760 --> 00:00:27.990 align:start position:0%
+see the candle deltas on multiple time
+frames.<00:00:24.720><c> If</c><00:00:25.039><c> my</c><00:00:25.439><c> chart</c><00:00:26.000><c> is</c><00:00:26.320><c> on</c><00:00:27.199><c> the</c><00:00:27.680><c> five</c>
+
+00:00:27.990 --> 00:00:28.000 align:start position:0%
+frames. If my chart is on the five
+ 
+
+00:00:28.000 --> 00:00:31.429 align:start position:0%
+frames. If my chart is on the five
+minute<00:00:28.560><c> time</c><00:00:29.119><c> frame,</c><00:00:29.760><c> I</c><00:00:30.080><c> want</c><00:00:30.240><c> to</c><00:00:30.640><c> see</c><00:00:30.960><c> the</c>
+
+00:00:31.429 --> 00:00:31.439 align:start position:0%
+minute time frame, I want to see the
+ 
+
+00:00:31.439 --> 00:00:35.830 align:start position:0%
+minute time frame, I want to see the
+delta<00:00:32.320><c> values</c><00:00:33.440><c> under</c><00:00:33.840><c> the</c><00:00:34.399><c> candles</c><00:00:35.200><c> on</c><00:00:35.520><c> the</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+delta values under the candles on the
+ 
+
+00:00:35.840 --> 00:00:40.310 align:start position:0%
+delta values under the candles on the
+chart.<00:00:36.559><c> But</c><00:00:36.719><c> to</c><00:00:37.120><c> the</c><00:00:37.440><c> right</c><00:00:37.760><c> of</c><00:00:38.320><c> price,</c><00:00:39.120><c> I</c><00:00:39.680><c> also</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+chart. But to the right of price, I also
+ 
+
+00:00:40.320 --> 00:00:44.549 align:start position:0%
+chart. But to the right of price, I also
+want<00:00:40.640><c> to</c><00:00:41.280><c> see</c><00:00:41.600><c> the</c><00:00:42.239><c> delta</c><00:00:42.879><c> values</c><00:00:43.440><c> of</c><00:00:43.840><c> three</c>
+
+00:00:44.549 --> 00:00:44.559 align:start position:0%
+want to see the delta values of three
+ 
+
+00:00:44.559 --> 00:00:47.990 align:start position:0%
+want to see the delta values of three
+different<00:00:45.520><c> other</c><00:00:46.160><c> time</c><00:00:46.800><c> frames.</c><00:00:47.760><c> So</c>
+
+00:00:47.990 --> 00:00:48.000 align:start position:0%
+different other time frames. So
+ 
+
+00:00:48.000 --> 00:00:49.510 align:start position:0%
+different other time frames. So
+essentially,<00:00:48.320><c> I</c><00:00:48.480><c> want</c><00:00:48.559><c> to</c><00:00:48.640><c> see</c><00:00:48.719><c> the</c><00:00:48.960><c> delta</c><00:00:49.280><c> for</c>
+
+00:00:49.510 --> 00:00:49.520 align:start position:0%
+essentially, I want to see the delta for
+ 
+
+00:00:49.520 --> 00:00:51.350 align:start position:0%
+essentially, I want to see the delta for
+the<00:00:49.680><c> chart</c><00:00:49.920><c> that</c><00:00:50.079><c> I'm</c><00:00:50.239><c> on.</c><00:00:50.399><c> And</c><00:00:50.559><c> then</c><00:00:51.039><c> to</c><00:00:51.200><c> the</c>
+
+00:00:51.350 --> 00:00:51.360 align:start position:0%
+the chart that I'm on. And then to the
+ 
+
+00:00:51.360 --> 00:00:53.270 align:start position:0%
+the chart that I'm on. And then to the
+right<00:00:51.600><c> of</c><00:00:51.840><c> price,</c><00:00:52.079><c> I</c><00:00:52.239><c> want</c><00:00:52.320><c> to</c><00:00:52.480><c> see</c><00:00:52.879><c> uh</c><00:00:52.960><c> higher</c>
+
+00:00:53.270 --> 00:00:53.280 align:start position:0%
+right of price, I want to see uh higher
+ 
+
+00:00:53.280 --> 00:00:54.630 align:start position:0%
+right of price, I want to see uh higher
+time<00:00:53.440><c> frame</c><00:00:53.600><c> candles</c><00:00:53.920><c> with</c><00:00:54.079><c> the</c><00:00:54.239><c> delta</c><00:00:54.480><c> as</c>
+
+00:00:54.630 --> 00:00:54.640 align:start position:0%
+time frame candles with the delta as
+ 
+
+00:00:54.640 --> 00:00:55.990 align:start position:0%
+time frame candles with the delta as
+well.<00:00:54.879><c> Let's</c><00:00:55.120><c> see</c><00:00:55.199><c> what</c><00:00:55.360><c> this</c><00:00:55.520><c> builds.</c><00:00:55.920><c> All</c>
+
+00:00:55.990 --> 00:00:56.000 align:start position:0%
+well. Let's see what this builds. All
+ 
+
+00:00:56.000 --> 00:00:57.430 align:start position:0%
+well. Let's see what this builds. All
+right,<00:00:56.160><c> so</c><00:00:56.399><c> just</c><00:00:56.559><c> like</c><00:00:56.640><c> that,</c><00:00:56.879><c> it</c><00:00:57.039><c> built</c><00:00:57.280><c> it</c>
+
+00:00:57.430 --> 00:00:57.440 align:start position:0%
+right, so just like that, it built it
+ 
+
+00:00:57.440 --> 00:00:59.029 align:start position:0%
+right, so just like that, it built it
+out.<00:00:57.680><c> We</c><00:00:57.840><c> have</c><00:00:57.920><c> our</c><00:00:58.160><c> code</c><00:00:58.320><c> here,</c><00:00:58.559><c> top</c><00:00:58.800><c> down</c>
+
+00:00:59.029 --> 00:00:59.039 align:start position:0%
+out. We have our code here, top down
+ 
+
+00:00:59.039 --> 00:01:00.630 align:start position:0%
+out. We have our code here, top down
+delta<00:00:59.359><c> analysis.</c><00:00:59.840><c> I'm</c><00:01:00.000><c> just</c><00:01:00.160><c> going</c><00:01:00.239><c> to</c><00:01:00.320><c> copy</c>
+
+00:01:00.630 --> 00:01:00.640 align:start position:0%
+delta analysis. I'm just going to copy
+ 
+
+00:01:00.640 --> 00:01:02.790 align:start position:0%
+delta analysis. I'm just going to copy
+that.<00:01:01.120><c> Go</c><00:01:01.280><c> over</c><00:01:01.440><c> to</c><00:01:01.600><c> trading</c><00:01:01.920><c> view</c><00:01:02.239><c> and</c><00:01:02.480><c> then</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+that. Go over to trading view and then
+ 
+
+00:01:02.800 --> 00:01:05.429 align:start position:0%
+that. Go over to trading view and then
+pine<00:01:03.120><c> editor.</c><00:01:03.680><c> And</c><00:01:03.760><c> I'm</c><00:01:04.000><c> going</c><00:01:04.159><c> to</c><00:01:04.720><c> create</c><00:01:05.119><c> new</c>
+
+00:01:05.429 --> 00:01:05.439 align:start position:0%
+pine editor. And I'm going to create new
+ 
+
+00:01:05.439 --> 00:01:06.870 align:start position:0%
+pine editor. And I'm going to create new
+indicator.<00:01:06.000><c> And</c><00:01:06.080><c> I'm</c><00:01:06.240><c> going</c><00:01:06.320><c> to</c><00:01:06.479><c> paste</c><00:01:06.720><c> that</c>
+
+00:01:06.870 --> 00:01:06.880 align:start position:0%
+indicator. And I'm going to paste that
+ 
+
+00:01:06.880 --> 00:01:09.270 align:start position:0%
+indicator. And I'm going to paste that
+in<00:01:07.520><c> and</c><00:01:07.760><c> add</c><00:01:07.920><c> it</c><00:01:08.080><c> to</c><00:01:08.240><c> my</c><00:01:08.400><c> chart.</c><00:01:08.799><c> Okay,</c><00:01:08.960><c> so</c><00:01:09.119><c> we</c>
+
+00:01:09.270 --> 00:01:09.280 align:start position:0%
+in and add it to my chart. Okay, so we
+ 
+
+00:01:09.280 --> 00:01:10.390 align:start position:0%
+in and add it to my chart. Okay, so we
+currently<00:01:09.439><c> have</c><00:01:09.520><c> our</c><00:01:09.760><c> delta</c><00:01:10.080><c> values</c>
+
+00:01:10.390 --> 00:01:10.400 align:start position:0%
+currently have our delta values
+ 
+
+00:01:10.400 --> 00:01:12.070 align:start position:0%
+currently have our delta values
+underneath<00:01:10.799><c> each</c><00:01:11.040><c> candle.</c><00:01:11.439><c> Exactly</c><00:01:11.760><c> what</c><00:01:11.920><c> I</c>
+
+00:01:12.070 --> 00:01:12.080 align:start position:0%
+underneath each candle. Exactly what I
+ 
+
+00:01:12.080 --> 00:01:13.429 align:start position:0%
+underneath each candle. Exactly what I
+wanted.<00:01:12.400><c> And</c><00:01:12.560><c> then</c><00:01:12.720><c> to</c><00:01:12.960><c> the</c><00:01:13.040><c> right,</c><00:01:13.200><c> we</c>
+
+00:01:13.429 --> 00:01:13.439 align:start position:0%
+wanted. And then to the right, we
+ 
+
+00:01:13.439 --> 00:01:15.109 align:start position:0%
+wanted. And then to the right, we
+actually<00:01:13.680><c> have</c><00:01:13.840><c> a</c><00:01:14.080><c> dashboard</c><00:01:14.560><c> here</c><00:01:14.799><c> that</c>
+
+00:01:15.109 --> 00:01:15.119 align:start position:0%
+actually have a dashboard here that
+ 
+
+00:01:15.119 --> 00:01:16.390 align:start position:0%
+actually have a dashboard here that
+floats<00:01:15.600><c> in</c><00:01:15.760><c> the</c><00:01:15.920><c> middle</c><00:01:16.000><c> of</c><00:01:16.080><c> the</c><00:01:16.240><c> screen,</c>
+
+00:01:16.390 --> 00:01:16.400 align:start position:0%
+floats in the middle of the screen,
+ 
+
+00:01:16.400 --> 00:01:19.350 align:start position:0%
+floats in the middle of the screen,
+which<00:01:16.640><c> is</c><00:01:16.799><c> nice.</c><00:01:17.360><c> Uh,</c><00:01:17.680><c> so</c><00:01:17.759><c> I</c><00:01:18.000><c> can</c><00:01:18.159><c> see</c><00:01:18.400><c> the</c><00:01:19.040><c> 15</c>
+
+00:01:19.350 --> 00:01:19.360 align:start position:0%
+which is nice. Uh, so I can see the 15
+ 
+
+00:01:19.360 --> 00:01:22.149 align:start position:0%
+which is nice. Uh, so I can see the 15
+minute,<00:01:20.159><c> 60</c><00:01:20.479><c> minute,</c><00:01:20.799><c> and</c><00:01:20.960><c> then</c><00:01:21.119><c> the</c><00:01:21.520><c> 4</c><00:01:21.759><c> hour.</c>
+
+00:01:22.149 --> 00:01:22.159 align:start position:0%
+minute, 60 minute, and then the 4 hour.
+ 
+
+00:01:22.159 --> 00:01:24.070 align:start position:0%
+minute, 60 minute, and then the 4 hour.
+And<00:01:22.320><c> it</c><00:01:22.479><c> does</c><00:01:22.640><c> let</c><00:01:22.799><c> me</c><00:01:23.040><c> change</c><00:01:23.200><c> that</c><00:01:23.439><c> as</c><00:01:23.680><c> well.</c>
+
+00:01:24.070 --> 00:01:24.080 align:start position:0%
+And it does let me change that as well.
+ 
+
+00:01:24.080 --> 00:01:25.270 align:start position:0%
+And it does let me change that as well.
+Now,<00:01:24.240><c> this</c><00:01:24.400><c> is</c><00:01:24.479><c> awesome.</c><00:01:24.720><c> It's</c><00:01:24.880><c> a</c><00:01:25.040><c> good</c><00:01:25.119><c> start</c>
+
+00:01:25.270 --> 00:01:25.280 align:start position:0%
+Now, this is awesome. It's a good start
+ 
+
+00:01:25.280 --> 00:01:26.390 align:start position:0%
+Now, this is awesome. It's a good start
+of<00:01:25.439><c> what</c><00:01:25.600><c> I</c><00:01:25.680><c> wanted.</c><00:01:25.920><c> I</c><00:01:26.080><c> can</c><00:01:26.159><c> see</c><00:01:26.240><c> the</c>
+
+00:01:26.390 --> 00:01:26.400 align:start position:0%
+of what I wanted. I can see the
+ 
+
+00:01:26.400 --> 00:01:28.070 align:start position:0%
+of what I wanted. I can see the
+15-minute<00:01:26.880><c> has</c><00:01:27.040><c> a</c><00:01:27.200><c> bullish</c><00:01:27.439><c> delta</c><00:01:27.759><c> right</c><00:01:27.920><c> now,</c>
+
+00:01:28.070 --> 00:01:28.080 align:start position:0%
+15-minute has a bullish delta right now,
+ 
+
+00:01:28.080 --> 00:01:30.070 align:start position:0%
+15-minute has a bullish delta right now,
+while<00:01:28.240><c> the</c><00:01:28.479><c> 60-minute</c><00:01:29.280><c> is</c><00:01:29.520><c> still</c><00:01:29.680><c> in</c><00:01:29.840><c> a</c>
+
+00:01:30.070 --> 00:01:30.080 align:start position:0%
+while the 60-minute is still in a
+ 
+
+00:01:30.080 --> 00:01:31.990 align:start position:0%
+while the 60-minute is still in a
+bearish<00:01:30.320><c> delta.</c><00:01:30.960><c> I</c><00:01:31.119><c> want</c><00:01:31.280><c> to</c><00:01:31.439><c> see</c><00:01:31.680><c> those</c>
+
+00:01:31.990 --> 00:01:32.000 align:start position:0%
+bearish delta. I want to see those
+ 
+
+00:01:32.000 --> 00:01:33.510 align:start position:0%
+bearish delta. I want to see those
+candles<00:01:32.400><c> on</c><00:01:32.560><c> my</c><00:01:32.720><c> chart.</c><00:01:32.960><c> So,</c><00:01:33.119><c> I'm</c><00:01:33.280><c> going</c><00:01:33.280><c> to</c><00:01:33.439><c> go</c>
+
+00:01:33.510 --> 00:01:33.520 align:start position:0%
+candles on my chart. So, I'm going to go
+ 
+
+00:01:33.520 --> 00:01:35.350 align:start position:0%
+candles on my chart. So, I'm going to go
+back<00:01:33.759><c> to</c><00:01:34.000><c> quant.</c><00:01:34.560><c> All</c><00:01:34.560><c> right.</c><00:01:34.880><c> So,</c><00:01:34.960><c> I</c><00:01:35.200><c> said</c>
+
+00:01:35.350 --> 00:01:35.360 align:start position:0%
+back to quant. All right. So, I said
+ 
+
+00:01:35.360 --> 00:01:37.030 align:start position:0%
+back to quant. All right. So, I said
+this<00:01:35.520><c> is</c><00:01:35.600><c> a</c><00:01:35.759><c> good</c><00:01:35.840><c> start.</c><00:01:36.079><c> Now,</c><00:01:36.320><c> instead</c><00:01:36.560><c> of</c><00:01:36.720><c> a</c>
+
+00:01:37.030 --> 00:01:37.040 align:start position:0%
+this is a good start. Now, instead of a
+ 
+
+00:01:37.040 --> 00:01:38.710 align:start position:0%
+this is a good start. Now, instead of a
+dashboard,<00:01:37.520><c> I</c><00:01:37.759><c> want</c><00:01:37.840><c> the</c><00:01:38.079><c> higher</c><00:01:38.320><c> time</c><00:01:38.479><c> frame</c>
+
+00:01:38.710 --> 00:01:38.720 align:start position:0%
+dashboard, I want the higher time frame
+ 
+
+00:01:38.720 --> 00:01:40.950 align:start position:0%
+dashboard, I want the higher time frame
+candles<00:01:39.040><c> to</c><00:01:39.200><c> appear</c><00:01:39.439><c> on</c><00:01:39.680><c> my</c><00:01:39.840><c> chart,</c><00:01:40.159><c> like</c><00:01:40.400><c> PO3</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+candles to appear on my chart, like PO3
+ 
+
+00:01:40.960 --> 00:01:43.030 align:start position:0%
+candles to appear on my chart, like PO3
+indicator,<00:01:41.680><c> so</c><00:01:41.840><c> I</c><00:01:42.079><c> can</c><00:01:42.240><c> see</c><00:01:42.400><c> how</c><00:01:42.560><c> the</c><00:01:42.720><c> candles</c>
+
+00:01:43.030 --> 00:01:43.040 align:start position:0%
+indicator, so I can see how the candles
+ 
+
+00:01:43.040 --> 00:01:44.630 align:start position:0%
+indicator, so I can see how the candles
+are<00:01:43.200><c> forming</c><00:01:43.439><c> in</c><00:01:43.600><c> real</c><00:01:43.759><c> time.</c><00:01:44.000><c> So,</c><00:01:44.240><c> Quant's</c>
+
+00:01:44.630 --> 00:01:44.640 align:start position:0%
+are forming in real time. So, Quant's
+ 
+
+00:01:44.640 --> 00:01:45.670 align:start position:0%
+are forming in real time. So, Quant's
+going to<00:01:44.799><c> build</c><00:01:44.960><c> this</c><00:01:45.040><c> out.</c><00:01:45.360><c> You</c><00:01:45.439><c> can</c><00:01:45.520><c> already</c>
+
+00:01:45.670 --> 00:01:45.680 align:start position:0%
+going to build this out. You can already
+ 
+
+00:01:45.680 --> 00:01:47.270 align:start position:0%
+going to build this out. You can already
+see<00:01:45.920><c> remove</c><00:01:46.159><c> the</c><00:01:46.320><c> dashboard</c><00:01:46.720><c> table.</c><00:01:47.040><c> I'm</c><00:01:47.200><c> just</c>
+
+00:01:47.270 --> 00:01:47.280 align:start position:0%
+see remove the dashboard table. I'm just
+ 
+
+00:01:47.280 --> 00:01:48.550 align:start position:0%
+see remove the dashboard table. I'm just
+waiting<00:01:47.520><c> for</c><00:01:47.600><c> the</c><00:01:47.759><c> new</c><00:01:47.920><c> code.</c><00:01:48.240><c> All</c><00:01:48.240><c> right,</c><00:01:48.399><c> so</c>
+
+00:01:48.550 --> 00:01:48.560 align:start position:0%
+waiting for the new code. All right, so
+ 
+
+00:01:48.560 --> 00:01:49.910 align:start position:0%
+waiting for the new code. All right, so
+we<00:01:48.720><c> just</c><00:01:48.799><c> got</c><00:01:48.880><c> our</c><00:01:49.119><c> code</c><00:01:49.360><c> back.</c><00:01:49.600><c> It</c><00:01:49.759><c> changed</c>
+
+00:01:49.910 --> 00:01:49.920 align:start position:0%
+we just got our code back. It changed
+ 
+
+00:01:49.920 --> 00:01:51.990 align:start position:0%
+we just got our code back. It changed
+the<00:01:50.079><c> name</c><00:01:50.159><c> a</c><00:01:50.320><c> little</c><00:01:50.399><c> bit.</c><00:01:50.560><c> Htf</c><00:01:51.040><c> delta</c><00:01:51.360><c> P3.</c>
+
+00:01:51.990 --> 00:01:52.000 align:start position:0%
+the name a little bit. Htf delta P3.
+ 
+
+00:01:52.000 --> 00:01:53.590 align:start position:0%
+the name a little bit. Htf delta P3.
+Okay,<00:01:52.159><c> so</c><00:01:52.320><c> it's</c><00:01:52.560><c> understanding</c><00:01:53.119><c> we</c><00:01:53.360><c> want</c><00:01:53.439><c> the</c>
+
+00:01:53.590 --> 00:01:53.600 align:start position:0%
+Okay, so it's understanding we want the
+ 
+
+00:01:53.600 --> 00:01:55.350 align:start position:0%
+Okay, so it's understanding we want the
+P3.<00:01:54.079><c> So</c><00:01:54.320><c> we</c><00:01:54.399><c> copy</c><00:01:54.640><c> the</c><00:01:54.799><c> code</c><00:01:54.960><c> here.</c><00:01:55.200><c> Let's</c>
+
+00:01:55.350 --> 00:01:55.360 align:start position:0%
+P3. So we copy the code here. Let's
+ 
+
+00:01:55.360 --> 00:01:57.190 align:start position:0%
+P3. So we copy the code here. Let's
+bring<00:01:55.520><c> that</c><00:01:55.680><c> over</c><00:01:55.920><c> and</c><00:01:56.240><c> see</c><00:01:56.479><c> and</c><00:01:56.720><c> add</c><00:01:56.880><c> it</c><00:01:57.040><c> to</c>
+
+00:01:57.190 --> 00:01:57.200 align:start position:0%
+bring that over and see and add it to
+ 
+
+00:01:57.200 --> 00:02:01.670 align:start position:0%
+bring that over and see and add it to
+our<00:01:57.439><c> chart.</c><00:01:58.719><c> Dude,</c><00:01:59.840><c> yes,</c><00:02:01.040><c> this</c><00:02:01.200><c> is</c><00:02:01.360><c> exactly</c>
+
+00:02:01.670 --> 00:02:01.680 align:start position:0%
+our chart. Dude, yes, this is exactly
+ 
+
+00:02:01.680 --> 00:02:03.670 align:start position:0%
+our chart. Dude, yes, this is exactly
+what<00:02:01.920><c> we</c><00:02:02.079><c> wanted.</c><00:02:02.560><c> Okay,</c><00:02:02.719><c> so</c><00:02:02.880><c> the</c><00:02:03.119><c> 15-minute</c>
+
+00:02:03.670 --> 00:02:03.680 align:start position:0%
+what we wanted. Okay, so the 15-minute
+ 
+
+00:02:03.680 --> 00:02:04.950 align:start position:0%
+what we wanted. Okay, so the 15-minute
+here,<00:02:03.840><c> you</c><00:02:03.920><c> can</c><00:02:04.000><c> see</c><00:02:04.159><c> this</c><00:02:04.240><c> is</c><00:02:04.320><c> the</c><00:02:04.479><c> 15-minute</c>
+
+00:02:04.950 --> 00:02:04.960 align:start position:0%
+here, you can see this is the 15-minute
+ 
+
+00:02:04.960 --> 00:02:06.469 align:start position:0%
+here, you can see this is the 15-minute
+candle.<00:02:05.280><c> That'</c><00:02:05.520><c> be</c><00:02:05.600><c> the</c><00:02:05.680><c> 60-minute</c><00:02:06.159><c> candle,</c>
+
+00:02:06.469 --> 00:02:06.479 align:start position:0%
+candle. That' be the 60-minute candle,
+ 
+
+00:02:06.479 --> 00:02:08.630 align:start position:0%
+candle. That' be the 60-minute candle,
+240.<00:02:06.960><c> We</c><00:02:07.119><c> can</c><00:02:07.280><c> change</c><00:02:07.439><c> that</c><00:02:07.600><c> to</c><00:02:07.920><c> show</c><00:02:08.239><c> 4</c><00:02:08.399><c> hour,</c>
+
+00:02:08.630 --> 00:02:08.640 align:start position:0%
+240. We can change that to show 4 hour,
+ 
+
+00:02:08.640 --> 00:02:10.389 align:start position:0%
+240. We can change that to show 4 hour,
+but<00:02:08.800><c> we</c><00:02:08.959><c> can</c><00:02:09.119><c> see</c><00:02:09.440><c> how</c><00:02:09.679><c> each</c><00:02:09.920><c> candle</c><00:02:10.239><c> is</c>
+
+00:02:10.389 --> 00:02:10.399 align:start position:0%
+but we can see how each candle is
+ 
+
+00:02:10.399 --> 00:02:12.390 align:start position:0%
+but we can see how each candle is
+forming<00:02:10.800><c> in</c><00:02:11.039><c> real</c><00:02:11.280><c> time</c><00:02:11.599><c> with</c><00:02:11.760><c> a</c><00:02:12.000><c> delta.</c>
+
+00:02:12.390 --> 00:02:12.400 align:start position:0%
+forming in real time with a delta.
+ 
+
+00:02:12.400 --> 00:02:14.070 align:start position:0%
+forming in real time with a delta.
+What's<00:02:12.640><c> actually</c><00:02:12.879><c> interesting</c><00:02:13.120><c> is</c><00:02:13.360><c> I</c><00:02:13.680><c> want</c><00:02:13.760><c> to</c>
+
+00:02:14.070 --> 00:02:14.080 align:start position:0%
+What's actually interesting is I want to
+ 
+
+00:02:14.080 --> 00:02:15.750 align:start position:0%
+What's actually interesting is I want to
+know<00:02:14.560><c> how</c><00:02:14.800><c> much</c><00:02:14.959><c> time</c><00:02:15.120><c> is</c><00:02:15.360><c> left</c><00:02:15.440><c> in</c><00:02:15.599><c> these</c>
+
+00:02:15.750 --> 00:02:15.760 align:start position:0%
+know how much time is left in these
+ 
+
+00:02:15.760 --> 00:02:17.030 align:start position:0%
+know how much time is left in these
+candles.<00:02:16.080><c> So</c><00:02:16.160><c> that's</c><00:02:16.319><c> the</c><00:02:16.560><c> next</c><00:02:16.640><c> thing</c><00:02:16.800><c> we're</c>
+
+00:02:17.030 --> 00:02:17.040 align:start position:0%
+candles. So that's the next thing we're
+ 
+
+00:02:17.040 --> 00:02:17.910 align:start position:0%
+candles. So that's the next thing we're
+actually<00:02:17.200><c> going</c><00:02:17.280><c> to</c><00:02:17.360><c> add.</c><00:02:17.520><c> So</c><00:02:17.680><c> I'm</c><00:02:17.760><c> going</c><00:02:17.840><c> to</c>
+
+00:02:17.910 --> 00:02:17.920 align:start position:0%
+actually going to add. So I'm going to
+ 
+
+00:02:17.920 --> 00:02:19.830 align:start position:0%
+actually going to add. So I'm going to
+go<00:02:18.080><c> back</c><00:02:18.239><c> to</c><00:02:18.400><c> quant.</c><00:02:18.879><c> So</c><00:02:19.120><c> all</c><00:02:19.200><c> I</c><00:02:19.360><c> said</c><00:02:19.520><c> was</c><00:02:19.680><c> I</c>
+
+00:02:19.830 --> 00:02:19.840 align:start position:0%
+go back to quant. So all I said was I
+ 
+
+00:02:19.840 --> 00:02:21.510 align:start position:0%
+go back to quant. So all I said was I
+would<00:02:19.920><c> like</c><00:02:20.080><c> to</c><00:02:20.160><c> add</c><00:02:20.239><c> a</c><00:02:20.480><c> countdown</c><00:02:20.959><c> on</c><00:02:21.200><c> each</c>
+
+00:02:21.510 --> 00:02:21.520 align:start position:0%
+would like to add a countdown on each
+ 
+
+00:02:21.520 --> 00:02:23.589 align:start position:0%
+would like to add a countdown on each
+higher<00:02:21.920><c> time</c><00:02:22.080><c> frame</c><00:02:22.319><c> candle</c><00:02:22.800><c> so</c><00:02:23.040><c> I</c><00:02:23.280><c> know</c><00:02:23.440><c> how</c>
+
+00:02:23.589 --> 00:02:23.599 align:start position:0%
+higher time frame candle so I know how
+ 
+
+00:02:23.599 --> 00:02:25.110 align:start position:0%
+higher time frame candle so I know how
+much<00:02:23.760><c> time</c><00:02:23.920><c> is</c><00:02:24.080><c> left</c><00:02:24.239><c> in</c><00:02:24.400><c> that</c><00:02:24.560><c> candle.</c><00:02:24.879><c> So</c><00:02:25.040><c> I'm</c>
+
+00:02:25.110 --> 00:02:25.120 align:start position:0%
+much time is left in that candle. So I'm
+ 
+
+00:02:25.120 --> 00:02:26.390 align:start position:0%
+much time is left in that candle. So I'm
+going<00:02:25.200><c> to</c><00:02:25.280><c> send</c><00:02:25.520><c> that</c><00:02:25.840><c> and</c><00:02:26.000><c> we'll</c><00:02:26.160><c> wait</c><00:02:26.319><c> for</c>
+
+00:02:26.390 --> 00:02:26.400 align:start position:0%
+going to send that and we'll wait for
+ 
+
+00:02:26.400 --> 00:02:27.670 align:start position:0%
+going to send that and we'll wait for
+the<00:02:26.560><c> code</c><00:02:26.720><c> to</c><00:02:26.800><c> update</c><00:02:27.120><c> again.</c><00:02:27.360><c> All</c><00:02:27.360><c> right.</c><00:02:27.599><c> So</c>
+
+00:02:27.670 --> 00:02:27.680 align:start position:0%
+the code to update again. All right. So
+ 
+
+00:02:27.680 --> 00:02:29.110 align:start position:0%
+the code to update again. All right. So
+we<00:02:27.840><c> have</c><00:02:27.920><c> the</c><00:02:28.080><c> updated</c><00:02:28.400><c> code</c><00:02:28.640><c> again.</c><00:02:28.800><c> I'm</c><00:02:28.959><c> just</c>
+
+00:02:29.110 --> 00:02:29.120 align:start position:0%
+we have the updated code again. I'm just
+ 
+
+00:02:29.120 --> 00:02:30.309 align:start position:0%
+we have the updated code again. I'm just
+going<00:02:29.200><c> to</c><00:02:29.280><c> copy</c><00:02:29.520><c> it.</c><00:02:29.760><c> Go</c><00:02:29.920><c> back</c><00:02:30.080><c> over</c><00:02:30.160><c> to</c>
+
+00:02:30.309 --> 00:02:30.319 align:start position:0%
+going to copy it. Go back over to
+ 
+
+00:02:30.319 --> 00:02:33.270 align:start position:0%
+going to copy it. Go back over to
+Trading<00:02:30.640><c> View.</c><00:02:30.959><c> Paste</c><00:02:31.200><c> it</c><00:02:31.360><c> in</c><00:02:31.599><c> here.</c><00:02:32.160><c> Refresh.</c>
+
+00:02:33.270 --> 00:02:33.280 align:start position:0%
+Trading View. Paste it in here. Refresh.
+ 
+
+00:02:33.280 --> 00:02:34.229 align:start position:0%
+Trading View. Paste it in here. Refresh.
+Perfect.<00:02:33.599><c> Okay.</c><00:02:33.840><c> So</c><00:02:33.920><c> you</c><00:02:34.000><c> can</c><00:02:34.080><c> see</c><00:02:34.160><c> the</c>
+
+00:02:34.229 --> 00:02:34.239 align:start position:0%
+Perfect. Okay. So you can see the
+ 
+
+00:02:34.239 --> 00:02:35.430 align:start position:0%
+Perfect. Okay. So you can see the
+countdown.<00:02:34.560><c> We</c><00:02:34.640><c> have</c><00:02:34.720><c> an</c><00:02:34.800><c> hour</c><00:02:34.959><c> and</c><00:02:35.120><c> 9</c><00:02:35.280><c> minutes</c>
+
+00:02:35.430 --> 00:02:35.440 align:start position:0%
+countdown. We have an hour and 9 minutes
+ 
+
+00:02:35.440 --> 00:02:37.670 align:start position:0%
+countdown. We have an hour and 9 minutes
+on<00:02:35.599><c> the</c><00:02:35.760><c> 4</c><00:02:35.920><c> hour.</c><00:02:36.239><c> Uh</c><00:02:36.480><c> we</c><00:02:36.640><c> have</c><00:02:36.800><c> 9</c><00:02:37.040><c> minutes</c><00:02:37.360><c> left</c>
+
+00:02:37.670 --> 00:02:37.680 align:start position:0%
+on the 4 hour. Uh we have 9 minutes left
+ 
+
+00:02:37.680 --> 00:02:40.229 align:start position:0%
+on the 4 hour. Uh we have 9 minutes left
+on<00:02:38.000><c> the</c><00:02:38.480><c> 1</c><00:02:38.720><c> hour.</c><00:02:39.200><c> 40</c><00:02:39.519><c> seconds</c><00:02:39.760><c> left</c><00:02:39.840><c> on</c><00:02:40.000><c> the</c><00:02:40.080><c> 1</c>
+
+00:02:40.229 --> 00:02:40.239 align:start position:0%
+on the 1 hour. 40 seconds left on the 1
+ 
+
+00:02:40.239 --> 00:02:41.509 align:start position:0%
+on the 1 hour. 40 seconds left on the 1
+minute.<00:02:40.560><c> That's</c><00:02:40.800><c> exactly</c><00:02:41.120><c> what</c><00:02:41.200><c> I</c><00:02:41.360><c> want</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+minute. That's exactly what I want
+ 
+
+00:02:41.519 --> 00:02:42.710 align:start position:0%
+minute. That's exactly what I want
+because<00:02:41.680><c> now</c><00:02:41.760><c> I</c><00:02:41.920><c> know</c><00:02:42.000><c> if</c><00:02:42.160><c> we're</c><00:02:42.319><c> in</c><00:02:42.480><c> the</c><00:02:42.560><c> back</c>
+
+00:02:42.710 --> 00:02:42.720 align:start position:0%
+because now I know if we're in the back
+ 
+
+00:02:42.720 --> 00:02:44.710 align:start position:0%
+because now I know if we're in the back
+half<00:02:42.959><c> of</c><00:02:43.040><c> a</c><00:02:43.280><c> 4</c><00:02:43.440><c> hour</c><00:02:43.760><c> or</c><00:02:44.080><c> in</c><00:02:44.239><c> the</c><00:02:44.319><c> front</c><00:02:44.480><c> half</c><00:02:44.640><c> of</c>
+
+00:02:44.710 --> 00:02:44.720 align:start position:0%
+half of a 4 hour or in the front half of
+ 
+
+00:02:44.720 --> 00:02:46.070 align:start position:0%
+half of a 4 hour or in the front half of
+a<00:02:44.879><c> 4</c><00:02:44.959><c> hour,</c><00:02:45.200><c> I</c><00:02:45.360><c> can</c><00:02:45.440><c> see</c><00:02:45.599><c> how</c><00:02:45.760><c> much</c><00:02:45.840><c> it's</c>
+
+00:02:46.070 --> 00:02:46.080 align:start position:0%
+a 4 hour, I can see how much it's
+ 
+
+00:02:46.080 --> 00:02:47.430 align:start position:0%
+a 4 hour, I can see how much it's
+accumulated.<00:02:46.480><c> If</c><00:02:46.640><c> you</c><00:02:46.720><c> want</c><00:02:46.879><c> to</c><00:02:47.040><c> build</c><00:02:47.200><c> an</c>
+
+00:02:47.430 --> 00:02:47.440 align:start position:0%
+accumulated. If you want to build an
+ 
+
+00:02:47.440 --> 00:02:49.270 align:start position:0%
+accumulated. If you want to build an
+indicator<00:02:48.000><c> just</c><00:02:48.239><c> like</c><00:02:48.400><c> this</c><00:02:48.640><c> with</c><00:02:48.879><c> your</c><00:02:49.040><c> very</c>
+
+00:02:49.270 --> 00:02:49.280 align:start position:0%
+indicator just like this with your very
+ 
+
+00:02:49.280 --> 00:02:51.509 align:start position:0%
+indicator just like this with your very
+own<00:02:49.440><c> idea</c><00:02:49.760><c> or</c><00:02:50.160><c> the</c><00:02:50.400><c> exact</c><00:02:50.640><c> same</c><00:02:50.800><c> idea</c><00:02:51.040><c> I</c><00:02:51.280><c> had,</c>
+
+00:02:51.509 --> 00:02:51.519 align:start position:0%
+own idea or the exact same idea I had,
+ 
+
+00:02:51.519 --> 00:02:53.190 align:start position:0%
+own idea or the exact same idea I had,
+comment<00:02:51.840><c> the</c><00:02:52.000><c> word</c><00:02:52.239><c> quant</c><00:02:52.640><c> and</c><00:02:52.800><c> I'll</c><00:02:52.959><c> send</c><00:02:53.040><c> you</c>
+
+00:02:53.190 --> 00:02:53.200 align:start position:0%
+comment the word quant and I'll send you
+ 
+
+00:02:53.200 --> 00:02:55.519 align:start position:0%
+comment the word quant and I'll send you
+the<00:02:53.440><c> link.</c>
+

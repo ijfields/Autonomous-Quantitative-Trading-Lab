@@ -1,0 +1,2479 @@
+Ready? Cool.
+All right. So, I'm going to take over
+this spot if that's okay.
+&gt;&gt; Yeah. Yeah, sure.
+&gt;&gt; Cool.
+&gt;&gt; You think,
+&gt;&gt; right? And then once we get started,
+I'll press USB. I'll I'll switch it
+over.
+&gt;&gt; All right. You sure you're good? Okay,
+cool.
+&gt;&gt; Hello everyone and welcome to Deep
+Station. Thank you all so much for
+coming. Woo! Look at this.
+Wow. Look at this amazing community.
+Thank all of you so much for coming
+today. I know it's a busy day, but you
+know what? We're going to learn a lot
+today about OpenClaw. We're bringing
+together quite a few industry
+professionals together so we can all
+share more about how this is working,
+how this is impacting the future and how
+you can actually use it yourself and so
+that you can see use cases and so forth.
+So before we get started, I want to
+share real quick about what is
+DeepStation. So DeepStation is a global
+AI community that brings together
+engineers, professionals, and
+enthusiasts together so that we can all
+stay ahead of the AI wave. I'm sure that
+all of you can see that things are
+moving so fast. A couple months ago it
+was CodeEx, then it was Cloud Code, then
+now it's OpenClaw.
+Everything's just moving incredibly
+fast. And so the one way that we can all
+stay ahead is by, you know, gathering
+together, sharing ideas, building
+startups together, doing business
+together, and just sharing research
+together. And so, Deep Station's mission
+is to accelerate AI education and
+innovation through the power of
+community. And we would not be here
+today without a few of our sponsors. Uh,
+as you have known, Miami College is our
+one of our main sponsors. So, let's give
+it up for Miami Dade College. Amazing.
+Amazing. [applause]
+As Pedro mentioned, it is actually one
+of the largest student bodies in the
+nation. They have a great education here
+as well. So, if you're looking to stay
+ahead, if you want to learn more, feel
+free to join the AI clinics here. They
+have really great uh education. You get
+some great certificates. Also partnered
+with Google. And also, let's give it up
+for Miami Tech Works and the EDA and the
+Department of Commerce. They're also one
+of our other sponsors. Feel free to give
+[applause] it up.
+Miami Tech Works and Deep Station as a
+partnership to help accelerate tech
+talent uh throughout the United States
+and specifically in South Florida. So,
+if you're looking for a job in every and
+anything like that, feel free to let us
+know and we'll try to help you get
+connected. We're going to have we have a
+few initiatives rolling out very soon.
+And we're very excited to announce that
+so that we can help folks get connected,
+get jobs, and help talent, as I
+mentioned, get those jobs, but also help
+the companies find local talent. And
+we're able to do that. I mean, look
+around this very room. We have some of
+the most the brightest, the best
+professionals, enthusiasts, engineers,
+and so forth. And also Coffin Rosson is
+another one of our wonderful sponsors,
+one of the leading CPA advisory firms
+here in in [clears throat] Florida.
+We've actually helped train over 100
+employees at Coffin Rosson. And you
+know, we're really great folks over
+there. If you're looking to get M&amp;A, if
+you're if you're getting acquired, if
+you need um help with, you know,
+accounting and so forth, there are
+definitely some folks that you want to
+reach out to. Or if you're looking for
+digital transformation, they have a
+really great uh team over there. Vera
+Nuland and I uh did a few events
+together over there and also uh did
+corporate training and so forth and she
+was formerly at KPMG head of digital
+innovation lab. So definitely recommend
+chatting with Koffman Rosson of course
+um you know little bit of a typo there
+but uh Deep Station also offers AI
+solutions and integration for a for
+agents and auto and anything of the
+sort. So we work with enterprise and
+mid-market corporations. So, if any of
+you need help building your agents or
+building any type of automations, feel
+free to let us know. We have talent uh
+throughout uh the United States and um
+elsewhere. And of course, if any of you
+are looking to have some fun in the next
+two weeks, we have a hackathon with
+Google. Uh some folks might know of
+them. Google uh is one of the leading uh
+uh leaders in AI with Gemini and so
+forth. And so on March 20th, if any of
+you want to scan the QR code right here,
+on March 20th at the lab, we'll be
+having over 200 around 200 developers
+together hacking together. So, we'll be
+having cash prizes. We'll be having uh
+Gemini subscriptions for the winners.
+We'll be having partners with our all
+the fellow AI communities working with
+us on this one. If we're going to be
+hacking with the Google ADK, the uh
+Gemini API, as well as Google
+Anti-gravity. So things that you want to
+build is now is your chance to go build
+it. Work with some great teammates and
+have some fun. And last but not least,
+if you'd like to join our community, go
+ahead and scan this QR code and this
+will get you connected to our WhatsApp,
+our YouTube. If you miss any of our uh
+episodes, uh feel free to just follow
+along there. We have great live streams,
+videos, and and more. But, you know,
+before I go on for too long, the real
+event is about the speakers in this room
+that are sharing real use cases about
+how they're building today. Um, who here
+has played with open claw so far?
+Amazing. Wow. A lot of builders in the
+room. Who here has heard of it but are
+interested in learning more? Nice. All
+the hands. A lot of hands. Amazing.
+Amazing. Yes, we have really great
+builders in this room. We have very
+great enthusiasts and curious folks that
+are wanting to build and learn how to do
+this. And so, um, you know, this is
+going to be a really wonderful event.
+OpenClaw, as you know, has made it so
+that you can work with your machines
+with pretty much unlimited permissions.
+So with great um risk comes great
+responsibility, right? You know, so we
+want to share about how some people are
+building it themselves so that you can
+see how we can leverage the power of
+these agents to operate our machines,
+our computers, to automate our tasks and
+help improve our lives and, you know,
+maybe make some money in the process. So
+Michael, you've been a community member
+since pretty much day one of Deep
+Station. Is that right?
+&gt;&gt; Yes, I have.
+&gt;&gt; Oh, let me go ahead and turn that on for
+you. Go ahead. Yeah, I've been um so the
+way I found out about DeepStation, I
+used to go to these uh events in Fort
+Lauderdale, but they were mixers and I
+spoke to one person and they're like,
+"You got to check out DeepStation." I'm
+like, "Okay, cool." And then I walked
+across the room, talked to a couple more
+people, and another guy said, "Hey, I
+quit my job at Amazon to build GBD
+plugins, and by the way, you got to
+check out DeepStation." So, I'm like,
+"All right, we got people here quitting
+their jobs at Amazon. I got to go check
+out DeepStation." And sure enough, it's
+like a first event where people really
+build and show off their work and they
+have the energy. They're really about AI
+and also like there's a lot of AI
+anxiety and that's why I came to the
+community because you know we're in an
+industrial revolution. We're actually in
+the fourth industrial revolution. So
+things are moving fast. We're in the
+parabola. And being here in the
+community, you're going to stay ahead of
+AI. You're going to feel a little bit
+more calm because you understand what
+the changes are. since you're here
+tonight, you're actually ahead of a lot
+of people. So, I'm glad you're here
+tonight.
+&gt;&gt; Let's give it up one more time for Mike
+Freeird [applause]
+&gt;&gt; and thank you so much again for helping
+host tonight's great event. I love also
+the the costume. You know, we got to
+give it up for the claw for the open
+claw. So, as as Michael said, he's so
+humble. He's always been building
+agents. I remember last year you talked
+a little bit about multi agent
+orchestration with agent swarms and you
+predicted within a year, right? this a
+year ago that we'd start seeing it
+everywhere and everyone start starting
+to use it and it would actually be
+effective because last year it wasn't
+right.
+&gt;&gt; Yeah. No, it was very bad before but now
+we see that it's being used in in our
+work now. So um we uh a lot of
+organizations are even changing their
+software software development life cycle
+to use AI as part of developing code and
+pushing it to production. So yeah.
+&gt;&gt; Yeah. And Mike Mike Freeberg he's a
+senior software engineer at Oracle. uh
+does a lot of work in software
+engineering and working with AI. So
+really excited to learn more about what
+you're doing. So if you could just go
+ahead and uh go ahead and get started.
+You might have to share your screen one
+more time to sleep.
+&gt;&gt; Oh no. Uh I'm just going to do this. All
+right. Let me go to
+&gt;&gt; Streamyard
+and
+allow while visiting the site.
+&gt;&gt; Perfect.
+&gt;&gt; Is it online now or no?
+&gt;&gt; Scroll down a little bit. Yeah. Share
+screen. Perfect.
+&gt;&gt; We'll be right back. No.
+&gt;&gt; Okay, I'll try to keep the screen awake
+&gt;&gt; and I'll go ahead and just start with
+the intro one more time. Got it.
+&gt;&gt; So, yeah. Um, Mike Freeberg, senior
+software engineer over at Oracle,
+working with automation, software
+engineering, and also AI all the time.
+So, I can't wait to learn more from you,
+Mike. Feel free to take it away.
+&gt;&gt; Yeah, absolutely. Um, I just like to
+know my crowd. So, this year, uh, I had
+a friend instead of doing a New Year's
+resolution, I did a like a word that
+would describe this year. and I thought
+about it and my word this year is
+communication. So, I want to be about
+communication. I'm actually half
+Brazilian, but I wasn't taught
+Portuguese when I was raised. So, um I'm
+reconnecting to my roots and I I started
+learning Portuguese and a lot of
+Brazilian people say that I speak very
+good Portuguese now. So, staying on the
+on the the word communication, I built
+something to help me stay in contact
+with people because uh I'm very bad at
+following up. For example, I go to all
+these events and someone will give me
+their business card and I'll never
+follow up with them. That business card
+is somewhere in my bag or somewhere on
+my desk and that person could have been
+a great connection that I didn't follow
+up with. So, I made something that would
+help with that called Next. So, I
+originally started working with
+OpenClaw.
+I was trying to build this tool within
+OpenClaw, but I got a little nervous how
+powerful OpenClaw was. So what OpenCL is
+in a nutshell and I don't want to steal
+the thunder from the next speakers are
+going to go very ind depth into what
+OpenCL is. It's a sovereign AI agent. So
+what's an AI agent? Basically it's an
+autonomous software process that can
+work on its own. And what makes um what
+makes the open claw a little bit
+different is it'll
+it'll just make it'll just work on its
+own. For example, I don't know if you
+guys know Micah Berkeley. He made a
+tweet and he complained about his
+YouTube video being taken down and his
+open claw actually up actually made a
+new video for him to upload because it
+read his Twitter
+&gt;&gt; and it did it without him asking. So
+that's what makes it very powerful. It
+can do things that are very cool but
+also very scary. like you shouldn't just
+put open claw on your computer because
+some people have done that and they've
+asked it to make them money and it found
+their credit card somewhere and it
+started buying master classes for
+$10,000 and there's no refunds. So, and
+another person connected to his iMessage
+and it sent out 500 messages to all his
+contacts. So, you got to be super
+careful. That's why I bought this Mac
+Mini. I installed it here.
+Unfortunately, I can't connect it to the
+Swarm. So I did I did think of this and
+I made a video of what I'm using open
+cloth specifically for. But what I did
+is I I I built a uh AI swarm. So an AI
+swarm is a bunch of agents working
+together as a team and openclaw is one
+of the agents and the orchestrator will
+send instructions to the openclaw using
+something called tail skill. So, what
+tail scale is, it lets you basically
+commu communicate between uh computers
+and I'm having an issue with it, but I
+opened up an uh an API gateway here and
+you can send requests to it. So, I'm
+going to go into the slides.
+&gt;&gt; Oh, is this connected?
+&gt;&gt; Uh, no, it's not.
+&gt;&gt; Oh, can we connect uh to your computer?
+&gt;&gt; Yeah. Yeah, sure.
+&gt;&gt; Yeah. Thank you.
+&gt;&gt; Okay. I I didn't understand how it
+worked. Got it. All right. One second.
+Is it showing?
+&gt;&gt; Yeah,
+&gt;&gt; there we go.
+&gt;&gt; All right, perfect. All right, let's
+start. So, um, [snorts]
+&gt;&gt; has anybody here been left on red
+before?
+&gt;&gt; Have been left on red. So being left
+unread means like you uh you sent a
+message to someone and they saw it and
+that's it.
+&gt;&gt; Yeah. So I actually have done that
+accidentally to somebody because you
+know I I saw the message and then
+something happened and my attention got
+gravitated away and I forgot about that
+person. Um has anybody um
+left some unread in the same way? Yeah.
+&gt;&gt; On purpose maybe? Ah, yeah. I guess
+that's different, right? Um, anyway, so
+what is next? So, next is kind of like
+the reverse of OpenCloud. OpenCloud has
+these connections and you can send
+messages to it and to control what um is
+going on within the machine. You're
+giving it instructions about like you
+you could tell it what to do. But what I
+wanted to do was I wanted to send
+messages to people who send a message to
+me. So I'm going to just go into
+what next is. So basically if you send a
+message to my WhatsApp number, I'm going
+to autorespond, but it's not me. It's my
+AI clone. It has my voice. It has my It
+has a video clone of me, too. I use Hey
+Jen, and it'll conversate with you. and
+my what his goal is is to follow up with
+you, figure out who you are, research
+who you are, and I'm going to go into
+that, do a live demo. So, live demos are
+very risky. So, if it doesn't work, I
+apologize, but I'll explain what it's
+supposed to do. All right. Um, let me
+just go down here.
+You know, to be honest, I just made this
+these slides with gamma.ai. Just have
+some slides. I'm going to get right into
+the demo. If I see anything on these
+slides that I need to say, I'll just say
+it. So I want to get right into this.
+All right. So this is kind of the flow.
+So I am running everything on this
+machine here. This is a uh it's ran it's
+running something called Docker Desktop.
+It's containerization. And what that is
+is basically I can mock the
+infrastructure that would normally be on
+the cloud on my machine. It's super
+easy. And in the end, I'm going to share
+this repo with everyone and you guys can
+probably get it set up in like 15
+minutes and have the same thing. One
+caveat is
+this is a gray area. WhatsApp does not
+design their tool uh for this purpose.
+I'm using the same connections as open
+claw. It's called Bailey's npm and
+WhatsApp has WhatsApp business and they
+prefer you to go through there. They
+have they sell their API credits and
+stuff. So, if this gets taken down, it's
+because it was in it was already in a
+gray area. So,
+now let's go ahead and
+if you guys want, you can start talking
+to my AI clone here. So, this barcode
+will take you to my WhatsApp. If you if
+you want, this is only on WhatsApp. It's
+not on Telegram. It's not an iMessage or
+anything. If you guys want, you can
+start going ahead and and message this
+phone number right here. I'll leave it
+up for a second and then I'm going to go
+to another screen.
+All right,
+I'll go back to it. I just want to get
+the screen ready. Give me one second
+here. So, let's see here. I just want to
+make sure.
+Okay, let me change directory to UI
+mpm run
+dev.
+&gt;&gt; Oh no, it it had some problems when like
+too many people message it at the same
+time. So
+&gt;&gt; So we got a few people.
+&gt;&gt; All right. So I did create uh right here
+you can see the swarm working. So these
+are all the agents, right? And by the
+way, if you want to use this, it's
+called React Flow. It's really cool. Uh
+this is the Swarm orchestrator. It has
+the open cloud, which is not going to
+work because it's not connected. There's
+something called the qualifier
+personalization video. I only have 24
+credits with Hey Genen. Super expensive.
+It is $1 per video. Um so it might it
+might not work, but it it'll talk to
+you. I'm using uh OpenAI
+5.1 codecs to communicate. So you're
+going to start seeing some messages here
+and just you know uh for privacy
+purposes I have this application on demo
+mode. So
+that being on demo mode I kind of like
+redacted everyone's name. So if you see
+this here it's not going to show
+anyone's contact information because I'm
+respectful of the privacy act and I
+don't want to leak PII and uh I can see
+the messages. I don't I'm not sure but
+it's I put safeguards in there. So,
+nobody should like you you can try to
+send some vulgar stuff, but it it'll
+catch it and maybe, you know, respond in
+in an appropriate way. Um, but anyway,
+this is this is corei. Um, I do have a
+video showing what I'm using openclaw
+for, but I'll just explain it here. I
+want to connect with everyone on
+LinkedIn and what I can do is use the
+open claw chrome browser relay
+extension. So the way you I use the Mac
+Mini. I know a lot of people they use
+digital ocean or they use some other
+cloud service provider. It's going to be
+kind of hard because you need to log in
+and a lot of these sites have
+anti-scraping tools. This is kind of
+scraping. It's automation, right? So,
+what you can do, you download the
+extension,
+you connect it to your open claw, and
+it'll use that session and it'll start
+clicking around. I just used this today,
+so it's not perfect, but it did work. It
+It's super slow. There's no way it can
+handle like everyone in this room, but
+I'm going to try to make it work better.
+And also maybe put in a queue. So, what
+a queue is is basically it's like a line
+and it'll work one by one. I'll connect
+with everybody. So, did anybody get
+messages, by the way?
+&gt;&gt; Oh, wow. I'm impressed. This is kind of
+like a live like um we call load test,
+K6 load test. So, um so anyway, you
+know, I don't want to be boring, but
+let's do like some trivia. I'm going to
+throw out some uh Open Claw swag. So, um
+who is the maker of Open Claw?
+I'll let I'll let uh who said what?
+&gt;&gt; PDF.
+&gt;&gt; The guy that did the PDF.
+&gt;&gt; Peter
+&gt;&gt; Peter Steinberg. I think that's true,
+right?
+&gt;&gt; Yeah. Okay.
+&gt;&gt; There you go.
+&gt;&gt; You got to wear You got to put it on.
+Put it on. All right.
+Did anybody get a video yet?
+&gt;&gt; No video. It It might come later. So,
+let me just log into my Hey, Jen. It
+might not work. Uh, let me log into my
+Hey Jen really quick. Hold on a second.
+Hey, Jen.
+[snorts]
+&gt;&gt; All right. So, what? Hey, Jenn is really
+quick. Basically, you can create an AI
+clone of yourself and you can script it
+and you can send anybody a video of you
+talking with your voice and your your
+face. It's pretty cool. So, uh, let me
+see here.
+It might be broken, but I'll play I'll
+play an older video.
+I'll play an older video.
+&gt;&gt; Hey, CISA. This video was generated
+specifically for you by a form of AI
+agents running in the background. I
+designed these kinds of systems to help
+founders and teams move faster, automate
+intelligently, and unlock new leverage.
+Hey, CISA, this video was generated
+specifically for you by a swarm of AI
+agents running in the background. I
+designed these kinds of systems to help
+founders and teams move faster, automate
+intelligently, and unlock new leverage.
+If you're curious what this could look
+like inside your business, let's
+connect. So, basically,
+&gt;&gt; there's a little bit of feedback. Um, I
+think I just need to mute
+site. All right, there we go. All right,
+going back here. Um, so is actually my
+mom. So, um, and she she, by the way,
+she begs me to make AI features for her
+because she likes to create YouTube
+content. She's she creates videos in
+Portuguese. So, the next thing I'm
+working on is something that will change
+your voice into another language. Um,
+but anyway, so I'm using Open Claw
+specifically to do things that um would
+would normally take me a lot of time
+with designing a like an agent. You can
+create headless browsers, but browser
+scraping is super hard and that's what I
+want to use OpenClaw for. Um, let me go
+to the next slide here. So,
+you can switch out I designed it to
+where you can switch out the models.
+This is actually very expensive to use
+models. For example, like um I'll just
+tell a quick story. I downloaded the the
+open code. It's a new tool similar to
+codeex and open cloud, but you can
+switch your models. And I I put the the
+open AAI 5.4 model, the new one, the
+pro. And I you I ran it for 15 minutes.
+In 15 minutes, I spent $65.
+&gt;&gt; And I'm like, this is not normal, but I
+guess you have to pay attention to how
+much 1 million tokens cost. So I I spent
+$65. So you could switch out models. You
+could use cheap ones like llama models.
+You could usually run that on your
+machine. It's free. It's super slow.
+You're going to get um different
+results. So if compared to like getting
+an open AI or anthropic model.
+Oh, by the way, um go ahead and talk to
+it.
+Go ahead and record a message. I forgot
+about that. It talks in my voice. I
+don't know if anybody got the voice
+message yet or not or not. Did anyone
+get the voice message?
+&gt;&gt; Okay.
+&gt;&gt; No video, no voice message, but
+messages. Got it.
+&gt;&gt; Do not ignore me.
+&gt;&gt; Okay.
+&gt;&gt; Say again.
+which is something
+I have I have so I have a research agent
+&gt;&gt; that looks your that looks people's
+information up online
+&gt;&gt; yeah but if no one feels comfortable
+having your information with me I wanted
+to follow the privacy act you can send
+it please delete all my information and
+it will delete it off the database here
+and it will send you a message letting
+you know that all the information's been
+deleted
+But uh you can talk to it. You can talk
+to it in other languages. So far I
+tested out Spanish, Portuguese, and
+Russian. And then it comes out in my
+voice. So the Portuguese is fantastic. I
+was like, "Dang, it's better Portuguese
+than than my Portuguese." So
+&gt;&gt; what's the name of the
+&gt;&gt; Kuraii?
+&gt;&gt; Yeah. Yeah. Yeah. Sure. So what Kuraii
+is um he actually spoke the founder is
+Brazilian. He's from S. Paulo. He spoke
+at deep station
+um and he made a framework for building
+AI orchestration with of AI AI swarms.
+So crewai.com
+it's an open-source framework. There's
+others. This is not the only one.
+There's also like a agency framework.
+It's a a guy from Georgia, not the state
+of Georgia, the country of Georgia. He
+designed it and it's pretty good. Um,
+but I I use Core AI and
+let me go back to
+&gt;&gt; Nan is kind of more of a what you see is
+what you get solution built by a company
+like make.com and I use that first, but
+they don't let you do what I just did.
+&gt;&gt; Well, yeah, cuz I I can send out
+whatever messages I want. If you use
+make.com or n&amp;m, you have to use the
+Facebook business API and all the
+messages are have to be pre-approved.
+So, this is definitely in the gray area
+and I don't think it's going to last
+very long. Go ahead.
+for a company like
+&gt;&gt; few months ago.
+&gt;&gt; Yeah.
+&gt;&gt; I like open
+Oh, congratulations.
+&gt;&gt; Yeah.
+What was the name of that?
+&gt;&gt; It's like 30 bucks a month.
+&gt;&gt; So that's called Wappy, guys. $30 a
+month.
+&gt;&gt; Whi. Wappy. Check it out. So,
+um, this tool that I use, it's called
+Bailey's. It's the same one that
+OpenClaw uses. It's an MPM package. Hey,
+Grant, how am I doing on time?
+&gt;&gt; 8 minutes.
+&gt;&gt; Eight minutes to go or eight minutes in.
+&gt;&gt; Okay, eight minutes to go. So, uh, I'll
+just do more questions. Anybody have any
+questions? Um,
+So,
+have you played with the um Have you
+played with the um subscription of Open
+AI, the $20 uh on on paying for usage?
+&gt;&gt; Yeah, I that's that's what it's using
+right now. It's using the Open AI models
+right now.
+&gt;&gt; But the subscription, the 20 not an API
+token.
+&gt;&gt; Oh, you're talking about Yeah, I've
+played with that, too.
+&gt;&gt; Okay. So, I was just going to say that
+for the group. I mean, for $20 a month,
+you get all you can eat. I mean, don't
+even worry about paying for an API.
+&gt;&gt; Yeah. So, what he's saying, for $20, if
+you get the pro subscription, you can
+play around with the the openi.com
+chat and also they let you uh
+authenticate in. So, there'll be in in
+OpenCloud when you're configuring, it'll
+ask you how do you want to sign up and
+you can use your API key or you can use
+the OOTH token. So, the O token uses a
+$20 a month plan,
+&gt;&gt; right? That's plenty. It's it's it's
+really
+&gt;&gt; you're still capped, right? Yeah.
+&gt;&gt; Yeah. Because I I I hemorrhaged money
+with these demos with the agents. Like
+last year was worse, but now it's
+getting a little bit better. Now, it's
+just a few cents. But, um you got to be
+very careful and conscious of which
+model you're using. So, um any any other
+questions? Yeah.
+So I think for a lot of people this is
+really new technology
+and it's helpful to see all the
+individual APIs and the different
+platforms that you're using. You've
+clearly spent a lot of time figuring out
+building out like the CRM workflow and
+the uh the video workflow.
+Can you help us at a high level frame
+how we should be thinking about
+interacting with Open Claw?
+&gt;&gt; I would take it with a grain of salt cuz
+um I I don't know exactly how it was
+made but I heard it was vibe coded just
+like this thing I made. I didn't write a
+single line of code. It was all me
+prompting it. So
+framing it around, hey, I have I've got
+an openclaw set up with Telegram or
+WhatsApp. Where do I start? what should
+I say? It becomes very overwhelming to
+think about like do I think about it as
+uh as a person that's managing my
+calendar? Do I think about it as a
+software engineer?
+You've spent a lot more time than I have
+in terms of how do you think about
+asking it things to do? I'm pretty sure
+most of us have used chat GPT, but the
+limitations is it's it's a ask and
+exchange versus I give it something and
+it just does stuff. Yeah. Well, OpenClaw
+actually has a soul and I don't want to
+steal the thunder of our next speaker,
+but he's going to go really ind depth
+into all of what you just said, but
+basically, you got to think of OpenClaw
+as a person. Even when you set it up, it
+you have to kind of give it like who you
+are, what it is, what you need to call
+it. You got to give it some context and
+it'll save these contexts in MD files
+and it lives by those MD files, but you
+can update it at any time. So, that's
+how OpenCloud works. But basically, it
+works like on a cron job. So, it wakes
+up, it reads these MD files, and it
+starts going to work.
+&gt;&gt; There's actually a few of them, and our
+next speaker, Alan, he's actually going
+to go really in depth into all these
+files and how they work and how you
+should set them up.
+&gt;&gt; Yeah,
+&gt;&gt; this happens with
+a person
+Okay. What if a person
+contact WhatsApp and mark you as a spam
+or anything? But that that is
+concerning. Uh a person that I know
+lost his WhatsApp forever.
+So
+&gt;&gt; that's why I didn't use my real phone
+number. I got a second phone, a second
+line. I already thought I thought
+exactly what you said. I got a second
+phone number. Second line, I do not use
+my real phone number because like I
+said, there's no way that Facebook has a
+a business API designed for what I'm
+doing and I'm doing it for free and I'm
+also doing unfiltered.
+&gt;&gt; Yeah. Have you implemented Open Claw on
+a local model versus a cloud model and
+what has been your different experience?
+&gt;&gt; So I not open claw but I did the crew
+AI. It's so bad. It's it's lost. So, I
+tried uh Llama 3 and then I tried Llama
+4. It wasn't really that good. It's like
+uh the anthropic and the OpenAI models
+are magnitudes better because they're
+paid. So, uh and they're faster, too.
+So, but they do have services where you
+can uh use their hosted models and it
+might work a little bit better, like a
+little bit faster. The latency is um
+better. Uh, but I recommend using the
+paid models for things that need more
+thinking more or more uh power.
+&gt;&gt; Could you pass the mic to him? Sorry.
+&gt;&gt; Which one?
+&gt;&gt; In the back. Yeah.
+&gt;&gt; Hey, thanks for your talk. Uh, can you
+tell more about the architecture of
+memory layer? You said uh you mostly
+rely on MD files. Do you use any
+additional context and u how you manage
+context? Um how you optimize a context
+retrieval and uh memory layer basically.
+So for my open claw I didn't invest too
+much time in in the MD files. I gave it
+a very simple task go ahead and research
+somebody and I actually give it a
+command through the other uh swarms. So
+the the orchestrator receives your
+message and it'll determine whether to
+do research and if it does research on
+you, it'll send it over to a couple
+different agents. Uh one agent that I'm
+using, it uses something called People
+Data Labs. Um shout out to Michael
+Berkeley. He's the one who told me about
+that. And then um
+the other one uses Open Claw and that
+that's to connect with someone on uh
+LinkedIn. So in my slides I am going to
+show you that here I have to upload this
+to YouTube and it's just a very basic
+video but what's important is
+this plugin right here. It's hard to see
+it says on. So this is the claw the the
+open claw browser relay extension and
+it's connected to the open claw and it
+knows to you uh you you instruct your
+openclaw to use this browser profile.
+So, my browser profile is called my
+Chrome, and it's already logged into my
+LinkedIn, which saves you so much
+trouble if you're trying to do some like
+browserless automation, and you have to
+deal with u anti-scraping from whatever
+service you're trying to scrape. So, let
+me just play this. So, um I apologize,
+Grant. I I disconnected from you on
+LinkedIn for this demo. So, don't feel
+don't feel bad. I I I think I
+reconnected with you. This is that's why
+I disconnected from you. So here this
+was all done from uh open claw. The
+orchestrator agent sent an instruction
+and it sent it to the uh open claw via
+um tail scale and then another video
+popped up. That's not from me. Sorry. Um
+but anyway, it it it connected with
+Grant. I got to double check if it um if
+I'm still connected with him because I
+think I was testing it. So that's what I
+was using OpenCloud for.
+Um, and then I I added some stuff here.
+Uh, I rebuilt this app three times. It's
+all been vibe coded. Uh, I learned about
+vibe coding. You really need to commit
+all like everything you do, you have to
+commit the changes because you can break
+the app so fast and it doesn't know how
+to fix it. And I don't know how to fix
+it because I didn't build anything. I
+just prompted everything. So, uh, I use
+test-driven development. I asked it to
+create an architecture.md so that way I
+can understand what it's doing. So I
+like to use things like graphana lowkey
+and uh I did have a dashboard and the
+dashboard was designed to let me know
+how much I was spending on which LLM,
+which API credit I was using for like
+page in I'm using 11 Labs for my voice,
+uh things like that. So this is a
+built-in graphana and I'll just show you
+that my dashboards are empty here. Um,
+let me go here. Dashboard.
+I just have some errors. I like to look
+at like I like to make sure I have a log
+trace of errors so that way I can debug
+things. Um, all this by the way is on my
+GitHub which I'm going to share in
+another slide as we come to an end here.
+All right. So, next steps for this I
+want to connect other connections. So,
+iMessage, Telegram,
+uh maybe email, um so that way if
+anybody wants to connect on a different
+platform, they can and it's synced to
+the contact. That's the next thing. The
+next thing is to get it up on the cloud
+and also to do the followup. Like I
+already had this connected to Calendarly
+where you can schedule an appointment
+with me and you know maybe go for a
+coffee and and we could talk about AI,
+we could talk about tech and maybe build
+something together. So
+all right
+&gt;&gt; sorry
+people or whatever
+&gt;&gt; people data labs
+&gt;&gt; people data
+&gt;&gt; it doesn't use LinkedIn it's just a
+database of information so some people
+are ghosts like I searched some people
+they didn't pop up I I popped up it knew
+where I worked at from since like 10
+years ago it knew where I things like
+that.
+&gt;&gt; So with the LinkedIn, the way it works
+is it'll take your company cuz my what
+my a my swarm does, it tries to figure
+out who you are. It's asking your
+company. It'll take your name, your
+company, it'll be on my LinkedIn.
+LinkedIn has good algorithms already to
+try to find people. So it'll I'll just
+get the first person and I'm kind of
+guessing that that first person is you.
+and then I try to connect with you. But
+if not, like the worst case is I
+connected with someone that has your
+your same name.
+&gt;&gt; Well, amazing. Amazing. Let's give it up
+one more time for Michael Freeberg.
+&gt;&gt; Thank you. [applause]
+&gt;&gt; Yes. And so, who here learned something
+new about OpenClaw tonight? And you
+know, like just a new use case and so
+forth. Very cool. Very cool. So, that's
+one of the use cases of what how you can
+use OpenClaw in your day-to-day life.
+You can make your lives easier. You can
+change your networking sessions or
+however way you want to use it in your
+personal or professional life. And thank
+you again, Michael, so much. That was a
+great presentation. Cannot wait for your
+next time. And
+&gt;&gt; yeah,
+&gt;&gt; uh we already got a selfie, right? So
+&gt;&gt; yeah, we already got a selfie. Just real
+quick, uh the barcode on the left is the
+repo in case you want to try this
+yourself. And then the barcode in the
+right is a link to my link tree where
+you can stay in touch with me on social
+media. I'm on social media as Mike Aai.
+So, uh, maybe I can get it later or just
+message that number you got and then
+I'll I'll I'll manually send it later
+cuz I didn't set that up yet. But thank
+you everyone.
+&gt;&gt; Amazing. Thank you. Thank you.
+[applause]
+&gt;&gt; All right, put it back in
+the mic as well.
+&gt;&gt; Great. Well, that was a wonderful
+presentation. We just learned a lot
+about how we can use OpenClaw in our
+day-to-day lives and for our own
+personal use cases. And so next we're
+going to bring up to the stage Giani
+Crellllo. Uh wonderful community member
+of ours. Let's give it up one time for
+Giani Carllo. Amazing. Amazing. Perfect.
+Perfect. Yeah. So Giani has been a
+speaker, a community member of Deep
+Station now for what maybe six months, a
+year now? Maybe a year now.
+&gt;&gt; Maybe over a year.
+&gt;&gt; Maybe over a year now. Yeah. You know,
+wonderful engineer, you know, worked at
+uh really great companies. Uh now formed
+his own company and uh really really
+cool about what they're building. An
+open-source project. Is that right?
+&gt;&gt; Yep. That's it. That's it. Excited to
+talk about it.
+&gt;&gt; Yeah. So, we'll go ahead and just get
+him set up real quick. And uh so, he
+spoke a few times at a few of our past
+events and you know, former uh engineer
+over at Techolution, working with a lot
+of Fortune 500 companies and now working
+with um a lot of really great
+corporations and enterprise and
+mid-market companies. So, you know, he's
+really deep in the weeds. him and his
+co-founder Ethan Henley who flew out for
+tonight. They were really great at
+building AI solutions and really really
+uh genius level. And so wanted to just
+kind of get a look at what you're
+building and how you know people can
+help deploy AI to their systems easily
+and at scale. So can Amazing. Amazing.
+So go ahead and just click okay. So
+you're signed in there. Perfect. Oh
+great. We can see the screen fine. Go
+ahead and just maximize that.
+There we go. Okay, Ash, I'm gonna set
+you up here.
+&gt;&gt; Yeah, I got you.
+&gt;&gt; Um, is this the mic or
+&gt;&gt; that goes to the live stream?
+&gt;&gt; Gotcha. Gotcha.
+&gt;&gt; You could also
+Yeah.
+&gt;&gt; Amazing. Amazing. So,
+&gt;&gt; testing testing. Okay. Great. So, we'll
+go ahead. Oh, actually amazing. So,
+we'll go ahead and uh start that over.
+So, so welcome Giani Carllo to the
+stage. Giani is a wonderful engineer.
+Been with Deep Station now for over a
+year. A brilliant engineer. um now at
+Silo Technologies and co-creator of
+Night Shift. Is that right?
+&gt;&gt; That's correct. Yep.
+&gt;&gt; Love the name. Love the name. And so you
+got a great demo for us tonight. A great
+lightning demo about how to deploy
+agents. Is that correct?
+&gt;&gt; Yep.
+&gt;&gt; Amazing. Well, I'll let you take it from
+here.
+&gt;&gt; Sounds good. Um okay. So, can I just get
+a hand raised if you're an engineer,
+software engineer?
+&gt;&gt; All right. Uh anyone work on
+infrastructure like DevOps S sur
+all right um vibe coders any vibe coders
+all right my people all right
+&gt;&gt; all right cool so um I'm going to go
+over um like what a sandbox is it's its
+core infrastructure right now uh well
+first off my name is Giani Carllo I'm
+the CTO and co-founder of Silo
+Technologies we build and manage um core
+infrastructure um right now like most of
+our work is being done with um deploying
+agents in into production uh and
+handling production workloads and that
+brings um pretty interesting constraints
+right so like and this comes straight
+from um the cloud uh SDK docs and I'm
+repoting it uh unlike traditional
+software that follows predefined code
+paths agents essentially can write their
+own code so their code that writes more
+code and can take actions on top of a
+computer and So we want this
+flexibility. Uh it's what makes the
+agents really useful. It's what gives
+them that their power, but it's also um
+a way for uh new um threat vectors to to
+show up. And so um this means that their
+their behavior can be influenced.
+So um defense in depth it's kind of like
+a marketing term basically means to just
+layer on top of um security protocols so
+that you have some defense that is that
+deeply in in your stack and you can
+reason about the threat models. Uh so
+much of
+security and performance is just
+understanding your constraints and
+understanding your environment. So um
+this is a super uh reasonable way to go
+about deploying uh open claw right so we
+have a
+&gt;&gt; I'm sorry share your screen one more
+time
+&gt;&gt; yeah gotcha
+give me one second here
+&gt;&gt; don't worry'll
+be [snorts]
+&gt;&gt; okay
+&gt;&gt; yeah no worries no worries um let me
+grant you want me to share the whole the
+whole screen just like this. You good?
+Okay. Um All righty.
+&gt;&gt; Uh so
+this is a reasonable way to deploy um
+open cloud, right? So the you what you
+typically want to do is you want to
+deploy the agent inside of a sandbox. Um
+if you have defense in depth, uh your
+sandbox has its own guest kernel and a
+guest file system. And anywhere you see
+red is where something could go wrong
+and where you probably want to apply
+some security policy. Right? So ingress
+traffic. Um if you've ever heard of
+prompt injection, that's what happens,
+right? So uh your open clause is
+listening to uh email and it gets prompt
+injected. Well, if your open claw uh
+instance is behind a um or it's inside
+of a sandbox, the only way you can get
+to the open claw is you have to go
+through the host and that's where you um
+you apply some network policy. If
+something passes through the host, uh
+you still have a network bridge that you
+need to go through. That's another place
+where you can apply a security policy.
+And then anything that the agent does um
+that's interesting like IO network IO
+file IO that's another place where you
+would apply security policies directly
+inside of the the sandbox.
+Okay. So what's a sandbox? Um a sandbox
+is a controlled execution environment
+that limits what a process can access
+and affect. That's essentially what a
+sandbox is. And there's different types
+of sandboxes.
+Um there's fancy things in the middle
+between containers and VMs. like if
+you've heard of G Visor or uh Kata
+containers but in in a nutshell you have
+two categories you have containers and
+you have VMs uh containers are isolation
+entirely implemented by the host kernel
+so containers share the same host kernel
+uh and it uses container technologies
+like um namespaces which controls what
+the process can see uh croups which
+controls what a process can consume and
+set comp which controls what a process
+can invoke
+Uh and then on the right side here uh
+with VMs, VMs are typically hardware
+enforced and especially um some of like
+the newer technology like microVMs um
+they're enforced by the KVM which is a
+kernel virtual machine and they're
+completely different, right? Um they
+wake up the guest kernel boots and it
+thinks it's the only thing on the
+computer. It boots into ring zero and
+operations like IO uh trigger what's
+called VM exits. And so Firecracker is
+actually a VMM. the virtual machine
+monitor. Uh anytime the agent does any
+sort of like file IO or network IO, the
+VM will exit and then that's another
+place where you can um apply security
+policies.
+Uh I have a blog post about uh building
+one from scratch in Python um if you
+want to check it out. Uh it's pretty low
+level and you know Python is who said
+Python is not a low-level you know
+systems language, right? um we we build
+one from scratch and if you go through
+that you'll appreciate that we don't
+build it from scratch in the night shift
+stack and so uh we're introducing night
+shift so night shift is a um runtime API
+for managing uh containers and so um
+it's composed of three components an
+agent instance protocol so that's the
+thing that goes inside of the container
+um and when I say container I mean some
+sandbox uh the agent implements this
+protocol we have an agent OCI spec um
+which is the container or sandbox is
+self-escribing. So the the the sandbox
+will essentially say hey I need this
+many vCPUs this much memory I'm allowed
+to do this that or the other uh it's
+going to describe itself to the runtime
+and then we have the brain of the
+operation which is the agent runtime API
+which orchestrates um and load balances
+across the containers that the sandboxes
+that it manages. This is kind of the
+same thing but spled out on a diagram.
+So HTTP requests come into Nightshift
+gateway. There's two ways to communicate
+with Nightshift Damon. Um through the
+Nightshift gateway or through the CLI.
+Um the communication beyond the uh night
+shift gateway and the night shift CLI is
+all over um it's done with gRPC. Um it
+communicates to night shift Damon and
+then night shift. Something cool about
+night shift, I don't know when you would
+want to do this, but it's it's a flex
+for the night shift Damon is that you
+can run heterogeneous uh sandboxes in
+the same cluster. So even on the same
+node. So your node can run firecracker,
+kata containers, docker containers, even
+like exotic runtimes like um wazi for
+example.
+All right, this is the live demo part.
+All right, so um I'm going to go over
+here. So, uh, what we're going to do,
+oh, actually, let me go back here. I
+have a checklist.
+Okay, so the checklist is we're going to
+compile and start night shiftd. We're
+going to create a Docker file together
+um with this Asian OCI spec. We're going
+to build the the agent OCI spec. We're
+going to deploy into an AWS C5 metal
+instance, which is a bare metal instance
+inside of AWS. you can just replace AWS
+C5 Metal with any um any KVM based uh
+machine and then we're going to stream
+events from the other side, right? We're
+going to stream events from uh the
+sandbox. All righty. So, um here it is.
+I hope everyone can see my screen. Yeah,
+there you go. So, this is a terminal,
+guys. Uh we're going to compile the the
+night shift gammon. So,
+dash oigh shift D. We're going to
+compile down night shift D. Um,
+and
+night shiftd main.go.
+All right. So, we're going to compile
+down the uh dam, which we already have
+it here. Boom. So, we can see it. I'm
+going to run this. But before I do that,
+I'm going to show you what a config file
+looks like in uh in Night Shift
+config.
+So, this is how you control the
+Nightshift Damon. Um you have a state
+dur you have uh like agent default. So
+if you don't define what your container
+needs this is essentially like the
+operator will define that uh any agent
+deployed into this is going to use two
+vCPUs 512 um megabytes of of memory have
+a 300 um timeout and max concurrent VMs
+of three and then we're going to use a
+default sandbox and firecracker.
+All righty. So I'm going to start that
+up.
+GFD I'm going to pass in the config
+file.
+Okay, cool. So we got the nice shiftd
+started.
+[applause]
+All right, cool. All right. Um, so then
+now the next stage is to build pi. Like
+this is this is what we're all here. So
+we're going to build open claw. Uh fun
+fact, PI is the coding agent underneath
+OpenClaw. Um so this is a developer
+platform and this is a developer talk.
+So we're going to deploy the actual
+harness. Uh and so I went into my
+examples here which is also available on
+the GitHub. Um really simple Docker
+file, right? So we deploy right here.
+We're going to um install the PI coding
+agent which is essentially openclaw. And
+then this is where the OCI spec comes
+in. So we label that this is a v1
+protocol. Um this specific instance is
+going to need two vcpus. Uh24
+memory has a 600 timeout and we're going
+to default or we want a VM. So VM just
+kind of maps to uh firecracker which is
+a microVM. If you uh put here instead
+for a container this would run docker.
+All righty. So here we go. Let's build
+this image together.
+Uh
+&gt;&gt; you don't need a GPU for this.
+So we're going to run we're going to um
+deploy here
+uh build-t
+give it a name space um pi agent
+latest
+and we're going to build this together.
+All right, we built the container.
+&gt;&gt; [applause]
+&gt;&gt; All right, cool. So, uh, now we're going
+to go over to, um,
+Postman here and we're going to
+communicate directly with the running
+Nitro Damon, right? And so, in this
+case, we're going to hit, uh, the deploy
+endpoint. Um, I'm going to name this
+deployment open claw, and I'm going to
+pass it in an image ref, which is the
+container we just built.
+All right, so we just deployed it and
+it's obeying our um, our request, right?
+So two vCPUs, the memory, the timeout,
+and then uh the important part here is
+uh the sandbox, right?
+Let me list my agents out on uh with
+nice shiftd. And so we have a one of my
+test agents from before. And if I scroll
+down here underneath, and here it is.
+Here's here's our deployment for of of
+OpenClaw.
+I'm going to create a run. So I'm going
+to uh ask OpenClaw um say hello and tell
+me what 2 plus2 is uh briefly. I'm going
+to hit invoke.
+It's now in run phase pending. So what
+the container does under the hood is you
+can see the logs here. Um the
+firecracker [snorts] VM starts up, it
+opens up, reads um and then the
+firecracker VM is ready and now it's
+running the running the actual task.
+So if I go here, so if I grab this run
+ID,
+I go to stream events.
+&gt;&gt; Of course
+better guys.
+&gt;&gt; It's good. If I go to stream events
+and I pass in my run ID,
+we'll see the actual streamed events
+here. So the these are the text. So if
+you've developed with um we developed
+with these APIs, the they stream back
+text deltas. Those are all the text
+deltas that stream back from our
+firecracker VM.
+And then um if I get the run,
+here we go. Let me delete it.
+We should be able to see that the run uh
+succeeded.
+All right,
+run phase complete. That's the demo,
+guys.
+&gt;&gt; We have a few minutes for questions.
+Does anyone have any questions about
+sandboxing uh open claw?
+Any questions? Oh, question over here.
+&gt;&gt; Oh, we're passing a mic to you.
+From someone that's just getting
+started, going from building apps and
+designing them themselves, going into
+aentic workflows, what would you say is
+the way to set up the context files, the
+guard rails, the BPS, everything that is
+going to have to do with safety? It's
+going to make sure it doesn't go off the
+rails or do something that you don't
+want it to or design in a way that you
+would like it to if it was you, for
+example.
+&gt;&gt; Um, so there's a lot there, right? Uh so
+I have a diagram here which is a like so
+you ask how you get started. Um this is
+a very reasonable way to get started
+right if you're if you're if you're
+serious about security you're serious
+about running these things and like
+let's just say that you're running
+agents and um you're running a
+multi-tenant like you are an operator
+and you're running a multi-tenant
+platform. So other people other
+developers can deploy to the platform.
+So you have like different customer
+workloads and all of those workloads are
+are untrusted. Uh this is a very
+reasonable way to get started like out
+of the box right here. Right. So um you
+have a host machine. I'm going to
+you have a host machine.
+You deploy your sandbox.
+The sandbox has its like own stack of
+everything. It has its guest kernel. It
+has its guest file system. And it even
+has its own guest um networking. You
+apply policies at the points where
+things can go wrong. We should be good.
+Yes.
+&gt;&gt; One second.
+&gt;&gt; One second. You're gonna have to repeat
+this so everybody can hear.
+&gt;&gt; Okay. Okay, coming from a non-developer
+coding technical background and
+obviously something like OpenClaw is
+accessible to everyone including someone
+who's not a programmer. Um, you speak
+another language even though I'm sure
+you're explaining it in the most basic
+way. Where or what is a good way to
+start so that it's not so intimidating
+and overwhelming? because I'm sure a lot
+of people in this room probably what you
+were coding and entering into your run
+program but it's yeah where do where
+does one start if we want to [laughter]
+&gt;&gt; so you guys don't program
+&gt;&gt; not scared of it but want to know where
+to start
+&gt;&gt; I can ask you that question
+&gt;&gt; sure to Miami date AI
+&gt;&gt; I was just I was just listening
+&gt;&gt; um we're it's it's up to the like
+runtime builders to make these things
+more accessible. Like one of one of the
+core tenants of our platform is that we
+or the the the open source project is
+that we want to make it such that doing
+the right thing is easy. We're not there
+yet, but we're getting there. So if
+anyone wants to help out, we're open
+source. Uh great question. It's a great
+question. It's up to us to make these
+things more accessible.
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. Um yeah, I just want to make a
+comment on that. And also the question
+that was around there. Unfortunately um
+this technology involve um some
+technical stuff you know um you need to
+learn a little bit of some things but if
+you want to get started there are some
+um services out there like for example
+there is one called Hostinger
+uh that provides some BPS which is a
+virtual computer and once you have one
+of those just with one click you can
+just deploy that server and access your
+graphical user interface to interact
+with um open clone and then you can pair
+that open close with either telegram or
+WhatsApp or any channel that you want to
+use that's the easier way because any
+other way like creating the sandboxes um
+configuring a Mac mini like creating a
+docker container. Um all of that
+involves some type of technicism and you
+need to learn
+and is good because you are looking for
+something new you need to start learning
+the new language you know uh because we
+are in that field right now. Um but the
+good thing about it is that with two
+three easy steps you can get access to
+the technology. Then if you want to go a
+little more further and learn it becomes
+technical because this is based on a
+concept called an agent and an agent is
+like a really good piece of technology.
+Okay.
+&gt;&gt; Okay. Good.
+&gt;&gt; Amazing. Amazing. Let's give that up.
+We'll have two more two more questions
+from the audience before we move to the
+next one. But for real quick as well.
+So, who would like a class on how to set
+up Open Claw here? Who would like a
+class on that to make that easy? Well,
+how about this? Deep Station is going to
+be launching a class on OpenClaw in the
+next few weeks. So, if any of you are
+looking to learn how to do it, let's
+make it happen. So, feel free to follow
+our Luma and we'll having a class for
+that available for all of you. So, thank
+you. We have two more questions for the
+audience. Maybe three. We'll see.
+Yeah, real question. Uh, inside a
+sandbox, how do you log for inference
+for future inference? How does it
+actually learn within that that sandbox?
+&gt;&gt; Um, repeat the question.
+&gt;&gt; Can you repeat the question?
+&gt;&gt; Yeah.
+&gt;&gt; Yeah. How does the how does the actual
+agent learn? I mean, can you can you
+keep or log anything for future
+inference?
+&gt;&gt; Of course. Yeah.
+&gt;&gt; Great question. So SAM um night shift
+doesn't handle any of the like
+reinforcement learning loop or actual
+like training but um we provide a
+pluggable telemetry collector right so
+um night sh night shift d the night
+shift gammon uh routes
+&gt;&gt; going to be a good conversation
+&gt;&gt; um anything that's happening like inside
+the host and then also anything that's
+happening inside the sandbox itself uh
+logs metrics traces to a a telemetry
+collector
+&gt;&gt; and You can plug that into like graphana
+for example.
+&gt;&gt; Amazing. Amazing. And we'll have one
+more question from the audience and uh
+but and just for for context as well the
+next one will be a good one for zero to
+one as well. So we wanted to have a good
+balance of you know great engineers um
+professionals and then also for a zero
+to one. So Micah Berkeley
+&gt;&gt; hey what's going on? So I want to trying
+to help bridge this gap a little bit
+because I know a lot of you guys are
+here from the engineering side. I know
+if there's people here from the more
+vibe coding. I want to figure this out.
+Um, so I know your environment. I've
+lived in it. I also know the deep the vi
+the deep vibe coded environment. I'm
+going to put this down.
+Oh, Mike.
+&gt;&gt; Oh, okay. Sorry. Sorry. Um, this right
+here, what he's building is dope for a
+lot of really important reasons. Let's
+say you're building infrastructure with
+uh open claw that's taking uh private
+information or you're doing stuff with
+credit cards and you're doing stuff
+where you're transacting you know
+business that uh is needs to be
+warehousing somewhere safe. What he's
+doing and the environment that he's
+building keeps it safe. It puts a lot of
+gates in the way to stop somebody from
+entering into your environment and doing
+stupidness. Example, today I received a
+tweet from somebody who tried to prompt
+inject my open claw. He sent the nice,
+"Hey, what's going on, brother? If you
+just send me your API keyoop and the way
+he was breaking it down was actually
+really intelligent."
+Fortunately, my open claw caught it and
+I have systems in place to stop it from,
+you know, from recklessness. But what
+he's building here with night shift and
+you know these are the gates that we
+need to have if you're building these
+secure systems and that's why I know
+it's it's kind of hard to understand
+like what's he talking about us as
+engineers we get it right but what uh
+what I want everyone else to kind of
+understand is that if you start building
+in open claw and you start using these
+systems like pi and etc etc and you're
+building stuff for clients because
+that's where the bag is at um you want
+to protect your stuff, right? And
+it's important that you have
+infrastructure like this, stuff within
+containers, stuff within KVMs. When I
+first started using OpenClaw, I went
+balls to the wall. I let it have access
+to everything and I learned some really,
+really important lessons in that first
+week. I've learned to use knowledge and
+wisdom now, right? And uh I know I got
+you. Um I feel the hook coming, right?
+Um, but no, I'm I'm saying this cuz I
+just want uh I I think that what you're
+doing is is super dope and I understand
+it, but I do want to kind of cross that
+bridge for everybody so they understand
+why this is so important, why these
+different levels and these different
+gates and these different um you know
+like understanding telemetry of what's
+going on inside of these environments is
+important. But I actually didn't really
+have a good question. I didn't really
+have a good question for you, but I
+think what you're doing is amazing.
+[applause]
+&gt;&gt; Thank you so much for that, Micah. Micah
+is actually an OG one from the very
+first uh Deep Station event. Is that
+right? Amazing. Amazing. Um so I think
+we're going to go ahead and just move to
+the next uh session. Let's give it up
+one more time for Giani PLA. Amazing.
+Amazing. Who here Who here learned
+something new about sandboxing agents?
+Who here learned something new? Amazing.
+Amazing. A lot of the hands go up.
+Amazing. Yeah. So sandboxing is very
+important uh for for for developing your
+agents and you know just making sure you
+have a secure environment. That's why
+see a lot of folks buying mic minis and
+you know if you want to do a VPS or
+something like that, night shift could
+be one of those ways. So before we move
+to the next speaker, let's uh have a
+selfie.
+&gt;&gt; Heck yeah.
+&gt;&gt; If there isn't a selfie, it didn't
+happen, right?
+&gt;&gt; True.
+&gt;&gt; Amazing. Amazing. Yeah, as you might
+have said, uh if there's no selfie, it
+didn't happen. [laughter]
+&gt;&gt; All right, so let's give it up one more
+time for Giani. [applause]
+So, we're going to bring up our last
+speaker for the sta uh to the stage, and
+he's a really great uh friend of mine
+and a really great uh friend of the
+show, as some might say. But yes, a
+really great engineer, really great
+person. He's going to break it down when
+it comes to Open Claw, right? Just it's
+going to be more of a conversation. It's
+going to be more of a workflow, how he
+interacts with it. So, this is a great
+one for like a zero to one. So, we'll be
+bringing up Alan Garcia to the stage.
+Let's give it up for Alan Garcia.
+[applause]
+Amazing. Amazing. Can't wait for this
+one. We'll be setting up for just a
+second. Uh and we'll be getting started.
+So, just go ahead and plug in that USBC.
+We should be good to go.
+Who here learned something new about
+OpenClaw today? Let's give it up one
+more time. Who wants a class on
+OpenClaw? [laughter]
+Amazing. [applause] Amazing.
+&gt;&gt; This for me?
+&gt;&gt; Yeah. Yeah.
+&gt;&gt; Sure.
+&gt;&gt; Appreciate it.
+&gt;&gt; Yes.
+All right. So now, oh, actually, let me
+go ahead and just click this button.
+USBC, correct?
+&gt;&gt; That's USBC. Oh, can you plug this in?
+&gt;&gt; Can you plug that into your
+&gt;&gt; Yeah.
+We'll just be setting that up for one
+more second and we should be good to go.
+Amazing. Amazing. Video over IP should
+now become the slides.
+&gt;&gt; Some might say there's AI and then
+there's AV.
+Are we good here?
+&gt;&gt; Cool. Yeah, we're good. Um,
+&gt;&gt; yes. Although I think the screen is
+extended, so I think we need to mirror
+the screen.
+&gt;&gt; Yeah. So, we just go to screen
+mirroring. Yeah. Stop extending.
+Perfect.
+That should do it. Then you got to
+choose to mirror apparently.
+Yes. Choose content then just uh entire
+screen. Perfect.
+&gt;&gt; And there we go. Amazing. So for this,
+can you just uh do the present? Yeah.
+&gt;&gt; Perfect.
+&gt;&gt; Okay, great. So we'll start.
+&gt;&gt; All right. So let's give it up for Allan
+one more time. [applause]
+So Allan has been a community member for
+over a year now. wonderful person,
+wonderful engineer, great speaker, great
+industry professional. Um he's worked
+he's head of industry uh was a former
+full stack engineer over for the New
+York Times, worked as a software
+engineer for Cornell University and now
+is head of engineering for Soma Capital.
+Is that right?
+&gt;&gt; Yes, sir.
+&gt;&gt; Amazing. Amazing. Yes. So, um what are
+you going to be speaking on today, Alan?
+&gt;&gt; So, today we're going to be talking
+about open claw and the intent error.
+And the intent error.
+&gt;&gt; Intent error.
+&gt;&gt; So let me make sure this is set up for
+you.
+&gt;&gt; Yep. Is this just for the streaming?
+&gt;&gt; Can you speak in there? Yes.
+&gt;&gt; Perfect.
+&gt;&gt; All right.
+&gt;&gt; All right. So let's get started.
+&gt;&gt; Hello everyone. Uh I'm Alan. I run
+engineering at S Capital. Uh I spend my
+days at the intersection of building
+software, evaluating companies, and
+working alongside AI agents. And they're
+getting scarely capable. Today I want to
+talk about one thing that we all need to
+get right.
+There's this phrase going around. You
+can just do things. And it's true right
+now today. You can spin up an agent,
+point it at a codebase, and it'll ship
+your code. You can tag an AI in Slack,
+come back to a pull request. The cost of
+building has collapsed.
+But here's what nobody talks about and I
+think we should.
+Last month I asked an agent uh excuse
+me. Last month I asked an agent to
+configure a remote server. It set up
+everything perfectly.
+Firewall VPN services.
+Then when I asked it to change one
+setting, it edited the wrong servers
+config. My gateway crashed, looped 125
+times, and the agent went silent.
+So, you can just do things, but you can
+also just break things at 2 am and your
+agent isn't talking to you anymore.
+The question isn't whether AI can do
+things. We're past that. The question
+is, does your AI know which thing to do
+and why? Because that's where every
+failure I've seen, mine included,
+actually happens.
+Let me give you a quick framework just
+run through what I've been seeing. We've
+moved through three eras, right? The
+prompt era, the context era, the intent
+error. Tell AI what to do, tell AI what
+to know, and then align with the AI with
+your intent.
+The prompt era, you write this function,
+summarize this doc, one person, one ask,
+one prompt. the GP33s of the world, the
+generative AI
+that was blowing our minds in 2022,
+2023.
+It was all good and we moved on to the
+context era. You start leveraging rag
+long context tool use. The tools got
+dramatically better, but it we're still
+there sitting there feeding context
+session by session.
+Now we're seeing Open Claw bring us to
+the intent era. You tell AI what to
+want. Not just the task, the goal, the
+constraints, the judgment. And here's
+the key difference. Intent means the
+system knows your goals, your
+constraints, and your judgment. Before
+you open the chat,
+this shift, where intent leads, it isn't
+new.
+It's happened before. Ford didn't invent
+the car.
+He organized the assembly line. The same
+workers, one car every 93 minutes
+instead of every 12 hours. Malcolm man,
+he didn't invent shipping. He just
+standardized the container. Loading
+dropped from 5 days to 8 hours. And in
+1973,
+Unix pipes connected small programs by
+passing intent between them. Same
+compute, radically different power.
+Everyone one of these was the same
+moment. Not a new invention, but a new
+way of organizing what already existed.
+And I think that's where we are with AI.
+So what does this actually look like?
+My agent runs an open claw. When it
+starts a session, before I say a single
+word, it reads the three files. The
+soul, the user, the memory. The soul
+define what the agent is, its judgment,
+defaults, its tone, its boundaries.
+Think of it as the agent's value system.
+The user defines who I am, my role, my
+preferences, my constraints.
+For example, me, I'm head of
+engineering. I prefer direct answers. I
+run my infrastructure on a VPS. I don't
+do it locally on my Mac Mini. And then
+the memory. This accumulates the
+decisions, the context, the lessons
+learned across every single session.
+When an agent crashes, the next one
+reads the same memory and picks up where
+it left off. So, we're prompting, but
+we're also encoding intent persistently
+into that layer that survives agent
+death. And we've seen why Open Claw has
+been so popular because they actually
+leverage this
+&gt;&gt; [snorts]
+&gt;&gt; And what is the difference? Right? If
+I'm just prompting, I say SSH into
+5161238.10.
+Check if the gateway is running. There's
+a config right there. Watch out for the
+tail scale binding issue we hit last
+month. That's context. In every session
+from scratch,
+when I encode intent, I say check on the
+deployment.
+Four words. The agent already knows
+which server, which stack, the failure
+history and the constraints. The
+judgment is preloaded
+and we need to talk about this. We need
+to make this happen in our agents. Most
+agents live in the now. They optimize
+for the current task.
+But intent means you align your agent
+with your vision.
+Is it this week's vision, this month's
+vision? Is it a multi-year vision?
+Right? like what kind of agents are you
+building? Uh does your framework support
+that? My memory files don't just track
+what happened yesterday. They encode
+where the product should be in two years
+and work backwards from that. That's
+solved for a lot of teams. Some teams
+don't even specify where they're going.
+Um enough for their agents to leverage
+that information in that context. And I
+think that's the biggest unlock ahead of
+all of us.
+There's a concept emerging about the
+product thinker, someone bilingual, like
+deep in technology and culture, holding
+the long-term vision, ensuring the
+narrative is loadbearing
+from the start.
+In the intent era, this person is one
+that has organizational judgment
+in and embeds it into the agent layer.
+The agents will come and go. the intent
+can carry the multi-year continuity
+and this pattern is actually showing up
+anywhere everywhere in a lot of really
+great enterprise companies. Um, one of
+the main
+&gt;&gt; uh not yet.
+[laughter]
+Um, so one of the the one of the main
+guys that I follow, he's a builder and
+now he's head of uh he's part of the
+growth team at Cognition. You know, he
+releases a lot of really good
+information and really good repos. Um,
+he's leveraging these tools himself,
+right? He recently got hired
+recognition. Now he tags agents. He just
+describes the fix. He comes back to a
+PR. But the reason why that works isn't
+magic, right? Devon, the tool being
+built by cognition, it carries intent
+across tasks. The async nature of this
+is a feature, not is a feature of the
+architecture, right? It's like not the
+point. The point isn't that we can just
+do async tasks and ask our agents to do
+all this stuff. It's that we're building
+in the intent into our frameworks. The
+people that are winning aren't writing
+better prompts. They're building systems
+where the intent persists.
+And there's another side to this, right?
+And I think this is important. In 2024,
+Clara tried to frontr run this AI
+success story. Uh they replaced customer
+service with an AI agent. It handled 2.3
+million conversations in its first
+month. Resolution time dropped from 11
+minutes to two. It did the work of 853
+employees, more people than there are
+here today. They saved $60 million. Wall
+Street loved it. The stock moved.
+And then the CEO went on to Bloomberg to
+explain why they were hiring humans
+back.
+The AI executed the task perfectly every
+time, but it didn't know why certain
+customers needed to be handled
+differently. It didn't carry the intent
+of what the customer relationships were
+actually for.
+The measurable thing improved. The thing
+that actually mattered broke.
+And this pattern may continue to happen
+if we don't actually encode intent into
+our systems. Companies that deploy AI
+that executes flawlessly and still need
+to wonder why things get worse. It's
+probably because we didn't encode what
+success actually meant be beyond the
+task.
+Capability without intent is expensive
+chaos.
+So here's the insight that changes how I
+build. Remember my agent that bricked
+itself at 2 am like went into 125 like
+crash loops at and went silent.
+That agent actually died. Uh the handoff
+doc that I was writing while I was
+working with that agent that is what
+persisted
+and when the crash happened that was
+still there. The memory file with the
+server details the constraint the never
+change the bind config on the local
+server warning.
+I actually ended up spinning up a
+different agent
+and was able to resolve the problem
+picking up exactly where we left off.
+The agent was disposable, the intent
+wasn't. And when you internalize that,
+that agents are ephemeral. You can
+design differently. Zero trust becomes
+obvious. You think of this system more
+as a distributed system
+and you start making sure that your
+security is tight. So even if the agents
+come and go,
+you can revoke their access. You can
+make sure that your credentials are
+safe. You know how to make them work
+together. And you do this not because
+you're paranoid, but because disposable
+agents, they requireable dis they
+require disposable credentials and
+disposable sandboxes. and all these
+things that we've been talking about.
+So, cognition isn't building a better
+coding agent. They're building a system
+where intent transfers between agents
+and humans seamlessly.
+Open clause architecture is built around
+this. Agents are sessions that come and
+go, but memory and intent persist across
+all of them. The org compounds not
+because of a single agent but in spite
+of effirmal agents because the intent
+layer holds.
+So we'll keep it high level but I do
+want to leave you with something that
+you can use. Here's a test. Look at the
+last 10 interactions within any AI tool
+that you use. Chatbutt claude cursor an
+agent whatever. How many times did you
+reexlain something that the system
+should have already known? Your role,
+your codebase, your preferences, the
+decision you made last week, the mistake
+you fixed yesterday.
+Every reexlanation is an intent gap.
+It's context that should have been
+encoded but wasn't. It's you doing the
+work that the system should have been
+doing.
+Now ask the harder questions. How many
+times did the AI do something
+technically correct but strategically
+wrong? The right code, the wrong file, a
+good answer, a wrong priority, a
+successful task but a missed goal.
+That's the deeper intent gap and that's
+the one that's going to cost us. The
+winners in the next two years, they
+won't have better models. They'll have
+better judgment and systems that carry
+that judgment forward.
+Every context switch I make from code to
+people to product is in the service of a
+single intent. The tools I use only work
+because they know what that intent is.
+So I'll leave you with one question. Do
+your agents actually know what you want?
+Thank you um Alan and you can reach me
+at alensomacap.com.
+Let's talk. [applause]
+Any questions from the audience?
+I'll get you from here over the back.
+&gt;&gt; Here we go.
+&gt;&gt; Oh, thanks Grant.
+&gt;&gt; Alan, thanks for the presentation. I'm
+also an investor and I'm just curious
+what workflows do you use OpenClaw for
+to evaluate companies and and quickly
+screen them.
+&gt;&gt; Yeah, I know.
+[clears throat]
+Uh we actually do not do that yet. Right
+now, we're actually doing most of our
+work with um our CRM. So, making sure
+that we keep a pulse on what
+relationships we have, who we need to
+reach out to, you know, what information
+they're sending our way. Uh we haven't
+actually leveraged uh Open Claw
+specifically for uh diligence or
+evaluating other companies.
+coming to you. We'll just kind of work
+our way forward.
+&gt;&gt; Hi. Uh what happens if uh the memory
+file exceeds context length?
+&gt;&gt; What happens?
+&gt;&gt; Yeah,
+&gt;&gt; it'll be compacted.
+&gt;&gt; Does that affect any of the quality
+afterwards?
+&gt;&gt; Yeah, absolutely. Um here, let me show
+you guys something that uh has been
+useful to me.
+I have a cron job running a context
+usage report uh that just tells me like
+what amount of uh characters I've used
+in my memory. Uh so the my memory is the
+file that's taking up the most space. Uh
+my agents is second, my tools is third.
+Soul have very little soul. Um the
+identity and the user, you know, and I'm
+not using harpy right now. So I'm at
+17%.
+Um, and this is just like something
+useful. I get a report on this every
+day. I don't see it changing that much.
+I have like a few specific workflows
+that are really good for me specifically
+on this server for these uh use cases.
+And um it is interesting though to to to
+dive into your memory and see how
+accurately open claw actually maintains
+your memory file. Uh I think there are
+better ways to do it. Uh I've been
+looking at certain open source systems.
+Uh there's one called Spark that does uh
+a lot of filtering and sort of like
+intelligent looping around all the
+information that you're sending it and
+tries to refine your memory over time.
+Um so there's a lot of solutions that
+are coming out these days that I think
+uh are going to be something that that
+more uh open claw users are going to be
+leveraging and I'm really excited for
+them. But this is just like a basic
+rudimentary thing that anybody could do.
+Uh I can actually share you know the
+simple prompt that uh allows anybody to
+to leverage this on their open claw
+instance. I'd be happy to do that.
+&gt;&gt; Amazing. Amazing. A few more questions.
+&gt;&gt; So I have an issue with my open clawbot.
+This morning I had to it kind of forgot
+some tasks and how to do them properly.
+So this morning I had to download the
+Telegram chat and send it back to it to
+see and kind of teach it like hey this
+is what's been going on this week and
+this is where you kind of fell off in
+the task. Yeah.
+&gt;&gt; Can you help us to avoid this in the
+future?
+&gt;&gt; But to his question he's mentioned the
+context. So mine kept saying up memory
+update failed and then so now I'm
+confused. How do I compact the memory
+and still have it remember and do
+everything correctly? Do you have um a
+solution for that?
+&gt;&gt; Yeah. So, so compacting is something uh
+that every agent framework is
+implementing differently but and it does
+end up lowering the quality of the
+memories. It is essential obviously
+because of context management. to your
+point, I think you should say that
+louder. There is of of of using of using
+self-referential
+links to pass conversations and give
+them back to your to your agents. I've
+found that to be very useful. I actually
+deploy my agents on Slack and um I say I
+face the same problem. I actually
+haven't solved this. I'm looking for a
+really good either open- source um you
+know or affordable solution to um to do
+this uh for my personal agents. But
+these self-referential links that bring
+that context back I think are really
+essential for you building the right
+memory in the different sessions that
+occur in your open call. So in Slack it
+makes it really easy. You just right
+click, you say copy link and you send
+the link to that conversation. The agent
+will just read it and it'll know okay
+that's the GitHub repository
+um or you know that's the server this is
+the outcome that we have that we need to
+like iterate on things of that nature um
+are actually really helpful. And then
+you want to be very specific sometimes
+about when you ask your agent to update
+its memory and and that helps. Um, but
+yeah, I think we should try to find and
+share the best open-source uh tools to
+help us refine our memory because
+because that is something that's that's
+really going to benefit a lot of us.
+&gt;&gt; Yeah. And we have a group chat as well
+as uh other ways that you can stay
+connected. So if folks find open source
+frameworks or other ways of improving
+our openclaw agents, feel free to hop
+in. I'll share a QR code at the end.
+Maybe two more questions from the
+audience. I really like these questions.
+Great job.
+&gt;&gt; Thank you. Um so with OpenCloud becoming
+more and more popular, uh I'm seeing
+competitors and OpenCloud kind of like
+rappers coming out. Specifically, one
+very popular right now is called Hermes
+Agent. So I wanted to ask you where do
+you kind of see that with you know open
+cloud becoming more and more safe and
+accessible you know uh with time goes on
+and that curve kind of like flattens out
+and you know more people start to adopt
+it as well as other tools like open fang
+for example like
+&gt;&gt; open what
+&gt;&gt; open fang
+&gt;&gt; it's an agent operating system that
+allows you to like deploy agents as well
+as like safely um and going back to like
+the previous speaker allows you to also
+like execute it via sandbox as well so I
+want to know if you you have heard of
+these tools at I've heard of Hermes just
+today.
+&gt;&gt; Okay.
+&gt;&gt; Um I did not have time to actually look
+into it. Um but I think that it's
+amazing. Open Claw is just the dawning
+of the era. Um OpenAI, you know,
+acquired it. Now they have the original
+author um and probably everybody else
+who wants to continue to support and
+contribute. But there are better
+architects than Peter. There are uh
+people who didn't just vibe code this
+who have certain approaches to security
+that are different. One of them in
+particular is has a similar um uh sort
+of paradigm as openclaw that it can
+build itself but it it keeps its initial
+code base like very small and it builds
+out its capabilities as you specify what
+you need. I think that's the nano claw
+or the nanobot. I forget specifically
+which one. And then there's the other
+frameworks that build on top of
+OpenClaw. So for example, um there's a a
+CRM called Ironclaw. That is literally
+just an extension of Open Claw, but for
+CRM purposes, similar to Mike's approach
+of uh building Next uh what was it
+called? Next contact or something.
+&gt;&gt; Next hello.
+&gt;&gt; Next hello. [laughter]
+Yeah. So of building next on top of of
+OpenClaw. Um, I think the beauty of this
+is that this of open cloud in particular
+is that it was like an open source win.
+Like all of us could leverage it, extend
+it, um, hopefully keep up to date with
+the security updates that are coming in.
+Um, you know, sponsored by OpenAI. Um,
+and uh, yeah, like the the the one issue
+with OpenClaw though is is that it is
+the surface area is huge, right? Um,
+it's very hard to audit. I know that
+that's why Mike uh, you know, was was
+shying away from it. Um and the things
+that I do is I just audit every skill
+that I use. I try to just build my own
+skills. Um I don't want a bunch of
+dependencies hanging around my data,
+right? Um and obviously also firewalling
+it, adding tail scale around my devices.
+Uh basically only I can access it and
+anybody in my organization via Slack. So
+one more question from the audience. Any
+questions? All right,
+maybe we should have more questions. I
+love these questions. They're all
+amazing amazing questions. if you have a
+question. Actually, do you have a
+question? Oh, here you go.
+&gt;&gt; Hey, so why do you want to use OpenClaw
+if you can use like a tool that's
+already sandboxed or you can avoid all
+this like tricky setup like Manis or
+Claw Code?
+&gt;&gt; I'd love to look into Manis. I haven't
+had time. Um, I was really just
+tinkering uh with OpenClaw and it wasn't
+difficult. It was not difficult to set
+it up. Uh, it's actually very easy.
+That's one of the reasons why I started
+investing more and more time. I now have
+like four like servers up for different
+purposes. Um, the reason why I think
+OpenClaw in general and specifically for
+me is awesome is because it's a glue
+layer between a bunch of services that I
+already use in a way that other
+other harnesses. So for example, chatgbt
+desktop
+um like have not allowed me to do cloud
+co-work is a bit better at that. It has
+really good connectors obviously has
+MCP. Um but the way that OpenClaw allows
+itself to build its capabilities I think
+is is one of the the big you know um
+points of using something like that. But
+you said it yourself like even like with
+the agent dying and stuff like if you
+run it on clawed code like your agent's
+not just going to randomly die like even
+in the middle of a task or something
+because I tried both of them and I've
+done a lot of stuff that people do with
+open claw with clawed code and I just
+feel like it's a lot more stable and
+reliable.
+&gt;&gt; Absolutely. You can you can do what you
+do with openclaw with claw code
+&gt;&gt; um
+and have at it. I mean go for it. uh a
+lot of the features that we see cloud
+code now delivering are actually
+mimicking some of the connectivity and
+interfacing that you can do a little bit
+more naturally with openclaw. So as I
+was saying this is sort of like the dawn
+of an era of like actually being able to
+glue things together in a way that
+really only claude with its desktop
+application was allowing you to do. The
+thing about OpenClaw is that you can own
+it, right? Like you can install it on
+your VPS, on your Mac Mini. Um, you can
+take it wherever you want. Really,
+&gt;&gt; you using like a database for memory.
+Oh, sorry. Like, uh, instead of using
+instead of using the memory MD file like
+maybe like MongoDB to have like all the
+like Telegram chat records and pull from
+there.
+&gt;&gt; Yeah. Yeah. I have uh some of our LP
+data is in SQLite. What do you say?
+&gt;&gt; Some of our data is in SQL light.
+&gt;&gt; Oh, okay.
+&gt;&gt; Yeah.
+&gt;&gt; So you you're not pulling from there
+while you're um using open claw.
+&gt;&gt; Yeah, we do.
+&gt;&gt; So you have like the memory file and
+then you have like all the records
+inside the database that you also pull.
+&gt;&gt; Yeah, you could do that
+&gt;&gt; cuz I I heard him talking about the
+telegram like chat.
+&gt;&gt; So it was like well all the record like
+all the chat history I would put that in
+a database not like in a memory file.
+&gt;&gt; Right.
+&gt;&gt; I didn't hear what you were saying. I
+would put the the chat history in a
+database, not a memory file.
+&gt;&gt; Correct.
+&gt;&gt; Sorry, I'm not following.
+&gt;&gt; Yeah. Yeah. So, what you're saying is um
+you know because you have like let's say
+a telegram chat, you can use that chat
+history and then save that data. Is that
+correct? And now you have the
+conversation history.
+&gt;&gt; Yeah. Yeah. Yeah. I would say there's
+like multiple ways you can go about
+that, right? So, you can go about it.
+Whenever you get a web hook or something
+and you get or a socket and you get some
+data from the message, then you can save
+that into your own database. So you
+could save your own type of conversation
+structure and then you know you have it
+kind of labeled similarly to the open AI
+method where it's like assistant user
+system for example right and so you can
+save it yourself or you can go back
+probably to your previous ch chats and
+then save it directly from your chat
+history uh from those apps so I think
+there's many ways to to make an omelette
+right and that's what's uh really great
+about open claw am I right [laughter]
+&gt;&gt; amazing well let's give it up again for
+And [applause]
+and naturally naturally we have to get a
+selfie or it didn't happen.
+Let's get a selfie in here.
+Amazing. Amazing. Amazing. Let's give it
+up one more time for our speakers
+tonight. [applause]
+For our speakers tonight. You know,
+honestly, I was I was thinking about it
+and I was like, you know what? if we
+just had like all the speakers come up
+and just answer questions in a future
+event. Uh I think that'd be a lot of fun
+because I can see there's a lot of
+thirst for knowledge and you know a lot
+of questions and I think in the future
+we'll have some speakers come up next
+time and just well I'll answer questions
+maybe for one of these sessions because
+I think there's like a lot of questions
+that folks have
+&gt;&gt; and yeah um I think we learned a lot
+today about the intent era who learned
+more about how we can leverage openclaw
+in our uh environments today. Amazing.
+Amazing. Love, love seeing that. Love
+seeing that. And so we do this every
+other week or so. We're partnered with
+Miami Day College and we're also
+partnered with Nova Southeastern
+University and also the lab. So I have a
+few things I just want to, you know,
+quickly go over. Uh, one of those. Uh,
+thank you so much. Thank you so much.
+One of those things is we do have a
+hackathon coming up. Uh, it's going to
+be a lot of fun. Uh, so you know, we're
+having a Google hackathon on March 20th.
+cash prizes, Google agent SDK, you know,
+uh, Gemini API, Google Anti-gravity.
+We're presenting this with Miami Day
+College and the Lab Miami. And we're
+partnering with Out Rival Miami Tech,
+Coffin Ross, AI Salon, Hello Miami, and
+the AI collective. Wonderful, wonderful
+communities. So, if you'd like to join
+our community, ask these questions in
+our WhatsApp group, our Telegram, our
+Discord, or follow us on YouTube, or
+even potentially our Instagram, then
+you're more than welcome to follow this
+QR code and get all of those goodies.
+No. And by the way, all the presentation
+slides will also be shared on WhatsApp.
+Our the video will be shared on YouTube.
+And so,
+&gt;&gt; yeah. Um, if you would like to be a
+sponsor of our events, uh, feel free to
+scan this QR code. And, you know, we
+would very gladly be able to, uh,
+sponsor and share the message of your
+company. And last and almost least, um,
+actually, if anyone would like to
+support us, uh, this is how you can go
+ahead and support. if you want to like,
+you know, just chip in like $20 a month
+or something like that, you know, we do
+have that option as well for you. And
+last but not least, thank all of you for
+being just absolutely amazing. Uh we're
+really excited to make this a wonderful
+community with all of you. Let's give it
+up one more time for our wonderful
+community. [applause]
+&gt;&gt; Great way to listen.
+&gt;&gt; And naturally, let's all get a picture
+over here and then we can have our
+networking time. Let's get a picture
+picture over here. Thank you. Thank you
+so much, everyone. Fix your time.
+Picture your time.
+&gt;&gt; Perfect.
+&gt;&gt; Yeah. We'll just come on up over here.
+Just get a nice picture with all of us.
+&gt;&gt; Whatever. Can I get your LinkedIn?
+&gt;&gt; I think so.
+&gt;&gt; LinkedIn or you can just just email me
+at allensap.com.
+&gt;&gt; Yeah. Yeah.
+Fair.
+&gt;&gt; Yeah. If everyone can come up over here,
+we'll take a picture. We'll just line up
+along this way.
+&gt;&gt; Um,
+&gt;&gt; yeah, I'll send it in the group chat.
+&gt;&gt; What if What if we
+&gt;&gt; go in the front?
+&gt;&gt; Yeah. What if we go in the front? I
+think that'd be easier picture time over
+there.
+&gt;&gt; Yeah. Yeah. Yeah.
+&gt;&gt; Yeah. Hi.
+&gt;&gt; How do I um Yeah. Nice to meet you.
+&gt;&gt; Nice to meet you as well.
+&gt;&gt; Uh, how do I
+&gt;&gt; uh I don't think we want to take a
+picture.
+&gt;&gt; You know what? No picture today. We
+don't need a picture. Yeah. Have fun.
+We'll get to networking.
+&gt;&gt; I'll take a picture with you. Yeah,
+let's get a picture.
+[laughter]
+&gt;&gt; How are you?
+&gt;&gt; Good. Good. Good event.
+&gt;&gt; How do I become one of the speakers?
+&gt;&gt; So, we have the speakers for
+Okay.
+and see you all
+Okay. Is um crypto or
+&gt;&gt; Okay.
+Android
+SDK
+layers.
+The intent
+one.
+&gt;&gt; Okay.
+&gt;&gt; I think she was first.
+&gt;&gt; Oh, that's my uh fiance. [laughter]
+&gt;&gt; That's Julia.
+&gt;&gt; That works, too. Um,
+&gt;&gt; wanted to ask a quick question. I work
+at a DC firm as well.
+&gt;&gt; Oh,
+&gt;&gt; um,
+&gt;&gt; here in uh, Florida where they based.
+&gt;&gt; Oh, no. We're uh, we're a smaller
+actually. You know how Anil owns like
+the obviously the Kings
+&gt;&gt; Kings? Yeah.
+&gt;&gt; The guy I work for is Joe Montana's son.
+&gt;&gt; Oh, awesome.
+&gt;&gt; Uh, and I I think they pretty sure
+they're friends.
+&gt;&gt; Yeah. Yeah. I mean, Anne Neil was here
+for like he lived here for a while.
+&gt;&gt; Yeah. What? Like, do you guys not have a
+Florida office anymore or what's what's
+going on?
+&gt;&gt; It's just me right now.
+&gt;&gt; We have our pork. Oh, shoot.
+We have our uh our portfolio companies
+here.
+&gt;&gt; Okay.
+&gt;&gt; Um and sometimes we go to their offices,
+but yeah, it's just me. Our our HQ is in
+New York and we have an SF office as
+well.
+&gt;&gt; Okay.
