@@ -1,0 +1,304 @@
+Usually, when you see best-selling
+products like these making tens of
+thousands of dollars a month, you think
+that you need to be a professional and
+have a lot of skills in order to hit
+those numbers. But because AI is so
+powerful now, anyone with hustle and
+drive can build a thriving online
+business selling similar products. With
+these products, all you need to do is
+use AI to create the design and another
+company will handle all of the printing,
+shipping, everything for you so that you
+can keep the profit. To come up with our
+niche idea, we're going to use AI. Now,
+you could either use Chat GBT or Claude,
+but I'll be using Claude. These all have
+free plans, so I'll put the link in the
+description so you can follow along with
+me. I'm going to put the prompt on the
+screen. The AI is going to give us
+various different micro niches that have
+the highest chance of being underserved
+and unsaturated. So, for example, night
+shift nurses or women in skilled trades
+like female electricians, ADHD adults,
+parents of kids with rare diseases. Now,
+not all of this is going to apply to you
+obviously, but if you want to get better
+results, then I would just enter in your
+own kind of experiences or your own
+interests. When you input your
+experiences, it doesn't matter how big
+or how small they are. For example, I
+said using my air fryer or decorating my
+place for cheap. And then the AI is
+going to sift through your ideas and
+find the best ones. It even tells you,
+hey, these are the things that you
+should skip for print on demand
+specifically. Then when I have a niche
+idea, I can take my idea, for example,
+digital nomad living abroad, and I can
+say something like nomad t-shirt. We are
+then going to find what are the best
+sellers here. I'm going to click on show
+filters. I'm going to go stareller. And
+then up in the top it says, is stareller
+true? I want you to replace star with
+best. Okay? And then press enter. Now
+you can see all the items that are best
+sellers. What you can do from here is
+just screenshot the designs that are
+like the top eight. So I'm just zooming
+out of my browser and then I am
+screenshotting these top sellers. I'll
+then take the screenshot and I'll go to
+Claude and this is the prompt that I'm
+going to use. This will all be in the
+description to use, but I'm just saying,
+hey, can you analyze the design images
+and break down why they are selling?
+Well, what people usually say is like,
+oh, just find a bestseller and like copy
+it and change up the font or whatever,
+but if you do that, you're always going
+to be searching for the next best thing
+rather than creating it yourself. This
+way when we break down the actual design
+and the logic that got the best sellers
+to where they were, we can then create a
+design that is different enough but
+still has all the factors to succeed. So
+it tells us every reason. Okay, this is
+triggering emotional nostalgia. That
+might be something we want to go off of.
+And it's giving us the underlying
+formula. This is how you reverse
+engineer what is going to be successful.
+And now we have our 15 original product
+concepts and they're formatted in a way
+that we could just copy and paste this
+and put them into our image generator
+platform. We have 15 ideas to start with
+so that we're not just starting from
+scratch. So I'm going to copy this. I'm
+going to head to gemini.google.com.
+The link will be in the description for
+that. And then I will just paste my
+prompt here and I'll click on create
+image. Now, this is where we're using
+Nano Banana 2. Only thing I would do is
+just add the dimension. So, it's going
+to be 3600 by 4,800 and then click on
+submit. These are just some of the
+examples that the AI created, but really
+you can generate anything. I suggest
+just using these as a starting point and
+then using your creativity to really go
+along from there. To download our
+images, just click on the three dots and
+then click on download image. The
+designs look so amazing right now, but a
+lot of you are going to make the mistake
+of rushing to put this on Etsy or
+something like that. Well, that's what I
+did when I first got started, too. And I
+did make sales, but if you really want
+to hit those big numbers, and I would
+suggest having your own website, this is
+because there's new sellers wanting to
+throw up AI designs on Etsy every single
+day. And Etsy is ruthless, guys. It
+would rather promote designs that are
+already selling than take a chance on
+new sellers and their customers
+potentially not liking it. So, I want to
+show you how to get your store set up in
+less than 10 minutes. We'll be using a
+website called Hostinger. To start, go
+to hostinger.com/energy.
+The link for that will be in the
+description box below. You'll see that
+there's a couple different plans to
+choose from. I have the business website
+builder plan. This is because you can
+create up to 50 websites. So, if you're
+someone who has a lot of ideas for
+different websites and stores that you
+want, this is a great plan for you. It
+also allows you to sell up to a thousand
+products, have something like print on
+demand, and you get access to all of
+their AI tools. So, just click on choose
+plan. Now, the way that Hostinger works
+is that if you pay longer, you get a
+lower price, and if you pay for, say, 1
+month at a time, it'll be a higher
+price. I always suggest going with the
+48-month plan because you'll save the
+most money. You also get a free domain
+and you know that for the next 4 years
+you can have this price locked in. Now
+to make this even more affordable for
+you just click on have a coupon code and
+enter my name energy and that will get
+you extra money off. Now if you don't
+want to pay for everything upfront just
+go with the one month plan because you
+will pay more but it's only for one
+month. Once we're signed up, we can use
+Hostinger's AI builder to build our
+store for us. All we need to do is just
+type what our store is about. So, I said
+that I am a travel brand and my audience
+is travel enthusiasts. I'll press the
+purple arrow and the AI is going to get
+started making everything for us. We
+don't need a lot of skills or
+experience. We can get our website up
+and running in just a few minutes. Now,
+the AI has given us a template that is
+customized to our niche and what we're
+selling, but we can go in and make this
+our own by pressing on continue. Then,
+we're going to press on edit website.
+And from here, we can edit anything that
+we want to. So, first I want to get rid
+of this picture in the background
+because it's not really what I like. So,
+I'm going to click on edit section and
+then I'll click on replace image. I'll
+go to free images. And here we can just
+search up something like travel or beach
+to get the picture that we like. I
+really love this one. Oh, that looks so
+good. So, I'm going to click on add to
+page. Now, you can see that the steps
+have updated. If you're ever like lost
+on what to do, just click on next steps
+and you have this whole checklist right
+here. So, we can edit all of this. So,
+maybe instead of saying travel your way,
+I want to say, you know, best travel
+t-shirts. Obviously, guys, say something
+better than this. This is just an
+example showing you how to do it. If I
+want to move anything around, I can
+easily do that. Maybe I want it in the
+middle. When it comes to customizing it,
+like the picture and the text, I want
+you to give yourself a limit of like one
+or two hours just because sometimes we
+can get lost in all of the decoration.
+But what really matters is these
+products right here. So, I want to show
+you how you can get your print ondemand
+products to your website. This is the
+part that makes everything super low
+risk, especially for beginners who don't
+have a lot of money to put in upfront.
+We are going to use this service,
+Printull. This way, we're not worrying
+about inventory. We could literally sell
+any type of product here. So, when
+someone sees our listing and buys it,
+the order goes straight to Printull.
+They print out that product and then
+ship it to your customer while you get
+to keep the profit. To start, we're
+going to click on store and then click
+on products. Now, from here, we can
+click get started and we'll press get
+started again. And then we'll click on
+add Printull so that it's officially in
+our store. Once we sign up, we can press
+authorize. And now we can set up our
+billing. This is so that when a customer
+buys from us, Printull will charge our
+payment method to cover the cost of the
+product. Again, we keep the profit
+though. And in order for our customer to
+pay us, we do need to set up a payment
+method with Hostinger. So click on set
+up payments. You have the option to
+choose from Stripe and PayPal. I suggest
+both. With Stripe, your customer could
+pay with Visa, Mastercard, Apple Pay,
+CLA, stuff like that. And with PayPal,
+they can pay with their PayPal account.
+So just have more. The more the marrier,
+to be honest. Now let's go to create our
+first product. Now when we're in
+Printull, we can choose any product. I'm
+just going to choose a t-shirt for an
+example, but feel free to kind of
+venture out and make whatever you want
+to. With this t-shirt, I'm going to
+click on create product template. And
+now that we are in our design platform,
+we can upload our own product. Now,
+we're going to upload the image that
+Nano Banana created. Just make sure it's
+inside the print area so that nothing
+gets cut off. And we're actually going
+to remove that white background as well
+by clicking on remove background. The
+only thing we need to make sure of is
+the print quality. Right now, it's okay.
+So, I'm going to find an image upscaler
+online and just upscale that image so
+that it's in the green. As you can see,
+now it's good. If everything looks okay
+to you, click save to templates and then
+add to store and click on your hosting
+or website. From here, we're just going
+to customize some things. So, if we want
+to add some more colors, we can. And
+then we'll press proceed to mockups. I'm
+just going to choose a basic mockup for
+the example, and you can see how it
+looks on different colors and different
+models. Then press continue when you're
+okay with it. And enter in a title that
+you like. Just make sure that it is
+related to the product and not just a
+bunch of random keywords. For the
+pricing, we do have a print full price.
+This is the cost of the actual shirt.
+And then we have our retail price. This
+is the price that we are selling the
+product for. So, we can sell it for like
+$15 or something and we'll get to keep
+up to $7.50.
+Just set the price based on what your
+customer will pay. and also how much you
+want to make. From here, you can see our
+product in our store. It looks good. It
+looks professional. It looks great on
+mobile too. And the good thing is we can
+also sell other types of products like
+digital products or appointments so that
+our store really has so many ways to
+make us money. Now, I know the most
+important part of this is marketing. You
+do not have to spend a lot of money on
+ads to market your product. What I would
+do is just make organic content for Tik
+Tok or Instagram. And these platforms,
+as long as you make good content, will
+push your video out. And then when your
+customer sees your video, they can click
+the link in the bio to buy your product.
+So, if you're selling a mug, this might
+look like you sitting and sipping on
+your drink. Something simple. It doesn't
+have to be too crazy, but if you want to
+dive deeper into how to market your
+product, I will put the playlist in the
+description below. If you guys have more
+questions, just comment it down below. I
+respond to most comments. Other than
+that guys, I will see you in my next
+video. [music]

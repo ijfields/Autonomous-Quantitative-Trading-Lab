@@ -1,0 +1,1915 @@
+Brian here.
+I'm hoping
+couple of checks I didn't do for this
+stream.
+Let me just see if I can comment on my
+own stream. I got two devices that I can
+work with now. Um anyway, so we're going
+to talk about something that's one of
+the more popular topics on my website
+and everything I do, which is quant
+trading interviews, quant coding, quant
+research, all that fun stuff. And let me
+tell you where I think the number one
+place to be is in um is in portfolio
+management. And I've already because
+I've been playing around a lot with um
+with AI. Um
+I personally think that uh
+&gt;&gt; with AI. Um
+&gt;&gt; let me just see if I can comment on
+Yeah. Here. Um,
+so
+yes, comments are working. All right.
+So, let me go back to what I was saying.
+Um, so what I was saying regarding um
+the uh
+interviewing process uh career-wise, you
+definitely want to be in um systematic
+portfolio management.
+um that's what the new terms are and um
+what's happening is I think
+the way computer science is going to
+roll out in the future is just basically
+managing agents tons of agents if it's
+going to be 20 agents 100 agents I don't
+know but that will be literally the job
+and um
+that means then uh who who does that I
+don't know but you better know your AI
+you better know your computer science
+all that and you'll probably be held
+accountable to um all the debugging and
+things when they don't uh pan out. So uh
+that's the future of computer science
+tech. It's just basically managing
+agents. Now um what does that mean for
+jobs? Well, for jobs that means that
+it's going to get tougher for fewer
+jobs. If you are operating in the
+mindset of trying to get a career in
+this, I think it's pretty tough because
+more and more people are getting laid
+off in this um business.
+And uh what else is happening is is
+you're competing against them and
+there's, as I said, there's fewer jobs
+of them. And now with the latest stuff
+going on in Dubai, um I think they're
+also predicting a lot of those shops in
+Dubai will get shut down. um over the
+next short term, I don't know. Long
+term, I don't have an impact, but
+definitely there's going to be some form
+of uh disruption there when it comes to
+Dubai because of the Iran war, whatever
+you want to call it. So, that's the
+future of where we're at. So, in one of
+my long form videos,
+I had um a video where I show you can
+use AI to do all your interview
+questions and all of your research. Um,
+so that can be very specific in your
+questioning on an AI. I recommend always
+using My favorite's always been for a
+coding agent or coding tool. My
+favorite's always been Kilo AI and I use
+a a VS Code as as the extension for it.
+It's very powerful. They support
+something like 500 models. I don't know
+of any other tool that supports that
+many cuz there are literally so many
+models out there and it supports so many
+things. So anyways,
+depending upon the model you use, um you
+can get some fantastic quality interview
+questions. And really what it does, it
+enables you to role play uh a mock
+interview that you'd typically be put
+through. And I know I have a um a video
+on that posted a few weeks ago.
+That's the best way to prepare for an
+interview. Uh I know there's a lot of
+third party
+um career uh people that will show you
+how to how to do things. Uh there's
+websites as well. To be honest, they're
+kind of useless. Um, and I say that
+because uh, from what the AI confirmed
+for me multiple times, all these quant
+career people, just career people
+general, they're just going to tell you
+how to what what to say on camera and
+how to look on camera. That's all you
+really get out of it. Does not really
+prepare you for any form of interview
+processing. Um, but a lot of the
+interviews uh are done with roleplaying.
+So some of the questions I've come
+across was uh in that video that I'm
+talking about um what it I demonstrate
+and as I say you you you can ask
+specifically what will companies like
+Citadel James Street uh two sigma and
+the like what will they ask me in these
+particular questions and you can drill
+it right down in the AI say what are the
+hard questions I'm expected to know when
+it comes to quant coding or quant
+research jobs very specific and it will
+know
+um the uh typical historical questions
+used and as I said a lot of it is
+roleplay. So for instance with a new
+Deep Seek 4 coming out um I do know that
+um
+yes it's streaming fine on a new phone
+as well. Thanks CNN. [snorts] Uh yeah so
+the the questions it's all about role
+playing and some of the questions
+they'll ask you is with what the current
+bots I'm generating now uh it'll ask
+okay so we have this scenario a a recent
+war has just been kicked off with Iran
+what can we expect out of the price of
+of with uh oil what can we expect coming
+out of unpredictable Trump what happens
+if this happens like how should we
+approach the trading strategy how should
+we approach the quant and it's going to
+be very very relevant news and this is
+how they'll get around
+standard questions that you won't get um
+from these services and career
+counselors. So, uh you got to know more
+about the role playinging uh aspect than
+just general
+learning how to know how to code like a
+like a wizard. I don't think it's going
+to be enough um to be quite frank
+and uh from what I understand a lot of
+the uh interviews are now taking place
+[snorts] on site. They're not doing as
+much
+web only interviews anymore. Uh they
+it's just their way to control and see
+how you're going to do face to face.
+They might not even allow you to have a
+cam uh a phone
+um on during on your presence uh during
+the interview. Um, if they don't do
+that, then they're not doing the right
+way to interview if you want my opinion.
+Uh, so I've already talked about the
+kind of companies that do this and
+they're going to get more and more
+strict. It's going to get more and more
+competitive. Um, and uh, I'm not sure if
+I hooked up my little shopping product,
+but this little blueprint that I got at
+hftcode.com
+will really help you there for like 30
+bucks. Um, and you you that's just the
+starting point of how to start uh with
+this whole process.
+Um, so, okay, I I've I've got an actual
+another phone in front of me. So, as I
+said, all of this is is is AI driven.
+Okay. Um, and it's role playing. That's
+really what we're doing here. And and as
+I said earlier, it's going to be driven
+by news. Um, so let's say if it's
+crypto, uh, they're going to ask you
+things like I I in my video I put in
+Ethereum short fade, what is it, what's
+the expected returns, and so on so
+forth. Um, if you're moving into more uh
+higher or senior level positions like
+architecture, which is where the
+500,000 plus, they're going to expect
+you to know um, architecture really well
+on the software side. So AI vibe coding
+alone is not going to help you. Um and
+uh yeah, you're going to have to have
+some kind of strong uh computer science
+behind you and education.
+Namely, uh a lot of people say, "Well,
+formal education is no good." I don't
+believe that. Um a lot of these jobs,
+it's rare to have the good highle paying
+jobs that do not have minimum masters.
+uh in a universal a university masters
+many programs I've seen or job
+descriptions barely have jun uh
+bachelors anymore just alone in that um
+as we know with vibe co and a it is
+killing a lot of the uh junior level uh
+jobs out there entry level I'm talking
+about I think the only way to get
+through in those kind of positions is
+through internships and those are very
+very competitive so we've already passed
+that season November December
+A lot of the big firms, I mean, they pay
+really well, but but to get into those
+is tough. Really tough. Um, kind of like
+winning trying to win a um trying to win
+a a lottery. Thanks for hanging on, CNN.
+Appreciate it. Uh, okay. So,
+obviously I'm going to focus on Q&amp;A on
+this later on. Um, the other thing is a
+lot of people have been, well, I think
+one of the biggest challenges people go,
+where do I start?
+Um, I think you need to have some for
+form of blueprint to start. Um, so if
+you're not all that strong in trading,
+algo trading, math, quant programming,
+as I said, I probably recommend you get
+that blueprint I mentioned at hftco.com
+to get you started on the um,
+basically to start your own journey
+um, and all that. Okay, so there's that.
+um big time. What I would tell you and
+I've been saying this for a long time,
+the the primary asset classes that you
+have to know
+is uh basically
+futures and options, more specifically
+options. That's where a [snorts] lot of
+these firms will expect you to have
+working knowledge in
+uh and know everything about options and
+futures. This is what institutions do
+and this is how they trade. Um, so as
+the competition gets more fierce, uh,
+you're going to have to know those
+pretty good.
+Okay, first question is from
+Naveiv. Uh, hey Quant. Yes, Naveiv. I'm
+on Instagram. If you're intending to
+direct message me, don't expect a lot.
+Um, I'll go over how how to contact me.
+Um, I'm making it harder for myself to
+be accessible
+uh per on purpose by design. Uh, but
+yeah, I am Quant Labset is my Instagram
+uh handle, I guess. Quantabsnet.
+All right, so continuing along. Um,
+yeah, assets in or the asset class for
+sure is uh futures and options.
+Um, I can tell you
+via AI the response I got last week
+um is that uh a hedge funds not 30% of
+trading is no longer just about AI
+driven. It's driven by agents. I'm
+hoping to get a bunch of agents running
+uh hopefully by the end of the week. The
+way you can you can um ramp up pretty
+quickly. So, you got to get also into
+agents. The only way you can really know
+this stuff is by practicing
+um getting experience hands-on by
+working with something. So, as I said,
+where to start? I've got that blueprint
+at hft uhcco.com.
+Uh and you can go wild on the uh AI with
+uh Miniax. It's free. Um and there's the
+in there's interactive brokers. still
+out build out pretty well any bot you
+want any asset class it's pretty easy
+I'm getting reports a lot of people are
+finding it very valuable so for
+interviewing careerminded it's probably
+just as good um as well so if you guys
+got questions or comments you have based
+around this topic tonight on career and
+interviewing um I want to make sure I
+cover that off because I know it's a
+very popular topic um from what I'm
+seeing
+So again, I said with the AI, so the AI
+role playing, it's not an interview
+anymore. It's about role playing.
+They're they're going to they're going
+to present you different scenarios and
+and and see if uh you can handle those
+questions and scenarios. If not, out you
+go. Unfortunately, it's the way the
+competition is too fierce. So Naveen
+followed up brother noob question that
+the best overall
+books for quant finance. Again, I'm
+going to point people to this this
+blueprint. The books, the courses, all
+of that is really do you need to spend
+that money um to learn it in a static
+way? I'll keep pointing people to the
+same thing. Go to my hftcode.com,
+look for that blueprint for interactive
+brokers. That's where you start. Cut
+down on all the uh processes of doing it
+the old way. we are now not thinking
+about but we are already in a new era.
+Um so that's it's been purposely made
+affordable. That's I'm pointing people
+every time they ask the new questions
+now. That's where you go. Um not for me
+to make money, but it's the most direct
+and easiest way to get things done with
+yourself because it's all it's really
+about motivation. If you don't have the
+motivation, can't demonstrate that in uh
+interviews, again, you're not going to
+get past three questions cuz that's what
+they do now is they'll they'll role play
+with you. Um especially with the AI and
+the better and stronger you get at it to
+to to measure your um knowledge and
+experience, it's all about confidence
+building because what they're going to
+test you with, if you guys got any other
+questions, let me know. um what they're
+going to what their primary focus now is
+to make sure they want to see how you
+think. Okay? And primarily if you're
+educ educated in physics, that's how
+they want to see you problem solve,
+especially in these higher paying jobs.
+So that's what I can recommend for you
+uh generally. Um but as I said, if you
+want to get started, that's probably the
+best place. I will put together a how-to
+re set of resources because there's many
+uh paths people are coming in from. Uh
+I'm just trying to see if I got anything
+else I can cover off here. Okay. So,
+specifically in the questions, um you're
+most likely going to be asked about
+Python. Um I I don't in this age right
+now we're in, I don't think coding is
+the primary skill anymore. It's probably
+the last skill you need. C++, Python, AI
+can do it all. Okay. I think more and
+more we're seeing AI is not needed
+anymore. Erin,
+question. How you doing? I know you're
+talking about interviews. However, can
+you give me your thoughts on using uh uh
+machine learning models with streaming
+data? Uh that that's an okay question. I
+had that conversation with somebody
+earlier today.
+My my question or my answer to that is
+very very simple. Local data, local AI
+um on your machine is I'm going to say
+it's kind of like worthless. And I say
+that now because what I've been seeing
+I've been using a lot of Miniax uh over
+the last week. What I'm seeing with
+Miniax, the model seems to change when
+you go through an API and it improves.
+Now, if you're going to put all of that
+effort to download the static version of
+Quen, let's say a week ago when it was
+released, I can almost guarantee you
+within two weeks they're going to have
+already changed that model three times,
+but they're going to still keep the the
+uh model number the same. And they're
+not going to take away the features. Uh
+they'll just add to it, make it better.
+So, my better my the better approach is
+to use um the cloud. Okay. Like I know
+you you got that blueprint thing. Um you
+find value in it. Um
+it's the same thing like if you're using
+Kilo extension in VS Code, you can get
+access to over 500 uh models through the
+cloud and as I said you you can hook it
+up to Miniax for free. So that's the
+approach I would take it and keep it
+because you want to keep your life
+simple. Um, and once you start layering
+in complications, chances are you're not
+going to uh complete what you want. Um,
+which obviously is something you don't
+you want to avoid. Um,
+so I could talk about the models and
+what I'm doing now with the the the bots
+and what I've streamed earlier today on.
+I'm just giving my consensus on it. Um,
+but if anybody out there has got
+questions on career interview, let's get
+those out of the way first. But it's all
+intertwined. Uh, we'll uh we'll that do
+too. We'll do a one-on-one with you
+soon. Yeah, absolutely, man. Um yeah,
+it's better it's better to kind of do
+that one-on-one, but generally overall
+quant trading, algo trading, computer
+science is too overwhelming when you
+start and you got to keep it simple. Uh
+Naveen asks, "Brother, noob question
+again. has anyone someone on YouTube and
+learning to trade intuitively by
+reputation is a superior to any of these
+systematic trading mechanical systems.
+What are your thoughts on this? That's a
+good question. I've never been asked
+that before. If you asked me that before
+December
+24, 2024, I would have said there's
+probably a series of trader like
+humanbased discretionary traders that
+could probably outpace
+the older um algorithmic trading. Now, I
+am more than convinced that AI and what
+it can do, it's hard to beat it as a
+human. Uh, I'm finding day by day, model
+release, mo by model release, that's
+hard to um beat. And the reason I say
+this just just purely on claude alone.
+Um, it it it finds so many things that's
+wrong with your whatever you're trying
+to do and it'll improve it. If if people
+don't want to use AI, they're losing
+out. And I've seen a lot of people don't
+want to use AI. That's fine. But as I
+keep saying, comes back to the the
+lemmings like the horse and bugging
+people as the Model T Ford launches this
+thing called the car industry. Same same
+concept. That's how powerful AI is. Um
+oh uh
+is this Cena? My eyes are real. Sino
+Sino Occupy. I I sorry about that. What
+resources can I use to learn math for
+quants? Again, AI um math is my
+weakness. What I would do is um
+it all comes down to prompting. If you
+want to go the complicated way, I don't
+know your past and where you're at, but
+in your prompting, you could just go in
+uh as part of your prompts, give me a uh
+trading strategy that is complicated
+that a quant would use or a quant at
+Citadel would use and it will give you
+exactly what you want. Um, we're on the
+verge of Deep Seek 4. Okay, I will tell
+you right now that firm originally came,
+and I keep saying this, came out of a
+quant shop. So, if anyone's going to
+know, it's going to be Deepseek and with
+this new Deep Seek 4 coming out whenever
+it comes out in the next week or so.
+That's the best place to to to
+experiment with with exactly about the
+math side because it comes out of that
+and and and there's also specific math
+models. There's specific science models
+as well that you could try out. But if
+you're using for a lowcost
+state-of-the-art, I think Deep Seek 4
+will come out and set that standard for
+in the AI world for at least a couple of
+weeks, [laughter] not a couple of
+months. I'm too conservative to to to
+mention that. But I think Deep Seek this
+this new release will be strong enough
+to at least stay on top of it for a
+while, [laughter] a couple of weeks.
+But that's the best resource to once
+that deep sea comes out and then use
+kilo code and use like an open router um
+to to plug it all in and then use the AI
+achilo AI extension in VS code which
+I've set up with that blueprint
+that's going to help you and you start
+there and that's why this thing's become
+I'm going wow it's more more uh
+universal than not right so going back
+to if you guys got further questions,
+just let me know. That's why I do these
+things. Um, anyways, uh, what I was
+mentioning about the AI and job searches
+in quant um, as you probably could tell,
+I'm week by week, I'm losing relevancy
+on things that you learn from if it's
+static. Be it books, courses.
+As an example, I mentioned what two
+weeks ago I'm going to start taking the
+Andrew
+Ning course, the new one that just came
+out for agents, um, which is free.
+The next day I go, I don't need to know,
+I don't need to learn this course. Why?
+Because the kilo introduces me to
+agents, skills,
+MCP servers
+very quickly. And that's what the whole
+course is about. So why go through this
+kind of course
+um that uh will give you the structure
+but if you use AI and the tools
+surrounding it you could probably learn
+much faster and in real time and
+hands-on with an AI really good tool. It
+could be Rue Code. It could be uh Wind
+Surf. But any of those or cursor, shall
+I dare say. Um those are fine. My
+preference and what I'm really been
+using for the last couple of weeks is
+this Kilo. And I'm not paid them 1 cent.
+Um as I said, if you're really short on
+cash, use Miniax 3.2. It's It's really
+good. I mean, it's kind of slow, but in
+terms of the quality of output, it's
+just as good. Oh, I should say just as
+good. It's for a free model. It's pretty
+close to what uh uh Claude puts out.
+It's shocking. And then as I said in my
+stream earlier, I'm now getting turned
+on by Codeex now because it's much
+cheaper than Claude. So now Claude still
+the best output, but it's so expensive.
+Uh Naveen says, "How much percent of
+traders do you assume are systematic?"
+If you include AI and agents, I'd say
+probably 90%. like, okay, there's
+traders, retail traders that lose money,
+that's 90%. Okay, now forget them
+because they're not profitable. Okay,
+but if you're factoring in the the
+profitable traders,
+it's hard to say. Um I would say like to
+say 100% but I don't think so because
+out of the let's say 10% that are
+profitable chances are that those same
+traders will not budge um because of
+they have a process they have a strategy
+and it works for them fine. Um but where
+it gets really difficult for them is if
+they're let's say trading the stock
+market for the last 15 years. [snorts]
+It's been consistently going up and up
+and up and up. Um, yeah, their strategy
+is broken. And same with Bitcoin and the
+and the buy and hold concept of Bitcoin.
+I mean, there's so many people going
+back to McDonald's cuz that no longer
+works. So right now I do think that over
+time in the next couple of months as the
+markets get more volatile and the
+traditional way of trading especially if
+it's momentum based and it's humanbased
+more and more traders going to give up
+on it and because it's going to get
+harder for them to make money because
+those trends are no longer in place
+because the regime changes so fast. We
+had them a regime yesterday with severe
+downturn in the market. Look at today it
+was up then down. It's it's it's this is
+the market we deal with. Um and all the
+asset classes that are impacted by it,
+especially with the current uh current
+president. Um
+I have opinions now of that. But
+anyways, so if you guys got questions
+and more, but as I said with the career
+stuff, it will get more challenging. And
+I'm not here to be a Debbie Downer on
+that. That's why I firmly believe that
+people come through and watch what I'm
+doing. You really want to more f because
+trading can be
+can be huge. Um Sinnin
+Zel,
+have you worked with a quant firm? No,
+but I worked with um how should I put
+it? Banks. A bank, but I I'm more coming
+in from the retail side for a couple
+years. I've worked in our I don't know
+if you know I'm Canada the Canada
+Pension the Canadian CPPIB Canada
+Pension Plan Investment Board. I worked
+them for a couple of uh months on a
+contract. Um I work with trading desks
+but that was nothing to do with trading
+itself. It's more like helping them out
+build better uh today's talk would be or
+today's uh topic would be called
+dashboards. So, I kind of focused on
+that, but I was more of a call center
+person back in the day before I launched
+this whole website stuff.
+Um, opinion on ICT? Everybody's asking
+that. You want to know something?
+Uh, ICT?
+I have no opinion. Well, I I it's not a
+positive opinion. Let me put it that
+way. I hope that's enough for you.
+there there like like there's like I'm
+part of these WhatsApp groups and these
+WhatsApp groups are getting so bad now
+in quality because exactly that question
+what do I think of ICT is so popular um
+yeah I know inner circle trader I it's
+not a positive thing uh it's not trading
+sorry he's got a method fine um if he's
+making money at it fine that's good and
+if you think you can make money with it
+go for it um but I think once I finish
+up hopefully tomorrow with my rhythmic
+live trading. Uh it's going to be a game
+changer for what I do and I might not
+have to kill myself doing what I'm doing
+and especially when it comes to AI and
+agents. So a lot more automations coming
+in and the less human discretionary
+trading uh the better and the less
+mistakes you make. So that's hint
+[snorts] hint there. ICD I know whole
+pilot stuff among the big conflict he
+had with somebody else not positive not
+positive one way this this this guy
+built out um his thing out of um out of
+confrontation and behold behold I was on
+a a boot camp for YouTube on policies
+with YouTube as of today anything that
+has shock value is going to hurt hurt
+you in your performance on YouTube that
+guy, the other guy, it's all about shock
+value. So, so there's no value to it.
+Okay. Um, getting into these nasty
+online fights and it's just lowbrow
+stuff. All I can say, you want to follow
+what the quants do. You want to follow
+what the institutions do. Uh, that's the
+path to really follow. Um, I work with
+AI m a lot and and AI tells me things
+and what futures and options traders are
+doing in the current market conditions
+we're in.
+Ah, new guy, uh, Corey. Oh, Cody, hey,
+any tips to learn about flow and
+footprint charts? He says, "Hi." Um,
+footprint trends again, uh, that's all
+driven by AI. Um, personally, I don't
+know if they're worthwhile. Orderflow, I
+do order flow. Um, as I said in my
+stream earlier today, uh, you can
+stream. Uh, depends upon how many bots
+you're running. It can kill the
+performance on your account and your
+system. You're better off just to take
+snap frequent snapshots of data and work
+with that. And uh, footprint charts I
+don't think really matter anything chart
+worthw worthy. The only reason I do
+charts is for presentation. That's it.
+For visual presentation, you want to
+work with raw data um to get better
+accuracy in the trading and trading in
+the moment. Well, trading in the real
+time uh as well. What made you start out
+quant trading? Dr. Ernie Chan's book uh
+the uh the first one back in '08. And if
+you look his couple of ones, he thanks
+me for [laughter] the technology, the
+first two books until some hater came
+along tried to outdo that with uh with
+with it with the new read uh editions um
+on uh Ernie Chan's books, but that's
+where I started. Um
+and uh yeah, if you go on my channel,
+just look up Ernie Chan, you'll see all
+kinds of presentations he's had. I think
+I was one of the first channels to put
+him on YouTube and um yeah, back in the
+day I used to call him the doctor in the
+house. So, uh yeah, it was good. I mean,
+he's still a good guy. He's still doing
+his thing and he seems to be really
+successful at it. So, Cody came back, no
+like trading manually using order flow
+and footprint chart. Uh Cody, I've
+already mentioned about the human
+trading. Um, the question is why aren't
+you AI trading as as the uh young ons
+call it? I think human based trading is
+going to become harder and harder. I do
+think some traders do have their
+strategies or manual strategies that
+will kind of continue. [clears throat]
+Um, so if you're doing manual trading,
+uh, whatever you're trying to do, it's
+going to get harder and harder and
+unfortunately you'll get left behind. If
+I as I if you're still on a horse and
+buggy and you got this thing called the
+automobile coming out and I keep saying
+the Model T, you'll eventually get
+dusted and dusted and left behind which
+you don't want especially in trading
+because there's something called order
+flow and if your order flow is not in
+place uh to line it up properly
+especially if and the other big trend
+that I'm hearing is um liquidity. So
+order flow you're talking about is going
+to get less and less anyways. So if
+there's highly eiquid product out there,
+um, orderflow, hate to tell you, will be
+meaningless.
+I hate to tell you, as I said earlier in
+in the stream today, I put out altcoins
+are going to die and they are dying.
+Many many institutions are not trading
+altcoins. They're they're still trading
+Bitcoin, Ethereum, but as I said
+earlier, I do think Bitcoin, Ethereum is
+at risk, becoming less and less
+relevant.
+the liquidity will always come from is
+institutions, good or bad, but that's
+where the um order flow comes from as
+and and there's less and less order flow
+in the stock market because it's all in
+oil, gold, maybe Bitcoin, uh what else?
+Natural gas. Um because when I'm looking
+at all the futures that I have all these
+trading strategy bots get created,
+there's fewer and fewer uh fewer and
+fewer forex which is to me surprising
+fewer and fewer uh crypto bitcoin
+ethereum namely and fewer and fewer
+agricultural product. Okay. And that's
+in a challenging market for the last
+couple of weeks. It's all in, as I said,
+gold, oil, obviously oil, we know where
+that comes from. Uh,
+treasury is still popular, like bonds
+are still popular because a safety trade
+and there's more and more talk about the
+dollar, US dollar, DXY, that may start
+to to outperform everything. And that's
+one of the reasons why gold and silver
+is struggling because the US dollar has
+been strengthening lately. So if you
+know those trends then that's where you
+put your focus on in terms of order
+flow. [snorts] Oh okay. So uh Cody in
+comes from I'll be starting college in a
+few months. I don't think I'll get into
+any target school. How do I break in
+quant? Is there a way? Uh I'm 17. You
+have been funded in okay traders still
+learning. Yo, man. Anybody that's
+getting into this under the age of 18,
+20, I I take my hats off to them. See, I
+do have real hair. Um, [snorts] anyways,
+uh, I take my hats off to them because
+it it shows motivation. Uh, what I would
+do is I keep saying I hate just
+hopefully you see my go to hftcode.com
+just there's a blueprint in there four
+people in an exact situation and that
+will instantly get you up and ready to
+run with interactive brokers in demo
+mode. Uh, and there's about seven bots
+in there you can work with, play with,
+use AI, and just go hog wild with the
+AI, and it will create all the code you
+want, all done in Python. And once
+you're learning Python, that's good,
+too. Uh, and you just play, learn, you
+can do, as I said earlier, interview
+questions with it. You can have it do a
+role play with a strategy. You can use
+Python to generate the code, blah blah
+blah blah. That's where I'd start. Um,
+part of the problem right now in my
+stuff is how to how do I start this? How
+do I do this? So, I have to at some
+point put together some starting point
+resources for people because exactly
+you'd probably be uh the number one
+niche audience that I have out there is
+people want to learn but they're young
+and it's hard for them because they
+don't know where to go. But generally I
+would kind of focus on the coding Python
+specifically cuz it's easy understand uh
+just algo training generally and really
+really focus on AI. Um and and again as
+I mentioned earlier the places to learn
+really good for that is on on the cheap
+kilo AI extension for VS code and in
+there they have architecture mode. So
+with that you can ask all kinds of
+questions about [clears throat] general
+trading it'll give you an answer. You
+can ask about interview questions it
+will give you an answer. Architect me a
+basic trading system. It will do all
+that for you in kilo. It's a fantastic
+fantastic place to learn that I've
+started and and anybody can start from
+there. But if you want the whole kitten
+kaboodleoodle with um something that's
+already kind of set up to to use
+something like interactive brokers
+trader workstation, yeah, I look at the
+blueprint cuz that's going to be a jump
+start to get you started in that space
+if that makes sense. And it's good for
+career as well as I mentioned earlier.
+If you guys got questions or comments, I
+appreciate you uh asking them away. I
+don't really care about your senior
+knowledge, but um as I said, if if
+you're new, that's where I'd go. Just
+try out the hftcode.com
+in there just to see uh because it kind
+of covers a lot of questions that people
+jumping into algoing or whatever. Uh you
+guys got comments, questions. So, let me
+say this. If you are in a job and you
+can't find a job, you can't find a
+career in this space. [snorts] Um, I
+think what I re would recommend and
+especially if you're in a career of
+anything and you really know you've been
+displaced by AI and you're challenged by
+it, I do think Algo's kind of a way out.
+I've kind of firmly believe in
+entrepreneurship.
+And with entrepreneurship, the the cool
+thing about it, it's not like opening a
+restaurant, a store. where you got to
+lay out x amount of dollars, uh fix up a
+a physical location, hope and pray that
+you get an actual actual set of
+customers coming. It's high-risisk move,
+but where algo train, there's very
+little
+cost that you outlay for it.
+So, Cody came back with, "Yeah, man.
+I'll
+I'll I'll check it out. Follow you on
+LinkedIn as well. you follow me on the
+YouTube channel or the website
+quantabsnet.com
+um as well your content is really good
+thank you for that and thank you for
+watching consuming it I'll be focusing
+on Python C++ and college yeah and if
+you want to get really good practice it
+with the AI um because one of the
+powerful things the AI offers you is the
+um is the uh ability to role play and
+that's that's what uh a lot of these
+firms want to see is how do you how do
+you role play in in your in your uh
+capabilities as a quan, as a researcher,
+as a coder. Uh that's probably your
+number one skill that you'll need to
+have and and and and have those human
+elements to uh edge out what AI can't
+give you because a always remember AI
+will never ever replace a community.
+Never. Okay? If if I was to open up all
+my groups that I have that are walled
+off because you need a login, AI is not
+going to get in that. And that's where
+the real um the real uh the real uh
+value will be. Okay. As long as you know
+the trading secrets that AI cannot
+replicate, that's your edge moving
+forward. I I think uh because you can't
+replicate it and AI can do a lot of
+things and always remember it's a tool.
+Uh but the human element in terms of
+groups, physical people, commenting,
+sharing really good uh really good ideas
+uh will really help you out.
+Okay, so I' I found my channel. Uh I'm
+going to show you some videos. Okay. Um
+so if you see my knee, uh it's a good
+looking knee, so it won't shock you. But
+let me throw this over to the uh other
+phone here and I'm going to show you
+that. Okay, hold on. Okay, so you can
+see here we got a bunch of videos. These
+are I just put posted
+um a month ago. You can see that first
+one RIP Trading View uh with the Chinese
+AI and the cheap how cheap it is. Uh you
+can use that uh as I said uh Miniax is
+really cheap for that. Oop, hang on
+here.
+Forgot that
+the hand says hi as well. Okay, so we
+have that. I I look for that video. You
+can see there AI just destroyed trading
+platforms. This is all because of that
+blueprint I mentioned at hftcode.com.
+If you watch that video, uh what that
+does, it kind of goes through all the
+demo where you can convert MetaTrader
+code uh n uh not Ninja Trader uh trading
+view code as well and then you can
+create trading bots from that in Python
+which is very powerful. this one here.
+Uh, stop paying for trading platforms,
+build AI, uh, Python. Let me go back.
+So, hopefully, uh, with those three
+videos I put out in the last couple of
+weeks, months will show you that you
+want to convince yourself, uh, that we
+are moving to that I'm making those
+predictions that we don't need trading
+platforms, we don't need uh, proprietary
+coding.
+um even if you have something, you can
+easily code it up with AI. I've got one
+guy who's such a lagard. [snorts] Um
+he's now convinced um that AI is the
+way. And uh the books, the courses, all
+that. Uh you don't really need, but you
+still need some of the ones that I put
+out are just fundamental. Without those
+fundamentals, it's hard. If you're
+trying to learn those on your own,
+you're still going to miss out on a lot
+of things. So, uh, hopefully you got
+some of that from from from those three
+videos, long form videos I got on the
+Quan Labs channel. Uh, so if you guys
+got any other questions or not, let me
+know. I'm here for you. Uh, but, uh, if
+you guys currently on stream or viewing,
+let me know. Oh, uh, yeah, AI is
+definitely good, but I think I should
+first learn, uh, without AI. self-study
+uh cause if I'm nothing without AI, I
+don't deserve it. I like your approach,
+Cody. Um I would agree with that, but at
+the same time, you always have to
+remember
+if you know this thing called AI is out
+there or Google Maps is out there, but
+you want to learn how to use a map, use
+like an old school paperbased map, that
+could may overwhelm you. Whereas, if you
+know how to ask Google Maps because it's
+so easy, it's going to do it for you.
+It's not like AI can just ask a generic
+question and I'll give you um a detailed
+answer, but I think you would want to
+use AI
+in parallel with what you're learning
+the fundamentals. You definitely need to
+learn from somewhere. Um but I I I
+respect your approach. And the reason
+I'd say that might be a little dangerous
+is because then you'll learn stuff and
+then you get caught up in the analysis
+paralysis stuff. So you're going to be
+like me spending 10 plus years analyzing
+thinking this is better just the
+engineering approach and and you waste
+all that time. Um so you're better off
+to use the AI as not as a crutch but as
+a tool to help you get instant answers.
+I think that could be said for anything
+you're trying to learn or launch or
+reset yourself in some kind of career
+path. Um but just know that there's
+still fundamentals.
+Um but if you watch those three videos I
+highlighted um there is one for
+interviews and it's that whole process
+of interviews is exactly what I said.
+Interviewers are not going to ask you uh
+what is a pointer? What is a triple
+pointer? Doesn't exist. But they asked
+me that just to to trip you up. But um
+there a lot of these interviewers are
+very good and they can just pull
+questions out of their butt. Um they're
+not going to use static uh questions
+that you'll find on lead code. Lead code
+just gives you the practice to get into
+that mindset to be able to generally be
+challenged and be to overcome it and
+then be able to get answers that the
+interviewer will say with confidence.
+Yeah, this guy knows what he's doing. We
+could throw him at a computer. We can
+throw him at a strategy or an idea and
+he'll be able to whip it up pretty fast.
+That's what they're looking for. And
+there's going to be a lot of um a lot of
+uh what's the word I'm looking for? A
+lot of approaches to see if that what
+you do is going to be aligned to how
+their firm does it as well. Cuz there's
+a lot of firms that do it a certain way
+[laughter] as well. So you may think you
+have the best answer. doesn't mean
+you'll get a job because they also have
+to look at the politics of the company,
+are you a fit in the company, blah blah
+blah, there's a whole combination of
+things as well. So, if you guys got qu
+further questions on whatever career
+education, I do think education is still
+important. I know a lot of people um
+kind of mock it. Um, you know, I get it.
+Um, but it's really not about education
+so much. Uh what it really comes down to
+um can you get your degree? That's
+really the ultimate. I got my degree. Um
+has a degree helped me in what I use
+day-to-day maybe 10 15% currently after
+what 30 years.
+So a bunch of the stuff you learn
+um is going to be worthless. But what I
+can say for my education, formal
+education is uh timekeeping, project
+management in a way and problem solving.
+That's really what education does for
+you. And and it kind of makes you kind
+of creative as well. And when you look
+at careerminded jobs specifically now
+with AI, I think those are kind of the
+top four skills that you'll need in any
+kind of job specifically programming and
+and quant related or trading related as
+well. uh because they're gonna throw a
+lot of stuff at you. Um as well. So said
+if you guys got further questions or
+comments, let me know. Uh yeah.
+So hopefully you like uh the resolution.
+I just, as I said, I got a new phone.
+I'm so happy. Yay. And I can do these
+things I just showed you. Uh but uh here
+we are. Um, yeah, I get kind of excited
+by this stuff uh a lot and I think
+hopefully tomorrow
+I'll have better answers about the live
+rhythmic trading for once and all I I
+have that but to be able to have it in
+Python that's a big deal and be able to
+have it not just in Python but run it in
+Linux. Yeah, that's going to be a huge
+plus. So, I probably will talk about
+that next topic, which I'm sure a lot of
+people would be interested in. Who's got
+questions? Questions, questions,
+questions, blah, blah, blah, blah. I
+could go on. I think a lot of people
+have dropped off since probably our last
+series of questions.
+What should I do?
+What should I do? You tell me. Should I
+keep going? Uh, generally uh our our
+streams are pretty long. hour and a half
+to three hours, but this one's only 45
+minutes. Maybe YouTube Oh, we're back
+up. Yay. Okay. Yeah, keep going. I'll
+keep going as long as questions keep
+coming in. So,
+keep asking, keep commenting.
+Um, one thing I'll say about the trolls,
+we like when I started doing these
+streams, just the the trolls were
+obscene. Now, I I don't get trolls at
+all anymore. So, I'm very happy about
+that. Um, yeah. So, if anybody's got
+questions, people ask me like, "How do I
+dye my hair? How do I shampoo my hair?
+Um, what shaving product do I use?" Uh,
+we're not the channel for that. We're
+here to talk about coating, trading,
+even investing now. So, let me know. Uh,
+also, let me talk about the travels I
+want to do. I've been want to travel
+since January now or March.
+Um, I would have liked to gone to
+Panama. I would have liked to gone to
+behold Dubai and we know what's
+happening there. So I'm glad I didn't go
+there. So that part of the plan is
+escape the west. I'll leave it at that.
+So the other other region out there is
+Asia, namely [clears throat] Hong Kong,
+Singapore, Koulur, Thailand itself. Um
+and even I'll dare say New Zealand as
+well. Uh so that's kind of like what I'm
+looking at.
+I've got an app idea. want to hear.
+Share it, Cody. Let's do it. Um, yeah.
+So, I'm just talking out of my butt here
+to keep the thing going, but uh right
+now I think
+generating automated trading
+uh works
+really good. We're at a point now where
+it's I won't say it's easy to do, but
+I'll also say it's there's no excuse not
+to do it and not to accomplish what
+you're looking for in terms of profit.
+It's a lot easier now just needing to
+know the uh prompting technique, what
+model to use, and the tools to use. Uh
+for me right now, and it changes every
+week, as you know, right now I would
+have said Miniax. Uh I still believe uh
+Kilo AI uh the VS Code extension is
+still the best way to go uh cuz it's
+very diver it's just does everything
+open source on the cheap well almost
+free um what model right now as I said
+if you're on a uh tight budget I'd say
+Miniax still really good they it's free
+right now uh and waiting for Deep Seek
+4. I think that will change the game for
+sure.
+and just prompt it. No one know how to
+prompt it and it'll do all the coding
+for you. Okay, so Cody has come back. Uh
+so like the idea is let AI text instead
+of
+you cause imagine someone is texting you
+but you're busy cuz you're a
+billionaire. Let text
+for you good for influence and sell the
+data
+in uh back. Uh I kind of understand what
+you're doing. We're already hear uh what
+you're asking Cody. Um that's what
+agents do. Uh you get a high quality
+data source. Now I'm assuming you're
+you're laying around trading. Um yeah,
+it kind of exists already and with
+agents it can already be done. I'll be
+proving that hopefully in the next few
+days. So, what you can do is you have
+your data source. In my case, I use news
+feeds. You have your data feed. Um, uh,
+I like interactive brokers, but for me
+to do real live trading and I like
+futures and options. Rhythmic is the
+route for me. High quality data, it's
+number one. You can stream it, you can
+download it as long as you pay for it.
+So, we have that in place. Now, as I
+said, if you know how to prompt and
+analyze data and know how to use what
+seems to be profitable, you can do that,
+too, and generate the trading box in
+place. And that's what what I'm doing
+now. So, I kind of understand what
+you're trying to do. But when it comes
+to automating all of this, that's what
+agents do. you you're basically taking a
+workflow of something with 100%
+automation and AI generated and all
+you're doing with the uh
+with the workflow is you're just
+automating and that's what agents do and
+then there's a whole concept of as I
+said MCP server skills and god knows
+what else is in the AI world. It's crazy
+but those are the main concepts. I I
+understand your idea and um it's kind of
+in place already, but if you want to
+know what the value is in this stuff,
+it's the trading signals. It's not just
+the trading signals, but the real value
+is in the in the concept of marketing.
+People want everything done for them and
+they just push a button. In fact, I
+think we're already in a world where
+people are too lazy even push a button.
+like that's how bad it is. But yes,
+there are ways to get around this. Um
+the problem is in the world of trading,
+if I had 10,000 people doing it based
+upon a bunch of signals, we now have
+crowded trading. And so that trading
+becomes ineffective because it's it's
+it's all crowded out. So in my case, if
+I'm going to do this, I'd rather be
+highly expensive. And if you looked at
+my cost, we're looking at the price of a
+car. Um, and that keeps a lot of people
+out. And that's done, as I said, by
+design. So, um, yeah, the fewer people
+that can afford it that are motivated
+will do well. The general people, uh,
+no, because everyone else is doing it.
+Yeah. So, something like copy trading.
+Oh, yeah. It's copy trading. Signals
+from Telegram. Yep. To live trading bot.
+Yeah. We're already there. There's a lot
+of people doing it, but if you really
+want to, you know, you're really good at
+it, you want to do it as a business and
+you can, you set yourself up by being
+verified, third party verified, and you
+have a a verifiable track record um of
+the trading, it's profitable, and it
+beats the markets, generates alpha from
+an institutional point of view. Once you
+can do that, you will you'll be highly
+prized. But nobody does that. Nobody has
+verified trading third party. it's not
+synchronized to a trading account and
+blah blah blah. So, if somebody can get
+to that point, I hope to get to that
+point one day, uh then then you have
+something very valuable, but at the same
+time, because you're only a person doing
+it, you can charge top top dollar. Top
+dollar
+is what I tell you.
+Yeah. So, yeah. And there's prop trading
+and blah blah blah. All that's as far as
+I'm concerned, it's all outdated now. It
+just comes down to motivation. You can
+do it yourself for sure. If you want to
+try to turn a business, you can do that
+for sure, but then the gold standard
+would be you have to have a third party
+verified account in real time. Uh that's
+the way it is. Uh anybody else got
+questions or comments? But it's a good
+set of questions. Cody, I got I like
+your motivation for a young guy and
+that's the motivation that matters. Like
+you're putting yourself out there. uh
+you're asking questions. That in itself
+is huge. Uh a lot of firms like that.
+Shows you have an initiative. Shows you
+have trading ideas. No AI no AI can
+replicate that for sure. And that's the
+sort of things that you need to survive
+not just in trading but any kind of job,
+any kind of career path. Because if
+you're just sitting behind a screen, not
+saying anything and just lurking, why
+would a firm take you? you're not adding
+any value to the firm. Firms today are
+going to look for what value, what
+revenue are you bringing to the firm. If
+you can't do any of that, I'm sorry,
+you're going to struggle. And that's why
+unemployment is skyrocketing right now.
+Um, and once AI really, believe me, AI
+can do everything. Uh, was it uh I just
+got word from our friend here VW
+Volkswagen is laying off 50,000 people.
+I've seen 10,000. thought that was a
+lot. But 50,000 people, that's all
+because of technology. They'll blame the
+economy. They'll blame China. Blah blah
+blah. It really comes down to
+technology. They say that because they
+have to appease the unions, right? But
+now secretly, it's the technology, the
+AI that will and can replace them. How
+do I know with when it comes to um AI?
+There's a company called uh a robotics
+company out of Switzerland. I can't
+remember the name of it.
+and they've been testing all the robots
+uh in Leapzig, their factory, and works
+great. So, out you go as a factory
+worker. Sorry, don't need you. Bye-bye.
+And you're going to be forced into
+learning AI and trying to figure out how
+to use AI to to um to be self-
+sustainable. And you don't want to be
+classified as a useless eater. That's a
+Davos term, just so you know. Um
+I just don't want to tell you what
+they'll do with useless eaters.
+Uh, if you guys got questions or
+comments, let me know. As you can tell,
+I talk about anything. Um, but don't
+Well, let me put it this way. Oh, Cody
+Cody's non-stop, man. Wow. You You
+should be number one here. Damn, Brian.
+It was great talking to you. It's like
+5:20 a.m. right now cuz I'm from India
+and I haven't slept.
+I I probably assume you're taking maybe
+some kind of herbal thing.
+I'm going to catch some sleep now. Yeah,
+this video will be on. It'll be within a
+few hours. So, it'll be more if there's
+more chitty chatty people more we can
+stay on. But thanks for sharing all your
+ideas. It's quite motivating um to uh
+engage with you and and that's another
+big thing for community engagement.
+Community support is really important,
+which is what I'm trying to push. I just
+opened up a community on my website of
+520 people. So, I'm trying to push that
+out and I'm looking at getting on a
+WhatsApp because I know everybody wants
+their WhatsApp stuff, but I'm pro I've
+run these messenger groups before and
+there's so much [snorts]
+spam it's annoying. So, I'm not going to
+have that at the get-go. I will have
+what they call a WhatsApp channel. So,
+it's a one-way communication to people
+to let people know what I'm working on,
+where to go, a reference, maybe an
+attachment of some kind that I want to
+stress. But then if you want to be part
+of the group WhatsApp, you got to be a
+paying customer. Um, for sure, cuz
+that's, as I said, when people pay for
+something, that's the ultimate
+motivation, right? Um,
+don't know the tier what level yet, but
+it'll be affordable. Um because a lot of
+people that have been online earlier are
+thankful that they join earlier cuz now
+they're join and part of something
+that's now worth the price of a car each
+year I might I might add.
+But uh yeah with the WhatsApp that's
+what I'm going to push out is at least a
+channel and people go why privacy blah
+blah blah blah. I think we're past the
+privacy thing. Anyways true man if you
+give something for free people don't
+value. It's not about valuing it. It's
+about having a high quality, highly
+driven group, highly motivated. And
+usually people that pay for stuff are
+probably usually high achievers. Okay?
+If they don't pay, there's that saying,
+you get what you pay for, right? So if
+you're not paying,
+sorry, uh but if you want to get behind
+a pay wall, you have a higher quality of
+people as part of that. And in the world
+of trading, from what I'm seeing, the
+people that pay for my stuff are either
+older in the IT space or portfolio
+managers going into retirement. They
+want to build out their own algo trading
+business like that Ernie Chan talked
+about. Um cuz that's the one of the most
+prosperous ways to stay uh to sustain
+yourself over the long run in this crazy
+AI world. Um and and it reduces a lot of
+the dependencies out there
+if that makes sense. [snorts]
+All righty. Who's got other questions?
+Um but that that's why I do that. So
+there's a channel you can't communicate
+with that. Um but uh and the question is
+why WhatsApp and the privacy thing. I
+know everybody uses two things online,
+YouTube and WhatsApp. So there's that
+reason there. And I also know when it
+comes to reliability and trustworthiness
+that the target market I'm after, which
+are usually um
+uh port portfolio managers and big firms
+like multi-billion dollar firms, that's
+my ideal target market. They will not go
+onto a telegram group. They will not go
+on to some anonymous group. They have to
+uh be on a reliable messenger platform,
+which the only one really is is
+WhatsApp. So, I don't make the rules.
+It's the way it is. I tried to fight
+that game before. And you can't you
+can't you can't do the privacy thing.
+You have to be on a reliable platform.
+Even though I know it's not private,
+but uh that's that's why WhatsApp uh is
+the way. Um because everyone uses it.
+Um yeah. Anybody else got any questions
+or comments? I'm glad to I'm glad to say
+we're past one hour, but this is part of
+the I won't say it's frustrating. It's
+just like I'm doing this to engage with
+people, to talk to people, trying to
+help people. I can't help people if I
+don't know what their issues are. That's
+one. Number two, in order for me to
+continue doing this,
+I have to see that engagement, that
+community based, right? So, I do
+bookings very cheap. And right now,
+because I run and operate at 250 miles
+an hour now, I'm probably going to get
+rid of the bookings and maybe only make
+it available for my members, paying
+members, that is. Okay? So, they get the
+benefit. And if you're motivated, great.
+If you're not, fine. But I do know the
+concept of chasing after the shiny toy.
+Okay? If that's all you do, you good
+luck to you, especially in this era. Um
+uh don't don't expect the government to
+to save the day. Okay. I live in
+Ontario. I know [laughter] if you want
+to be at the bar bottom of barrel
+society, just take whatever government
+handouts you get and not have to work.
+Okay, fine. That's fine. But you'll be
+at the bottom of the barrel in terms of
+service and quality of life,
+unfortunately. So, that's the way that
+goes. Who's got comments or questions?
+If not, um, I'm sure I got a whole slew
+of stuff. I'd like to start developing
+agents right now.
+Anybody got questions or comments?
+Please, please type away right now. I
+want to I want to see that engagement.
+Uh, we've had very good questions, very
+good content. So, this will continue for
+sure, for sure, for sure. Uh, I let the
+AI generate the media clips, the shorts
+for YouTube. every single one is very
+valuable and I know that's how a popular
+way people consume with this stuff. But
+if you want something kind of one-on-one
+answered, let me know. I can do my best
+uh to help out. As I said, we already
+talked probably to death about the quant
+career and quant code and all that stuff
+earlier. So, if you missed that, just
+watch this stream once it's rendered and
+posted.
+Uh who's got questions? We've had a good
+set of people. See, everyone's doom
+scrolling right now. They'll watch it
+for, if you're lucky, five seconds. They
+move on to the next shiny toy.
+H I don't know. Uh they won't get I I
+got my opinions on it, but I'm not going
+to mention them here. I've tried the
+motivational thing. I thought at some
+point it works. Now, now everything does
+come down to motivational on your own,
+unfortunately. [snorts] And if you are a
+person of faith, your higher power is
+your your true faith there, too.
+Um,
+who's got questions? Comments,
+questions, comments. So, we're at 104.
+So, I'm happy to reach that. I thought
+this would be a popular topic and a
+really lengthy topic. I don't see our
+regulars on here. Um, I know one is out
+there. Uh, let me see here.
+Yeah, everybody's been new, which is
+fine. That's cool. I have no problem
+with I want new people. That's the whole
+point. And we got one guy. Yeah. Yeah.
+So, anybody else out there got questions
+or comments?
+Always remember I can XN
+uh with this new phone? I got some Well,
+as you can see already what I can do
+with on this stream um and uh with the
+WhatsApp. I don't know uh with the
+group. Just so people know, if you want
+to get on that public group, got over
+500 people.
+Um, just get on my email list at
+quantlabsnet.com.
+Look for the learn tab at the top.
+You'll get a little free ebook.
+Um, and then if you read my emails, I'm
+doing a lot these days. Uh and then
+there will be the somewhere in there
+you'll be able to see the groups uh
+public group. Believe we're at 520
+people so far, but we need the
+engagement to really make it good. Or
+maybe the channel, I don't know, for you
+for WhatsApp. I don't know. Still trying
+to figure out how people are engaging
+with this stuff. The old way is done.
+I'm talking about email. Anybody got
+questions or comments?
+Looking looking, looking. Okay. What
+I'll do is I'll put the thread out there
+the count of three. Uh we and I'll
+terminate it for tonight.
+So if you got something just type up an
+a letter a so I know you're out there
+typing away. I know there's a
+synchronization uh a delay in the
+synchronization of this video and what
+you hear. So I'll go really slow. Okay.
+So go in once. Type away. Please please
+please let me see it. Uh, also going
+twice.
+Oh, no. Nobody go going two and a half.
+Type please type something. Anybody to
+keep this going. Okay, I guess we're
+done. Going three times. Sorry. Um, if
+you want uh, as I said earlier, I'm
+going to make myself less accessible.
+Okay. Um, as well. Oh, we got a question
+from JDI. Did you just join JDI? I know
+you can keep streams going forever. Do
+you think we will see uh single person
+companies with AI? I have seen chitter
+chatter about that. I don't remember
+from somewhere but they say who's going
+to be the first trillionaire
+and one person a what do they call in
+the VC world venture capitalist world a
+unicorn worth I think there was one guy
+sold a startup not long ago it was a
+couple million 15 20 million I can't
+remember who bought it but it's just one
+guy uh so yeah we we are there now but
+billion I'm sure it's out there when it
+comes to trading what I will say from
+what I've seen specifically out of China
+because they're really smart people.
+They'll put out stuff but they don't
+share it. So I'm sure there's a lot of
+people making a ton of cash in the world
+of auto trading and algo trading. They
+just we don't know who they are cuz
+they're not that kind of people. The
+culture is not like that either.
+So they just keep to themselves but they
+will exploit whatever technology is out
+there also in the world algo chain. And
+I'm sure a few of them have done
+extremely well. Like Deep Seek's a great
+example of that as well. Um JDI, do you
+have more questions? You you I know you
+you can keep going. Thank you for
+joining. This is really good.
+It gets exciting when JDI is online.
+[snorts] Uh yeah. Yeah, for sure. I
+think that's one thing I I should say
+even though I could sit here and go doom
+and gloom on everything. Um,
+we are at a point in human history where
+there's never been so many billionaires
+created
+ever historically because of the
+internet and now AI. So, the possible
+potential is easily there. As I said
+earlier, it comes down to motivation.
+Uh, would you ever consider trading
+other regions? Yes, I will. Um, one
+thing I've heard through somebody I
+talked to, he's getting pretty popular
+as a British guy living in Geneva,
+Switzerland, called um, Clive Thompson.
+He said exactly that. um the credibility
+of the CME and this gold manipulation
+with the gold uh future contracts
+because the manipulation in silver and
+that when the market went out or the the
+gold and well I think it was gold went
+out for an hour and and it was you know
+going on and on about that. So now
+they're saying more and more legitimacy
+is moving over to Shanghai. So, anything
+gold related for more legitimacy and
+so-called less manipulation is is now
+moving over to to to Shanghai. So, I'm
+saying is with the Rhythmic, I'm hoping
+that I'll be able to get access through
+Rhythmic to those servers to I know I
+can get access to the Singapore. I know
+I can get access to I believe Hong Kong
+um but Shanghai itself, mainland China,
+they do make it very very difficult uh
+for the Westerners to get access to
+that. But if China knows, if the CCP
+knows that they become like a new global
+metric and something spec specifically
+around trading, believe me, they'll
+allow um Westerners get access to it. So
+Shanghai Ghoul could be one of the first
+ones where you could uh trade off of no
+longer CME because of the of the
+so-called manipulation of CME because
+they're taking a reputational hit. Um,
+and overall CME is taking a reputational
+hit because they're allowing this
+manipulation to go on. So that's some of
+the chatter I'm seeing on YouTube among
+the doom among the doom and gloomers
+popular channels and commentators.
+So one one said, "Yeah, maybe Shanghai
+composite gold will become a metric, a
+global metric." So would I look at it?
+Yeah. Yeah, I would consider it. And I
+do know a lot of international markets
+are doing better because for instance uh
+I think it was like last week when I
+said that um with oil and how it's gone
+up and down on the CME on the CL
+contracts
+um because of places like Qatar and
+Bahrain obviously Iran and Saudi are
+getting a hit on who's producing oil out
+of that Middle East region. Well, guess
+what they're looking at is now Korea and
+Japan uh for refining. So, there's a
+contract you can get through I can't
+remember what um exchange, but you can
+get access to what they call as I said I
+mentioned this last week, the Korean
+Japanese marker,
+which is way basically all the Japanese
+and Korean refiners because those
+refiners are still up and running. So
+there's going to be more demand and
+trading opportunities with those
+refiners instead of well there's no
+maybe a whole pile in the Middle East
+are no longer around because they're
+bombing them. So yeah, I definitely look
+into uh these kind of regions, these
+kind of alternative exchanges and I do
+think over time that they will become
+more mainstream and hopefully if not
+with rhythmic if there's enough demand
+especially from the institutions they'll
+make them more accessible uh via uh
+rhythmic and I'm sure interactive
+brokers is the same and I just get
+better feed quality responsiveness with
+rhythmic versus uh interactive brokers.
+I find interactive brokers is good for
+two things because I know you're on
+interactive brokers. One, if you're
+trading equity, you have nowhere else to
+go. But interactive brokers for the low
+commission cost and the automation
+capabilities you get with it. And B, if
+you're going to trade futures and
+options market, Rhythmic does kind of
+make it very difficult to trade off of
+or sorry to test off of. And that's
+another strength of Interactive Brokers
+because on Interactive Brokers, you can
+get access to pretty well anything. So,
+that's the um uh advantages of
+Interactive Brokers. Very good
+questions, my man. We've had some good
+questions tonight, especially from Cody
+and Arun, Erin, I believe, and there's
+somebody else, Naveen as well. These are
+That's why I like doing these because I
+learn from these as well. So, if you
+guys got questions, I don't like to
+threaten that I'm gonna close it off.
+Don't want to do that. Um Oh, and here
+comes the savior. JDI asks, "IB customer
+service is non-existent that I've gotten
+used to it." Yeah. Um, unfortunately,
+you're 100 million% right on that. It
+depends upon your account size. The
+bigger account you have, like I don't
+know, I think the average size of the
+accounts are something like a couple
+hundred thousand. So, you get better
+customer sort because you get routed
+into the US. So, you get great customer
+support. Um, so if you can magically uh
+pull out some extra cash out from
+somewhere and fund it, you'll get better
+customer support. Um, but the thing is
+with AI and
+AI and uh just where tech is today.
+Yeah, you just got to get the basic
+connections, the plumbing, connect it
+all up and then you're good to go. And
+that's what I'm kind of doing now with
+Rhythmic. As I said, the last step is to
+get the live trading live market data
+from the enabling me to connect into
+uh the Chicago server for actual
+production and live trading. So, I'm
+hoping to get that finalized by
+tomorrow. Once I get that, awesome.
+Because
+like with Interactive Brokers, it's all
+permission based. So, you have to ask
+and beg Interactive Brokers through
+their app or their portal to give you
+access to this and that, turn on that
+data and this and that. Um, Rhythmic's
+kind of same. You have to get permission
+from Rhythmic to be on all these other
+exchanges. You you can somewhat through
+their software be able to get access to
+it, but it's another slew of steps to
+get access to be able to trade it. I
+think a lot of it can be uh your um
+performance in trading uh and also your
+account size. So to get into the
+international servers and exchanges
+might be a little tougher, but you'll be
+institutional level.
+In terms of the customer service,
+Rhythmic is probably nowhere as good,
+dare I say it, in an insulting way with
+Interactive Brokers, but it's all email
+and it can be kind of responsive. I get
+better support uh two ways because I'm
+paying for the API and the data feed.
+So, I'm not going in as a cheapy. Um,
+and as I said before, I'm paying 140 for
+the API. Okay? So, I'm at a higher tier.
+So it seems like a better kind of
+support. But for people out there
+considering Rhythmic and I've said this
+before when it comes to expediting and
+Rhythmic to take you more serious as a
+paying customer because it's all the
+same every all the questions come
+through the same queue. Uh in order to
+expedite that what my rep at my futures
+broker said just CC me on it. They'll
+see me. They know me. they know our firm
+and they'll put you at a higher a higher
+um tier and faster response and that's
+been kind of successful. At the
+beginning it was not that great but
+everyone's going to ask who's your
+futures broker. I'm with Edgeclar and I
+chose Edgeclar on purpose for the
+personal extra touch I got with
+Edgeclair versus Boring Boring Boring
+Imp and Optimus. They're
+all not great. Edgeclair's a futures
+broker is very good and anybody in the
+world can be on has have a futures and
+options account that's another good
+thing too there are restrictions
+um but it's it's not like let's put it
+if I was to apply for a mortgage a
+complicated mortgage that's interactive
+brokers whereas futures once you get
+past the funding and understand the
+concept of futures you'll have most
+likely less restrictions if I can say
+that from what I'm seeing so far.
+I know we were up and then we're back
+down. Who's got questions? I don't know
+if co I think Cody dropped off. If you
+guys of JDI if you got a question at
+all. I'm waiting waiting waiting. I did
+threaten 10 minutes ago. I don't want to
+do that again.
+&gt;&gt; [snorts]
+&gt;&gt; Um, I know it's it's hard to get topics
+and stuff, but uh if you guys got
+anything,
+uh, glad to answer it in real time. I
+don't think I've reused a question yet.
+I'm going to purposely vague on a few
+trade secret stuff, but generally I'm
+pretty open about it. Uh, let's see
+here. I'm just looking on my other phone
+here if there's anything I should be
+paying attention to.
+So far, nothing. Um, let me just see
+here. Uh,
+nope.
+No other communication I should know
+about.
+All right. So, if you guys got questions
+or comments, let me know. I'm here for
+you, baby. Um, yeah, we had some usual
+diverse topics covered. Um, I'm on a
+mission to get to a certain number of
+live streams by the end of March. So,
+I'll be doing more live streams. Uh,
+just random times to show up. I was kind
+of surprised with the one I did earlier
+today. Um, but I do want to stick with a
+schedule. Makes life easier for people.
+But the problem is you're trying to
+appease the people um that are overseas.
+I know there's a lot of US, so I'm I'm
+in line with them. Uh, so I have to
+trying to figure out how to accommodate
+here. It's kind of hard. Um, but as I
+said with the new group I've got, well,
+it's all I've had. I just kind of
+promoting it now with the 500 people.
+That's probably going to be the best way
+to reach me. Um, and as I said, I'm
+going to be outside the streams that I'm
+doing now. I think over time, I'm going
+to make myself less accessible.
+unless you become a a paying customer,
+of course, to to retain the high quality
+I'm seeking. Um, as well, I can only
+accommodate so many free people. I'm
+getting a lot of questions from people
+via Instagram and Facebook and how do I
+do this, how do I do that? As as soon as
+I put out there, well, get this product
+cost 30 bucks. I don't hear from them
+again. So, these are what we call uh
+leeches. Uh, and I'm you you can go to
+other places to leech. Um, and uh I I've
+done it for quite a long time. So I'm
+looking for premium people,
+if you know what I mean. Not free
+people.
+I'll be making things affordable, yes,
+but not free free. I'm going to, as I
+said, uh probably make myself less
+accessible on purpose, as I said
+multiple times already. Uh, who else has
+got questions, comments? Anybody?
+Anybody? Okay, let's start a new
+countdown. JDI, get your keyboard ready.
+I know you'll save it as usual for now.
+Um, so let's get started. I'm going to
+do a go once, twice, three times, and it
+could end it. I don't want to, but I'd
+like to see engagement, and hopefully
+GDI can save the day. Okay, so let's get
+started. Going once.
+Type away. I know there's a delay.
+Going twice.
+And we're at hour and 20 minutes. It's
+not a bad time for a stream. Going once.
+Going twice.
+Going two and a half. Oh, currently
+midnight here. So, probably going to
+call it a night. Anyhow, where where are
+you calling um where are you calling in
+from? from uh GDI. Are you Was it
+Ireland you're in? I know you're in
+Europe. I can tell by the timing. I
+think you're in Ireland if that's the
+case.
+But I don't mind. Midnight here. So,
+call it a night. I know. I saw I I don't
+know. I was curious to know where people
+are are are viewing from UK. Ah, UK. We
+had another person from UK. I know them
+pretty good. They're a customer of mine.
+Uh
+yeah. So, uh UK is a good place, man.
+When when I put out one of those
+reports, London, you could be in finance
+for all I know. Um and the other the
+other customers are the same, too. Uh
+so, uh when I put out a professional
+report I did a few Saturdays ago, it got
+a lot of people and it reached a lot of
+people and then I got a lot of traffic
+from London, UK. So, I know it's hitting
+the right market.
+Um, yeah, thanks for all your questions,
+JDI. Um, I'm going to repeat the whole
+thing again for anybody new or don't
+know the process.
+Uh, whoever wants to save the day to
+keep the stream going, just type up
+whatever you want. Uh, I'll respond to I
+just want to know people are out there
+and are interested in what I'm blabbing
+about. So, I'll do a going once.
+Going once and a half.
+Going two.
+Uh, going two and a half. We're close.
+Going three times. Okay, we're done. All
+right. So, I'll leave it at that. As I
+said, um, go to the website
+quantlabsnet.com,
+try out one of the things, get your book
+at the same time, your ebook, and if you
+can join the group, um, because that's
+where you're going to find me more of
+and the better, easier way to contact
+me. Um, as I said earlier, okay, I guess
+we're done. Have a good day, night,
+wherever you are. Have a good one. Bye.

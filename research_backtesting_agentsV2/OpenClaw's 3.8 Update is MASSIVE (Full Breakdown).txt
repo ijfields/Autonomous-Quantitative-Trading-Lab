@@ -1,0 +1,351 @@
+Yesterday, OpenClaw did a massive update
+with its 3.7 version release. And just
+today, they followed that up with more
+updates with this version 3.8. And
+together, this is the biggest update
+that OpenClaw has had since [music] its
+inception, where almost 200 developers
+contributed to and where you can either
+browse and read through hundreds of
+lines of change log updates that they
+just introduced here. Or you can just
+watch this video where I break down the
+most critical updates where I'll explain
+it simply, why it's significant, and how
+you can use it in your [music] workspace
+today. And if you're new here, my name
+is Jay. I spent over a decade working
+with brands you probably know have been
+in AI since my masters in data science
+and now I run our AI solutions practice
+in one of the largest AI communities
+globally. Let's get started.
+So one interesting update it does seem
+like OpenClaw is preparing itself to
+release a dedicated iOS app. And from
+the release notes, they included a few
+screenshots here where this one appears
+to be a voice feature. That basically
+means when you download this
+application, you can just talk to your
+open claw without having to set up any
+external dependencies in your Telegram
+or Discord or Slack, which is pretty big
+if done right. Apart from that, there's
+only limited information here around
+what the application could look like.
+They did include this settings panel,
+which is pretty standard. This is
+probably a way to connect to your
+OpenCloud directly using a QR code. And
+finally, they included a screenshot
+around an OpenCloud dashboard that
+includes basic features like your
+session activity and token usage. One
+big update that I'm personally excited
+about because I use Telegram a lot for
+OpenClaw is topic routing. And what that
+means to explain it simply is that if
+you have one Telegram group, you can set
+up different topics so that each of
+those topics can route to a different
+agent, to a different model, and even to
+a different system prompt or set of
+skills. So what this basically means is
+that each topic will get its own
+isolated session, its own isolated
+memory and workspace, which is just
+going to be easier overall in terms of
+managing your agents and managing the
+context within those topics. To give an
+example for my setup as I was trying
+this out, basically I set up a group
+called AI studio with myself and my
+agent Robo. And then I have these
+different topics at the top. This is
+general for general discussion.
+Basically, you can have a topic for
+content, a topic for client management,
+and a topic for development. And what's
+key here is that let's say you want the
+content topic to be managed by let's say
+Gemini 3.1 Pro, you can set that as the
+default model for that group. And you
+can even define the skills that will be
+available in that topic, which is
+incredibly important because if you work
+with these agents before, we're still at
+a point where if you have like 40 50
+skills loaded up in just one agent, it's
+quite often that your AI agent doesn't
+exactly know which skill it needs to be
+using. And so managing it this way, in
+my opinion, is just much better. You can
+also have different system prompts per
+topic. So that let's say for development
+you can include a base system prompt
+there that is more related to coding or
+more geared towards safety then that is
+an option for you as well. So just to
+illustrate this hey can you suggest to
+me the models as well as the different
+system prompts and skills that we can
+assign to each of those topics so that
+we can have a cleaner setup and that way
+if you send it to your general agent
+it'll be able to just recommend for you
+the right setup for your openclaw agent
+team. Then from here you can see that it
+suggested a setup for me where for
+general it says to use sonnet because
+it's cheap and fast which I think is
+actually good because this is likely
+going to be used for admin purposes.
+Development is opus with a
+recommendation on which skills would go
+there and so on and so forth. And so to
+set this up all you need to do is just
+set up a telegram group and convert that
+into one with topics. So if you go to
+the more settings here and click on
+manage group here you'll be able to
+click on topics and just enable that.
+And by the way, if you want to learn
+more about AI agents and how you can
+sell it as a service, how it can
+transform your business so that you're
+more future ready with AI, then check
+out the Robbo Nuggets community. We have
+more than a thousand builders and
+creators here who are all building with
+AI agents. And we also have several
+guided tracks and courses so that you
+can get the right training to be using
+these tools as part of your workflow.
+The community is also what makes these
+lessons possible. So check that out just
+in the description below if that is
+something that you're interested in.
+Another key update that I think is more
+important than it lets on is this piece
+around post compaction sections. And
+just to give you a background, when you
+work with agents, every time you chat
+with them, there is a piece of script or
+text that is usually contained in what's
+called an agents.md. For cloud code,
+this is called cloud.md. For Google's
+anti-gravity, this is called gemini.md.
+But for openclaw, it's contained in this
+agents.md. That every time you talk to
+it, that piece of system prompt or text
+is always injected even before you chat
+to the agent. And the other thing that
+is important for you to understand when
+working with agents is that let's say
+your agent is using Opus 4.6 as its LLM
+brain. That model has a 1 million token
+context window which is if you were to
+imagine it is roughly the size of the
+Christian Bible which basically means
+that at any given point in time your
+agent can think and reference about the
+same amount of written content that is
+as thick as that book. So it's a lot but
+it can run out right and when it runs
+out what your agent basically does is
+undergo this method of compaction which
+is just looking at that 1 million token
+context text and basically just
+summarizing it so that it can continue
+conversing with you with that summary
+context that it just compressed or
+compacted. Now the problem with the
+previous version is that whenever your
+context gets compacted you actually
+can't control which parts of your
+agents.md get reloaded into that new
+session. And this becomes a problem for
+instances like this where this person
+Summer who's actually part of the safety
+and alignment team of Meta Super
+Intelligence suddenly had their OpenClaw
+start deleting their inbox and where she
+needed to physically run to their Mac
+Mini in order to turn it off. And she
+had confidence that OpenClaw won't
+delete her inbox because she basically
+told it to confirm before acting. But
+the problem is because this prompt was
+sent in the very beginning most likely
+when the context got compacted, this
+direction was lost as well. And so her
+OpenClaw AI agent at this point did not
+realize that this is a command that it
+should be following. And just on this
+topic, I think there's two things that
+you need to keep in mind for this not to
+happen in your instance. The very first
+thing is that right now I don't think
+you should give access to OpenClaw for
+your own email and probably even so in
+the future because the way OpenClaw
+works is it's sort of like your digital
+employee, right? And if you're hiring an
+employee, would you give them access to
+your own email? What you would normally
+do is you set them up with another email
+and set them up with their own
+workspace. So that that would be their
+sort of isolated sandbox environment
+which would just completely avoid
+instances like this. And the other thing
+you should remember is that if you just
+message your open claw with stop or do
+not do that and so on, this just gets
+logged in its queue of chat messages to
+action with. The right way to stop what
+it's doing is to just type in back
+slashs stop and you will receive this
+message agent was aborted and that
+immediately stops whatever it's doing.
+And so with this update, what you can
+now do is clearly define if let's say
+you want to set a direction for it not
+to send any emails without your consent.
+Then what you can simply do is ask your
+open claw to include that in the
+sections that survive post compaction.
+Now a related update that I think is
+unique to open claw has to do with the
+fact that it can install plugins. And
+just to quickly differentiate if you're
+curious what a skill is versus what a
+plug-in is, a skill is basically just a
+written command that tells openclaw that
+you should follow these specific set of
+steps in order to achieve a specific
+result. But plugins are actual code that
+can change how open claw behaves. And
+one update that was pushed with this
+recent improvement is now people can
+develop plugins to manage how that
+context that we just talked about is
+summarized. Because in reality, there
+are actually a multitude of ways by
+which you can compact a 1 million token
+context window. And what's great about
+this update is that now you can install
+plugins like this one called lossless
+claw that supposedly can summarize and
+compact context much better than
+traditional methods. Now, I haven't
+tested this one fully myself, but it is
+available open source here on GitHub if
+in case you want to try it out. And
+finally, just on the topic of compaction
+still, this update also introduced
+recent turns preserved, where basically
+when you exceed that 1 million token
+context window, usually there's a
+default number of recent messages that
+survive compaction, which you cannot
+edit before, but now with openclaw, you
+can actually set that up and customize
+yourself if in case you want more recent
+messages included in that compaction.
+So, it's very customizable, I think, is
+the key that is happening here with
+openclaw. The other major update that I
+think is worth talking about is that now
+OpenCloud allows you to do a full
+archive backup using just one command.
+So if you update to the latest 3.8
+version, you can just type in openclaw
+backup create to your openclaw and it
+archives your configuration, your
+agents, memory and workspace. And then
+you can follow that up with this command
+openclaw backup verify and it will just
+validate that that archiving has been
+properly configured. And that is
+obviously very useful because if your
+OpenClaw has access to your files and
+you run into a scenario similar to what
+we discussed earlier where it started to
+just delete files in the computer it's
+on like emails and such then it can also
+maybe delete some of the configurations
+that you didn't want it to delete or
+overwrite. And so doing a full archive
+backup will just let you switch back to
+an older snapshot of your open claw so
+that nothing gets lost. Now apart from
+those major releases there are also a
+few neat updates that were introduced
+for this round. One is the fact that you
+can now use Gemini 3.1 flash light as
+one of your models and I believe GPT 5.4
+is also an option now. So it gives more
+flexibility on which model that you want
+to use. They also upgraded the built-in
+perplexity search feature in Open Claw.
+Whereas before if you use perplexity
+search, it just does a general search
+for you. But if you want to tweak let's
+say the search based on language, based
+on the region, and based on a specific
+time period, that's now available for
+you as well. And the other big call out
+for this set of updates is the massive
+set of security hardening steps that
+they took in order to protect your
+credentials, to protect your access, and
+to protect your data and execution. So
+in this release for 3.7, you can see
+security was mentioned 18 times across
+different updates spanning API key
+protection, removing token snippets from
+userfacing labels such as when you type
+in / status or /models, and a few
+security updates for those of us who are
+using VPS to host OpenClaw. And this is
+quite interesting, right? Because for
+this massive update, there's actually
+almost 200 people who contributed to
+this open source project. So no matter
+if you think OpenClaw is for you or not,
+you can't deny that there are committed
+people who are working on this and it
+probably points to the longevity of this
+project as a whole. And open source
+projects generally once they capture
+steam and interest of a lot of people
+and especially when they get support
+from a particular huge entity, they
+generally and eventually become
+longerterm products. So Facebook's React
+product is open source and that is still
+being heavily used today and so is
+Mozilla Firefox which was sort of the
+precedented before Google Chrome took
+over the browser world but Firefox is
+still very active today and so this is
+why I got really interested in the open
+claw update because with open AAI now
+indirectly supporting it plus so many
+developers working on this project now
+in fact if you look at this chart shared
+by um from our community you can see how
+quick open clause rise is just a few
+months after it release that it already
+exceeded attention for both Facebook
+react and the Lion Nooks operating
+system. I think there's still huge
+potential for this space and for this
+product. And even though it feels like
+it's at the top of its hype cycle now, I
+feel like it will actually last a longer
+time than you think. But I hope that was
+helpful. I'll see you guys next time.
+Thank [music] you.

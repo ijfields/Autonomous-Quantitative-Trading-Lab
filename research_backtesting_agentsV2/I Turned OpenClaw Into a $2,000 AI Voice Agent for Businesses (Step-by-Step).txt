@@ -1,0 +1,1137 @@
+So, everyone's obsessing over Open Claw
+and running AI agents like it's some
+crazy hacker flex. But here's what most
+people won't tell you. You do not need
+to actually install OpenClaw on your
+computer to make money with AI. And I've
+been doing this for a while now. And I
+have some verified methods that I'm
+going to give you in this video because
+the real opportunity it isn't
+babysitting a openclaw bot on a local
+setup. It's taking the same AI agent
+logic and turning it into something that
+businesses will actually pay for. And
+people will argue about, you know, what
+is the best open- source method of using
+an agent, whether it's installing it on
+your computer or having it run
+cloud-based. It's not about that. I'm
+cloning myself and my team into an AI
+chat agent that lives on websites. It
+captures leads. It answers questions,
+and it sells 24/7. I package that up
+into a paid service for small
+businesses. Now, this is exactly what
+I'm going to be breaking down in this
+video. I'm going to give you my prompts
+that I use for Claudebot and all those
+things. And I'm going to show you how to
+do this exact thing. But first, why
+should you listen to me? Well, I am
+somebody that makes a full-time income
+from working with small businesses. I am
+a practitioner of what I preach. I have
+already collected a $997
+payment. I'm going to refresh my Square
+account. This is from working with small
+businesses. $997. You can see today's
+March 2nd. collected this today from a
+small business for helping them grow
+their business. So, as I said, I do what
+I teach. And I'm not saying that you're
+going to be able to just push a button
+and replicate my success, get a $997
+client overnight or, you know, an $8,500
+client for AI and Google search
+optimizations like this. I'm showing you
+these numbers so that I can qualify
+myself as somebody who is a credible
+source of information because I believe
+that right now there is a real low
+amount of credible sources of
+information on the internet. And as I
+said, I am somebody that practices what
+I preach. And so in this video, I'm
+going to be showing you how I skipped
+the complicated setup of a Claudebot
+setup on my computer. I mean, I did it,
+but how you can if you want to. I moved
+the core agent into a online knowledge
+base now running 24/7. It turns a
+website into an AI powered agent and how
+you can turn that same concept into a
+recurring revenue offer because as I
+said, the money isn't in the tool, it's
+how you deploy it. Now, real quick, if
+you like this topic of building an
+online business using AI tools to get
+subscription-based clients, then I'd
+like to do something special for you and
+offer you my four-part AI FastTrack
+training. This is a four-part series
+where we spend even more time together
+and I give you tactics and strategies
+just like the ones that I'm going to
+share with you in this video to get
+clients and small businesses to pay you
+to help them with their services. So, if
+you like it, please just be sure to
+subscribe to my channel. Like this video
+if you haven't already. Not required,
+but always appreciated. Consider sharing
+this video with a friend who should get
+going with this business model. And then
+just comment below and I will send you a
+direct link to the FastTrack training,
+the software, and the other bonuses that
+I'm going to be including in this video.
+Which speaking of bonuses, I have this
+entire prompt document outlined for you.
+I've got my master prompt here that I
+use for my Claudebot guy, girl, whatever
+you want to call them. And then I got a
+master prompt that I use for
+transitioning what I have done in
+Clawbot into a uh knowledge base to help
+me build an AI agent that runs 24/7.
+[snorts] So this is what I have in store
+for the video. This is a timeline. We're
+going to talk more about OpenClaw and AI
+agents. I'm going to share with you
+these steps are not in order. Step one,
+step four, step three. Step one, what is
+OpenClaw and AI agent. Step two, how I
+flipped it into an AI website service.
+And step three, how to make money with
+this. And I see a lot of you in the
+chat. I'm going to circle back to all
+your questions. Make sure you stick with
+me here. I appreciate you guys showing
+up live. So, OpenClaw, for those of you
+that have been living under rock, is
+this open source bot. It originally was
+called Claudebot. It changed its name
+three or four or five times because
+there was some kind of scam going around
+where these crypto bros, people,
+whatever you want to call them, they
+basically hijacked the name Cloudbot
+into a coin. Uh, basically hijacked some
+of the traffic that was going on because
+this tool was going viral because it is
+a very valuable thing. It is essentially
+a autonomous agent that you install on
+your computer. It can clear your inbox.
+It can send emails. It can manage your
+calendar. It can check you in for
+flights. It can do all of that from your
+phone, from Telegram, from WhatsApp. And
+so it is super valuable. However, you do
+have to in most cases install it on your
+computer, which is a security risk. So
+Cloudbot is badass. Most people went
+online and they started buying, you
+know, Mac minis specifically to dedicate
+them to what they were doing with
+OpenClaw. Now, for me, I saw a lot of
+promise in this. I saw a lot of value in
+it. I immediately got one set up and
+started playing with it. The piece I
+didn't like is having it installed on my
+computer and having unrestricted access
+and control over these different things
+and these assets. So, I decided that I
+wanted to take this even further. So, I
+use I'm going to give you some use cases
+what I use it for, right? OpenClaw, it's
+an autonomous AI agent runs on your own
+machine. So, I use OpenClaw for helping
+me get more customers, more small
+businesses. So, you can see this is a
+screenshot of like what I have OpenClaw
+set up for. It automatically sends
+messages out and I took the screenshot
+today. It finds businesses in my area
+and I have it automatically reaching out
+doing cold outreach. Now I connect those
+outreach methods, those people that say,
+"Hey, yeah, this is great with paid
+services." And you know, this is how I
+land deals like the one I shared with
+you in this video, you know, in my
+Square account where I refresh it
+earlier. This is not a screen
+screenshot. So, instead of me having to
+go out there and call businesses, which
+I have somebody on my team calling
+businesses right now, instead of me or
+somebody else on my team, I can actually
+have an AI agent doing exactly that. It
+can do manual outreach. Now, uh you can
+do this on this is LinkedIn. You can see
+I'm sending messages to people on
+LinkedIn. I'm sending it to people on
+Gmail. Now, there's a huge value in
+this, right? Um obviously, and you can
+sell this outreach method to people, to
+businesses. Some of you might be wanting
+me to set this up for you. I'm sure it
+there's a lot a big value ad. Now, you
+can also do what I do, which is have it
+set up inbound. So, if somebody were to
+call my company's phone number, it would
+pick up the phone and say, "Hey, this is
+mine marketing. How can we help you?"
+And try to move that person into either
+a customer success appointment or a
+sales opportunity for somebody else on
+our team. and then it will take a
+message, schedule appointment in
+somebody's calendar, or even if they're
+really hot and bothered, then they can
+actually get them closer to potentially
+sending an invoice and taking a payment.
+So, this is kind of like and it can do
+so many more things than that, but you
+know, for me, I'm an I'm an agency guy,
+right? Like, I run an AI marketing
+company. This is us. This is my team.
+We're out in Hawaii. We were recently
+recognized as the second fastest growing
+company. And it's because a lot of
+business owners right now, they have
+what I'm calling AI guilt. They know
+about AI. They know that they should be
+using it, but they have no idea where to
+start. And they are probably a little
+worried that other people like their
+competitors are taking advantage of AI
+and they are not. They're being left
+behind. And so this opportunity where
+small businesses have what we're calling
+AI guilt allows us for unique
+opportunity to do things like use Open
+Claw, Clawbot, whatever you want to call
+it to help them and then [clears throat]
+also even help yourself, right? Like
+connect with those exact businesses. Pro
+tip, almost every business out there
+right now has AI guilt because they're
+busy running their business. They're not
+like you and me. They're on these videos
+watching and training and learning these
+types of tactics. So when you come at at
+them with this type of messaging right
+now automated on autopilot about AI,
+they're like, "Hey, how can you help me
+with that?" You know, so as I said, step
+one, we're going to talk about OpenClaw
+and AI agents in general. So Open Claw
+is not a new technology in the sense of
+underneath it, it's just an AI agent,
+right? An autonomous agent. You can
+think of an autonomous agent as a tool
+like chat GBT. ChatGBT is yes an AI. You
+can ask it questions and it gives you
+answers. You can give a tool like
+openclaw action steps. Build me this
+website. Open my email. Respond to this
+respond to this email. Book me a flight.
+You can ask it to do many things. It
+will actually take action. And that's
+essentially what an autonomous AI agent
+is. And so there's no, you know, you can
+let your creativity go wild on how you
+can have these things actually help you
+to do things and and streamline your
+life. But I say all that to say that the
+technology behind OpenClaw being an AI
+agent is not new. And it really kind of
+came about last March with Manis AI.
+That's a tool that I use religiously and
+every single day and have been making a
+lot of videos on it since then. But the
+difference between the two, and now
+there are lots of other AI agents out
+there, right? But the difference between
+the two is if you were to just install
+this thing in your computer right now,
+it could just use or use all of the apps
+that you have set up, right? It could
+use your Facebook, it could use your
+Twitter, it has basically unrestricted
+access to be you. If your computer and
+your devices are essentially your
+cockpit of your life, it is the driver.
+It's with you in the driver's seat and
+it can do these things for you. So AI
+agents and OpenClaw really as I've
+experimented and dabbled and put them
+into place and used them and really
+streamlined and grown my business and
+helped other people as well. I really
+learned this about AI agents. AI agents
+are very simple. They really need
+structured instructions, which is
+exactly what I've created for my AI
+agents that I use in my business. They
+use this information as sort of a
+storage stored knowledge to answer
+questions and they act based on clear
+goals. And if you have all these things,
+if you have this information on specific
+tasks or roles, then you can really have
+a home run for an AI agent to help you
+save time, make more money, do things
+that you don't necessarily want to do.
+And so if you have all these things,
+these things can run and they don't have
+to run locally. They don't actually have
+to be in your computer. and you don't
+have to run the risk of that actually
+happening. So, I'm going to show you how
+to do that. But, as I said, I'm going to
+give you my prompt and all all the stuff
+like my master prompt that I used to
+turn this into a knowledge base. So,
+this is actually my main uh support
+document that I use for my clawbot,
+openclaw bot originally. I had such a
+hard time keeping track of the names.
+So, I use this OpenClaw agent to just
+give you some some context as a as
+mainly an inbound sales support and
+customer success agent. So, when
+everybody calls our phone number, they
+can get an inbound salesperson. If a
+existing customer has an issue, they can
+have that issue solved by one of these
+uh agents. Okay? So, you know, the job
+outlined for this this bot is to qualify
+inbound leads, move prospects towards
+booking a call, support existing clients
+with clarity and speed. And if you've
+never done any of this before, you guys
+stick with me here because I'm going to
+show you, you know, an interface here.
+This is the interface that I use for
+these agents to get this stuff set up
+that makes it very easy and userfriendly
+for me. Okay? So, stick with me here.
+You don't have to be a technical expert
+to get this set up. You really just need
+a user interface like this, which allows
+you to make things easier. So these AI
+agents, inbound receptionist, sales
+agent, customer success, these are all
+valuable things, right? I know many of
+you, let me know in the chat if these
+are things that you would probably find
+valuable for you and your business, your
+side hustle, your freelancing career,
+whatever you're doing right now. If you
+said yes, of course, there are thousands
+and millions of other businesses out
+there that obviously feel the same. And
+so I'm starting to plant some seeds here
+on why this is such a valuable thing
+that you can be offering to people. So,
+OpenClaw taught me these things about AI
+agents. Obviously, I mentioned a lot of
+the business owners out there right now,
+they have AI guilt. This creates an
+opportunity for us to make money with
+AI. So, here's how I moved the concept
+of having my OpenClaw agent running on
+my computer into a tool called
+Highlevel, which I'm giving you 30 days
+free, by the way, of this tool. It's
+called High Level. You can see it here.
+This video is not exhaustive training
+about high level, but I am going to talk
+about the AI agents feature built right
+into here, which makes it very easy to
+have an AI agent packaged up in a way
+that you can sell to businesses and also
+use for yourself in the same way that I
+use OpenClaw to run my business and do
+the same things except it's in a much
+more sandbox area with clear
+instructions. And if you're not
+technical, you don't feel comfortable
+installing something like that on your
+computer, having unrestricted access,
+this is for you. So, if you're tuning in
+live, I'm going to share the link with
+you in a second, how to get access to my
+FastTrack training, the bonus document,
+and 30 days free to high level so that
+you can follow along, hopefully get your
+first client or your next client if you
+already have some clients. But I am
+going to now start to kind of talk about
+how I move this concept in high level.
+So, I took my open call instructions, I
+simplified them, and then I uploaded
+them into a knowledge base. So, a
+knowledge base, it's pretty cool. So,
+this is high level, right? So, in high
+level, you have this AI agents tab. Let
+me zoom in a little bit for all my peeps
+with the bad eyes, AI agents. And I have
+what's called a voice AI. Now, a voice
+AI, let me see if I can move my little
+head up here for you. So, a a voice AI
+is essentially with Highle, you can buy
+a phone number in any area code for a
+dollar, which is great. And if somebody
+were to call that phone number, if you
+wanted, you could connect that phone
+number to be picked up by a voice AI by
+a voice AI agent. Well, what does a
+voice AI agent know what to say or have
+goals or how does it respond for your
+company or for your client's company?
+Well, you can do things like create a
+knowledge base. So, let me move my
+little head over here again. You can
+create a knowledge base. So, if I look
+in this knowledge base here, you can see
+I have a I have a So, here you go. You
+can create a knowledge base, which is
+let me actually break this down a little
+more simple terms. So, an AI agent,
+right? It can act as you or another
+person on your team, but it is an AI
+agent on its own. How does it get that
+information? Well, normally if I were to
+have somebody on my team that I wanted
+to know everything about my company, I
+would have to give them a course. They
+have to sit there for a few hours. They
+would have to learn all that stuff about
+my company or maybe they could be in
+person and I could train them
+individually. This is how people usually
+share information and groom people to do
+different things. There's a cost
+associated with this, right? You have to
+be there in person. They have to be
+there in person. and they have to learn
+all that stuff. They have to implement
+that stuff. Somebody has to be there to
+train them or somebody has to be there
+to create the course. And that costs
+money. That costs time. I'm giving you
+all this because this is why people
+would pay for this exact thing that I'm
+going to be giving to you. So for me,
+what I do with a knowledge base is what
+if you could just crawl a website. When
+I say crawl a website, you go to the
+website crawler section. You add a
+source. You type in a URL. So if it's my
+company minomarketing.com
+now I hit extract data. This tool will
+go out there. You can see it says
+fetching pages. It's going out and it's
+crawling every single page on my
+website. So this is my website right
+minor marketing. It's crawling all this
+information. It's getting all the
+specific information, the services, the
+about you know all the stuff that we
+sell, the ethos of the company, whatever
+is on our page. Arguably, it would take
+time for me to train somebody on this
+stuff, teach them how to do this stuff
+or learn more about the company. But
+right now, I can actually just have this
+tool crawl the entire website. So, you
+can see how very quickly, and you can
+make the argument that most businesses
+have all the most important information,
+customerf facing information on their
+website. So, don't you agree that being
+able to crawl this information and put
+it all in a knowledge base right here
+just by pressing that button is pretty
+damn cool. It's very efficient. kind of
+makes you feel like you're Neo in the
+Matrix when he gets plugged in the
+matrix for the first time. He becomes a
+black belt level kung fu guy with just a
+few seconds. And this is really why I
+got really interested in this concept of
+AI agents because I have a lot of
+people's on my team. I have they have a
+lot of information that is super
+valuable. You know, we have a lot of
+processes in our company. How to get
+clients, how to grow our business, how
+to deliver the services, how to optimize
+a website for AI search, how to run
+Google ads, all these things. Well,
+what's crazy is it would take me a long
+time to teach all those things to you or
+somebody on your team. But if I had all
+those things in PDF format, which I do,
+you can see these are all PDFs that
+contain all the specific information of
+our company's standard operating
+procedures. I'm going to I'm going to
+pull some of them up for you just so you
+can see what I mean by this because I do
+think it's valuable, right? Most
+companies have what are called standard
+operating procedures. Like if you were
+going to go buy a Chick-fil-A as a
+franchise, what they would do is they
+would give you a I'm just imagining, but
+if you're going to buy a franchise, that
+business has systems and processes that
+are already built, and they can sell
+that to you. So, you can open your own
+little Chick-fil-A at your house or
+where you live, and you can have it set
+up just like them, and you can make the
+same exact awesome chicken sandwiches
+that Chick-fil-A makes, but in your
+hometown. How do they do that? Systems
+and processes. So they document how to
+make the burger, how to make the bun,
+how to get the chicken, how to put it
+all together, how like what's the
+temperature, all those things
+documented. And it's the same thing for
+businesses that are massive and and even
+small and growing, right? We're a
+multi-million dollar company, but I can
+show you right now, we have folders with
+all of our systems and processes here.
+Like this is our customer success,
+right? These are all Google documents.
+You know, if I open up this system here
+about monthly reporting, for example,
+all this information, it outlines if
+somebody was brand new and they're going
+to become a customer success person,
+they could come in here and they could
+read this document and it would tell
+them everything to know about how to
+create a report that goes out to one of
+our clients. So, you can see how this is
+super valuable, right? I've spent the
+last decade of my life building out all
+these SOPs and I've trained many people
+in my team. I've hired, I've recruited,
+I've brought tons of people in. And
+every time I have to bring a new people,
+new person in, it takes time to train
+them. But now with AI, you can just drop
+all those PDFs into a knowledge base.
+And that's what I do in high level. I
+create knowledge bases. I have a
+knowledge base where the AI agent crawls
+my website. I upload all the files and
+then I create a frequently asked
+question. I upload my company knowledge
+base, you know. So, we have we actually
+have a company knowledge base right here
+where you can see, you know, all the
+most frequently asked questions that we
+get. So, by the time I'm done uploading
+all those documents and giving it the
+knowledge base and letting it crawl the
+website, wouldn't you agree that this AI
+agent is pretty damn well-versed in my
+marketing? Like, it's pretty freaking
+knowledgeable. And if you were to go
+there and you were to, let's say, open
+up a voice AI call, that AI agent could
+actually talk to you and give you some
+very legit information about my
+business. If you wanted to open up a
+conversation AI, aka a chatbot, right?
+You can have a chat widget on your
+website that's connected to this
+knowledge base. You could help people
+with their pre-purchasing questions or
+issues that they have about your
+business. Now, this is super valuable,
+not only for me, but for small
+businesses. And I'm kind of outlining to
+you what it looks like. You know, you
+can charge businesses $1,000 to $2,500
+setup fee to get all this set up, right?
+A knowledge base with FAQs, you know,
+having all of the lead routing going to
+the, you know, most specific places to
+the different sales reps or customer
+success. And then you can charge them
+$300 to $497 a month to help them with
+ongoing maintenance. Right? With High
+Level, this is very easy because you
+just resell one of these. So, the nice
+thing about HighLevel is you can just
+resell this. You can brand it for your
+company and you resell this whole
+software suite of tools for people. So,
+let's say, you know, you're like me and
+you get this business to uh pay you like
+the one that we got earlier today, $997
+to pay you to set up something like
+this. Well, what I would do is I would
+just come here and I would create a new
+sub account for them and then they would
+get this entire suite of tools and then
+I could use this AI agent setup to build
+a knowledge base. And the first thing I
+would do is crawl their website and ask
+the client if they had any spec specific
+files or documentation we wanted to
+upload. And then we have that knowledge
+base and all that's left is really to
+connect it with a phone number or a chat
+widget that they could put on their
+website. And so at that point they would
+have a customer success rep. They would
+have a inbound support rep and you can
+obviously get cool and start to connect
+that with outbound voice AI as well.
+There are limitations with that but this
+is something that you can enable here in
+high level right here. Enable outbound
+calls. So by the way you guys I know
+I've talked about a lot of stuff. I am
+going to be talking more about all of my
+SOPs and client getting methods that I
+have been sharing today at my AI master
+class coming up this Wednesday. So this
+Wednesday, first time, first webinar
+I've done in over a year. You can go
+there nickponty.ai/masterclass.
+Go there right now to register. It's
+completely free. I've been working on
+this presentation for probably the
+better half of four four weeks at this
+point and I'm working things out all the
+way up until the point tomorrow,
+Wednesday, I don't even know what day it
+is cuz I'm trying to give as much value
+as I possibly can to my community. So, I
+do hope that I will see you there and
+we're going to be talking more about AI
+agents and especially SOPs, right? All
+these SOPs, these standard operating
+procedures are the in of work inner
+workings. again how my company was
+recognized as the second fastest growing
+company in Hawaii. You know, if you had
+all these SOPs, you would essentially
+have a blueprint of my entire company.
+And if you dropped them into a tool like
+this into the knowledge base, then you
+probably wouldn't have to hire as many
+people. You could use I mean, you could
+use those AI agents for yourself. You
+could use them for other people and you
+could charge a fee and profit in the
+process. So, let me jump back to my
+slides real quick because I want to make
+sure I stay on track. I talked about
+what OpenClaw is and AI agents and how
+I've turned that into an AI website
+service. I have one more piece of this
+and then we're going to talk about how
+to actually find businesses to pay you
+for this. Somebody says, "Can you put
+the masterclass link in the chat?" Yes,
+I can. One second here. Although it's
+not a very difficult link to see or link
+to type, you can see it right there on
+your screen. So, here's the other thing,
+and I think I kind of probably didn't do
+a good job about sharing this on on this
+live stream. So, as I said, you have a
+knowledge base with all that
+information. Right now, you have two
+options if you want to use this on your
+website or connect it to a phone number.
+You guys think we should try one of
+these? Let me try let me let me share
+with you an example of what one of these
+things can do. So, this is Audrey. This
+is my agent list. I am actually going to
+call it right now live so you guys can
+see and hear what it looks like. But
+what I have here is the knowledge base
+hooked up to Audrey and I've given you
+what I call my master prompt right here
+in this bonus document for this video
+where I've taken this entire SOP that I
+use in Claudebot and I've built a master
+prompt that I just use in the knowledgeb
+section. You have the knowledge base
+right here. Select a knowledge base
+master prompt. And this is exactly my AI
+agent that I'm giving you just for
+watching this video. So like, subscribe,
+comment below. I'll send this over to
+you in the prompt document for this
+video. But I do want to I do want to
+test it with you just so you guys can
+see uh what it sounds like, what it, you
+know, what it's like. So you can choose
+many different languages, which is
+pretty cool. Filipino, Ukrainian,
+German, Italian, French, Portuguese. I'm
+Portuguese. That could be a cool
+language to go with. You can choose the
+voice. I don't have my audio hooked up
+to play my um screen, but I'm going to
+call the phone anyway so you can hear
+what it sounds like. And so you set the
+goals what you want this AI agent to do
+during the call. I have it set up to
+book support tickets, make an
+appointment, collect information from
+the business or whoever is calling so
+that we can get them potentially closer
+to a sale. And then you have logs where
+you can review all this stuff and see,
+you know, who's calling and what's
+happened and monitor the agent for
+quality control. Now, this is obviously
+again why you could get paid monthly for
+this service. $1,000 to $2,500 onetime
+fee, but also $300 to $500 a month to
+maintain and manage the service. And
+they get not only do they get the
+software, but they get you to help them
+kind of manage it. So, if you use High
+Level, like I mentioned, you know, you
+can resell this software to as many
+people as you want. And, you know, you
+can charge that $500 per month. So, you
+can have a little software business
+without actually creating your own
+software. So, let's call this AI agent.
+I have to pull my screen off cuz I have
+to type in my phone number. And so I'm
+going to hit call to test my agent.
+Let's see. Got to turn off the do not
+disturb. Hello. Who are you?
+&gt;&gt; I didn't catch that. Could you let me
+know how I can assist you?
+&gt;&gt; What did you say your name was?
+&gt;&gt; Sure. My name is Audrey and I'm with
+Mina Marketing. How can I assist you
+today?
+&gt;&gt; Can you help me grow my business?
+&gt;&gt; Absolutely. to get started. Could you
+tell me a bit about your business and
+what you're looking to improve? Leads,
+follow-ups, there's something else.
+&gt;&gt; Can you guys help me get more customers
+through Google?
+&gt;&gt; Got it. Mina Marketing specializes in
+helping businesses attract more
+customers through tools like Google Ads
+and SEO. Are you looking to start right
+away or just exploring options?
+&gt;&gt; Yeah, I'd like to start right away.
+&gt;&gt; Perfect. Let's book a quick discovery
+call to dive into your needs. I'll check
+available times for you. One moment.
+Here are some available times for a
+discovery call tip.
+&gt;&gt; So, obviously I'm doing this on the fly,
+you guys. I'm doing it really quickly. I
+could fine-tune it to make it better,
+but how badass do you feel like that is,
+right? It goes immediately. And if you
+use this in the high level and it has
+interface, this is the the benefit of
+not running it locally on your computer
+like Claudebot, by the way, using an AI
+agent in a tool like high level because
+this is really spilt spilt built
+specifically. High Level is built
+specifically for people like us that are
+trying to make money and help businesses
+in our area. We're trying to run, you
+know, AI marketing companies. And so it
+does a really good job packaging up all
+the best services to grow a business
+like AI agents, you know, building
+websites, creating a customer database,
+sending emails, sending SMSs, all those
+things. And so this just makes it so
+easy to have this interface where I can,
+you know, scrape a website. I can have
+it crawl a website in the knowledge
+base. I can upload all the documents,
+giving it all the information that it
+needs to train it, and then I just
+connect it to a phone number. So, what
+do you guys think about that? Are you
+guys getting value out of that? Are you
+seeing how this is something that
+obviously could be beneficial to you and
+your business, but also people that
+have, you know, receptionists, have
+incoming calls, incoming leads. I think
+so. So, that's the voice AI side of it.
+Right now, you can have the conversation
+AI where it's basically the same thing.
+You can have the And by the way, this is
+the widget. So you can have this widget
+pop up on your website. So anytime
+somebody goes to your website, this
+widget pops up and if they press this
+button, call us here, they will get that
+AI agent that you built. So whether
+that's for your business or for your
+client's business, super valuable. Now,
+if you want to turn off the voice agent
+and you just want to go to conversation,
+you can do it that way, too. So if I go
+to the sites and I go to the chat widget
+section, you can set up a chat widget to
+pop up like this. And if they ask any
+questions, then the information would
+come directly from the knowledge base.
+So this is all super valuable stuff
+again for you, for me, for customers.
+Now, the only thing left is for you to
+have like if you want to get paid, if
+you really want to get started with
+this, the only thing left for you to be
+to do would be to find a business that
+needs one of these installed on their
+website, right? Well, fortunately for
+you, I'm going to give you one of my
+best methods that I have that plenty of
+people have followed along, gotten
+clients with. You know, remember the
+reason that I have so many verified,
+documented success stories, verified
+revenue of people in my community that
+have grown their business. You know,
+Teresa is saying, "I got my first
+client, $1,700." Benella says, "Four
+clients already." I'm not saying you're
+going to push button replicate this
+stuff. Full disclaimer, these are action
+takers. They're willing to put in the
+work. They're willing to follow
+instructions. But the reason that my
+stuff works better than everybody else
+is out there is because I'm actually
+doing this stuff. I'm actually talking
+to businesses on a regular basis. I'm
+using these tools on a regular basis.
+Open claw, uh, high level, all these
+things. And when you encounter somebody
+that's actually doing these things on a
+day-to-day, they can speak about it in a
+way that most others cannot. when you
+encounter somebody who is rehashing old
+information or potentially, you know,
+one of my favorite things right now is
+to see somebody who is creating content,
+teaching people how to do things to
+build like an AI agency or to build an
+agency when they don't have an agency of
+their own. Like you can look them up,
+they don't have an agency or or they
+say, "Yeah, I I started and I exited an
+agency." Dude, if you exited an agency
+before the AI boom, which is like the
+last year, does it even matter? Does the
+information that they even have, is it
+actually relevant? This market is
+changing so fast that the information
+that you guys need right now is from
+somebody who is actually doing this. If
+they did this 6 months ago for
+themselves, but they sold their
+business, they're no longer even
+relevant. Like, it's just changing that
+fast. And so the stuff that I'm sharing
+with you, why it's sounding like it
+probably makes a little more sense is
+cuz I'm actually doing this. Like I
+said, I'm a practitioner and I'm going
+to be talking more about this stuff on
+the master class this Wednesday. It's
+totally free for you to attend. I would
+love to see you there. Now, I said I'm
+going to give you a method to go out
+there and get a client. And I see the
+chat questions and all that stuff come
+in and I will circle back as soon as I
+give you this method because I do want
+to overd deliver like I do in every
+single video. I make it a point to overd
+deliver. So, I've shown you how to use
+an AI agent, how to get it set it up,
+voice conversation, build a knowledge
+base. The only thing left for you would
+be to find somebody who needs one of
+these actually installed on their
+website, right? Well, the best way to do
+that is first just find somebody who
+actually needs a website. Because if you
+find somebody who needs a website, you
+can give them an irresistible offer, an
+already done website, which normally you
+could charge $2,000 for, but you're
+willing to give it to them for $100 or
+$500 or free as long as they want to
+have an AI agent set up on their
+website. So that's what a foot in the
+door strategy is, right? So we find
+somebody that has a problem. In this
+case, it would be somebody who does not
+have a website. The solution would be an
+already built website. I'm going to show
+you how to use High Level to get this
+thing set up in just a few clicks in
+almost any industry. You do not have to
+be a technical expert.
+So, how to find somebody that needs a
+website, how to offer them an
+irresistible offer. Once you get that
+set up, now you can sell them the more
+expensive stuff, right? Because they
+have a website, now they need an AI
+agent on there. So, how do we find
+people that need a website? The easiest
+way is you just go to Google. You go to
+Google and you type in, you know, any
+industry, pool cleaner, Dallas, and the
+map pack is the first thing that's going
+to pop up here. And you can see that
+every business has a pin on the map. And
+there's an icon here that says website.
+Now, if I go to more places, and I just
+scroll, scroll, scroll, scroll, scroll.
+Everybody has a website, website,
+website until they don't. Crystal Clear
+Pool Service does not have a website.
+Now, why do they not have a website?
+Maybe they used to. Maybe they lost
+their website person. Maybe they don't
+know where to find one. Maybe it's too
+expensive for them. Well, that's where
+you come in. You can come in and you can
+say, "Okay, crystal clear pool service,
+right? This is what you do. If you're
+brand new, you especially want to pay
+specifically like really close attention
+to this. I want you to go to high level,
+go to the website section. Remember, I'm
+giving you 30 days free in my FastTrack
+training to follow along. And, you know,
+you can use this to get your first
+paying customer like self-funded. You go
+to the website section and then you can
+either build with AI. Let me move my
+little talking head again. You can
+either hit this button, build with AI,
+or I just recommend you go to new
+website and you can choose from one of
+their thousands of templates. Thousands
+of templates in almost every industry,
+marketing, medical, legal, insurance,
+home services, wellness, financial,
+e-commerce, I mean landscaper. Let's say
+I found a landscaper. Landscaping. Let's
+say I found a landscaping company that
+didn't have a website. Well, what I
+would do is I would just pick this one
+and I could have this beautiful
+landscaping website set up just by
+clicking this button and it literally
+takes a couple of minutes. Somebody says
+a Facebook or Instagram page does not
+count as a website. Yes, I completely
+agree. Some people will have a Facebook
+page set up to their Google business
+profile here in Maps, but that doesn't
+even count. If you find somebody that
+has a Facebook page hooked up, then it's
+an easy sell why they should have a
+website. And also, do you have an AI
+agent connected to your site booking
+appointments for you? They're probably
+going to say no. And then you're going
+to say, well, I can help you with that,
+too. But first step, let's give you a
+great website. I can have it live for
+you within 24 hours. How do you do that?
+Well, you just come here in high level.
+You pick a template. You can have it
+live with live for them in just a few
+minutes. Actually, this is what it looks
+like. And I'm going to give you an email
+template in the prompt document, you
+guys, to reach out to this business and
+turn them into a paying customer
+offering this the irresistible offer.
+So, look, this website's live. There's
+already a it's on a URL. So, you can go
+here. You can check it out. You could
+actually send them a text message. You
+could send them an email. You could
+spend a little time here changing the
+headline, making it look more
+personalized to them. You do not need to
+be a technical expert. It's all drag and
+drop. You have the ability to add and
+remove images. Don't you think that you
+could have this website customized and
+set up for somebody who doesn't have one
+enough to peique their interest in
+probably 10 to 15 minutes? I think you
+could. I know you could. How do I know
+you could? Because I have plenty of
+people that are following along that are
+actually doing this stuff. So once you
+find somebody who has a problem, they
+need a website, you create the website
+in advance. This is why it works so well
+because you got to start in advance. You
+don't you don't reach out to them and
+say, "Hey, I could build you a website."
+You build a website now. And once you
+actually set it up and personalize it
+for them, then you're going to send them
+this email. You can take a screenshot of
+this email or you can just comment and
+I'll send you this this prompt document
+with all the prompts from this video.
+Subject line says, I built this website
+for a different landscaping company. I'm
+letting it go for $100 or for free. And
+you just let them know, I was checking
+out, you know, whatever industry you're
+in, wherever you are, pool cleaner
+companies in Dallas, and notice you
+don't have a website. I get it. You're
+busy running your business and building
+a website from scratch is a hassle, not
+to mention expensive. Here's the deal. I
+recently built a professional roofing
+website. You can change this if you
+want. You can either say, "I built it
+for a client, but they ended up going a
+different way. Normally, I sell these
+for $3,000, but since it's already done,
+I'm just looking to liquidate it for
+$100 or $200 or $500, whatever you want,
+or for free, as long as you might be
+interested in working with me in the
+future. It's designed to bring in leads,
+looks great on mobile, and I can have it
+set up for you running in 48 hours or
+less." And you just add the link. Now,
+this works well because it takes away
+all the risk. Most people don't have a
+website because they don't know who to
+call to get one. They don't have the
+money to afford one. You're pricing it
+low, so it's cost effective. You're
+sending them a link. It's already done.
+They're a lot of people don't have a
+website because they don't want to go
+through the time it takes to actually
+build one. Since you make it as easy as
+humanly possible by working 10 minutes
+in advance, setting up one of these
+templates, the barrier to say yes is
+extremely low. And you have to do that
+to be successful. You have to make it
+easy, as easy as possible, especially if
+you're brand new. And so once they say
+yes to this, you just get this thing set
+up for them. And the next step, the next
+logical step is to say, "Hey, do you
+guys have an AI agent, a voice AI agent
+hooked up to your website? I can do
+that, too." And then offer to them.
+That'll just cost $1,000 and a $297 a
+month charge. It's set up to bring
+people in, answer customers, close
+deals, and book appointments for you. Do
+you think that that would be valuable to
+your business? Yes. So again, you guys,
+I got the AI master class. If you're
+getting value out of what I'm sharing
+today, there's going to be a lot more of
+that in the AI master class. It's free.
+You can go to the link on your screen,
+check it out. I'm going to answer the
+questions here before we get out of
+here. Somebody's asking for the link to
+the FastTrack training. I'm going to put
+that in the chat for you live. There's
+the FastTrack training. Somebody wanted
+a direct link to sign up for the 30 days
+free of high level through me with my
+other bonuses. 30 days of high level. I
+appreciate you all showing up live with
+me. Let's see. Somebody says, "This is a
+side hustle for sure. Sell it to
+residential home service and business
+owners 100%." Somebody says, "Think I
+can do this as a side hustle." That's he
+was responding. Appreciate you, Tanya
+answering helping out like people in the
+chat. Clear media [snorts] marketing
+says Nick is right. A lot of people
+registered for the master class. Echoes
+of horror. I just put my high level
+affiliate link in there. Somebody says,
+"Build the website in high level.
+Personalize it. Invoice them. Offer a
+upsell. Rinse and repeat." Yes, that's
+literally exactly. You got it. You
+nailed it. I'm sure you're going to be
+successful if you follow that strategy.
+And if you need more community, more
+strategy, go to the nickponty.ai/AI
+masterasterclass. I will see you guys
+there on Wednesday. Yes, it is live. And
+hope you guys got some value. Like and
+subscribe. Consider sharing this video
+with a friend who should get going with
+this business model. Leatherface says
+he's closing his first deal this week
+with me because of me. Thank you.
+Appreciate you all. Nicole, good. Glad
+to see you here, too. Tanya Leatherface.
+Hey Leatherface, [clears throat] would
+you be so kind as to jump in the AI
+control room? It's my free community
+here and just share about that win that
+you have here. It's a community that I
+just started. If you guys are are live
+too here, I'll put the link in the chat
+for you. It's also going to be in the
+description of this video, but it is a
+free community where I just share
+strategies of what I'm doing, help
+support people to get their first or
+their next clients. You guys can join,
+too. But I would appreciate you sharing
+that win so I can highlight you in the
+community with like all these other guys
+here that are following along in the
+strategies that I share to get clients
+to grow their business. So with that you
+guys, I will see you in the next one.
+Enjoy the rest of your

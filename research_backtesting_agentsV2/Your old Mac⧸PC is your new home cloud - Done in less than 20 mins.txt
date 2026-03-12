@@ -1,0 +1,265 @@
+So, I recently did a video on the whole
+idea of self-hosting, hosting your own
+things so that you can cancel some of
+your subscriptions, things like photo
+backup, file backup, things like that.
+However, the device that I covered in
+that video is quite pricey. So, I just
+thought to myself, hey, you can have a
+lot of the same experience by using an
+old Mac that you might already have. So,
+if you have a Mac Mini or maybe you
+bought a new Mac Mini or you have an old
+MacBook Air like this one that I have
+here, you can use it to basically get a
+lot of the same experience, but you are
+missing out on a few other things
+because of course with a device like the
+Umbrell Pro. It's housed in one unit. It
+has a dedicated Ethernet port and it
+also has four upgradeable MVME slots,
+which let's be honest, we're not going
+to get that anytime soon on any of these
+Mac devices. What I really liked about
+that device though was the OS, Umbrell
+OS. So, you can get other cheaper
+devices like the Umbrell Pro the device
+they have, but they won't have as many
+features of functionality. But it's the
+OS I think that actually matters a lot
+because I think that when you have an OS
+that looks great, it's easy to use and
+easy to set up and just get going. It
+can really make a difference on
+self-hosting and make it a lot easier
+and more accessible to a lot more
+people. And the great thing about
+Umbrell OS is that you can install it on
+older machines or just a Mac that you
+have laying around that you're not
+using. You can set it up so that you
+almost have your own self-hosting server
+sort of thing, but it's on your Mac
+instead. So, the first thing we need to
+do is install Docker Desktop for Mac.
+So, Docker is like the best way I can
+explain it, it's like a virtual machine
+or an OS on top of your Mac OS. So, the
+great thing is we are going to leave Mac
+OS as it is. We're not going to mess
+around with anything like that. you're
+still going to have Mac OS. Docker is
+just like a a thing that can run other
+things basically. And we're going to
+install Umbrella OS on Docker. We first
+need to get the Docker Desktop, which
+I'll leave a link to in the description.
+And yeah, they just have a quick guide
+here on how to install Docker Desktop on
+the Mac. But the first thing we're going
+to do is we're actually going to install
+Rosetta. So, we can see here we have a
+command for software update install
+Rosetta. Let's copy that. Then we're
+going to go to terminal. Open that up
+like so. I feel like the terminal could
+be quite scary for most people, but all
+we're going to do is we're going to
+paste in that command, hit enter. Then
+it's going to ask us to type a and then
+press enter again. So, now that we have
+that installed, we're going to then
+download the Docker desktop. Now, we
+need to make sure we download the
+correct one. We're going to download the
+Apple silicon one because I have I can't
+remember what chip I have in here, but I
+have an M chip in here. So, let's
+download that. Cool. We're downloaded.
+We're going to open it, and then we're
+just going to drag our Docker app to the
+applications like so.
+Let it copy over. 2 and a half gig.
+Should take less than a minute as it
+says. Cool. Now we've got it installed.
+We're going to go to our applications.
+So I'm actually just going to search for
+it. I'm going to search for it like so.
+Docker. Open it up. Yep. Accept the
+service agreement. Use recommended
+settings. Let's just go with that.
+Background items detected. Yes. Allow.
+Cool. We've also got a command thing
+here. So let's install that. We want to
+make sure that we install the Python
+whatever it is package.
+Well, it's saying it's going to take 58
+hours. It definitely is not going to
+take 58 hours. We have the Python
+package installed now. And now we have
+our Docker desktop app. Uh let's search
+for Umbrell in the search bar. Uh let's
+pull that.
+Uh it is in there. Containers. Is it in
+the containers? Images. Here we go. And
+then if we run it, run,
+we have this issue, right? So I was
+having an issue trying to install Docker
+from the desktop app. So when I search
+for Umbrella in here and I tried to
+install it, yeah, it just kind of just
+didn't want to work really. So I was
+asking Claude how to troubleshoot and it
+just gave me this command here to run in
+the terminal, which is what we're going
+to do. So, we're going to open up the
+terminal and we're going to paste that
+command in. Boom. And it looks like we
+should be ready to go. So, once we go to
+containers, yep, we can see it running
+there. And we have Umbreel OS running
+perfectly. Now, we just need to set up
+Umbrell OS. So, we're just going to make
+our account. So, this is the account
+that's actually going to be on Umbreal.
+This isn't like going online or anything
+like that. This is local to your
+machine. It's just creating a password
+gateway so that not everyone can just
+access your Umbrell on the network. So,
+we're just going to make an account very
+quickly. Create account. Cool. Umbrell
+OS is now ready. Next. And we are
+running. Like it's as simple as that. It
+literally takes less than 5 minutes. And
+now I have Umbrell OS running on my Mac.
+And the great thing is now I can install
+apps. So they recommend some apps that
+you can get going with straight away.
+Nexcloud is basically like a Google
+Drive or Dropbox alternative. Image is
+like a iCloud alternative where you can
+use it to back up photos and things like
+that from your iPhone or from your iPad
+or whatever and it will sync. Home
+Assistant is a good way to run all of
+your smart devices in your home in one
+sort of network. So let's just say you
+have Philips Hue lights and then you
+also have Go View lights but you want
+them to sort of work together, run
+automations and stuff. You can do that
+all through Home Assistant. You can also
+install Plex. So, if you want to host
+your own movies and TV shows, maybe
+you're sick of paying for Netflix, you
+can use Plex to do something like that
+or Jellyfin. There's so many different
+options here. But what I really like
+most is the OS. Like, just look how nice
+it looks. It looks like it could be a
+Mac OS. We can actually make this full
+screen like so. And now we pretty much
+have our own OS on top of an OS. And it
+works really, really well. Has the nice
+dock at the bottom which you can use to
+access things very quickly. So, we can
+see our live usage, how much memory I
+have, how much storage I have. We can
+see our settings and mess around with
+any settings that we need to in here. We
+can go to the app store and we can
+install any of the apps that Umbrell OS
+sort of has access to. And there are a
+ton here. You can pretty much find any
+app for anything and everything. So,
+it's really powerful how well umbrell OS
+looks and works. You can install
+OpenClaw. So, Open Claw right now is
+obviously very, very popular. You can
+install it and have it run on your Mac.
+You can install tail scale. So tail
+scale for those who don't really
+understand what it actually is. It's the
+idea of being able to access your
+umbrella OS, your your Mac from a
+network that's outside of your home. So
+let's just say you're traveling, you're
+at a hotel or whatever and you're trying
+to access your files. You would use T
+scale to do that and it does it in a
+secure manner. There's actually so much
+here. There's so many apps that I didn't
+even know you could use on this. Like
+it's crazy. You can even install your
+own like um AI agents and stuff, AI
+languages. Image is a really good one.
+If you're someone who wants to back up
+your photos and stuff from your iPhone,
+but you don't want to use iCloud, you
+want to have it on your own hard drive.
+You can use image to do something like
+this. However, I still do recommend
+using some sort of cloud storage
+solution or having multiple backups in
+different locations because obviously
+photos and videos, they're usually very
+valuable memories that you don't want to
+lose. And if you were to lose access to
+your Mac, maybe it breaks, maybe it
+catches fire or something like that.
+Yeah, you're going to lose all those
+photos and videos, you got to hope that
+you still have them on your iPhone. This
+is why this whole idea of a sort of 321
+backup is very popular. The idea is that
+you have three different copies on two
+different devices in some way and then
+you have one of those devices in a
+different location. So, worst comes to
+worse, like you have a sort of copy of
+your data, of your information. Now, you
+can actually take this a step further
+and connect an external drive like this
+to expand the storage because of course
+you are limited by the storage on a Mac
+Mini or a MacBook Air, especially with a
+MacBook Air unless you spent the crazy
+amounts of money that Apple required to
+upgrade the uh the storage on them.
+Yeah, like you're most likely going to
+need something like this. And you don't
+actually have to use an external SSD
+like this. You can get a big old hard
+drive bay which has like six drives in
+it. Set it up as a RAID setup and then
+use that to have a ton of storage and
+then put the Mac and the hard drive bay
+somewhere in a cupboard somewhere and
+just leave it and access all of your
+files that way. I'm not going to show
+exactly how to set that up because it is
+a bit more technical. But the idea is
+then you basically have your own server
+at home and you can self-host a ton of
+different things and use it almost like
+your own sort of home cloud network sort
+of thing. And also, I do want to make
+clear, you do not have to use Umbrella
+OS. You can use whatever OS you like. I
+think there's like Kasa OS as well, and
+there's some other ones. The only reason
+I chose Umbrella OS is because I like
+the look of it. I like the way it works
+and everything. I love how it has an app
+store, so you can easily install apps
+and stuff. It almost looks like if Apple
+were to make their own sort of
+self-hosting OS sort of thing, this is
+what it would look like. So, this is why
+I like to use it. So yeah, that is one
+of the easiest ways to use an old Mac
+and have your own sort of self-hosting
+sort of thing going on. Hopefully you
+guys enjoyed it. Follow me on Instagram
+and Twitter and subscribe for more.
