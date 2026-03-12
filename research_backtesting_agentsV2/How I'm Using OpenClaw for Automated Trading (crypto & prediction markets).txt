@@ -1,0 +1,597 @@
+I'm going to be real with you. I've
+spent the last 11 years learning how to
+trade and in crypto the last eight nine
+years learning how to trade and I'm
+still learning all the time. But I am
+limited in my knowledge, in my
+understanding. I can only read so many
+books like the ones that are behind me
+and even then I'm not going to pick up
+on every little thing that's there. And
+this is why this is such a massive
+gamecher.
+Open claw is literally insane. I
+installed openclaw. I got a MacBook or
+rather a Mac Mini last Thursday almost
+actually no six days ago and the number
+of things that I have built with this
+off of the data to improve my trading to
+improve my charting to like it is insane
+you guys. I know a lot of you are
+watching these videos like okay man I
+understand like yeah yeah yeah I am
+serious. Open Claw is literally changing
+everything. I understand that there's
+security vulnerabilities. I understand
+that there's a lot of risk in this. I am
+not necessarily saying you have to get
+this, you have to get a Mac Mini. But I
+want to share with you how I am using
+Open Claw to totally revolutionize
+my trading strategies, back testing,
+paper trading,
+looking for alpha, looking for edges,
+all of that here in this video on Coin
+Bureau Trading. What's up? My name is
+Aaron Disher from the Better Traders.
+You're watching Coinb Trading. Smash the
+subscribe button. Like the video. This
+is going to get into it. All right, here
+we go. So, the first thing you have to
+know, Open Claw is an open-source AI
+model that lives on your desktop.
+Ideally, you want to be running this on
+a computer that is not your personal
+computer. You want to set up security.
+You want to set up guardrails. You want
+to set up a lot of stuff. I'm not going
+to talk about how to do that, but what I
+am going to show you is something that
+this thing literally spun up for me
+yesterday. Now, I'm really excited about
+how this is going to develop. And I want
+you to understand that I just told it a
+couple of things. I'm going to share
+with you what I did, but basically, it's
+built for me a dashboard, and it's
+continuing to grow. What this is is it's
+taking advantage of a market that I
+think too many of us have. Well, maybe
+it's just me. I've just been sleeping on
+it and it is the most brilliant market
+and I am shocked that it's taken me this
+long.
+I am not necessarily saying you have to
+sign up for Poly Market or call sheet or
+whatever, but I need you to understand
+something that literally hit me and this
+is before I was using Open Claw. When we
+look at charts like this for BTC, we
+recognize that crypto is in a 4-year
+cycle. There are great times to buy
+crypto. They're also not so great times
+to buy crypto. Again, if you guys have
+been watching my videos, you know where
+I think BTC is headed. For all of you
+that have been watching my videos and
+staying subscribed and paying attention,
+you already know that the first two
+support levels have been taken out. You
+already know where I think BTC is headed
+next. Our next target is actually
+$49,000.
+So, can you trade crypto right now? Yes,
+you can. But there's actually another
+market that you can be trading that is
+not dependent on market cycles
+whatsoever.
+And I know this is a little bit of a
+left field concept for a lot of you and
+for me as well because I've heard about
+Poly Market. I've heard about Kshi. I've
+heard about all these people making
+crazy crazy tons of money
+and I've seen lots of exposts about this
+as well. Some of them are gimmicks, some
+of them are clickbait, but I've stumbled
+onto a couple that literally blew my
+mind to the point where when I started
+learning about Open Claw and again
+installing it, using it to analyze
+markets, putting my TBO indicator into
+it, putting other indicators, back
+testing strategies, and all this stuff,
+I started to scratch my head and think,
+wait, how hard would it be to find some
+successful wallets over here on Poly
+Market and figure out and reverse
+engineer what are they doing, how are
+they making money and how are they so
+successful and the reality is that some
+of these markets are disgustingly
+disgustingly good. I need to just show
+you. Okay,
+now this is just one one user. Okay, now
+there's a lot of different strategies
+that you can use with this. I I mostly
+just want to show you this. Some of
+these wallets are and this one's
+actually gone up since I last looked at
+it, which is disgusting. Many of these
+wallets or these accounts started with
+basically nothing, less than $100, and
+they consistently basically found an
+edge where you continually see the
+profit and loss absolutely explode. And
+the best part about it is that these
+things are very very very much niche
+markets. I would not be surprised even
+if this specific one, this specific
+account which is like RN1 has other
+wallets that are running. So, this
+brings me to what I am doing, how I'm
+using
+Open Claw and how I'm using Poly Market
+to explore different markets. So, that
+way I don't really have to lean on
+crypto, but I can also benefit from
+crypto, too.
+Before I get into it, in the description
+down below, I need you guys to check out
+what we got. Sign up for TUIT if you are
+wanting to trade on crypto exchanges.
+They're the best non-KYC requiring
+exchange. They actually have a much
+bigger bonus. It's not 9K. It's actually
+up to $15,000. And the best thing about
+being nonKyC is that you can withdraw up
+to like $50,000 a day. Because the
+market is so bearish, this is a great
+time to be shorting the market,
+especially if you're watching my videos
+and you're paying attention to the stuff
+I'm sharing. It's literally all playing
+out. Everything that I've been warning
+you guys about is literally playing out
+right now as we speak or as I film this
+video and we continue to plunge lower.
+Okay. So, I need you to understand that
+you can use a lot of the insights that
+you're getting from this channel with
+Tubbit. Okay. Um, other things to check
+out on the Coinbe website, again, it's
+in the description down here for the
+hottest deals in crypto. Go there, click
+on deals, check out the Coinbeard Club.
+This is where Dan, my co-host on this
+channel. Jordan, I believe, is also
+posting on there, too. I could be wrong.
+And then also Guy and Nick on the main
+channel are posting. You guys know the
+spiel. I say it every single time. There
+are other exchange partners to check
+out, as well as a 10% off discount to
+our course, 15 minutes to financial
+freedom, which I am so glad I h I have
+it on my calendar to start refilming
+this course this quarter. Now that open
+claw is here, I am so glad I haven't
+started because I would have to redo so
+much. I am so op like I'm the most
+optimistic I've been about anything.
+Like when I got into crypto back in
+2017, this is what it feels like. When I
+got into investing and understanding the
+possibilities, this is what it feels
+like. I'm sure this is what it felt like
+for people when they finally had access
+to the internet. Like it's insane. Wait,
+that was my generation. I remember
+having dial up. I remember AOL. Goodbye.
+All right, let's let's keep going into
+my strategies. Okay, [gasps]
+now a couple of these are proprietary,
+meaning that these are using my
+indicators. You'll note over here on
+Trading View, I have two indicators
+right here. The TBO, which is this
+really cool cloud called the trending
+breakout indicator. It's fantastic for
+recognizing trending markets like this.
+And then there's TBO, sorry, TBT
+divergence, which is great at
+identifying well bullish divergences or
+bearish divergences, looking for those
+pullbacks. Okay, now here's where things
+get really interesting in terms of
+polyarket and strategies.
+There are multiple crypto markets that
+you can explore actually on Poly Market.
+Let me show them to you. If you go here
+to crypto, they're actually timebased
+markets. Now this is almost the same
+very very loosely going to say almost
+the same as doing options but
+essentially it's a very very tight
+window right it's basically every single
+15 minutes there is some sort of Bitcoin
+up or down resolution and you can
+basically
+buy shares to go up or to go down all
+that fun stuff and these are always
+resolving automatically resolving over
+and over so this one literally just
+resolved and now it's switched
+in a second.
+Yes. No, it's finally switched. Okay, so
+this thing is insane
+because these markets are constantly
+24/7, you know, just like crypto. So,
+yes, you could still trade crypto, but
+you could also do other financial
+markets as well. There's stocks, there's
+indices, there's commodities, you can do
+a bunch of stuff like this. And this is
+where it gets really really interesting
+because you can still use trading
+strategies that you would be using over
+here on Trading View with indicators but
+putting it or rather superimposing it
+here on Poly Market. So going back to
+the strategies that I'm using right now,
+I have two my TBT divergence and I'm
+running it on a 15minute time frame to
+basically identify
+um these moments where the price is not
+lining up with the divergence. So, I'm
+basically it's like a contrarian trade
+essentially. The TBO I'm running on the
+4hour time frame. This is basically
+using uh an advanced moving average
+strategy. So, again, trend following on
+the 4hour time frame. I had some great
+stats over here, but as I'm working with
+the bot and I'm trying to get things
+looking better, I had to wipe the stats
+because it was messing with things. I'm
+going to talk to you in a minute about
+the reality of using OpenClaw as well.
+Um, I also have another one that's a uh
+a late entry strategy which doesn't
+necessarily require any indicators. It's
+basically just like we looked at over
+here for for crypto in the 15-minute
+that just ended and within the last 3 or
+4 minutes looking at the trend and
+making a decision based off of that. Oh,
+okay. Well, it seems like the favorite
+right now is for it to close down. So,
+entering late, it's literally that
+simple. Or this one. This is an
+interesting strategy where this is
+counter trend trading against AI like
+basically what I'm doing. I'm running
+bots right now and many of the bots are
+running basically cron jobs or agents
+that are basically crawling the internet
+to look for news to look for edges to
+look for anything. And one thing that's
+really interesting about AI is that the
+power is all in how you use it. The
+brain's there and you could tell it make
+me money. Okay, it's going to look up
+and it's going to review what everyone
+else is using to make money. But in
+reality, you should be thinking, how can
+I use this incredible gigabrain that's
+on 24/7 365 to extract value and look
+for hidden edges that no one else has
+discovered yet. Now, admittedly, almost
+all of these are edges that everyone has
+already shared, but the crazy thing is
+that because I'm able to use this with
+my own trading strategy, my own trading
+thesis, my my experience trading crypto,
+I can also go back and forth with this
+with my own indicators as well. The
+mention markets is awesome because
+basically this is betting on political
+markets. Is Donald Trump going to say
+nerd? Um, is JD Vance going to say turd
+in this speech? Stuff like that. So,
+learning about people's characteristics,
+their mannerisms, what is the most
+likely thing to happen during an
+interview, all that kind of stuff, but
+you not having to do the work, you just
+assigning an agent to start
+understanding the mannerisms, the
+sayings that people have, what they're
+talking about, what they keep talking
+about a lot right now. So, the
+likelihood of them saying Trump
+mentioning Greenland is pretty high,
+right? or mentioning the word tariff
+maybe not so high right now. So there
+are lots of interesting ways that you
+can use this and the cool thing about
+these guys right here. Okay, so these
+are all price based ones but right here
+these two are independent of the price.
+Bitcoins dumping it doesn't matter with
+this because we're just looking to
+counter trade the AI crowd. We're
+learning or teaching our bot or our
+strategy or our agent. How do you
+recognize patterns in people's speech
+actions? What do you think's going to
+happen next? Stuff like that. Then we
+get into some really interesting stuff.
+I want to have this organized. Actually,
+I want to be able to click and drag
+this, but not yet. Soon. And again, I'm
+not kidding. This my my open cloth spun
+this up overnight. [laughter]
+It's crazy. So, I also have a market
+maker bot. I've also learned more about
+how marketmaking works and the reality
+that you do need some sort of algorithm.
+There's a lot that goes into this.
+There's some crazy crazy math. But
+again, the crazy math, the research, the
+web hooks, the APIs, Open Claw is taking
+care of all of that. I'm just providing
+information saying, "Well, this is how
+marketmaking works. This is how I'm
+aware it works. These are some resources
+I found. What do you think? How could we
+apply this to Poly Market or even to two
+bit or whatever, right? Even I mean
+there's still so many other strategies
+that I'm dying to have this thing go
+tackle and then to identify which one's
+performing the best and then tweaking,
+optimizing, like all that crazy stuff.
+Um there's also another strategy to to
+kind of share with you guys that I've
+learned about is an arbitrage strategy
+and buy when both sides basically up and
+down is basically
+uh it's going to be less than a dollar.
+So, you're basically putting in an
+arbitrage arbitrage trade. You're
+actually b making a no- lose bet. So,
+you're it's a win-win bet, whatever. No
+lose bet. You get the idea. The last
+one, which is running right now, is
+basically it's a sports scanner looking
+for these really weird obscure markets,
+low volume. And right now, the P&amp;L, this
+is unrealized P&amp;L because these are
+still active, but it's all stuff that I
+don't really know about. I don't really
+follow any of these sports. I don't
+really care about e-game or esports,
+whatever. But the funny thing is that
+again, I have an agent that's spun up
+that's looking into this stuff, that's
+researching, that's looking at the odds,
+that's weighing it, that's doing all the
+fun stuff. It is insane.
+I am not saying jump ship from crypto,
+although crypto is jumping ship without.
+I do I do foresee Bitcoin going much
+lower this year. If you guys have been
+paying attention, you know where I think
+things are headed next. Again, the next
+support is $49,000 in my opinion. But
+the amazing thing about OpenClaw is that
+there are so many other strategies and
+I've literally just picked one Poly
+Market. I haven't even gotten to the
+point well that I'm ready to share with
+you yet how I am using Poly Market. I'm
+sorry. Open claw to improve my trading
+to pull price information to basically
+use or basically build my own my own
+crypto scanner to I automatically
+identify great trade setups for long for
+short for any strategy that I want. Like
+guys,
+this is literally like the biggest
+inflection point in our history. And I
+know that open claw might be a little
+bit flawed. I know some people are super
+against AI. I know some people don't
+believe it. Um, and I need to talk to
+you about the reality of setting this
+thing up. I set I got my Mac Mini on
+Thursday. And when I initially set it
+up, it was a huge pain. It was so
+frustrating, so frustrating, so
+timeconuming, so much trial and error
+over the first day or so. When I finally
+got it connected, that was when the
+magic happened. So, if you are going to
+get into using Open Claw, the first
+thing I can suggest to you is that
+before you click the buy button for your
+Mac Mini or whatever service you're
+going to use, start writing everything
+that you like to do that you're
+interested in, your history, your
+experience trading, what you like
+trading or investing in, all that stuff.
+Just write it down. The best thing about
+this is that everything that I'm doing
+right now is on my Mac Mini. I know what
+a lot of you are going to be like, "No,
+it's not. It's in the cloud. It's it's
+publicly available."
+just just chill. Chill, daddy, please.
+Um, so I would strongly suggest that you
+just do a massive brain dump about
+everything that you're interested in,
+everything that you like doing, your
+goals, your aspirations, like if finding
+inspirational accounts, all this stuff,
+anything that you can possibly think of
+to feed it, to give it an idea of how it
+can work for you 24/7.
+The next thing you're want going to do
+is set up regular cron jobs. You don't
+actually have to say the word cron job,
+but basically these are scheduled system
+events, okay? They're programs that are
+going to be running at specific times.
+For instance, I have cron jobs to give
+me a market update at 9:00 a.m., I
+believe. Uh, scraping all the comments
+from my YouTube videos to tell me what's
+the most requested stuff. I have other
+crazy stuff that I can't tell you about
+yet. But the idea behind this is to also
+set up a recurring job for security
+audit. You want to make sure that the
+bot is being proactive in protecting you
+to protecting your data, all that fun
+stuff. You're going to want to pay for
+things. I know it doesn't sound that
+fun, but this is an investment. Now, if
+you're just like a soloreneur,
+it's going to sting up front. You might
+want to consider setting up an LLC. So
+that way, if this is something that you
+think could actually help you make more
+money, you want to consider this to be
+an employee, a research assistant,
+whatever you want to call it, and all
+those expenses can be written off.
+That's what I'm doing. If you're just
+doing this for a hobby, you're yeah,
+you're it's just going to be coming out
+of pocket, which is okay. But there are
+intelligent ways to do this. And again,
+you can get some good opinions just by
+asking Claude or asking chat GBT. Okay.
+The other thing you have to know about
+setting up these cron jobs is that you
+want to tell your open claw assistant
+that you are a supervisor, a high
+output, high satisfaction, uh proactive,
+uh innovative supervisor. And you have
+an infinite number of agents. Careful
+that word infinite, but you have agents
+that are ready and willing and excited
+to work with you. And your job as a
+supervisor is to create a workflow to
+assign tasks to agents. So that way
+you're working on things with me. And
+then you have agents running all these
+side jobs on the side. Whether it's
+crypto AI market analysis, identifying
+the trend of the market, doing regular
+updates on pulling price action, doing
+deep dive analysis on new coins, new
+listings, all that fun stuff, looking at
+gold, looking at all these other markets
+that you're not available or are not
+familiar with, I guess you could say,
+but use agents as much as possible.
+Now, the reality of this, I'm going to
+tell you, too, is that there's so much
+back and forth that you're still going
+to have to do. It's not like I just told
+it over here, all right, I want you to
+make me a dashboard. Cool. And I want
+you just to come up with some ideas on
+uh these poly market strategies. It it's
+not really going to come up with much.
+You really do have to think in advance.
+Okay, what are you doing right now
+that's successful? What what do you want
+to do that's more successful? Who is
+successful right now? Or who is having
+success in whatever field that you're
+interested in? And then you ask open
+claw, okay, study their success, study
+their patterns, study the wallet
+address, here's their here's their
+address like this one. This is honestly
+one of the best things you can do over
+here. Copy the bleeping address. That's
+all you have to do. Cuz once you copy
+the address, then you share it with your
+bot and then the bot has all the
+information there. It can study the
+patterns. It can identify patterns. It
+can look for the strategy or the edge
+that being used. It may not be able to
+copy trade per se, but that's not the
+point. The point isn't to find these
+amazingly profitable poly market
+accounts or even trading accounts and
+copy them. The point the point, this is
+the big deal right here, is that you
+want to use AI to identify an edge. Now,
+edges will not come out of thin air.
+Even the ones that I have are still a
+little bit weak because I'm basing it
+off of things that I've learned about
+along the way. But here's the thing. If
+you can give your bot a task to do and
+then regularly review the data with it
+to say, okay, what have you noticed
+about this? How is this working? And
+over time, you're going to be talking to
+the bot more and more. And then you can
+say, all right, we've talked about a
+lot. How can you incorporate these new
+concepts or these new ideas into what's
+already working? How can you improve the
+workflow? How can you improve the
+profitability, the win rate, uh reduce
+the draw down, all that stuff, and the
+bot will figure it out. like it's not
+foolproof but you do have to be in this
+position of okay I really have to think
+differently in in explaining concepts
+explaining goals all that stuff you
+really have to take some time to think
+about it you can't just say make money
+now like it's not really going to work
+that way [sighs and gasps]
+so I know this is a massive like rant in
+a way and I know that there's still
+security things that I have to be aware
+of and I'm fully taking the
+responsibility of that. Trust me, that's
+why a lot of those accounts, if not all
+them right now, I'm just paper trading
+right now just to see how things are
+going. And I'll keep you guys updated.
+But I think that the promise is just so
+massive for what's possible to achieve
+with an AI assistant like Open Claw.
+It's going to take you time to set it
+up. For me, 100% worth it. already
+seeing massive returns in productivity,
+in ideas, in all these ideas I've had in
+the back of my brain of things that I've
+wanted to do in the past with what
+whether it's analysis or building stuff
+or like and it's still going.
+So, [snorts]
+I really want to know what you think
+about this video and if you guys want me
+to continue sharing updates about how
+I'm using Open Claw to hack the Matrix
+or whatever, leave a comment down below.
+Before you go, it is really important
+that you know where BTC is headed this
+year. And I've been giving you guys
+plenty of warnings since October, I
+believe, of 2025. Watch this video to
+get caught up. Until the next time, you
+know what to do. Stay awesome and stay
+in the green. Peace.

@@ -1,0 +1,3192 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.149 align:start position:0%
+ 
+When<00:00:00.320><c> you</c><00:00:00.480><c> visit</c><00:00:00.719><c> my</c><00:00:00.960><c> blog</c><00:00:01.280><c> on</c><00:00:01.439><c> the</c><00:00:01.680><c> internet,</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+When you visit my blog on the internet,
+ 
+
+00:00:02.159 --> 00:00:03.669 align:start position:0%
+When you visit my blog on the internet,
+you're<00:00:02.480><c> actually</c><00:00:02.800><c> connecting</c><00:00:03.200><c> to</c><00:00:03.360><c> a</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+you're actually connecting to a
+ 
+
+00:00:03.679 --> 00:00:05.110 align:start position:0%
+you're actually connecting to a
+container<00:00:04.160><c> that's</c><00:00:04.480><c> running</c><00:00:04.720><c> on</c><00:00:04.960><c> the</c>
+
+00:00:05.110 --> 00:00:05.120 align:start position:0%
+container that's running on the
+ 
+
+00:00:05.120 --> 00:00:07.510 align:start position:0%
+container that's running on the
+Kubernetes<00:00:05.759><c> cluster</c><00:00:06.080><c> that</c><00:00:06.319><c> I</c><00:00:06.560><c> run</c><00:00:06.799><c> at</c><00:00:07.040><c> home</c><00:00:07.279><c> in</c>
+
+00:00:07.510 --> 00:00:07.520 align:start position:0%
+Kubernetes cluster that I run at home in
+ 
+
+00:00:07.520 --> 00:00:09.750 align:start position:0%
+Kubernetes cluster that I run at home in
+my<00:00:07.759><c> home</c><00:00:08.000><c> lab.</c><00:00:08.639><c> Now,</c><00:00:08.880><c> what</c><00:00:08.960><c> if</c><00:00:09.120><c> I</c><00:00:09.360><c> told</c><00:00:09.519><c> you</c>
+
+00:00:09.750 --> 00:00:09.760 align:start position:0%
+my home lab. Now, what if I told you
+ 
+
+00:00:09.760 --> 00:00:11.669 align:start position:0%
+my home lab. Now, what if I told you
+that<00:00:10.000><c> it's</c><00:00:10.240><c> not</c><00:00:10.400><c> just</c><00:00:10.719><c> the</c><00:00:10.960><c> container</c><00:00:11.360><c> that's</c>
+
+00:00:11.669 --> 00:00:11.679 align:start position:0%
+that it's not just the container that's
+ 
+
+00:00:11.679 --> 00:00:13.830 align:start position:0%
+that it's not just the container that's
+running<00:00:11.920><c> there,</c><00:00:12.559><c> it's</c><00:00:12.880><c> also</c><00:00:13.280><c> all</c><00:00:13.519><c> of</c><00:00:13.679><c> the</c>
+
+00:00:13.830 --> 00:00:13.840 align:start position:0%
+running there, it's also all of the
+ 
+
+00:00:13.840 --> 00:00:16.710 align:start position:0%
+running there, it's also all of the
+source<00:00:14.240><c> code,</c><00:00:14.880><c> all</c><00:00:15.120><c> of</c><00:00:15.200><c> the</c><00:00:15.360><c> CI/CD</c><00:00:16.080><c> pipelines,</c>
+
+00:00:16.710 --> 00:00:16.720 align:start position:0%
+source code, all of the CI/CD pipelines,
+ 
+
+00:00:16.720 --> 00:00:18.630 align:start position:0%
+source code, all of the CI/CD pipelines,
+and<00:00:16.960><c> everything</c><00:00:17.279><c> that's</c><00:00:17.600><c> needed</c><00:00:17.920><c> to</c><00:00:18.160><c> run</c><00:00:18.400><c> this</c>
+
+00:00:18.630 --> 00:00:18.640 align:start position:0%
+and everything that's needed to run this
+ 
+
+00:00:18.640 --> 00:00:21.269 align:start position:0%
+and everything that's needed to run this
+blog<00:00:19.119><c> is</c><00:00:19.520><c> also</c><00:00:19.920><c> being</c><00:00:20.240><c> run</c><00:00:20.560><c> on</c><00:00:20.800><c> that</c><00:00:21.039><c> same</c>
+
+00:00:21.269 --> 00:00:21.279 align:start position:0%
+blog is also being run on that same
+ 
+
+00:00:21.279 --> 00:00:23.269 align:start position:0%
+blog is also being run on that same
+Kubernetes<00:00:21.920><c> cluster.</c><00:00:22.320><c> And</c><00:00:22.480><c> in</c><00:00:22.720><c> this</c><00:00:22.880><c> video,</c>
+
+00:00:23.269 --> 00:00:23.279 align:start position:0%
+Kubernetes cluster. And in this video,
+ 
+
+00:00:23.279 --> 00:00:25.189 align:start position:0%
+Kubernetes cluster. And in this video,
+I'm<00:00:23.519><c> going</c><00:00:23.600><c> to</c><00:00:23.840><c> show</c><00:00:24.000><c> you</c><00:00:24.240><c> why</c><00:00:24.560><c> I</c><00:00:24.800><c> don't</c><00:00:24.960><c> need</c>
+
+00:00:25.189 --> 00:00:25.199 align:start position:0%
+I'm going to show you why I don't need
+ 
+
+00:00:25.199 --> 00:00:28.070 align:start position:0%
+I'm going to show you why I don't need
+GitHub<00:00:25.760><c> anymore</c><00:00:26.240><c> in</c><00:00:26.560><c> order</c><00:00:26.720><c> to</c><00:00:27.279><c> build</c><00:00:27.760><c> and</c>
+
+00:00:28.070 --> 00:00:28.080 align:start position:0%
+GitHub anymore in order to build and
+ 
+
+00:00:28.080 --> 00:00:31.189 align:start position:0%
+GitHub anymore in order to build and
+host<00:00:28.400><c> my</c><00:00:28.640><c> blog</c><00:00:29.279><c> all</c><00:00:29.599><c> on</c><00:00:29.840><c> my</c><00:00:30.080><c> own</c><00:00:30.400><c> home</c><00:00:30.720><c> lab.</c><00:00:31.039><c> So,</c>
+
+00:00:31.189 --> 00:00:31.199 align:start position:0%
+host my blog all on my own home lab. So,
+ 
+
+00:00:31.199 --> 00:00:33.190 align:start position:0%
+host my blog all on my own home lab. So,
+let's<00:00:31.439><c> jump</c><00:00:31.679><c> in.</c><00:00:32.079><c> So,</c><00:00:32.239><c> the</c><00:00:32.399><c> tool</c><00:00:32.719><c> I'm</c><00:00:32.960><c> using</c>
+
+00:00:33.190 --> 00:00:33.200 align:start position:0%
+let's jump in. So, the tool I'm using
+ 
+
+00:00:33.200 --> 00:00:35.590 align:start position:0%
+let's jump in. So, the tool I'm using
+for<00:00:33.440><c> this</c><00:00:33.680><c> is</c><00:00:33.920><c> called</c><00:00:34.160><c> ForJo,</c><00:00:35.040><c> which</c><00:00:35.200><c> is</c><00:00:35.360><c> a</c>
+
+00:00:35.590 --> 00:00:35.600 align:start position:0%
+for this is called ForJo, which is a
+ 
+
+00:00:35.600 --> 00:00:38.229 align:start position:0%
+for this is called ForJo, which is a
+self-hosted<00:00:36.559><c> Git</c><00:00:36.960><c> server.</c><00:00:37.600><c> Now,</c><00:00:37.840><c> if</c><00:00:38.000><c> you're</c>
+
+00:00:38.229 --> 00:00:38.239 align:start position:0%
+self-hosted Git server. Now, if you're
+ 
+
+00:00:38.239 --> 00:00:39.830 align:start position:0%
+self-hosted Git server. Now, if you're
+watching<00:00:38.480><c> this</c><00:00:38.719><c> video,</c><00:00:39.120><c> it's</c><00:00:39.360><c> likely</c><00:00:39.680><c> that</c>
+
+00:00:39.830 --> 00:00:39.840 align:start position:0%
+watching this video, it's likely that
+ 
+
+00:00:39.840 --> 00:00:42.310 align:start position:0%
+watching this video, it's likely that
+you're<00:00:40.160><c> aware</c><00:00:40.480><c> of</c><00:00:40.640><c> Git</c><00:00:41.040><c> and</c><00:00:41.200><c> GitHub,</c><00:00:41.920><c> but</c><00:00:42.160><c> I</c>
+
+00:00:42.310 --> 00:00:42.320 align:start position:0%
+you're aware of Git and GitHub, but I
+ 
+
+00:00:42.320 --> 00:00:43.910 align:start position:0%
+you're aware of Git and GitHub, but I
+just<00:00:42.480><c> want</c><00:00:42.640><c> to</c><00:00:42.719><c> make</c><00:00:42.879><c> sure</c><00:00:43.200><c> everyone</c><00:00:43.520><c> is</c><00:00:43.680><c> on</c>
+
+00:00:43.910 --> 00:00:43.920 align:start position:0%
+just want to make sure everyone is on
+ 
+
+00:00:43.920 --> 00:00:45.510 align:start position:0%
+just want to make sure everyone is on
+the<00:00:44.079><c> same</c><00:00:44.160><c> page.</c><00:00:44.559><c> So,</c><00:00:44.640><c> I'll</c><00:00:44.879><c> just</c><00:00:45.040><c> briefly</c>
+
+00:00:45.510 --> 00:00:45.520 align:start position:0%
+the same page. So, I'll just briefly
+ 
+
+00:00:45.520 --> 00:00:47.750 align:start position:0%
+the same page. So, I'll just briefly
+explain<00:00:45.920><c> what</c><00:00:46.160><c> this</c><00:00:46.399><c> is</c><00:00:46.559><c> all</c><00:00:46.800><c> about.</c><00:00:47.200><c> Now</c><00:00:47.440><c> many</c>
+
+00:00:47.750 --> 00:00:47.760 align:start position:0%
+explain what this is all about. Now many
+ 
+
+00:00:47.760 --> 00:00:50.630 align:start position:0%
+explain what this is all about. Now many
+people<00:00:48.079><c> don't</c><00:00:48.320><c> know</c><00:00:48.559><c> this</c><00:00:48.879><c> but</c><00:00:49.440><c> GitHub</c><00:00:50.160><c> is</c><00:00:50.480><c> not</c>
+
+00:00:50.630 --> 00:00:50.640 align:start position:0%
+people don't know this but GitHub is not
+ 
+
+00:00:50.640 --> 00:00:54.150 align:start position:0%
+people don't know this but GitHub is not
+the<00:00:50.879><c> same</c><00:00:51.120><c> as</c><00:00:51.440><c> Git.</c><00:00:52.559><c> Git</c><00:00:53.039><c> is</c><00:00:53.280><c> the</c><00:00:53.520><c> actual</c>
+
+00:00:54.150 --> 00:00:54.160 align:start position:0%
+the same as Git. Git is the actual
+ 
+
+00:00:54.160 --> 00:00:57.029 align:start position:0%
+the same as Git. Git is the actual
+version<00:00:54.879><c> control</c><00:00:55.520><c> system</c><00:00:56.160><c> which</c><00:00:56.480><c> is</c><00:00:56.640><c> created</c>
+
+00:00:57.029 --> 00:00:57.039 align:start position:0%
+version control system which is created
+ 
+
+00:00:57.039 --> 00:00:59.750 align:start position:0%
+version control system which is created
+by<00:00:57.280><c> Linus</c><00:00:57.680><c> Torvaltz</c><00:00:58.399><c> the</c><00:00:58.559><c> creator</c><00:00:58.960><c> of</c><00:00:59.120><c> Linux</c>
+
+00:00:59.750 --> 00:00:59.760 align:start position:0%
+by Linus Torvaltz the creator of Linux
+ 
+
+00:00:59.760 --> 00:01:02.790 align:start position:0%
+by Linus Torvaltz the creator of Linux
+and<00:01:00.000><c> Git</c><00:01:00.480><c> is</c><00:01:00.800><c> used</c><00:01:01.120><c> to</c><00:01:01.440><c> manage</c><00:01:01.840><c> the</c><00:01:02.160><c> versioning</c>
+
+00:01:02.790 --> 00:01:02.800 align:start position:0%
+and Git is used to manage the versioning
+ 
+
+00:01:02.800 --> 00:01:06.149 align:start position:0%
+and Git is used to manage the versioning
+of<00:01:03.199><c> files.</c><00:01:04.320><c> So</c><00:01:04.559><c> if</c><00:01:04.879><c> you</c><00:01:05.040><c> have</c><00:01:05.280><c> people</c><00:01:05.760><c> working</c>
+
+00:01:06.149 --> 00:01:06.159 align:start position:0%
+of files. So if you have people working
+ 
+
+00:01:06.159 --> 00:01:08.950 align:start position:0%
+of files. So if you have people working
+on<00:01:06.479><c> the</c><00:01:06.720><c> same</c><00:01:06.960><c> files</c><00:01:07.920><c> you</c><00:01:08.159><c> need</c><00:01:08.320><c> a</c><00:01:08.479><c> way</c><00:01:08.640><c> of</c>
+
+00:01:08.950 --> 00:01:08.960 align:start position:0%
+on the same files you need a way of
+ 
+
+00:01:08.960 --> 00:01:11.429 align:start position:0%
+on the same files you need a way of
+tracking<00:01:09.760><c> what</c><00:01:10.159><c> things</c><00:01:10.400><c> have</c><00:01:10.720><c> changed</c><00:01:11.119><c> in</c>
+
+00:01:11.429 --> 00:01:11.439 align:start position:0%
+tracking what things have changed in
+ 
+
+00:01:11.439 --> 00:01:13.750 align:start position:0%
+tracking what things have changed in
+those<00:01:11.680><c> files.</c><00:01:12.640><c> Especially</c><00:01:13.200><c> if</c><00:01:13.520><c> you're</c>
+
+00:01:13.750 --> 00:01:13.760 align:start position:0%
+those files. Especially if you're
+ 
+
+00:01:13.760 --> 00:01:17.109 align:start position:0%
+those files. Especially if you're
+working<00:01:14.240><c> on</c><00:01:14.799><c> the</c><00:01:15.119><c> same</c><00:01:15.360><c> file</c><00:01:16.159><c> with</c><00:01:16.880><c> whole</c>
+
+00:01:17.109 --> 00:01:17.119 align:start position:0%
+working on the same file with whole
+ 
+
+00:01:17.119 --> 00:01:19.270 align:start position:0%
+working on the same file with whole
+teams<00:01:17.520><c> of</c><00:01:17.759><c> people,</c><00:01:18.400><c> it</c><00:01:18.640><c> becomes</c><00:01:18.960><c> very</c>
+
+00:01:19.270 --> 00:01:19.280 align:start position:0%
+teams of people, it becomes very
+ 
+
+00:01:19.280 --> 00:01:21.350 align:start position:0%
+teams of people, it becomes very
+important<00:01:19.600><c> that</c><00:01:19.920><c> you</c><00:01:20.080><c> have</c><00:01:20.159><c> a</c><00:01:20.479><c> good</c><00:01:20.720><c> system</c><00:01:21.119><c> in</c>
+
+00:01:21.350 --> 00:01:21.360 align:start position:0%
+important that you have a good system in
+ 
+
+00:01:21.360 --> 00:01:23.270 align:start position:0%
+important that you have a good system in
+place<00:01:21.520><c> for</c><00:01:21.759><c> this</c><00:01:22.080><c> to</c><00:01:22.400><c> make</c><00:01:22.560><c> sure</c><00:01:22.720><c> that</c><00:01:22.960><c> all</c><00:01:23.200><c> of</c>
+
+00:01:23.270 --> 00:01:23.280 align:start position:0%
+place for this to make sure that all of
+ 
+
+00:01:23.280 --> 00:01:24.870 align:start position:0%
+place for this to make sure that all of
+these<00:01:23.520><c> changes</c><00:01:24.000><c> can</c><00:01:24.320><c> actually</c><00:01:24.640><c> be</c>
+
+00:01:24.870 --> 00:01:24.880 align:start position:0%
+these changes can actually be
+ 
+
+00:01:24.880 --> 00:01:27.030 align:start position:0%
+these changes can actually be
+implemented.<00:01:25.600><c> Right?</c><00:01:26.080><c> So</c><00:01:26.400><c> one</c><00:01:26.560><c> of</c><00:01:26.640><c> the</c><00:01:26.799><c> best</c>
+
+00:01:27.030 --> 00:01:27.040 align:start position:0%
+implemented. Right? So one of the best
+ 
+
+00:01:27.040 --> 00:01:29.270 align:start position:0%
+implemented. Right? So one of the best
+examples<00:01:27.439><c> for</c><00:01:27.680><c> this</c><00:01:27.920><c> is</c><00:01:28.159><c> actually</c><00:01:28.479><c> the</c><00:01:28.720><c> Linux</c>
+
+00:01:29.270 --> 00:01:29.280 align:start position:0%
+examples for this is actually the Linux
+ 
+
+00:01:29.280 --> 00:01:32.069 align:start position:0%
+examples for this is actually the Linux
+source<00:01:29.600><c> code</c><00:01:30.240><c> which</c><00:01:30.479><c> is</c><00:01:30.640><c> on</c><00:01:30.960><c> GitHub.</c><00:01:31.600><c> Now</c><00:01:31.840><c> a</c>
+
+00:01:32.069 --> 00:01:32.079 align:start position:0%
+source code which is on GitHub. Now a
+ 
+
+00:01:32.079 --> 00:01:34.789 align:start position:0%
+source code which is on GitHub. Now a
+project<00:01:32.560><c> where</c><00:01:32.880><c> you</c><00:01:33.040><c> use</c><00:01:33.360><c> git</c><00:01:34.079><c> is</c><00:01:34.400><c> usually</c>
+
+00:01:34.789 --> 00:01:34.799 align:start position:0%
+project where you use git is usually
+ 
+
+00:01:34.799 --> 00:01:37.429 align:start position:0%
+project where you use git is usually
+contained<00:01:35.280><c> in</c><00:01:35.600><c> one</c><00:01:35.920><c> directory</c><00:01:36.720><c> and</c><00:01:37.040><c> this</c><00:01:37.280><c> is</c>
+
+00:01:37.429 --> 00:01:37.439 align:start position:0%
+contained in one directory and this is
+ 
+
+00:01:37.439 --> 00:01:40.950 align:start position:0%
+contained in one directory and this is
+called<00:01:37.680><c> a</c><00:01:38.079><c> repository.</c><00:01:39.200><c> So</c><00:01:39.439><c> a</c><00:01:39.680><c> git</c><00:01:40.000><c> repository</c>
+
+00:01:40.950 --> 00:01:40.960 align:start position:0%
+called a repository. So a git repository
+ 
+
+00:01:40.960 --> 00:01:44.069 align:start position:0%
+called a repository. So a git repository
+is<00:01:41.360><c> a</c><00:01:41.840><c> collection</c><00:01:42.320><c> of</c><00:01:42.560><c> files</c><00:01:42.880><c> that</c><00:01:43.200><c> uses</c><00:01:43.600><c> git</c>
+
+00:01:44.069 --> 00:01:44.079 align:start position:0%
+is a collection of files that uses git
+ 
+
+00:01:44.079 --> 00:01:47.190 align:start position:0%
+is a collection of files that uses git
+for<00:01:44.560><c> version</c><00:01:45.040><c> control.</c><00:01:46.159><c> Now</c><00:01:46.479><c> you</c><00:01:46.720><c> need</c><00:01:46.880><c> to</c>
+
+00:01:47.190 --> 00:01:47.200 align:start position:0%
+for version control. Now you need to
+ 
+
+00:01:47.200 --> 00:01:50.550 align:start position:0%
+for version control. Now you need to
+place<00:01:47.680><c> this</c><00:01:48.479><c> repository</c><00:01:49.360><c> somewhere</c><00:01:50.079><c> right</c>
+
+00:01:50.550 --> 00:01:50.560 align:start position:0%
+place this repository somewhere right
+ 
+
+00:01:50.560 --> 00:01:53.749 align:start position:0%
+place this repository somewhere right
+and<00:01:50.799><c> in</c><00:01:51.119><c> this</c><00:01:51.280><c> case</c><00:01:52.000><c> or</c><00:01:52.320><c> many</c><00:01:52.640><c> cases</c><00:01:53.200><c> it</c><00:01:53.439><c> is</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+and in this case or many cases it is
+ 
+
+00:01:53.759 --> 00:01:57.270 align:start position:0%
+and in this case or many cases it is
+GitHub.<00:01:54.799><c> GitHub</c><00:01:55.280><c> is</c><00:01:55.600><c> basically</c><00:01:56.000><c> a</c><00:01:56.320><c> place</c><00:01:56.960><c> to</c>
+
+00:01:57.270 --> 00:01:57.280 align:start position:0%
+GitHub. GitHub is basically a place to
+ 
+
+00:01:57.280 --> 00:01:59.830 align:start position:0%
+GitHub. GitHub is basically a place to
+put<00:01:57.600><c> your</c><00:01:57.920><c> Git</c><00:01:58.399><c> repositories</c><00:01:59.200><c> and</c><00:01:59.439><c> that</c><00:01:59.600><c> is</c>
+
+00:01:59.830 --> 00:01:59.840 align:start position:0%
+put your Git repositories and that is
+ 
+
+00:01:59.840 --> 00:02:02.069 align:start position:0%
+put your Git repositories and that is
+basically<00:02:00.240><c> all</c><00:02:00.479><c> that</c><00:02:00.719><c> is</c><00:02:01.040><c> what</c><00:02:01.280><c> it</c><00:02:01.520><c> does.</c><00:02:01.840><c> Now</c>
+
+00:02:02.069 --> 00:02:02.079 align:start position:0%
+basically all that is what it does. Now
+ 
+
+00:02:02.079 --> 00:02:05.030 align:start position:0%
+basically all that is what it does. Now
+for<00:02:02.159><c> example</c><00:02:02.719><c> the</c><00:02:03.040><c> Linux</c><00:02:03.600><c> source</c><00:02:04.079><c> code</c><00:02:04.719><c> is</c>
+
+00:02:05.030 --> 00:02:05.040 align:start position:0%
+for example the Linux source code is
+ 
+
+00:02:05.040 --> 00:02:07.910 align:start position:0%
+for example the Linux source code is
+hosted<00:02:05.520><c> on</c><00:02:05.840><c> GitHub.</c><00:02:06.399><c> You</c><00:02:06.640><c> can</c><00:02:06.719><c> go</c><00:02:06.880><c> in</c><00:02:07.360><c> and</c><00:02:07.680><c> read</c>
+
+00:02:07.910 --> 00:02:07.920 align:start position:0%
+hosted on GitHub. You can go in and read
+ 
+
+00:02:07.920 --> 00:02:11.110 align:start position:0%
+hosted on GitHub. You can go in and read
+the<00:02:08.160><c> code</c><00:02:08.399><c> here</c><00:02:09.039><c> and</c><00:02:09.280><c> you</c><00:02:09.440><c> can</c><00:02:09.599><c> also</c><00:02:10.560><c> look</c><00:02:10.879><c> at</c>
+
+00:02:11.110 --> 00:02:11.120 align:start position:0%
+the code here and you can also look at
+ 
+
+00:02:11.120 --> 00:02:14.790 align:start position:0%
+the code here and you can also look at
+the<00:02:11.360><c> commits.</c><00:02:12.160><c> So</c><00:02:12.640><c> a</c><00:02:12.879><c> commit</c><00:02:13.360><c> to</c><00:02:13.599><c> a</c><00:02:13.760><c> git</c><00:02:14.080><c> repo</c>
+
+00:02:14.790 --> 00:02:14.800 align:start position:0%
+the commits. So a commit to a git repo
+ 
+
+00:02:14.800 --> 00:02:18.470 align:start position:0%
+the commits. So a commit to a git repo
+is<00:02:15.120><c> when</c><00:02:15.360><c> someone</c><00:02:15.840><c> makes</c><00:02:16.160><c> a</c><00:02:16.480><c> change</c><00:02:17.280><c> and</c><00:02:17.599><c> then</c>
+
+00:02:18.470 --> 00:02:18.480 align:start position:0%
+is when someone makes a change and then
+ 
+
+00:02:18.480 --> 00:02:20.710 align:start position:0%
+is when someone makes a change and then
+um<00:02:18.720><c> for</c><00:02:18.879><c> example</c><00:02:19.360><c> here</c><00:02:19.599><c> are</c><00:02:19.760><c> the</c><00:02:19.920><c> changes</c><00:02:20.400><c> in</c>
+
+00:02:20.710 --> 00:02:20.720 align:start position:0%
+um for example here are the changes in
+ 
+
+00:02:20.720 --> 00:02:23.830 align:start position:0%
+um for example here are the changes in
+the<00:02:20.959><c> code</c><00:02:21.520><c> which</c><00:02:21.840><c> are</c><00:02:22.000><c> being</c><00:02:22.239><c> managed</c><00:02:22.800><c> by</c><00:02:23.120><c> git</c>
+
+00:02:23.830 --> 00:02:23.840 align:start position:0%
+the code which are being managed by git
+ 
+
+00:02:23.840 --> 00:02:26.550 align:start position:0%
+the code which are being managed by git
+in<00:02:24.080><c> the</c><00:02:24.239><c> version</c><00:02:24.640><c> control.</c><00:02:25.520><c> So</c><00:02:25.920><c> here</c><00:02:26.160><c> you</c><00:02:26.400><c> have</c>
+
+00:02:26.550 --> 00:02:26.560 align:start position:0%
+in the version control. So here you have
+ 
+
+00:02:26.560 --> 00:02:28.630 align:start position:0%
+in the version control. So here you have
+a<00:02:26.800><c> record</c><00:02:27.200><c> of</c><00:02:27.520><c> everything</c><00:02:27.920><c> that</c><00:02:28.160><c> has</c><00:02:28.400><c> been</c>
+
+00:02:28.630 --> 00:02:28.640 align:start position:0%
+a record of everything that has been
+ 
+
+00:02:28.640 --> 00:02:31.190 align:start position:0%
+a record of everything that has been
+changed<00:02:29.120><c> by</c><00:02:29.440><c> whom</c><00:02:30.000><c> and</c><00:02:30.239><c> you</c><00:02:30.480><c> can</c><00:02:30.640><c> always</c><00:02:30.959><c> go</c>
+
+00:02:31.190 --> 00:02:31.200 align:start position:0%
+changed by whom and you can always go
+ 
+
+00:02:31.200 --> 00:02:34.390 align:start position:0%
+changed by whom and you can always go
+back<00:02:31.360><c> to</c><00:02:31.599><c> a</c><00:02:31.920><c> previous</c><00:02:32.400><c> commit</c><00:02:32.959><c> for</c><00:02:33.040><c> example</c><00:02:34.160><c> so</c>
+
+00:02:34.390 --> 00:02:34.400 align:start position:0%
+back to a previous commit for example so
+ 
+
+00:02:34.400 --> 00:02:36.869 align:start position:0%
+back to a previous commit for example so
+that<00:02:34.640><c> you</c><00:02:34.879><c> can</c><00:02:35.200><c> you</c><00:02:35.519><c> can</c><00:02:35.680><c> you</c><00:02:36.000><c> can</c><00:02:36.400><c> you</c><00:02:36.560><c> know</c>
+
+00:02:36.869 --> 00:02:36.879 align:start position:0%
+that you can you can you can you know
+ 
+
+00:02:36.879 --> 00:02:39.509 align:start position:0%
+that you can you can you can you know
+revert<00:02:37.360><c> your</c><00:02:37.599><c> changes</c><00:02:38.080><c> or</c><00:02:38.400><c> you</c><00:02:38.640><c> can</c><00:02:38.879><c> actually</c>
+
+00:02:39.509 --> 00:02:39.519 align:start position:0%
+revert your changes or you can actually
+ 
+
+00:02:39.519 --> 00:02:41.990 align:start position:0%
+revert your changes or you can actually
+know<00:02:39.840><c> exactly</c><00:02:40.400><c> what</c><00:02:40.640><c> was</c><00:02:40.879><c> changed</c><00:02:41.200><c> and</c><00:02:41.440><c> when.</c>
+
+00:02:41.990 --> 00:02:42.000 align:start position:0%
+know exactly what was changed and when.
+ 
+
+00:02:42.000 --> 00:02:43.990 align:start position:0%
+know exactly what was changed and when.
+So<00:02:42.160><c> you</c><00:02:42.319><c> can</c><00:02:42.480><c> see</c><00:02:42.720><c> in</c><00:02:43.040><c> real</c><00:02:43.280><c> time</c><00:02:43.519><c> what</c><00:02:43.760><c> is</c>
+
+00:02:43.990 --> 00:02:44.000 align:start position:0%
+So you can see in real time what is
+ 
+
+00:02:44.000 --> 00:02:45.830 align:start position:0%
+So you can see in real time what is
+being<00:02:44.239><c> changed</c><00:02:44.480><c> in</c><00:02:44.640><c> the</c><00:02:44.800><c> Linux</c><00:02:45.120><c> kernel.</c><00:02:45.519><c> Now</c>
+
+00:02:45.830 --> 00:02:45.840 align:start position:0%
+being changed in the Linux kernel. Now
+ 
+
+00:02:45.840 --> 00:02:48.710 align:start position:0%
+being changed in the Linux kernel. Now
+for<00:02:45.920><c> example</c><00:02:46.480><c> GitHub</c><00:02:47.120><c> is</c><00:02:47.440><c> then</c><00:02:47.680><c> a</c><00:02:47.920><c> Microsoft</c>
+
+00:02:48.710 --> 00:02:48.720 align:start position:0%
+for example GitHub is then a Microsoft
+ 
+
+00:02:48.720 --> 00:02:51.190 align:start position:0%
+for example GitHub is then a Microsoft
+owned<00:02:49.120><c> company</c><00:02:49.840><c> that</c><00:02:50.160><c> provides</c><00:02:50.480><c> a</c><00:02:50.800><c> service</c>
+
+00:02:51.190 --> 00:02:51.200 align:start position:0%
+owned company that provides a service
+ 
+
+00:02:51.200 --> 00:02:52.630 align:start position:0%
+owned company that provides a service
+where<00:02:51.440><c> you</c><00:02:51.680><c> can</c><00:02:51.840><c> put</c><00:02:52.000><c> these</c><00:02:52.319><c> git</c>
+
+00:02:52.630 --> 00:02:52.640 align:start position:0%
+where you can put these git
+ 
+
+00:02:52.640 --> 00:02:56.070 align:start position:0%
+where you can put these git
+repositories.<00:02:53.440><c> Now</c><00:02:53.680><c> what</c><00:02:53.920><c> forjo</c><00:02:54.800><c> does</c><00:02:55.360><c> is</c><00:02:55.760><c> it</c>
+
+00:02:56.070 --> 00:02:56.080 align:start position:0%
+repositories. Now what forjo does is it
+ 
+
+00:02:56.080 --> 00:02:59.270 align:start position:0%
+repositories. Now what forjo does is it
+provides<00:02:56.480><c> you</c><00:02:56.879><c> with</c><00:02:57.280><c> your</c><00:02:57.599><c> own</c><00:02:58.000><c> GitHub.</c><00:02:58.879><c> Okay,</c>
+
+00:02:59.270 --> 00:02:59.280 align:start position:0%
+provides you with your own GitHub. Okay,
+ 
+
+00:02:59.280 --> 00:03:01.910 align:start position:0%
+provides you with your own GitHub. Okay,
+it<00:02:59.599><c> provides</c><00:03:00.000><c> you</c><00:03:00.239><c> with</c><00:03:00.480><c> a</c><00:03:00.800><c> place</c><00:03:01.440><c> where</c><00:03:01.760><c> you</c>
+
+00:03:01.910 --> 00:03:01.920 align:start position:0%
+it provides you with a place where you
+ 
+
+00:03:01.920 --> 00:03:04.790 align:start position:0%
+it provides you with a place where you
+can<00:03:02.080><c> host</c><00:03:02.480><c> your</c><00:03:02.879><c> own</c><00:03:03.519><c> self-hosted</c><00:03:04.480><c> git</c>
+
+00:03:04.790 --> 00:03:04.800 align:start position:0%
+can host your own self-hosted git
+ 
+
+00:03:04.800 --> 00:03:08.070 align:start position:0%
+can host your own self-hosted git
+repositories.<00:03:06.159><c> And</c><00:03:06.480><c> that</c><00:03:06.720><c> is</c><00:03:06.879><c> what</c><00:03:07.120><c> I</c><00:03:07.360><c> did.</c><00:03:07.840><c> So</c>
+
+00:03:08.070 --> 00:03:08.080 align:start position:0%
+repositories. And that is what I did. So
+ 
+
+00:03:08.080 --> 00:03:10.550 align:start position:0%
+repositories. And that is what I did. So
+for<00:03:08.239><c> example,</c><00:03:08.720><c> my</c><00:03:09.040><c> blog,</c><00:03:09.680><c> all</c><00:03:09.840><c> of</c><00:03:10.000><c> this</c><00:03:10.239><c> source</c>
+
+00:03:10.550 --> 00:03:10.560 align:start position:0%
+for example, my blog, all of this source
+ 
+
+00:03:10.560 --> 00:03:14.309 align:start position:0%
+for example, my blog, all of this source
+code<00:03:11.280><c> lives</c><00:03:11.920><c> in</c><00:03:12.159><c> a</c><00:03:12.400><c> repository</c><00:03:13.360><c> on</c><00:03:13.599><c> my</c><00:03:13.840><c> own</c>
+
+00:03:14.309 --> 00:03:14.319 align:start position:0%
+code lives in a repository on my own
+ 
+
+00:03:14.319 --> 00:03:17.589 align:start position:0%
+code lives in a repository on my own
+self-hosted<00:03:15.280><c> git</c><00:03:15.760><c> instance.</c><00:03:16.400><c> So</c><00:03:16.640><c> whenever</c><00:03:17.040><c> I</c>
+
+00:03:17.589 --> 00:03:17.599 align:start position:0%
+self-hosted git instance. So whenever I
+ 
+
+00:03:17.599 --> 00:03:20.869 align:start position:0%
+self-hosted git instance. So whenever I
+publish<00:03:18.000><c> a</c><00:03:18.319><c> blog</c><00:03:18.720><c> now,</c><00:03:19.599><c> the</c><00:03:19.920><c> code</c><00:03:20.239><c> is</c><00:03:20.560><c> actually</c>
+
+00:03:20.869 --> 00:03:20.879 align:start position:0%
+publish a blog now, the code is actually
+ 
+
+00:03:20.879 --> 00:03:23.430 align:start position:0%
+publish a blog now, the code is actually
+being<00:03:21.120><c> committed</c><00:03:21.599><c> to</c><00:03:21.840><c> my</c><00:03:22.080><c> own</c><00:03:22.319><c> repository</c><00:03:23.120><c> and</c>
+
+00:03:23.430 --> 00:03:23.440 align:start position:0%
+being committed to my own repository and
+ 
+
+00:03:23.440 --> 00:03:25.830 align:start position:0%
+being committed to my own repository and
+not<00:03:23.599><c> to</c><00:03:23.840><c> GitHub</c><00:03:24.319><c> anymore.</c><00:03:25.040><c> So</c><00:03:25.280><c> why</c><00:03:25.440><c> would</c><00:03:25.680><c> you</c>
+
+00:03:25.830 --> 00:03:25.840 align:start position:0%
+not to GitHub anymore. So why would you
+ 
+
+00:03:25.840 --> 00:03:28.149 align:start position:0%
+not to GitHub anymore. So why would you
+even<00:03:26.080><c> bother</c><00:03:26.400><c> with</c><00:03:26.640><c> this?</c><00:03:27.040><c> Why</c><00:03:27.360><c> does</c><00:03:27.519><c> anyone</c>
+
+00:03:28.149 --> 00:03:28.159 align:start position:0%
+even bother with this? Why does anyone
+ 
+
+00:03:28.159 --> 00:03:30.789 align:start position:0%
+even bother with this? Why does anyone
+need<00:03:28.480><c> to</c><00:03:29.040><c> have</c><00:03:29.280><c> their</c><00:03:29.519><c> own</c><00:03:29.840><c> self-hosted</c><00:03:30.560><c> Git</c>
+
+00:03:30.789 --> 00:03:30.799 align:start position:0%
+need to have their own self-hosted Git
+ 
+
+00:03:30.799 --> 00:03:32.710 align:start position:0%
+need to have their own self-hosted Git
+instance?<00:03:31.280><c> But</c><00:03:31.440><c> before</c><00:03:31.680><c> we</c><00:03:31.920><c> continue,</c><00:03:32.400><c> about</c>
+
+00:03:32.710 --> 00:03:32.720 align:start position:0%
+instance? But before we continue, about
+ 
+
+00:03:32.720 --> 00:03:35.350 align:start position:0%
+instance? But before we continue, about
+73%<00:03:33.440><c> of</c><00:03:33.599><c> my</c><00:03:33.760><c> viewers</c><00:03:34.159><c> aren't</c><00:03:34.560><c> subscribed.</c><00:03:35.120><c> So</c>
+
+00:03:35.350 --> 00:03:35.360 align:start position:0%
+73% of my viewers aren't subscribed. So
+ 
+
+00:03:35.360 --> 00:03:37.350 align:start position:0%
+73% of my viewers aren't subscribed. So
+please<00:03:35.760><c> subscribe.</c><00:03:36.400><c> It</c><00:03:36.640><c> helps</c><00:03:36.799><c> me</c><00:03:37.040><c> put</c><00:03:37.200><c> out</c>
+
+00:03:37.350 --> 00:03:37.360 align:start position:0%
+please subscribe. It helps me put out
+ 
+
+00:03:37.360 --> 00:03:39.110 align:start position:0%
+please subscribe. It helps me put out
+more<00:03:37.599><c> honest</c><00:03:38.000><c> content</c><00:03:38.319><c> like</c><00:03:38.560><c> this</c><00:03:38.799><c> every</c>
+
+00:03:39.110 --> 00:03:39.120 align:start position:0%
+more honest content like this every
+ 
+
+00:03:39.120 --> 00:03:41.110 align:start position:0%
+more honest content like this every
+single<00:03:39.360><c> week,</c><00:03:39.599><c> and</c><00:03:39.840><c> it's</c><00:03:40.000><c> a</c><00:03:40.239><c> completely</c><00:03:40.799><c> free</c>
+
+00:03:41.110 --> 00:03:41.120 align:start position:0%
+single week, and it's a completely free
+ 
+
+00:03:41.120 --> 00:03:43.670 align:start position:0%
+single week, and it's a completely free
+way<00:03:41.360><c> to</c><00:03:41.599><c> support</c><00:03:41.920><c> my</c><00:03:42.239><c> channel.</c><00:03:42.959><c> So,</c><00:03:43.200><c> everybody</c>
+
+00:03:43.670 --> 00:03:43.680 align:start position:0%
+way to support my channel. So, everybody
+ 
+
+00:03:43.680 --> 00:03:46.550 align:start position:0%
+way to support my channel. So, everybody
+knows<00:03:44.080><c> that</c><00:03:44.560><c> AI</c><00:03:44.959><c> models</c><00:03:45.440><c> are</c><00:03:45.760><c> really</c><00:03:46.000><c> good</c><00:03:46.239><c> at</c>
+
+00:03:46.550 --> 00:03:46.560 align:start position:0%
+knows that AI models are really good at
+ 
+
+00:03:46.560 --> 00:03:48.229 align:start position:0%
+knows that AI models are really good at
+writing<00:03:47.040><c> code,</c><00:03:47.440><c> right?</c><00:03:47.680><c> That's</c><00:03:47.920><c> one</c><00:03:48.080><c> of</c><00:03:48.080><c> the</c>
+
+00:03:48.229 --> 00:03:48.239 align:start position:0%
+writing code, right? That's one of the
+ 
+
+00:03:48.239 --> 00:03:50.070 align:start position:0%
+writing code, right? That's one of the
+things<00:03:48.400><c> that</c><00:03:48.640><c> they're</c><00:03:48.799><c> best</c><00:03:49.040><c> at.</c><00:03:49.599><c> Now,</c><00:03:49.920><c> where</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+things that they're best at. Now, where
+ 
+
+00:03:50.080 --> 00:03:53.190 align:start position:0%
+things that they're best at. Now, where
+do<00:03:50.239><c> you</c><00:03:50.400><c> think</c><00:03:50.640><c> all</c><00:03:50.879><c> of</c><00:03:50.959><c> this</c><00:03:51.280><c> code</c><00:03:51.599><c> came</c><00:03:51.920><c> from?</c>
+
+00:03:53.190 --> 00:03:53.200 align:start position:0%
+do you think all of this code came from?
+ 
+
+00:03:53.200 --> 00:03:54.869 align:start position:0%
+do you think all of this code came from?
+All<00:03:53.360><c> of</c><00:03:53.519><c> this</c><00:03:53.760><c> code</c><00:03:54.000><c> was</c><00:03:54.239><c> gathered</c><00:03:54.640><c> from</c>
+
+00:03:54.869 --> 00:03:54.879 align:start position:0%
+All of this code was gathered from
+ 
+
+00:03:54.879 --> 00:03:57.990 align:start position:0%
+All of this code was gathered from
+places<00:03:55.280><c> like</c><00:03:55.519><c> Stack</c><00:03:55.920><c> Overflow,</c><00:03:56.879><c> but</c><00:03:57.200><c> also</c>
+
+00:03:57.990 --> 00:03:58.000 align:start position:0%
+places like Stack Overflow, but also
+ 
+
+00:03:58.000 --> 00:04:01.830 align:start position:0%
+places like Stack Overflow, but also
+GitHub.<00:03:58.879><c> So,</c><00:03:59.200><c> Microsoft,</c><00:03:59.920><c> who</c><00:04:00.400><c> owns</c><00:04:00.799><c> GitHub,</c>
+
+00:04:01.830 --> 00:04:01.840 align:start position:0%
+GitHub. So, Microsoft, who owns GitHub,
+ 
+
+00:04:01.840 --> 00:04:03.750 align:start position:0%
+GitHub. So, Microsoft, who owns GitHub,
+scans<00:04:02.319><c> all</c><00:04:02.560><c> of</c><00:04:02.640><c> the</c><00:04:02.879><c> code</c><00:04:03.120><c> that</c><00:04:03.360><c> is</c><00:04:03.519><c> being</c>
+
+00:04:03.750 --> 00:04:03.760 align:start position:0%
+scans all of the code that is being
+ 
+
+00:04:03.760 --> 00:04:06.550 align:start position:0%
+scans all of the code that is being
+published<00:04:04.159><c> on</c><00:04:04.400><c> GitHub,</c><00:04:05.599><c> and</c><00:04:05.920><c> then</c><00:04:06.239><c> they're</c>
+
+00:04:06.550 --> 00:04:06.560 align:start position:0%
+published on GitHub, and then they're
+ 
+
+00:04:06.560 --> 00:04:09.190 align:start position:0%
+published on GitHub, and then they're
+taking<00:04:06.879><c> that</c><00:04:07.120><c> to</c><00:04:07.519><c> train</c><00:04:07.920><c> the</c><00:04:08.159><c> models,</c><00:04:08.799><c> etc.</c>
+
+00:04:09.190 --> 00:04:09.200 align:start position:0%
+taking that to train the models, etc.
+ 
+
+00:04:09.200 --> 00:04:10.949 align:start position:0%
+taking that to train the models, etc.
+And<00:04:09.360><c> I</c><00:04:09.599><c> don't</c><00:04:09.760><c> think</c><00:04:09.840><c> there's</c><00:04:10.239><c> necessarily</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+And I don't think there's necessarily
+ 
+
+00:04:10.959 --> 00:04:13.670 align:start position:0%
+And I don't think there's necessarily
+anything<00:04:11.519><c> wrong</c><00:04:11.840><c> with</c><00:04:12.080><c> that.</c><00:04:12.799><c> However,</c><00:04:13.439><c> if</c>
+
+00:04:13.670 --> 00:04:13.680 align:start position:0%
+anything wrong with that. However, if
+ 
+
+00:04:13.680 --> 00:04:16.870 align:start position:0%
+anything wrong with that. However, if
+there<00:04:13.840><c> are</c><00:04:14.080><c> things</c><00:04:14.239><c> that</c><00:04:14.560><c> I</c><00:04:14.799><c> am</c><00:04:16.239><c> developing</c>
+
+00:04:16.870 --> 00:04:16.880 align:start position:0%
+there are things that I am developing
+ 
+
+00:04:16.880 --> 00:04:19.189 align:start position:0%
+there are things that I am developing
+myself<00:04:17.519><c> that</c><00:04:17.759><c> I</c><00:04:18.000><c> don't</c><00:04:18.239><c> necessarily</c><00:04:18.880><c> want</c><00:04:19.040><c> to</c>
+
+00:04:19.189 --> 00:04:19.199 align:start position:0%
+myself that I don't necessarily want to
+ 
+
+00:04:19.199 --> 00:04:22.230 align:start position:0%
+myself that I don't necessarily want to
+share<00:04:19.519><c> with</c><00:04:19.759><c> others,</c><00:04:20.959><c> I</c><00:04:21.359><c> want</c><00:04:21.519><c> to</c><00:04:21.680><c> keep</c><00:04:22.000><c> that</c>
+
+00:04:22.230 --> 00:04:22.240 align:start position:0%
+share with others, I want to keep that
+ 
+
+00:04:22.240 --> 00:04:25.430 align:start position:0%
+share with others, I want to keep that
+in<00:04:22.560><c> my</c><00:04:22.720><c> own</c><00:04:23.040><c> git</c><00:04:23.360><c> repositories.</c><00:04:24.560><c> Right?</c><00:04:25.040><c> So</c><00:04:25.280><c> if</c>
+
+00:04:25.430 --> 00:04:25.440 align:start position:0%
+in my own git repositories. Right? So if
+ 
+
+00:04:25.440 --> 00:04:27.110 align:start position:0%
+in my own git repositories. Right? So if
+you're<00:04:25.680><c> using</c><00:04:25.919><c> this</c><00:04:26.160><c> service,</c><00:04:26.800><c> you're</c>
+
+00:04:27.110 --> 00:04:27.120 align:start position:0%
+you're using this service, you're
+ 
+
+00:04:27.120 --> 00:04:29.350 align:start position:0%
+you're using this service, you're
+basically<00:04:27.600><c> agreeing</c><00:04:28.160><c> that</c><00:04:28.560><c> they</c><00:04:28.800><c> can</c><00:04:29.040><c> use</c>
+
+00:04:29.350 --> 00:04:29.360 align:start position:0%
+basically agreeing that they can use
+ 
+
+00:04:29.360 --> 00:04:32.870 align:start position:0%
+basically agreeing that they can use
+that<00:04:29.680><c> data.</c><00:04:30.880><c> and</c><00:04:31.520><c> I</c><00:04:31.759><c> I</c><00:04:32.240><c> have</c><00:04:32.479><c> certain</c>
+
+00:04:32.870 --> 00:04:32.880 align:start position:0%
+that data. and I I have certain
+ 
+
+00:04:32.880 --> 00:04:35.670 align:start position:0%
+that data. and I I have certain
+projects,<00:04:33.680><c> private</c><00:04:34.160><c> projects,</c><00:04:35.199><c> for</c><00:04:35.280><c> example,</c>
+
+00:04:35.670 --> 00:04:35.680 align:start position:0%
+projects, private projects, for example,
+ 
+
+00:04:35.680 --> 00:04:38.310 align:start position:0%
+projects, private projects, for example,
+my<00:04:35.840><c> own</c><00:04:36.080><c> note-taking</c><00:04:36.720><c> system</c><00:04:37.520><c> that</c><00:04:37.840><c> I</c><00:04:38.080><c> don't</c>
+
+00:04:38.310 --> 00:04:38.320 align:start position:0%
+my own note-taking system that I don't
+ 
+
+00:04:38.320 --> 00:04:40.629 align:start position:0%
+my own note-taking system that I don't
+want<00:04:38.800><c> Microsoft</c><00:04:39.440><c> to</c><00:04:39.680><c> have</c><00:04:39.919><c> and</c><00:04:40.160><c> I</c><00:04:40.320><c> don't</c><00:04:40.479><c> want</c>
+
+00:04:40.629 --> 00:04:40.639 align:start position:0%
+want Microsoft to have and I don't want
+ 
+
+00:04:40.639 --> 00:04:42.310 align:start position:0%
+want Microsoft to have and I don't want
+them<00:04:40.800><c> to</c><00:04:40.960><c> scan</c><00:04:41.280><c> that.</c><00:04:41.600><c> So,</c><00:04:41.759><c> this</c><00:04:42.000><c> is</c><00:04:42.080><c> the</c>
+
+00:04:42.310 --> 00:04:42.320 align:start position:0%
+them to scan that. So, this is the
+ 
+
+00:04:42.320 --> 00:04:45.110 align:start position:0%
+them to scan that. So, this is the
+reason<00:04:42.880><c> why</c><00:04:43.120><c> I</c><00:04:43.360><c> deployed</c><00:04:43.840><c> my</c><00:04:44.080><c> own</c><00:04:44.320><c> self-hosted</c>
+
+00:04:45.110 --> 00:04:45.120 align:start position:0%
+reason why I deployed my own self-hosted
+ 
+
+00:04:45.120 --> 00:04:47.030 align:start position:0%
+reason why I deployed my own self-hosted
+git<00:04:45.360><c> instance.</c><00:04:45.919><c> Now,</c><00:04:46.160><c> let's</c><00:04:46.400><c> take</c><00:04:46.479><c> a</c><00:04:46.720><c> look</c><00:04:46.800><c> at</c>
+
+00:04:47.030 --> 00:04:47.040 align:start position:0%
+git instance. Now, let's take a look at
+ 
+
+00:04:47.040 --> 00:04:49.030 align:start position:0%
+git instance. Now, let's take a look at
+my<00:04:47.199><c> git</c><00:04:47.520><c> instance.</c><00:04:47.919><c> So,</c><00:04:48.080><c> this</c><00:04:48.320><c> for</c><00:04:48.479><c> example</c><00:04:48.800><c> is</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+my git instance. So, this for example is
+ 
+
+00:04:49.040 --> 00:04:51.590 align:start position:0%
+my git instance. So, this for example is
+my<00:04:49.280><c> blog</c><00:04:49.600><c> repo.</c><00:04:50.160><c> So,</c><00:04:50.320><c> you</c><00:04:50.479><c> can</c><00:04:50.639><c> see</c><00:04:50.880><c> it</c><00:04:51.120><c> has</c><00:04:51.280><c> a</c>
+
+00:04:51.590 --> 00:04:51.600 align:start position:0%
+my blog repo. So, you can see it has a
+ 
+
+00:04:51.600 --> 00:04:54.150 align:start position:0%
+my blog repo. So, you can see it has a
+very<00:04:52.000><c> nice</c><00:04:52.240><c> UI</c><00:04:52.800><c> where</c><00:04:53.040><c> I</c><00:04:53.280><c> can</c><00:04:53.440><c> just</c><00:04:53.680><c> check</c><00:04:53.919><c> out</c>
+
+00:04:54.150 --> 00:04:54.160 align:start position:0%
+very nice UI where I can just check out
+ 
+
+00:04:54.160 --> 00:04:56.870 align:start position:0%
+very nice UI where I can just check out
+all<00:04:54.400><c> of</c><00:04:54.560><c> the</c><00:04:54.720><c> changes</c><00:04:55.040><c> I</c><00:04:55.360><c> made.</c><00:04:55.840><c> It</c><00:04:56.080><c> has</c><00:04:56.240><c> these</c>
+
+00:04:56.870 --> 00:04:56.880 align:start position:0%
+all of the changes I made. It has these
+ 
+
+00:04:56.880 --> 00:05:00.390 align:start position:0%
+all of the changes I made. It has these
+um<00:04:57.280><c> commit</c><00:04:57.680><c> changes</c><00:04:58.160><c> for</c><00:04:58.320><c> example.</c><00:04:59.440><c> So,</c><00:04:59.919><c> if</c><00:05:00.160><c> I</c>
+
+00:05:00.390 --> 00:05:00.400 align:start position:0%
+um commit changes for example. So, if I
+ 
+
+00:05:00.400 --> 00:05:02.390 align:start position:0%
+um commit changes for example. So, if I
+check<00:05:00.639><c> the</c><00:05:00.880><c> overview</c><00:05:01.360><c> over</c><00:05:01.600><c> here,</c><00:05:02.000><c> you</c><00:05:02.240><c> will</c>
+
+00:05:02.390 --> 00:05:02.400 align:start position:0%
+check the overview over here, you will
+ 
+
+00:05:02.400 --> 00:05:04.710 align:start position:0%
+check the overview over here, you will
+see<00:05:02.560><c> all</c><00:05:02.720><c> of</c><00:05:02.880><c> the</c><00:05:03.040><c> changes</c><00:05:03.360><c> I've</c><00:05:03.680><c> made</c><00:05:04.320><c> here.</c>
+
+00:05:04.710 --> 00:05:04.720 align:start position:0%
+see all of the changes I've made here.
+ 
+
+00:05:04.720 --> 00:05:08.469 align:start position:0%
+see all of the changes I've made here.
+For<00:05:04.800><c> example,</c><00:05:05.360><c> I</c><00:05:05.680><c> changed</c><00:05:06.240><c> a</c><00:05:06.720><c> an</c><00:05:07.039><c> image</c><00:05:07.520><c> that</c><00:05:07.840><c> I</c>
+
+00:05:08.469 --> 00:05:08.479 align:start position:0%
+For example, I changed a an image that I
+ 
+
+00:05:08.479 --> 00:05:12.390 align:start position:0%
+For example, I changed a an image that I
+um<00:05:09.199><c> that</c><00:05:09.360><c> that</c><00:05:09.600><c> went</c><00:05:09.840><c> wrong.</c><00:05:10.400><c> So,</c><00:05:10.560><c> I</c><00:05:10.720><c> had</c><00:05:10.880><c> to</c><00:05:11.120><c> to</c>
+
+00:05:12.390 --> 00:05:12.400 align:start position:0%
+um that that went wrong. So, I had to to
+ 
+
+00:05:12.400 --> 00:05:14.710 align:start position:0%
+um that that went wrong. So, I had to to
+change<00:05:12.639><c> the</c><00:05:12.880><c> code</c><00:05:13.120><c> for</c><00:05:13.280><c> this</c><00:05:13.520><c> image.</c><00:05:14.240><c> It</c><00:05:14.400><c> has</c><00:05:14.560><c> a</c>
+
+00:05:14.710 --> 00:05:14.720 align:start position:0%
+change the code for this image. It has a
+ 
+
+00:05:14.720 --> 00:05:18.230 align:start position:0%
+change the code for this image. It has a
+very<00:05:14.880><c> nice</c><00:05:15.120><c> UI</c><00:05:15.440><c> for</c><00:05:15.680><c> this.</c><00:05:16.639><c> So,</c><00:05:17.440><c> and</c><00:05:17.680><c> it</c><00:05:17.919><c> also</c>
+
+00:05:18.230 --> 00:05:18.240 align:start position:0%
+very nice UI for this. So, and it also
+ 
+
+00:05:18.240 --> 00:05:20.310 align:start position:0%
+very nice UI for this. So, and it also
+supports<00:05:18.720><c> pull</c><00:05:19.039><c> requests.</c><00:05:19.600><c> So,</c><00:05:19.840><c> there's</c><00:05:20.080><c> the</c>
+
+00:05:20.310 --> 00:05:20.320 align:start position:0%
+supports pull requests. So, there's the
+ 
+
+00:05:20.320 --> 00:05:23.110 align:start position:0%
+supports pull requests. So, there's the
+full<00:05:21.280><c> normal</c><00:05:21.680><c> pull</c><00:05:22.000><c> request</c><00:05:22.479><c> workflow</c><00:05:22.880><c> that</c>
+
+00:05:23.110 --> 00:05:23.120 align:start position:0%
+full normal pull request workflow that
+ 
+
+00:05:23.120 --> 00:05:26.150 align:start position:0%
+full normal pull request workflow that
+you<00:05:23.360><c> might</c><00:05:23.520><c> be</c><00:05:23.759><c> used</c><00:05:24.080><c> to</c><00:05:24.639><c> when</c><00:05:24.960><c> using</c><00:05:25.199><c> GitHub.</c>
+
+00:05:26.150 --> 00:05:26.160 align:start position:0%
+you might be used to when using GitHub.
+ 
+
+00:05:26.160 --> 00:05:28.629 align:start position:0%
+you might be used to when using GitHub.
+it<00:05:26.400><c> it</c><00:05:26.800><c> really</c><00:05:27.120><c> feels</c><00:05:27.520><c> almost</c><00:05:27.840><c> the</c><00:05:28.160><c> same</c><00:05:28.320><c> as</c>
+
+00:05:28.629 --> 00:05:28.639 align:start position:0%
+it it really feels almost the same as
+ 
+
+00:05:28.639 --> 00:05:30.950 align:start position:0%
+it it really feels almost the same as
+running<00:05:28.960><c> GitHub.</c><00:05:29.680><c> The</c><00:05:29.840><c> second</c><00:05:30.080><c> thing</c><00:05:30.400><c> is</c><00:05:30.639><c> that</c>
+
+00:05:30.950 --> 00:05:30.960 align:start position:0%
+running GitHub. The second thing is that
+ 
+
+00:05:30.960 --> 00:05:33.830 align:start position:0%
+running GitHub. The second thing is that
+for<00:05:31.280><c> Jio</c><00:05:31.759><c> also</c><00:05:32.160><c> provides</c><00:05:32.639><c> you</c><00:05:32.960><c> with</c><00:05:33.280><c> your</c><00:05:33.600><c> own</c>
+
+00:05:33.830 --> 00:05:33.840 align:start position:0%
+for Jio also provides you with your own
+ 
+
+00:05:33.840 --> 00:05:36.230 align:start position:0%
+for Jio also provides you with your own
+self-hosted<00:05:34.720><c> actions</c><00:05:35.280><c> runner.</c><00:05:35.840><c> In</c><00:05:36.080><c> other</c>
+
+00:05:36.230 --> 00:05:36.240 align:start position:0%
+self-hosted actions runner. In other
+ 
+
+00:05:36.240 --> 00:05:39.590 align:start position:0%
+self-hosted actions runner. In other
+words,<00:05:36.560><c> your</c><00:05:36.800><c> self-hosted</c><00:05:37.759><c> CI/CD</c><00:05:38.800><c> pipeline.</c>
+
+00:05:39.590 --> 00:05:39.600 align:start position:0%
+words, your self-hosted CI/CD pipeline.
+ 
+
+00:05:39.600 --> 00:05:43.110 align:start position:0%
+words, your self-hosted CI/CD pipeline.
+So<00:05:39.840><c> when</c><00:05:40.080><c> I</c><00:05:40.320><c> commit</c><00:05:41.199><c> some</c><00:05:41.600><c> code</c><00:05:42.160><c> to</c><00:05:42.479><c> my</c><00:05:42.720><c> blog</c>
+
+00:05:43.110 --> 00:05:43.120 align:start position:0%
+So when I commit some code to my blog
+ 
+
+00:05:43.120 --> 00:05:46.070 align:start position:0%
+So when I commit some code to my blog
+here,<00:05:43.919><c> then</c><00:05:44.160><c> a</c><00:05:44.479><c> set</c><00:05:44.639><c> of</c><00:05:44.880><c> automations</c><00:05:45.840><c> are</c>
+
+00:05:46.070 --> 00:05:46.080 align:start position:0%
+here, then a set of automations are
+ 
+
+00:05:46.080 --> 00:05:48.070 align:start position:0%
+here, then a set of automations are
+going<00:05:46.320><c> to</c><00:05:46.720><c> take</c><00:05:47.039><c> place</c><00:05:47.360><c> and</c><00:05:47.600><c> I'm</c><00:05:47.759><c> going</c><00:05:47.919><c> to</c>
+
+00:05:48.070 --> 00:05:48.080 align:start position:0%
+going to take place and I'm going to
+ 
+
+00:05:48.080 --> 00:05:50.629 align:start position:0%
+going to take place and I'm going to
+demonstrate<00:05:48.560><c> this</c><00:05:48.720><c> in</c><00:05:48.960><c> a</c><00:05:49.120><c> second.</c><00:05:50.160><c> But</c><00:05:50.320><c> these</c>
+
+00:05:50.629 --> 00:05:50.639 align:start position:0%
+demonstrate this in a second. But these
+ 
+
+00:05:50.639 --> 00:05:52.950 align:start position:0%
+demonstrate this in a second. But these
+are<00:05:50.800><c> then</c><00:05:51.120><c> going</c><00:05:51.280><c> to</c><00:05:51.440><c> take</c><00:05:51.680><c> my</c><00:05:52.000><c> code,</c><00:05:52.560><c> build</c><00:05:52.800><c> it</c>
+
+00:05:52.950 --> 00:05:52.960 align:start position:0%
+are then going to take my code, build it
+ 
+
+00:05:52.960 --> 00:05:55.430 align:start position:0%
+are then going to take my code, build it
+into<00:05:53.199><c> a</c><00:05:53.440><c> container</c><00:05:53.840><c> image</c><00:05:54.400><c> and</c><00:05:54.800><c> deploy</c><00:05:55.120><c> it</c><00:05:55.280><c> to</c>
+
+00:05:55.430 --> 00:05:55.440 align:start position:0%
+into a container image and deploy it to
+ 
+
+00:05:55.440 --> 00:05:57.430 align:start position:0%
+into a container image and deploy it to
+my<00:05:55.600><c> Kubernetes</c><00:05:56.240><c> cluster.</c><00:05:56.720><c> And</c><00:05:56.880><c> all</c><00:05:57.039><c> of</c><00:05:57.199><c> this</c>
+
+00:05:57.430 --> 00:05:57.440 align:start position:0%
+my Kubernetes cluster. And all of this
+ 
+
+00:05:57.440 --> 00:06:00.790 align:start position:0%
+my Kubernetes cluster. And all of this
+is<00:05:57.680><c> running</c><00:05:58.160><c> on</c><00:05:58.560><c> my</c><00:05:58.800><c> own</c><00:05:59.120><c> infrastructure.</c><00:06:00.400><c> So</c>
+
+00:06:00.790 --> 00:06:00.800 align:start position:0%
+is running on my own infrastructure. So
+ 
+
+00:06:00.800 --> 00:06:02.870 align:start position:0%
+is running on my own infrastructure. So
+if<00:06:01.039><c> you</c><00:06:01.199><c> have</c><00:06:01.360><c> an</c><00:06:01.520><c> open-source</c><00:06:02.240><c> project</c><00:06:02.560><c> or</c>
+
+00:06:02.870 --> 00:06:02.880 align:start position:0%
+if you have an open-source project or
+ 
+
+00:06:02.880 --> 00:06:05.270 align:start position:0%
+if you have an open-source project or
+GitHub,<00:06:03.440><c> it</c><00:06:03.680><c> is</c><00:06:03.840><c> for</c><00:06:04.080><c> free.</c><00:06:04.400><c> You</c><00:06:04.560><c> can</c><00:06:04.720><c> you</c><00:06:05.039><c> can</c>
+
+00:06:05.270 --> 00:06:05.280 align:start position:0%
+GitHub, it is for free. You can you can
+ 
+
+00:06:05.280 --> 00:06:07.830 align:start position:0%
+GitHub, it is for free. You can you can
+store<00:06:05.520><c> it</c><00:06:05.759><c> for</c><00:06:05.919><c> free</c><00:06:06.479><c> and</c><00:06:06.720><c> you</c><00:06:06.960><c> can</c><00:06:07.120><c> use</c><00:06:07.360><c> GitHub</c>
+
+00:06:07.830 --> 00:06:07.840 align:start position:0%
+store it for free and you can use GitHub
+ 
+
+00:06:07.840 --> 00:06:10.550 align:start position:0%
+store it for free and you can use GitHub
+actions<00:06:08.400><c> for</c><00:06:08.560><c> free.</c><00:06:09.520><c> However,</c><00:06:10.000><c> if</c><00:06:10.319><c> you</c><00:06:10.479><c> have</c>
+
+00:06:10.550 --> 00:06:10.560 align:start position:0%
+actions for free. However, if you have
+ 
+
+00:06:10.560 --> 00:06:12.629 align:start position:0%
+actions for free. However, if you have
+your<00:06:10.880><c> private</c><00:06:11.280><c> repos,</c><00:06:11.919><c> first</c><00:06:12.080><c> of</c><00:06:12.240><c> all,</c><00:06:12.400><c> your</c>
+
+00:06:12.629 --> 00:06:12.639 align:start position:0%
+your private repos, first of all, your
+ 
+
+00:06:12.639 --> 00:06:14.790 align:start position:0%
+your private repos, first of all, your
+code<00:06:12.880><c> is</c><00:06:13.120><c> going</c><00:06:13.199><c> to</c><00:06:13.360><c> be</c><00:06:13.520><c> scanned,</c><00:06:14.160><c> but</c><00:06:14.479><c> also</c>
+
+00:06:14.790 --> 00:06:14.800 align:start position:0%
+code is going to be scanned, but also
+ 
+
+00:06:14.800 --> 00:06:17.270 align:start position:0%
+code is going to be scanned, but also
+it's<00:06:15.360><c> a</c><00:06:15.600><c> bit</c><00:06:15.759><c> limited</c><00:06:16.240><c> what</c><00:06:16.479><c> you</c><00:06:16.720><c> can</c><00:06:16.880><c> do</c><00:06:17.039><c> with</c>
+
+00:06:17.270 --> 00:06:17.280 align:start position:0%
+it's a bit limited what you can do with
+ 
+
+00:06:17.280 --> 00:06:20.950 align:start position:0%
+it's a bit limited what you can do with
+the<00:06:17.600><c> free</c><00:06:18.000><c> GitHub</c><00:06:18.479><c> actions.</c><00:06:19.280><c> Okay.</c><00:06:20.000><c> So</c><00:06:20.160><c> I</c><00:06:20.400><c> am</c><00:06:20.639><c> I</c>
+
+00:06:20.950 --> 00:06:20.960 align:start position:0%
+the free GitHub actions. Okay. So I am I
+ 
+
+00:06:20.960 --> 00:06:24.309 align:start position:0%
+the free GitHub actions. Okay. So I am I
+have<00:06:21.199><c> completely</c><00:06:21.759><c> unlimited</c><00:06:23.199><c> um</c><00:06:23.680><c> CI/CD</c>
+
+00:06:24.309 --> 00:06:24.319 align:start position:0%
+have completely unlimited um CI/CD
+ 
+
+00:06:24.319 --> 00:06:26.390 align:start position:0%
+have completely unlimited um CI/CD
+pipelines<00:06:24.880><c> now</c><00:06:25.440><c> because</c><00:06:25.759><c> I'm</c><00:06:26.000><c> running</c><00:06:26.240><c> them</c>
+
+00:06:26.390 --> 00:06:26.400 align:start position:0%
+pipelines now because I'm running them
+ 
+
+00:06:26.400 --> 00:06:28.390 align:start position:0%
+pipelines now because I'm running them
+on<00:06:26.639><c> my</c><00:06:26.880><c> own</c><00:06:27.039><c> infrastructure.</c><00:06:27.919><c> Now</c><00:06:28.160><c> one</c>
+
+00:06:28.390 --> 00:06:28.400 align:start position:0%
+on my own infrastructure. Now one
+ 
+
+00:06:28.400 --> 00:06:30.150 align:start position:0%
+on my own infrastructure. Now one
+interesting<00:06:28.800><c> thing</c><00:06:28.960><c> is</c><00:06:29.199><c> that</c><00:06:29.520><c> you</c><00:06:29.840><c> are</c>
+
+00:06:30.150 --> 00:06:30.160 align:start position:0%
+interesting thing is that you are
+ 
+
+00:06:30.160 --> 00:06:33.189 align:start position:0%
+interesting thing is that you are
+actually<00:06:30.560><c> able</c><00:06:31.039><c> to</c><00:06:31.680><c> self-host</c><00:06:32.479><c> your</c><00:06:32.720><c> GitHub</c>
+
+00:06:33.189 --> 00:06:33.199 align:start position:0%
+actually able to self-host your GitHub
+ 
+
+00:06:33.199 --> 00:06:35.430 align:start position:0%
+actually able to self-host your GitHub
+actions<00:06:33.759><c> on</c><00:06:34.080><c> your</c><00:06:34.240><c> own</c><00:06:34.479><c> infrastructure.</c><00:06:35.280><c> So</c>
+
+00:06:35.430 --> 00:06:35.440 align:start position:0%
+actions on your own infrastructure. So
+ 
+
+00:06:35.440 --> 00:06:38.309 align:start position:0%
+actions on your own infrastructure. So
+you<00:06:35.759><c> can</c><00:06:36.000><c> use</c><00:06:36.240><c> GitHub</c><00:06:37.120><c> and</c><00:06:37.440><c> use</c><00:06:37.680><c> those</c><00:06:37.919><c> runners</c>
+
+00:06:38.309 --> 00:06:38.319 align:start position:0%
+you can use GitHub and use those runners
+ 
+
+00:06:38.319 --> 00:06:40.550 align:start position:0%
+you can use GitHub and use those runners
+on<00:06:38.560><c> your</c><00:06:38.720><c> own</c><00:06:38.880><c> infrastructure.</c><00:06:40.240><c> But</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+on your own infrastructure. But
+ 
+
+00:06:40.560 --> 00:06:43.590 align:start position:0%
+on your own infrastructure. But
+recently,<00:06:42.000><c> Microsoft</c><00:06:42.560><c> made</c><00:06:42.800><c> a</c><00:06:42.960><c> big</c><00:06:43.120><c> mistake</c>
+
+00:06:43.590 --> 00:06:43.600 align:start position:0%
+recently, Microsoft made a big mistake
+ 
+
+00:06:43.600 --> 00:06:45.110 align:start position:0%
+recently, Microsoft made a big mistake
+where<00:06:43.919><c> they</c><00:06:44.160><c> announced</c><00:06:44.560><c> that</c><00:06:44.720><c> they</c><00:06:44.960><c> were</c>
+
+00:06:45.110 --> 00:06:45.120 align:start position:0%
+where they announced that they were
+ 
+
+00:06:45.120 --> 00:06:48.309 align:start position:0%
+where they announced that they were
+going<00:06:45.360><c> to</c><00:06:45.600><c> charge</c><00:06:45.919><c> you</c><00:06:46.720><c> for</c><00:06:47.120><c> the</c><00:06:47.520><c> self-hosted</c>
+
+00:06:48.309 --> 00:06:48.319 align:start position:0%
+going to charge you for the self-hosted
+ 
+
+00:06:48.319 --> 00:06:50.469 align:start position:0%
+going to charge you for the self-hosted
+GitHub<00:06:48.720><c> runners</c><00:06:49.120><c> as</c><00:06:49.360><c> well.</c><00:06:49.840><c> They</c><00:06:50.080><c> published</c>
+
+00:06:50.469 --> 00:06:50.479 align:start position:0%
+GitHub runners as well. They published
+ 
+
+00:06:50.479 --> 00:06:52.710 align:start position:0%
+GitHub runners as well. They published
+this<00:06:50.720><c> on</c><00:06:50.960><c> the</c><00:06:51.199><c> 15th</c><00:06:51.600><c> of</c><00:06:51.840><c> December.</c><00:06:52.479><c> They</c>
+
+00:06:52.710 --> 00:06:52.720 align:start position:0%
+this on the 15th of December. They
+ 
+
+00:06:52.720 --> 00:06:54.870 align:start position:0%
+this on the 15th of December. They
+announced<00:06:53.120><c> the</c><00:06:53.360><c> pricing</c><00:06:53.759><c> changes</c><00:06:54.160><c> for</c><00:06:54.479><c> GitHub</c>
+
+00:06:54.870 --> 00:06:54.880 align:start position:0%
+announced the pricing changes for GitHub
+ 
+
+00:06:54.880 --> 00:06:59.990 align:start position:0%
+announced the pricing changes for GitHub
+actions.<00:06:56.319><c> And</c><00:06:57.120><c> uh</c><00:06:58.160><c> that</c><00:06:58.319><c> what</c><00:06:58.639><c> this</c><00:06:58.880><c> led</c><00:06:59.120><c> to</c><00:06:59.360><c> a</c>
+
+00:06:59.990 --> 00:07:00.000 align:start position:0%
+actions. And uh that what this led to a
+ 
+
+00:07:00.000 --> 00:07:03.589 align:start position:0%
+actions. And uh that what this led to a
+huge<00:07:00.479><c> backlash</c><00:07:01.199><c> on</c><00:07:01.680><c> social</c><00:07:02.080><c> media</c><00:07:02.639><c> and</c><00:07:02.880><c> X</c><00:07:03.199><c> was</c>
+
+00:07:03.589 --> 00:07:03.599 align:start position:0%
+huge backlash on social media and X was
+ 
+
+00:07:03.599 --> 00:07:06.309 align:start position:0%
+huge backlash on social media and X was
+completely<00:07:04.160><c> on</c><00:07:04.400><c> fire</c><00:07:04.720><c> about</c><00:07:05.120><c> this.</c><00:07:05.680><c> So</c><00:07:06.080><c> they</c>
+
+00:07:06.309 --> 00:07:06.319 align:start position:0%
+completely on fire about this. So they
+ 
+
+00:07:06.319 --> 00:07:08.390 align:start position:0%
+completely on fire about this. So they
+wanted<00:07:06.560><c> to</c><00:07:06.720><c> charge</c><00:07:07.039><c> you</c><00:07:07.280><c> for</c><00:07:07.599><c> running</c><00:07:08.160><c> stuff</c>
+
+00:07:08.390 --> 00:07:08.400 align:start position:0%
+wanted to charge you for running stuff
+ 
+
+00:07:08.400 --> 00:07:10.950 align:start position:0%
+wanted to charge you for running stuff
+on<00:07:08.720><c> your</c><00:07:08.880><c> own</c><00:07:09.120><c> infrastructure</c><00:07:10.160><c> and</c><00:07:10.400><c> that</c><00:07:10.720><c> did</c>
+
+00:07:10.950 --> 00:07:10.960 align:start position:0%
+on your own infrastructure and that did
+ 
+
+00:07:10.960 --> 00:07:13.270 align:start position:0%
+on your own infrastructure and that did
+not<00:07:11.120><c> sit</c><00:07:11.440><c> well</c><00:07:11.680><c> with</c><00:07:11.919><c> the</c><00:07:12.160><c> community</c><00:07:12.880><c> and</c><00:07:13.039><c> as</c>
+
+00:07:13.270 --> 00:07:13.280 align:start position:0%
+not sit well with the community and as
+ 
+
+00:07:13.280 --> 00:07:15.830 align:start position:0%
+not sit well with the community and as
+you<00:07:13.440><c> see</c><00:07:13.599><c> in</c><00:07:13.919><c> the</c><00:07:14.160><c> in</c><00:07:14.479><c> the</c><00:07:14.880><c> announcement</c><00:07:15.440><c> now</c>
+
+00:07:15.830 --> 00:07:15.840 align:start position:0%
+you see in the in the announcement now
+ 
+
+00:07:15.840 --> 00:07:18.150 align:start position:0%
+you see in the in the announcement now
+here<00:07:16.080><c> they're</c><00:07:16.319><c> saying</c><00:07:16.960><c> TLDDR</c><00:07:17.680><c> we're</c>
+
+00:07:18.150 --> 00:07:18.160 align:start position:0%
+here they're saying TLDDR we're
+ 
+
+00:07:18.160 --> 00:07:20.790 align:start position:0%
+here they're saying TLDDR we're
+postponing<00:07:18.800><c> the</c><00:07:19.039><c> announced</c><00:07:19.440><c> billing</c><00:07:19.919><c> change</c>
+
+00:07:20.790 --> 00:07:20.800 align:start position:0%
+postponing the announced billing change
+ 
+
+00:07:20.800 --> 00:07:22.629 align:start position:0%
+postponing the announced billing change
+uh<00:07:20.960><c> to</c><00:07:21.199><c> take</c><00:07:21.360><c> time</c><00:07:21.599><c> to</c><00:07:21.840><c> reevaluate</c><00:07:22.400><c> the</c>
+
+00:07:22.629 --> 00:07:22.639 align:start position:0%
+uh to take time to reevaluate the
+ 
+
+00:07:22.639 --> 00:07:26.469 align:start position:0%
+uh to take time to reevaluate the
+approach.<00:07:23.599><c> So</c><00:07:24.639><c> they</c><00:07:25.039><c> actually</c><00:07:25.440><c> came</c><00:07:25.680><c> back</c><00:07:26.080><c> and</c>
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+approach. So they actually came back and
+ 
+
+00:07:26.479 --> 00:07:30.309 align:start position:0%
+approach. So they actually came back and
+reverse<00:07:26.960><c> that</c><00:07:27.280><c> price</c><00:07:27.599><c> change.</c><00:07:28.639><c> So</c><00:07:29.199><c> they</c><00:07:29.599><c> they</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+reverse that price change. So they they
+ 
+
+00:07:30.319 --> 00:07:33.830 align:start position:0%
+reverse that price change. So they they
+lost<00:07:30.639><c> some</c><00:07:30.880><c> phase</c><00:07:31.280><c> there.</c><00:07:32.080><c> Um</c><00:07:32.479><c> so</c><00:07:32.720><c> even</c><00:07:33.039><c> though</c>
+
+00:07:33.830 --> 00:07:33.840 align:start position:0%
+lost some phase there. Um so even though
+ 
+
+00:07:33.840 --> 00:07:35.990 align:start position:0%
+lost some phase there. Um so even though
+um<00:07:34.000><c> you</c><00:07:34.319><c> can</c><00:07:34.479><c> still</c><00:07:34.639><c> do</c><00:07:34.800><c> it</c><00:07:35.039><c> for</c><00:07:35.199><c> free,</c><00:07:35.840><c> there</c>
+
+00:07:35.990 --> 00:07:36.000 align:start position:0%
+um you can still do it for free, there
+ 
+
+00:07:36.000 --> 00:07:38.390 align:start position:0%
+um you can still do it for free, there
+are<00:07:36.240><c> changes</c><00:07:36.639><c> coming.</c><00:07:37.440><c> So</c><00:07:37.680><c> this</c><00:07:37.840><c> is</c><00:07:38.000><c> also</c>
+
+00:07:38.390 --> 00:07:38.400 align:start position:0%
+are changes coming. So this is also
+ 
+
+00:07:38.400 --> 00:07:40.710 align:start position:0%
+are changes coming. So this is also
+another<00:07:38.800><c> catalyst.</c><00:07:39.599><c> I</c><00:07:39.840><c> actually</c><00:07:40.080><c> had</c><00:07:40.400><c> already</c>
+
+00:07:40.710 --> 00:07:40.720 align:start position:0%
+another catalyst. I actually had already
+ 
+
+00:07:40.720 --> 00:07:43.510 align:start position:0%
+another catalyst. I actually had already
+deployed<00:07:41.199><c> for</c><00:07:41.360><c> JO</c><00:07:41.759><c> at</c><00:07:42.000><c> that</c><00:07:42.160><c> point</c><00:07:42.880><c> but</c><00:07:43.360><c> um</c>
+
+00:07:43.510 --> 00:07:43.520 align:start position:0%
+deployed for JO at that point but um
+ 
+
+00:07:43.520 --> 00:07:45.510 align:start position:0%
+deployed for JO at that point but um
+this<00:07:43.759><c> was</c><00:07:43.919><c> actually</c><00:07:44.080><c> a</c><00:07:44.240><c> catalyst</c><00:07:44.720><c> for</c><00:07:44.960><c> me</c>
+
+00:07:45.510 --> 00:07:45.520 align:start position:0%
+this was actually a catalyst for me
+ 
+
+00:07:45.520 --> 00:07:47.990 align:start position:0%
+this was actually a catalyst for me
+knowing<00:07:45.840><c> that</c><00:07:46.160><c> okay</c><00:07:46.720><c> I</c><00:07:46.960><c> I</c><00:07:47.440><c> did</c><00:07:47.599><c> the</c><00:07:47.840><c> right</c>
+
+00:07:47.990 --> 00:07:48.000 align:start position:0%
+knowing that okay I I did the right
+ 
+
+00:07:48.000 --> 00:07:50.790 align:start position:0%
+knowing that okay I I did the right
+thing<00:07:48.160><c> here</c><00:07:48.560><c> by</c><00:07:48.880><c> going</c><00:07:49.360><c> the</c><00:07:49.599><c> self-hosted</c><00:07:50.319><c> way</c>
+
+00:07:50.790 --> 00:07:50.800 align:start position:0%
+thing here by going the self-hosted way
+ 
+
+00:07:50.800 --> 00:07:53.029 align:start position:0%
+thing here by going the self-hosted way
+and<00:07:51.120><c> hosting</c><00:07:51.520><c> my</c><00:07:51.680><c> own</c><00:07:51.919><c> git</c><00:07:52.240><c> server.</c><00:07:52.720><c> Now</c>
+
+00:07:53.029 --> 00:07:53.039 align:start position:0%
+and hosting my own git server. Now
+ 
+
+00:07:53.039 --> 00:07:55.270 align:start position:0%
+and hosting my own git server. Now
+another<00:07:53.360><c> really</c><00:07:53.599><c> cool</c><00:07:53.840><c> feature</c><00:07:54.160><c> of</c><00:07:54.479><c> 4Jo</c><00:07:55.120><c> is</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+another really cool feature of 4Jo is
+ 
+
+00:07:55.280 --> 00:07:57.510 align:start position:0%
+another really cool feature of 4Jo is
+that<00:07:55.440><c> you</c><00:07:55.680><c> can</c><00:07:55.919><c> mirror</c><00:07:56.400><c> git</c><00:07:56.720><c> repos</c><00:07:57.199><c> to</c><00:07:57.360><c> your</c>
+
+00:07:57.510 --> 00:07:57.520 align:start position:0%
+that you can mirror git repos to your
+ 
+
+00:07:57.520 --> 00:07:59.749 align:start position:0%
+that you can mirror git repos to your
+own<00:07:57.680><c> infrastructure.</c><00:07:58.560><c> So</c><00:07:58.800><c> for</c><00:07:58.960><c> example</c><00:07:59.520><c> there</c>
+
+00:07:59.749 --> 00:07:59.759 align:start position:0%
+own infrastructure. So for example there
+ 
+
+00:07:59.759 --> 00:08:02.309 align:start position:0%
+own infrastructure. So for example there
+is<00:07:59.919><c> this</c><00:08:00.160><c> UB</c><00:08:00.639><c> key</c><00:08:00.879><c> guide</c><00:08:01.199><c> that</c><00:08:01.440><c> is</c><00:08:01.599><c> a</c><00:08:01.840><c> public</c>
+
+00:08:02.309 --> 00:08:02.319 align:start position:0%
+is this UB key guide that is a public
+ 
+
+00:08:02.319 --> 00:08:05.990 align:start position:0%
+is this UB key guide that is a public
+git<00:08:02.639><c> repo</c><00:08:03.039><c> on</c><00:08:03.360><c> GitHub</c><00:08:04.479><c> but</c><00:08:04.879><c> you</c><00:08:05.199><c> can</c><00:08:05.440><c> set</c><00:08:05.680><c> this</c>
+
+00:08:05.990 --> 00:08:06.000 align:start position:0%
+git repo on GitHub but you can set this
+ 
+
+00:08:06.000 --> 00:08:09.990 align:start position:0%
+git repo on GitHub but you can set this
+up<00:08:06.160><c> as</c><00:08:06.400><c> a</c><00:08:06.639><c> mirror.</c><00:08:07.280><c> So</c><00:08:07.599><c> every</c><00:08:08.000><c> day</c><00:08:08.960><c> my</c><00:08:09.280><c> forjio</c>
+
+00:08:09.990 --> 00:08:10.000 align:start position:0%
+up as a mirror. So every day my forjio
+ 
+
+00:08:10.000 --> 00:08:13.270 align:start position:0%
+up as a mirror. So every day my forjio
+instance<00:08:10.479><c> is</c><00:08:10.879><c> going</c><00:08:11.039><c> to</c><00:08:11.199><c> check</c><00:08:11.599><c> a</c><00:08:12.160><c> se</c><00:08:12.960><c> certain</c>
+
+00:08:13.270 --> 00:08:13.280 align:start position:0%
+instance is going to check a se certain
+ 
+
+00:08:13.280 --> 00:08:15.589 align:start position:0%
+instance is going to check a se certain
+amount<00:08:13.520><c> of</c><00:08:13.759><c> repos</c><00:08:14.160><c> that</c><00:08:14.319><c> I</c><00:08:14.560><c> configured</c><00:08:15.360><c> and</c>
+
+00:08:15.589 --> 00:08:15.599 align:start position:0%
+amount of repos that I configured and
+ 
+
+00:08:15.599 --> 00:08:17.909 align:start position:0%
+amount of repos that I configured and
+it's<00:08:15.919><c> going</c><00:08:16.000><c> to</c><00:08:16.240><c> mirror</c><00:08:16.639><c> those</c><00:08:16.960><c> repos</c><00:08:17.520><c> to</c><00:08:17.680><c> my</c>
+
+00:08:17.909 --> 00:08:17.919 align:start position:0%
+it's going to mirror those repos to my
+ 
+
+00:08:17.919 --> 00:08:20.790 align:start position:0%
+it's going to mirror those repos to my
+own<00:08:18.160><c> infrastructure.</c><00:08:19.360><c> So</c><00:08:19.599><c> if</c><00:08:19.840><c> the</c><00:08:20.080><c> owner</c><00:08:20.479><c> of</c>
+
+00:08:20.790 --> 00:08:20.800 align:start position:0%
+own infrastructure. So if the owner of
+ 
+
+00:08:20.800 --> 00:08:23.749 align:start position:0%
+own infrastructure. So if the owner of
+this<00:08:21.280><c> repository</c><00:08:22.240><c> in</c><00:08:22.400><c> in</c><00:08:22.720><c> this</c><00:08:22.879><c> case</c><00:08:23.199><c> the</c><00:08:23.440><c> the</c>
+
+00:08:23.749 --> 00:08:23.759 align:start position:0%
+this repository in in this case the the
+ 
+
+00:08:23.759 --> 00:08:26.390 align:start position:0%
+this repository in in this case the the
+UB<00:08:24.240><c> key</c><00:08:24.479><c> guide</c><00:08:25.120><c> if</c><00:08:25.360><c> the</c><00:08:25.520><c> owner</c><00:08:25.919><c> for</c><00:08:26.160><c> some</c>
+
+00:08:26.390 --> 00:08:26.400 align:start position:0%
+UB key guide if the owner for some
+ 
+
+00:08:26.400 --> 00:08:28.869 align:start position:0%
+UB key guide if the owner for some
+reason<00:08:27.039><c> decides</c><00:08:27.440><c> to</c><00:08:27.680><c> take</c><00:08:27.919><c> that</c><00:08:28.160><c> repository</c>
+
+00:08:28.869 --> 00:08:28.879 align:start position:0%
+reason decides to take that repository
+ 
+
+00:08:28.879 --> 00:08:32.070 align:start position:0%
+reason decides to take that repository
+down<00:08:29.759><c> I</c><00:08:30.000><c> will</c><00:08:30.160><c> always</c><00:08:30.479><c> have</c><00:08:30.720><c> my</c><00:08:31.039><c> own</c><00:08:31.360><c> copy</c><00:08:31.840><c> of</c>
+
+00:08:32.070 --> 00:08:32.080 align:start position:0%
+down I will always have my own copy of
+ 
+
+00:08:32.080 --> 00:08:35.990 align:start position:0%
+down I will always have my own copy of
+that<00:08:32.399><c> repo</c><00:08:32.959><c> on</c><00:08:33.200><c> my</c><00:08:33.440><c> own</c><00:08:33.680><c> infrastructure.</c><00:08:35.039><c> So</c><00:08:35.839><c> I</c>
+
+00:08:35.990 --> 00:08:36.000 align:start position:0%
+that repo on my own infrastructure. So I
+ 
+
+00:08:36.000 --> 00:08:37.509 align:start position:0%
+that repo on my own infrastructure. So I
+don't<00:08:36.159><c> know</c><00:08:36.240><c> if</c><00:08:36.399><c> you've</c><00:08:36.719><c> experienced</c><00:08:37.200><c> this</c>
+
+00:08:37.509 --> 00:08:37.519 align:start position:0%
+don't know if you've experienced this
+ 
+
+00:08:37.519 --> 00:08:39.190 align:start position:0%
+don't know if you've experienced this
+but<00:08:37.760><c> there</c><00:08:37.919><c> have</c><00:08:38.159><c> been</c><00:08:38.320><c> several</c><00:08:38.800><c> projects</c>
+
+00:08:39.190 --> 00:08:39.200 align:start position:0%
+but there have been several projects
+ 
+
+00:08:39.200 --> 00:08:41.509 align:start position:0%
+but there have been several projects
+that<00:08:39.440><c> I</c><00:08:39.599><c> really</c><00:08:39.919><c> liked</c><00:08:40.640><c> that</c><00:08:40.959><c> were</c><00:08:41.120><c> taken</c>
+
+00:08:41.509 --> 00:08:41.519 align:start position:0%
+that I really liked that were taken
+ 
+
+00:08:41.519 --> 00:08:44.310 align:start position:0%
+that I really liked that were taken
+offline.<00:08:42.159><c> So</c><00:08:42.399><c> sometimes</c><00:08:43.039><c> companies</c><00:08:43.599><c> sue</c><00:08:44.000><c> open</c>
+
+00:08:44.310 --> 00:08:44.320 align:start position:0%
+offline. So sometimes companies sue open
+ 
+
+00:08:44.320 --> 00:08:46.470 align:start position:0%
+offline. So sometimes companies sue open
+source<00:08:44.640><c> projects</c><00:08:45.120><c> and</c><00:08:45.440><c> force</c><00:08:45.760><c> them</c><00:08:46.000><c> to</c><00:08:46.240><c> take</c>
+
+00:08:46.470 --> 00:08:46.480 align:start position:0%
+source projects and force them to take
+ 
+
+00:08:46.480 --> 00:08:48.470 align:start position:0%
+source projects and force them to take
+the<00:08:46.720><c> code</c><00:08:46.959><c> down.</c><00:08:47.360><c> Well,</c><00:08:47.680><c> in</c><00:08:47.839><c> the</c><00:08:48.000><c> case</c><00:08:48.160><c> that</c>
+
+00:08:48.470 --> 00:08:48.480 align:start position:0%
+the code down. Well, in the case that
+ 
+
+00:08:48.480 --> 00:08:51.030 align:start position:0%
+the code down. Well, in the case that
+happens,<00:08:49.040><c> I</c><00:08:49.200><c> will</c><00:08:49.360><c> always</c><00:08:49.680><c> have</c><00:08:49.920><c> my</c><00:08:50.160><c> own</c><00:08:50.399><c> copy,</c>
+
+00:08:51.030 --> 00:08:51.040 align:start position:0%
+happens, I will always have my own copy,
+ 
+
+00:08:51.040 --> 00:08:53.110 align:start position:0%
+happens, I will always have my own copy,
+including<00:08:51.519><c> all</c><00:08:51.680><c> of</c><00:08:51.839><c> the</c><00:08:52.080><c> commit</c><00:08:52.399><c> history.</c><00:08:52.959><c> And</c>
+
+00:08:53.110 --> 00:08:53.120 align:start position:0%
+including all of the commit history. And
+ 
+
+00:08:53.120 --> 00:08:54.949 align:start position:0%
+including all of the commit history. And
+note,<00:08:53.440><c> this</c><00:08:53.680><c> includes</c><00:08:54.000><c> the</c><00:08:54.320><c> full</c><00:08:54.560><c> commit</c>
+
+00:08:54.949 --> 00:08:54.959 align:start position:0%
+note, this includes the full commit
+ 
+
+00:08:54.959 --> 00:08:56.790 align:start position:0%
+note, this includes the full commit
+history.<00:08:55.440><c> Okay?</c><00:08:55.680><c> So,</c><00:08:55.839><c> I</c><00:08:56.000><c> have</c><00:08:56.160><c> the</c><00:08:56.480><c> full</c>
+
+00:08:56.790 --> 00:08:56.800 align:start position:0%
+history. Okay? So, I have the full
+ 
+
+00:08:56.800 --> 00:08:59.190 align:start position:0%
+history. Okay? So, I have the full
+history<00:08:57.200><c> of</c><00:08:57.519><c> the</c><00:08:57.760><c> repository</c><00:08:58.480><c> available</c><00:08:58.959><c> to</c>
+
+00:08:59.190 --> 00:08:59.200 align:start position:0%
+history of the repository available to
+ 
+
+00:08:59.200 --> 00:09:01.990 align:start position:0%
+history of the repository available to
+me<00:08:59.519><c> on</c><00:08:59.839><c> my</c><00:09:00.080><c> own</c><00:09:00.320><c> self-hosted</c><00:09:01.040><c> infrastructure.</c>
+
+00:09:01.990 --> 00:09:02.000 align:start position:0%
+me on my own self-hosted infrastructure.
+ 
+
+00:09:02.000 --> 00:09:04.070 align:start position:0%
+me on my own self-hosted infrastructure.
+So,<00:09:02.160><c> I</c><00:09:02.399><c> always</c><00:09:02.720><c> have</c><00:09:02.880><c> a</c><00:09:03.040><c> copy</c><00:09:03.360><c> of</c><00:09:03.519><c> the</c><00:09:03.760><c> source</c>
+
+00:09:04.070 --> 00:09:04.080 align:start position:0%
+So, I always have a copy of the source
+ 
+
+00:09:04.080 --> 00:09:06.470 align:start position:0%
+So, I always have a copy of the source
+code<00:09:04.320><c> on</c><00:09:04.560><c> my</c><00:09:04.800><c> own</c><00:09:04.959><c> infrastructure</c><00:09:05.839><c> and</c><00:09:06.080><c> I</c><00:09:06.320><c> can</c>
+
+00:09:06.470 --> 00:09:06.480 align:start position:0%
+code on my own infrastructure and I can
+ 
+
+00:09:06.480 --> 00:09:08.870 align:start position:0%
+code on my own infrastructure and I can
+keep<00:09:06.800><c> developing</c><00:09:07.279><c> on</c><00:09:07.519><c> it</c><00:09:07.680><c> if</c><00:09:07.920><c> I</c><00:09:08.160><c> want</c><00:09:08.240><c> to.</c><00:09:08.640><c> Now,</c>
+
+00:09:08.870 --> 00:09:08.880 align:start position:0%
+keep developing on it if I want to. Now,
+ 
+
+00:09:08.880 --> 00:09:11.509 align:start position:0%
+keep developing on it if I want to. Now,
+when<00:09:09.040><c> I</c><00:09:09.200><c> decided</c><00:09:09.600><c> to</c><00:09:10.160><c> self-host</c><00:09:10.800><c> my</c><00:09:11.040><c> own</c><00:09:11.200><c> git</c>
+
+00:09:11.509 --> 00:09:11.519 align:start position:0%
+when I decided to self-host my own git
+ 
+
+00:09:11.519 --> 00:09:13.110 align:start position:0%
+when I decided to self-host my own git
+server,<00:09:12.000><c> there</c><00:09:12.160><c> were</c><00:09:12.320><c> a</c><00:09:12.480><c> few</c><00:09:12.640><c> alternatives</c>
+
+00:09:13.110 --> 00:09:13.120 align:start position:0%
+server, there were a few alternatives
+ 
+
+00:09:13.120 --> 00:09:15.030 align:start position:0%
+server, there were a few alternatives
+that<00:09:13.360><c> I</c><00:09:13.600><c> considered.</c><00:09:14.240><c> One</c><00:09:14.399><c> of</c><00:09:14.560><c> them</c><00:09:14.720><c> is</c>
+
+00:09:15.030 --> 00:09:15.040 align:start position:0%
+that I considered. One of them is
+ 
+
+00:09:15.040 --> 00:09:17.190 align:start position:0%
+that I considered. One of them is
+GitLab.<00:09:15.760><c> that</c><00:09:16.000><c> is</c><00:09:16.160><c> actually</c><00:09:16.480><c> the</c><00:09:16.880><c> most</c>
+
+00:09:17.190 --> 00:09:17.200 align:start position:0%
+GitLab. that is actually the most
+ 
+
+00:09:17.200 --> 00:09:20.310 align:start position:0%
+GitLab. that is actually the most
+obvious<00:09:17.600><c> one.</c><00:09:18.160><c> This</c><00:09:18.399><c> is</c><00:09:18.720><c> a</c><00:09:19.519><c> alternative</c><00:09:20.080><c> to</c>
+
+00:09:20.310 --> 00:09:20.320 align:start position:0%
+obvious one. This is a alternative to
+ 
+
+00:09:20.320 --> 00:09:23.110 align:start position:0%
+obvious one. This is a alternative to
+GitHub<00:09:20.959><c> which</c><00:09:21.200><c> is</c><00:09:21.360><c> used</c><00:09:21.680><c> a</c><00:09:22.000><c> lot</c><00:09:22.080><c> in</c><00:09:22.399><c> enterprise</c>
+
+00:09:23.110 --> 00:09:23.120 align:start position:0%
+GitHub which is used a lot in enterprise
+ 
+
+00:09:23.120 --> 00:09:26.230 align:start position:0%
+GitHub which is used a lot in enterprise
+as<00:09:23.440><c> well</c><00:09:24.000><c> and</c><00:09:24.240><c> I</c><00:09:24.480><c> I</c><00:09:24.880><c> kind</c><00:09:25.040><c> of</c><00:09:25.200><c> lean</c><00:09:25.680><c> towards</c>
+
+00:09:26.230 --> 00:09:26.240 align:start position:0%
+as well and I I kind of lean towards
+ 
+
+00:09:26.240 --> 00:09:29.190 align:start position:0%
+as well and I I kind of lean towards
+this<00:09:26.480><c> one</c><00:09:26.959><c> because</c><00:09:27.360><c> it</c><00:09:27.680><c> would</c><00:09:27.839><c> also</c><00:09:28.240><c> give</c><00:09:28.480><c> me</c>
+
+00:09:29.190 --> 00:09:29.200 align:start position:0%
+this one because it would also give me
+ 
+
+00:09:29.200 --> 00:09:32.070 align:start position:0%
+this one because it would also give me
+um<00:09:29.440><c> experience</c><00:09:29.920><c> with</c><00:09:30.160><c> GitLab</c><00:09:30.800><c> and</c><00:09:31.200><c> in</c><00:09:31.440><c> fact</c><00:09:31.760><c> I</c>
+
+00:09:32.070 --> 00:09:32.080 align:start position:0%
+um experience with GitLab and in fact I
+ 
+
+00:09:32.080 --> 00:09:34.470 align:start position:0%
+um experience with GitLab and in fact I
+worked<00:09:32.320><c> with</c><00:09:32.480><c> GitLab</c><00:09:33.040><c> in</c><00:09:33.279><c> my</c><00:09:33.519><c> first</c><00:09:33.920><c> DevOps</c>
+
+00:09:34.470 --> 00:09:34.480 align:start position:0%
+worked with GitLab in my first DevOps
+ 
+
+00:09:34.480 --> 00:09:37.110 align:start position:0%
+worked with GitLab in my first DevOps
+job.<00:09:35.040><c> We</c><00:09:35.279><c> were</c><00:09:35.600><c> running</c><00:09:35.839><c> our</c><00:09:36.160><c> own</c><00:09:36.399><c> self-hosted</c>
+
+00:09:37.110 --> 00:09:37.120 align:start position:0%
+job. We were running our own self-hosted
+ 
+
+00:09:37.120 --> 00:09:39.670 align:start position:0%
+job. We were running our own self-hosted
+GitLab<00:09:37.600><c> instances.</c><00:09:38.640><c> So</c><00:09:38.800><c> in</c><00:09:38.959><c> that</c><00:09:39.120><c> sense</c><00:09:39.440><c> it</c>
+
+00:09:39.670 --> 00:09:39.680 align:start position:0%
+GitLab instances. So in that sense it
+ 
+
+00:09:39.680 --> 00:09:42.550 align:start position:0%
+GitLab instances. So in that sense it
+made<00:09:39.839><c> sense</c><00:09:40.080><c> for</c><00:09:40.320><c> me</c><00:09:40.480><c> to</c><00:09:40.800><c> continue</c><00:09:41.200><c> with</c><00:09:41.519><c> that.</c>
+
+00:09:42.550 --> 00:09:42.560 align:start position:0%
+made sense for me to continue with that.
+ 
+
+00:09:42.560 --> 00:09:46.550 align:start position:0%
+made sense for me to continue with that.
+But<00:09:42.880><c> GitLab</c><00:09:43.600><c> is</c><00:09:44.560><c> quite</c><00:09:44.959><c> advanced</c><00:09:45.440><c> to</c><00:09:45.680><c> host.</c><00:09:46.320><c> It</c>
+
+00:09:46.550 --> 00:09:46.560 align:start position:0%
+But GitLab is quite advanced to host. It
+ 
+
+00:09:46.560 --> 00:09:48.389 align:start position:0%
+But GitLab is quite advanced to host. It
+involves<00:09:46.959><c> a</c><00:09:47.200><c> lot</c><00:09:47.279><c> of</c><00:09:47.360><c> things</c><00:09:47.760><c> especially</c><00:09:48.160><c> if</c>
+
+00:09:48.389 --> 00:09:48.399 align:start position:0%
+involves a lot of things especially if
+ 
+
+00:09:48.399 --> 00:09:50.949 align:start position:0%
+involves a lot of things especially if
+you're<00:09:48.560><c> hosting</c><00:09:48.880><c> it</c><00:09:49.040><c> on</c><00:09:49.200><c> Kubernetes</c><00:09:50.560><c> and</c>
+
+00:09:50.949 --> 00:09:50.959 align:start position:0%
+you're hosting it on Kubernetes and
+ 
+
+00:09:50.959 --> 00:09:55.110 align:start position:0%
+you're hosting it on Kubernetes and
+frankly<00:09:51.519><c> for</c><00:09:51.920><c> my</c><00:09:52.160><c> own</c><00:09:52.480><c> use</c><00:09:52.720><c> case</c><00:09:53.279><c> I</c><00:09:54.320><c> was</c><00:09:54.880><c> a</c>
+
+00:09:55.110 --> 00:09:55.120 align:start position:0%
+frankly for my own use case I was a
+ 
+
+00:09:55.120 --> 00:09:56.949 align:start position:0%
+frankly for my own use case I was a
+little<00:09:55.279><c> bit</c><00:09:55.440><c> too</c><00:09:55.600><c> much.</c><00:09:55.839><c> It</c><00:09:56.080><c> was</c><00:09:56.160><c> a</c><00:09:56.399><c> very</c><00:09:56.640><c> much</c>
+
+00:09:56.949 --> 00:09:56.959 align:start position:0%
+little bit too much. It was a very much
+ 
+
+00:09:56.959 --> 00:09:59.350 align:start position:0%
+little bit too much. It was a very much
+overkill.<00:09:57.760><c> And</c><00:09:57.920><c> then</c><00:09:58.080><c> the</c><00:09:58.320><c> second</c><00:09:58.560><c> one</c><00:09:59.120><c> that</c>
+
+00:09:59.350 --> 00:09:59.360 align:start position:0%
+overkill. And then the second one that
+ 
+
+00:09:59.360 --> 00:10:02.790 align:start position:0%
+overkill. And then the second one that
+that<00:09:59.760><c> I</c><00:09:59.920><c> considered</c><00:10:00.399><c> was</c><00:10:00.640><c> Gy.</c><00:10:01.839><c> Now,</c><00:10:02.160><c> gy</c>
+
+00:10:02.790 --> 00:10:02.800 align:start position:0%
+that I considered was Gy. Now, gy
+ 
+
+00:10:02.800 --> 00:10:04.150 align:start position:0%
+that I considered was Gy. Now, gy
+there's<00:10:03.040><c> I</c><00:10:03.279><c> don't</c><00:10:03.440><c> think</c><00:10:03.600><c> there's</c><00:10:03.839><c> anything</c>
+
+00:10:04.150 --> 00:10:04.160 align:start position:0%
+there's I don't think there's anything
+ 
+
+00:10:04.160 --> 00:10:06.710 align:start position:0%
+there's I don't think there's anything
+wrong<00:10:04.399><c> with</c><00:10:04.560><c> it.</c><00:10:05.440><c> But</c><00:10:05.600><c> Gy</c><00:10:06.080><c> used</c><00:10:06.240><c> to</c><00:10:06.399><c> be</c><00:10:06.480><c> an</c>
+
+00:10:06.710 --> 00:10:06.720 align:start position:0%
+wrong with it. But Gy used to be an
+ 
+
+00:10:06.720 --> 00:10:10.389 align:start position:0%
+wrong with it. But Gy used to be an
+open-source<00:10:08.000><c> free</c><00:10:08.399><c> project</c><00:10:09.600><c> which</c><00:10:09.839><c> was</c><00:10:10.080><c> then</c>
+
+00:10:10.389 --> 00:10:10.399 align:start position:0%
+open-source free project which was then
+ 
+
+00:10:10.399 --> 00:10:13.750 align:start position:0%
+open-source free project which was then
+acquired<00:10:10.959><c> by</c><00:10:11.120><c> a</c><00:10:11.360><c> company</c><00:10:11.920><c> which</c><00:10:12.320><c> now</c><00:10:13.040><c> has</c>
+
+00:10:13.750 --> 00:10:13.760 align:start position:0%
+acquired by a company which now has
+ 
+
+00:10:13.760 --> 00:10:16.470 align:start position:0%
+acquired by a company which now has
+offered<00:10:14.160><c> a</c><00:10:14.640><c> SAS</c><00:10:15.120><c> version</c><00:10:15.360><c> of</c><00:10:15.519><c> this</c><00:10:15.839><c> as</c><00:10:16.079><c> well.</c>
+
+00:10:16.470 --> 00:10:16.480 align:start position:0%
+offered a SAS version of this as well.
+ 
+
+00:10:16.480 --> 00:10:18.949 align:start position:0%
+offered a SAS version of this as well.
+So<00:10:16.640><c> you</c><00:10:16.880><c> can</c><00:10:17.040><c> still</c><00:10:17.440><c> run</c><00:10:17.680><c> it</c><00:10:18.000><c> for</c><00:10:18.240><c> free.</c><00:10:18.720><c> It's</c>
+
+00:10:18.949 --> 00:10:18.959 align:start position:0%
+So you can still run it for free. It's
+ 
+
+00:10:18.959 --> 00:10:21.030 align:start position:0%
+So you can still run it for free. It's
+still<00:10:19.200><c> open</c><00:10:19.519><c> source.</c><00:10:20.320><c> So</c><00:10:20.480><c> there's</c><00:10:20.800><c> nothing</c>
+
+00:10:21.030 --> 00:10:21.040 align:start position:0%
+still open source. So there's nothing
+ 
+
+00:10:21.040 --> 00:10:23.590 align:start position:0%
+still open source. So there's nothing
+wrong<00:10:21.200><c> with</c><00:10:21.360><c> that</c><00:10:21.600><c> in</c><00:10:21.839><c> that</c><00:10:22.000><c> sense.</c><00:10:23.040><c> But</c><00:10:23.360><c> there</c>
+
+00:10:23.590 --> 00:10:23.600 align:start position:0%
+wrong with that in that sense. But there
+ 
+
+00:10:23.600 --> 00:10:26.790 align:start position:0%
+wrong with that in that sense. But there
+was<00:10:23.839><c> a</c><00:10:24.079><c> huge</c><00:10:24.720><c> row</c><00:10:24.959><c> about</c><00:10:25.200><c> this</c><00:10:25.519><c> when</c><00:10:26.000><c> the</c><00:10:26.720><c> the</c>
+
+00:10:26.790 --> 00:10:26.800 align:start position:0%
+was a huge row about this when the the
+ 
+
+00:10:26.800 --> 00:10:29.990 align:start position:0%
+was a huge row about this when the the
+the<00:10:27.680><c> project</c><00:10:28.000><c> was</c><00:10:28.240><c> acquired</c><00:10:29.120><c> and</c><00:10:29.440><c> actually</c><00:10:29.760><c> it</c>
+
+00:10:29.990 --> 00:10:30.000 align:start position:0%
+the project was acquired and actually it
+ 
+
+00:10:30.000 --> 00:10:33.509 align:start position:0%
+the project was acquired and actually it
+was<00:10:30.160><c> forked</c><00:10:31.200><c> by</c><00:10:31.600><c> a</c><00:10:31.920><c> group</c><00:10:32.160><c> of</c><00:10:32.399><c> people</c><00:10:32.800><c> who</c><00:10:33.120><c> then</c>
+
+00:10:33.509 --> 00:10:33.519 align:start position:0%
+was forked by a group of people who then
+ 
+
+00:10:33.519 --> 00:10:37.030 align:start position:0%
+was forked by a group of people who then
+started<00:10:34.079><c> forj</c><00:10:35.279><c> and</c><00:10:35.839><c> the</c><00:10:36.160><c> reason</c><00:10:36.320><c> why</c><00:10:36.560><c> I</c><00:10:36.800><c> then</c>
+
+00:10:37.030 --> 00:10:37.040 align:start position:0%
+started forj and the reason why I then
+ 
+
+00:10:37.040 --> 00:10:40.550 align:start position:0%
+started forj and the reason why I then
+chose<00:10:37.360><c> for</c><00:10:37.600><c> Jio</c><00:10:38.480><c> is</c><00:10:38.720><c> because</c><00:10:39.120><c> they</c><00:10:39.680><c> actually</c>
+
+00:10:40.550 --> 00:10:40.560 align:start position:0%
+chose for Jio is because they actually
+ 
+
+00:10:40.560 --> 00:10:43.829 align:start position:0%
+chose for Jio is because they actually
+say<00:10:40.959><c> it's</c><00:10:41.200><c> a</c><00:10:41.360><c> guaranteed</c><00:10:42.079><c> 100%</c><00:10:42.880><c> free</c><00:10:43.200><c> software</c>
+
+00:10:43.829 --> 00:10:43.839 align:start position:0%
+say it's a guaranteed 100% free software
+ 
+
+00:10:43.839 --> 00:10:47.110 align:start position:0%
+say it's a guaranteed 100% free software
+forever.<00:10:44.560><c> So</c><00:10:44.880><c> when</c><00:10:45.200><c> Gy</c><00:10:45.760><c> was</c><00:10:45.920><c> acquired,</c><00:10:46.720><c> it</c><00:10:46.959><c> was</c>
+
+00:10:47.110 --> 00:10:47.120 align:start position:0%
+forever. So when Gy was acquired, it was
+ 
+
+00:10:47.120 --> 00:10:49.670 align:start position:0%
+forever. So when Gy was acquired, it was
+forked<00:10:48.000><c> and</c><00:10:48.240><c> a</c><00:10:48.480><c> group</c><00:10:48.640><c> of</c><00:10:48.880><c> people</c><00:10:49.200><c> went</c><00:10:49.440><c> with</c>
+
+00:10:49.670 --> 00:10:49.680 align:start position:0%
+forked and a group of people went with
+ 
+
+00:10:49.680 --> 00:10:52.949 align:start position:0%
+forked and a group of people went with
+it<00:10:50.000><c> and</c><00:10:50.399><c> basically</c><00:10:51.760><c> created</c><00:10:52.160><c> an</c><00:10:52.399><c> open-source</c>
+
+00:10:52.949 --> 00:10:52.959 align:start position:0%
+it and basically created an open-source
+ 
+
+00:10:52.959 --> 00:10:55.430 align:start position:0%
+it and basically created an open-source
+project<00:10:53.519><c> which</c><00:10:53.839><c> is</c><00:10:54.160><c> completely</c><00:10:54.880><c> guaranteed</c>
+
+00:10:55.430 --> 00:10:55.440 align:start position:0%
+project which is completely guaranteed
+ 
+
+00:10:55.440 --> 00:10:59.350 align:start position:0%
+project which is completely guaranteed
+100%<00:10:56.160><c> free</c><00:10:56.480><c> and</c><00:10:56.720><c> open</c><00:10:57.040><c> source</c><00:10:57.680><c> forever</c><00:10:58.800><c> and</c>
+
+00:10:59.350 --> 00:10:59.360 align:start position:0%
+100% free and open source forever and
+ 
+
+00:10:59.360 --> 00:11:02.550 align:start position:0%
+100% free and open source forever and
+this<00:11:00.079><c> resonated</c><00:11:00.640><c> with</c><00:11:00.880><c> me</c><00:11:01.360><c> and</c><00:11:01.680><c> I</c><00:11:01.920><c> decided</c><00:11:02.320><c> I</c>
+
+00:11:02.550 --> 00:11:02.560 align:start position:0%
+this resonated with me and I decided I
+ 
+
+00:11:02.560 --> 00:11:04.389 align:start position:0%
+this resonated with me and I decided I
+wanted<00:11:02.800><c> to</c><00:11:03.040><c> support</c><00:11:03.360><c> this</c><00:11:03.600><c> project</c><00:11:03.920><c> as</c><00:11:04.160><c> well.</c>
+
+00:11:04.389 --> 00:11:04.399 align:start position:0%
+wanted to support this project as well.
+ 
+
+00:11:04.399 --> 00:11:06.790 align:start position:0%
+wanted to support this project as well.
+And<00:11:04.640><c> what's</c><00:11:04.880><c> really</c><00:11:05.120><c> cool</c><00:11:05.360><c> about</c><00:11:05.519><c> this</c><00:11:05.920><c> is</c><00:11:06.560><c> if</c>
+
+00:11:06.790 --> 00:11:06.800 align:start position:0%
+And what's really cool about this is if
+ 
+
+00:11:06.800 --> 00:11:09.110 align:start position:0%
+And what's really cool about this is if
+you<00:11:07.040><c> if</c><00:11:07.279><c> you're</c><00:11:07.440><c> aware</c><00:11:07.680><c> of</c><00:11:08.000><c> codeberg,</c><00:11:08.880><c> which</c>
+
+00:11:09.110 --> 00:11:09.120 align:start position:0%
+you if you're aware of codeberg, which
+ 
+
+00:11:09.120 --> 00:11:11.350 align:start position:0%
+you if you're aware of codeberg, which
+is<00:11:09.279><c> basically</c><00:11:09.760><c> a</c><00:11:10.079><c> free</c><00:11:10.480><c> and</c><00:11:10.720><c> open-</c><00:11:11.040><c> source</c>
+
+00:11:11.350 --> 00:11:11.360 align:start position:0%
+is basically a free and open- source
+ 
+
+00:11:11.360 --> 00:11:14.550 align:start position:0%
+is basically a free and open- source
+alternative<00:11:12.000><c> to</c><00:11:12.320><c> GitHub,</c><00:11:13.120><c> well,</c><00:11:13.440><c> Codeberg</c><00:11:14.240><c> is</c>
+
+00:11:14.550 --> 00:11:14.560 align:start position:0%
+alternative to GitHub, well, Codeberg is
+ 
+
+00:11:14.560 --> 00:11:18.310 align:start position:0%
+alternative to GitHub, well, Codeberg is
+actually<00:11:15.040><c> being</c><00:11:15.760><c> run</c><00:11:16.640><c> on</c><00:11:17.040><c> forj.</c><00:11:17.839><c> So</c><00:11:18.079><c> they're</c>
+
+00:11:18.310 --> 00:11:18.320 align:start position:0%
+actually being run on forj. So they're
+ 
+
+00:11:18.320 --> 00:11:21.750 align:start position:0%
+actually being run on forj. So they're
+using<00:11:18.640><c> 4Jo</c><00:11:19.519><c> to</c><00:11:19.839><c> provide</c><00:11:20.320><c> this</c><00:11:20.640><c> Git</c><00:11:20.959><c> instance.</c>
+
+00:11:21.750 --> 00:11:21.760 align:start position:0%
+using 4Jo to provide this Git instance.
+ 
+
+00:11:21.760 --> 00:11:23.750 align:start position:0%
+using 4Jo to provide this Git instance.
+And<00:11:21.920><c> I</c><00:11:22.160><c> thought</c><00:11:22.320><c> this</c><00:11:22.480><c> was</c><00:11:22.640><c> really</c><00:11:22.959><c> cool.</c><00:11:23.519><c> So</c>
+
+00:11:23.750 --> 00:11:23.760 align:start position:0%
+And I thought this was really cool. So
+ 
+
+00:11:23.760 --> 00:11:25.829 align:start position:0%
+And I thought this was really cool. So
+Codeberg<00:11:24.399><c> is</c><00:11:24.640><c> basically</c><00:11:25.040><c> a</c><00:11:25.279><c> big</c><00:11:25.519><c> middle</c>
+
+00:11:25.829 --> 00:11:25.839 align:start position:0%
+Codeberg is basically a big middle
+ 
+
+00:11:25.839 --> 00:11:27.590 align:start position:0%
+Codeberg is basically a big middle
+finger<00:11:26.160><c> to</c><00:11:26.480><c> GitHub</c><00:11:26.959><c> and</c><00:11:27.200><c> the</c><00:11:27.360><c> big</c>
+
+00:11:27.590 --> 00:11:27.600 align:start position:0%
+finger to GitHub and the big
+ 
+
+00:11:27.600 --> 00:11:29.750 align:start position:0%
+finger to GitHub and the big
+corporations<00:11:28.399><c> because</c><00:11:28.720><c> they</c><00:11:29.120><c> provide</c><00:11:29.519><c> a</c>
+
+00:11:29.750 --> 00:11:29.760 align:start position:0%
+corporations because they provide a
+ 
+
+00:11:29.760 --> 00:11:32.949 align:start position:0%
+corporations because they provide a
+nonprofit<00:11:30.640><c> community-led</c><00:11:32.079><c> open-source</c>
+
+00:11:32.949 --> 00:11:32.959 align:start position:0%
+nonprofit community-led open-source
+ 
+
+00:11:32.959 --> 00:11:35.750 align:start position:0%
+nonprofit community-led open-source
+alternative<00:11:33.600><c> to</c><00:11:33.839><c> them</c><00:11:34.560><c> and</c><00:11:34.880><c> they</c><00:11:35.120><c> are</c><00:11:35.279><c> using</c>
+
+00:11:35.750 --> 00:11:35.760 align:start position:0%
+alternative to them and they are using
+ 
+
+00:11:35.760 --> 00:11:38.790 align:start position:0%
+alternative to them and they are using
+forjo<00:11:36.560><c> to</c><00:11:36.800><c> run</c><00:11:37.040><c> this.</c><00:11:37.839><c> So</c><00:11:38.160><c> I</c><00:11:38.399><c> think</c><00:11:38.480><c> this</c><00:11:38.720><c> is</c>
+
+00:11:38.790 --> 00:11:38.800 align:start position:0%
+forjo to run this. So I think this is
+ 
+
+00:11:38.800 --> 00:11:41.910 align:start position:0%
+forjo to run this. So I think this is
+very<00:11:39.120><c> admirable</c><00:11:39.839><c> and</c><00:11:40.160><c> I</c><00:11:40.720><c> I</c><00:11:40.959><c> think</c><00:11:41.120><c> they</c>
+
+00:11:41.910 --> 00:11:41.920 align:start position:0%
+very admirable and I I think they
+ 
+
+00:11:41.920 --> 00:11:43.910 align:start position:0%
+very admirable and I I think they
+deserve<00:11:42.320><c> all</c><00:11:42.640><c> the</c><00:11:42.800><c> support</c><00:11:43.200><c> they</c><00:11:43.440><c> they</c><00:11:43.760><c> can</c>
+
+00:11:43.910 --> 00:11:43.920 align:start position:0%
+deserve all the support they they can
+ 
+
+00:11:43.920 --> 00:11:47.030 align:start position:0%
+deserve all the support they they can
+get.<00:11:44.399><c> So</c><00:11:44.640><c> I</c><00:11:45.040><c> actually</c><00:11:45.440><c> donate</c><00:11:45.920><c> money</c><00:11:46.160><c> to</c><00:11:46.480><c> 4JO</c>
+
+00:11:47.030 --> 00:11:47.040 align:start position:0%
+get. So I actually donate money to 4JO
+ 
+
+00:11:47.040 --> 00:11:48.870 align:start position:0%
+get. So I actually donate money to 4JO
+every<00:11:47.360><c> single</c><00:11:47.600><c> month</c><00:11:47.920><c> because</c><00:11:48.240><c> I</c><00:11:48.480><c> think</c><00:11:48.560><c> it's</c>
+
+00:11:48.870 --> 00:11:48.880 align:start position:0%
+every single month because I think it's
+ 
+
+00:11:48.880 --> 00:11:51.269 align:start position:0%
+every single month because I think it's
+such<00:11:49.120><c> a</c><00:11:49.360><c> good</c><00:11:49.760><c> project.</c><00:11:50.399><c> It</c><00:11:50.640><c> works</c><00:11:50.959><c> really</c>
+
+00:11:51.269 --> 00:11:51.279 align:start position:0%
+such a good project. It works really
+ 
+
+00:11:51.279 --> 00:11:53.430 align:start position:0%
+such a good project. It works really
+well.<00:11:52.000><c> And</c><00:11:52.240><c> also</c><00:11:52.640><c> because</c><00:11:52.959><c> of</c><00:11:53.200><c> their</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+well. And also because of their
+ 
+
+00:11:53.440 --> 00:11:55.990 align:start position:0%
+well. And also because of their
+commitment<00:11:53.839><c> to</c><00:11:54.160><c> being</c><00:11:54.480><c> guaranteed</c><00:11:55.120><c> 100%</c><00:11:55.760><c> free</c>
+
+00:11:55.990 --> 00:11:56.000 align:start position:0%
+commitment to being guaranteed 100% free
+ 
+
+00:11:56.000 --> 00:11:58.630 align:start position:0%
+commitment to being guaranteed 100% free
+and<00:11:56.240><c> open</c><00:11:56.560><c> source,</c><00:11:57.440><c> I</c><00:11:57.760><c> think</c><00:11:57.920><c> they</c><00:11:58.240><c> deserve</c>
+
+00:11:58.630 --> 00:11:58.640 align:start position:0%
+and open source, I think they deserve
+ 
+
+00:11:58.640 --> 00:12:00.949 align:start position:0%
+and open source, I think they deserve
+all<00:11:58.800><c> of</c><00:11:58.959><c> the</c><00:11:59.120><c> support</c><00:11:59.440><c> they</c><00:11:59.680><c> can</c><00:11:59.839><c> get.</c><00:12:00.640><c> And</c>
+
+00:12:00.949 --> 00:12:00.959 align:start position:0%
+all of the support they can get. And
+ 
+
+00:12:00.959 --> 00:12:02.870 align:start position:0%
+all of the support they can get. And
+just<00:12:01.200><c> to</c><00:12:01.440><c> be</c><00:12:01.519><c> clear,</c><00:12:01.839><c> I</c><00:12:02.000><c> am</c><00:12:02.079><c> not</c><00:12:02.240><c> affiliated</c>
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+just to be clear, I am not affiliated
+ 
+
+00:12:02.880 --> 00:12:06.389 align:start position:0%
+just to be clear, I am not affiliated
+with<00:12:03.120><c> them,</c><00:12:03.600><c> but</c><00:12:03.839><c> I</c><00:12:04.079><c> just</c><00:12:04.320><c> want</c><00:12:04.480><c> to</c><00:12:05.680><c> use</c><00:12:06.000><c> my</c>
+
+00:12:06.389 --> 00:12:06.399 align:start position:0%
+with them, but I just want to use my
+ 
+
+00:12:06.399 --> 00:12:09.110 align:start position:0%
+with them, but I just want to use my
+audience<00:12:06.959><c> and</c><00:12:07.200><c> my</c><00:12:07.440><c> reach</c><00:12:07.839><c> to</c><00:12:08.160><c> expose</c><00:12:08.560><c> as</c><00:12:08.880><c> many</c>
+
+00:12:09.110 --> 00:12:09.120 align:start position:0%
+audience and my reach to expose as many
+ 
+
+00:12:09.120 --> 00:12:11.030 align:start position:0%
+audience and my reach to expose as many
+people<00:12:09.360><c> as</c><00:12:09.600><c> possible</c><00:12:10.000><c> to</c><00:12:10.320><c> this</c><00:12:10.560><c> wonderful</c>
+
+00:12:11.030 --> 00:12:11.040 align:start position:0%
+people as possible to this wonderful
+ 
+
+00:12:11.040 --> 00:12:13.269 align:start position:0%
+people as possible to this wonderful
+project<00:12:11.760><c> because</c><00:12:12.079><c> they</c><00:12:12.399><c> deserve</c><00:12:12.800><c> all</c><00:12:12.959><c> of</c><00:12:13.120><c> the</c>
+
+00:12:13.269 --> 00:12:13.279 align:start position:0%
+project because they deserve all of the
+ 
+
+00:12:13.279 --> 00:12:15.030 align:start position:0%
+project because they deserve all of the
+support<00:12:13.519><c> that</c><00:12:13.760><c> they</c><00:12:13.920><c> can</c><00:12:14.079><c> get.</c><00:12:14.399><c> And</c><00:12:14.720><c> another</c>
+
+00:12:15.030 --> 00:12:15.040 align:start position:0%
+support that they can get. And another
+ 
+
+00:12:15.040 --> 00:12:17.430 align:start position:0%
+support that they can get. And another
+interesting<00:12:15.440><c> thing</c><00:12:15.680><c> about</c><00:12:15.920><c> forj</c><00:12:16.880><c> and</c><00:12:17.120><c> which</c>
+
+00:12:17.430 --> 00:12:17.440 align:start position:0%
+interesting thing about forj and which
+ 
+
+00:12:17.440 --> 00:12:20.310 align:start position:0%
+interesting thing about forj and which
+also<00:12:17.760><c> influenced</c><00:12:18.240><c> my</c><00:12:18.560><c> choice</c><00:12:19.040><c> is</c><00:12:19.360><c> because</c><00:12:19.839><c> the</c>
+
+00:12:20.310 --> 00:12:20.320 align:start position:0%
+also influenced my choice is because the
+ 
+
+00:12:20.320 --> 00:12:23.030 align:start position:0%
+also influenced my choice is because the
+enterprise<00:12:21.040><c> and</c><00:12:21.360><c> government</c><00:12:21.839><c> world</c><00:12:22.240><c> is</c><00:12:22.560><c> also</c>
+
+00:12:23.030 --> 00:12:23.040 align:start position:0%
+enterprise and government world is also
+ 
+
+00:12:23.040 --> 00:12:25.190 align:start position:0%
+enterprise and government world is also
+showing<00:12:23.519><c> interest</c><00:12:23.839><c> in</c><00:12:24.079><c> this</c><00:12:24.320><c> now.</c><00:12:24.880><c> So</c><00:12:25.040><c> there</c>
+
+00:12:25.190 --> 00:12:25.200 align:start position:0%
+showing interest in this now. So there
+ 
+
+00:12:25.200 --> 00:12:27.509 align:start position:0%
+showing interest in this now. So there
+is<00:12:25.440><c> a</c><00:12:25.680><c> discussion</c><00:12:26.160><c> here</c><00:12:26.399><c> on</c><00:12:26.639><c> the</c><00:12:26.880><c> official</c>
+
+00:12:27.509 --> 00:12:27.519 align:start position:0%
+is a discussion here on the official
+ 
+
+00:12:27.519 --> 00:12:30.949 align:start position:0%
+is a discussion here on the official
+forj<00:12:28.160><c> repo</c><00:12:29.120><c> where</c><00:12:29.839><c> someone</c><00:12:30.320><c> working</c><00:12:30.639><c> in</c><00:12:30.800><c> a</c>
+
+00:12:30.949 --> 00:12:30.959 align:start position:0%
+forj repo where someone working in a
+ 
+
+00:12:30.959 --> 00:12:32.949 align:start position:0%
+forj repo where someone working in a
+Dutch<00:12:31.279><c> government</c><00:12:31.920><c> actually</c><00:12:32.320><c> expressed</c>
+
+00:12:32.949 --> 00:12:32.959 align:start position:0%
+Dutch government actually expressed
+ 
+
+00:12:32.959 --> 00:12:35.430 align:start position:0%
+Dutch government actually expressed
+interest<00:12:33.360><c> that</c><00:12:33.680><c> the</c><00:12:33.839><c> Dutch</c><00:12:34.480><c> government</c><00:12:35.040><c> is</c>
+
+00:12:35.430 --> 00:12:35.440 align:start position:0%
+interest that the Dutch government is
+ 
+
+00:12:35.440 --> 00:12:38.629 align:start position:0%
+interest that the Dutch government is
+interested<00:12:35.839><c> in</c><00:12:36.160><c> using</c><00:12:36.560><c> forjo.</c><00:12:37.600><c> So</c><00:12:37.920><c> I</c><00:12:38.240><c> think</c><00:12:38.399><c> if</c>
+
+00:12:38.629 --> 00:12:38.639 align:start position:0%
+interested in using forjo. So I think if
+ 
+
+00:12:38.639 --> 00:12:41.750 align:start position:0%
+interested in using forjo. So I think if
+you<00:12:38.880><c> are</c><00:12:39.600><c> uh</c><00:12:39.839><c> someone</c><00:12:40.160><c> who</c><00:12:40.399><c> is</c><00:12:41.200><c> oriented</c>
+
+00:12:41.750 --> 00:12:41.760 align:start position:0%
+you are uh someone who is oriented
+ 
+
+00:12:41.760 --> 00:12:43.910 align:start position:0%
+you are uh someone who is oriented
+towards<00:12:42.240><c> open-source</c><00:12:42.880><c> software</c><00:12:43.360><c> also</c><00:12:43.680><c> in</c>
+
+00:12:43.910 --> 00:12:43.920 align:start position:0%
+towards open-source software also in
+ 
+
+00:12:43.920 --> 00:12:46.069 align:start position:0%
+towards open-source software also in
+your<00:12:44.079><c> career</c><00:12:44.639><c> which</c><00:12:44.880><c> I</c><00:12:45.120><c> think</c><00:12:45.200><c> is</c><00:12:45.360><c> a</c><00:12:45.600><c> very</c><00:12:45.839><c> good</c>
+
+00:12:46.069 --> 00:12:46.079 align:start position:0%
+your career which I think is a very good
+ 
+
+00:12:46.079 --> 00:12:49.190 align:start position:0%
+your career which I think is a very good
+thing<00:12:46.240><c> to</c><00:12:46.480><c> do</c><00:12:47.519><c> um</c><00:12:47.760><c> I</c><00:12:48.000><c> think</c><00:12:48.240><c> forjjo</c><00:12:48.800><c> will</c><00:12:48.959><c> be</c><00:12:49.040><c> a</c>
+
+00:12:49.190 --> 00:12:49.200 align:start position:0%
+thing to do um I think forjjo will be a
+ 
+
+00:12:49.200 --> 00:12:51.190 align:start position:0%
+thing to do um I think forjjo will be a
+good<00:12:49.360><c> choice</c><00:12:49.600><c> to</c><00:12:49.839><c> learn.</c><00:12:50.320><c> So</c><00:12:50.480><c> to</c><00:12:50.720><c> get</c><00:12:50.880><c> started</c>
+
+00:12:51.190 --> 00:12:51.200 align:start position:0%
+good choice to learn. So to get started
+ 
+
+00:12:51.200 --> 00:12:54.150 align:start position:0%
+good choice to learn. So to get started
+with<00:12:51.360><c> forj</c><00:12:52.079><c> is</c><00:12:52.240><c> actually</c><00:12:52.639><c> super</c><00:12:53.040><c> easy</c><00:12:53.760><c> if</c><00:12:54.000><c> you</c>
+
+00:12:54.150 --> 00:12:54.160 align:start position:0%
+with forj is actually super easy if you
+ 
+
+00:12:54.160 --> 00:12:55.910 align:start position:0%
+with forj is actually super easy if you
+just<00:12:54.320><c> want</c><00:12:54.480><c> to</c><00:12:54.639><c> quickly</c><00:12:55.040><c> try</c><00:12:55.279><c> it</c><00:12:55.440><c> out.</c><00:12:55.680><c> You</c>
+
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+just want to quickly try it out. You
+ 
+
+00:12:55.920 --> 00:12:57.829 align:start position:0%
+just want to quickly try it out. You
+just<00:12:56.079><c> go</c><00:12:56.240><c> to</c><00:12:56.399><c> the</c><00:12:56.560><c> installation</c><00:12:57.200><c> guide</c><00:12:57.440><c> in</c><00:12:57.680><c> the</c>
+
+00:12:57.829 --> 00:12:57.839 align:start position:0%
+just go to the installation guide in the
+ 
+
+00:12:57.839 --> 00:13:00.389 align:start position:0%
+just go to the installation guide in the
+documentation<00:12:59.200><c> and</c><00:12:59.440><c> here</c><00:12:59.680><c> they</c><00:13:00.000><c> have</c><00:13:00.160><c> some</c>
+
+00:13:00.389 --> 00:13:00.399 align:start position:0%
+documentation and here they have some
+ 
+
+00:13:00.399 --> 00:13:02.949 align:start position:0%
+documentation and here they have some
+installation<00:13:00.959><c> instructions</c><00:13:01.600><c> to</c><00:13:02.399><c> um</c><00:13:02.639><c> install</c>
+
+00:13:02.949 --> 00:13:02.959 align:start position:0%
+installation instructions to um install
+ 
+
+00:13:02.959 --> 00:13:05.430 align:start position:0%
+installation instructions to um install
+it<00:13:03.120><c> with</c><00:13:03.360><c> docker.</c><00:13:04.480><c> And</c><00:13:04.720><c> this</c><00:13:04.880><c> is</c><00:13:05.040><c> what</c><00:13:05.200><c> I</c>
+
+00:13:05.430 --> 00:13:05.440 align:start position:0%
+it with docker. And this is what I
+ 
+
+00:13:05.440 --> 00:13:07.829 align:start position:0%
+it with docker. And this is what I
+recommend<00:13:05.839><c> you</c><00:13:06.160><c> do</c><00:13:06.800><c> just</c><00:13:07.040><c> to</c><00:13:07.279><c> get</c><00:13:07.519><c> started</c>
+
+00:13:07.829 --> 00:13:07.839 align:start position:0%
+recommend you do just to get started
+ 
+
+00:13:07.839 --> 00:13:10.310 align:start position:0%
+recommend you do just to get started
+with<00:13:08.079><c> it</c><00:13:08.320><c> and</c><00:13:08.560><c> to</c><00:13:08.800><c> try</c><00:13:08.959><c> it</c><00:13:09.120><c> out</c><00:13:09.600><c> and</c><00:13:09.839><c> then</c><00:13:10.079><c> when</c>
+
+00:13:10.310 --> 00:13:10.320 align:start position:0%
+with it and to try it out and then when
+ 
+
+00:13:10.320 --> 00:13:12.389 align:start position:0%
+with it and to try it out and then when
+you<00:13:10.480><c> have</c><00:13:10.959><c> when</c><00:13:11.279><c> you</c><00:13:11.440><c> like</c><00:13:11.680><c> the</c><00:13:11.920><c> thing</c><00:13:12.240><c> then</c>
+
+00:13:12.389 --> 00:13:12.399 align:start position:0%
+you have when you like the thing then
+ 
+
+00:13:12.399 --> 00:13:15.110 align:start position:0%
+you have when you like the thing then
+you<00:13:12.639><c> can</c><00:13:12.800><c> actually</c><00:13:13.200><c> start</c><00:13:14.160><c> moving</c><00:13:14.480><c> it</c><00:13:14.720><c> towards</c>
+
+00:13:15.110 --> 00:13:15.120 align:start position:0%
+you can actually start moving it towards
+ 
+
+00:13:15.120 --> 00:13:17.670 align:start position:0%
+you can actually start moving it towards
+your<00:13:15.360><c> server.</c><00:13:16.000><c> So</c><00:13:16.240><c> on</c><00:13:16.560><c> my</c><00:13:16.880><c> machine</c><00:13:17.200><c> here</c><00:13:17.440><c> I'm</c>
+
+00:13:17.670 --> 00:13:17.680 align:start position:0%
+your server. So on my machine here I'm
+ 
+
+00:13:17.680 --> 00:13:20.150 align:start position:0%
+your server. So on my machine here I'm
+I'm<00:13:18.000><c> running</c><00:13:18.240><c> podman.</c><00:13:19.279><c> So</c><00:13:19.440><c> the</c><00:13:19.680><c> command</c><00:13:19.920><c> I'm</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+I'm running podman. So the command I'm
+ 
+
+00:13:20.160 --> 00:13:22.150 align:start position:0%
+I'm running podman. So the command I'm
+going<00:13:20.240><c> to</c><00:13:20.399><c> run</c><00:13:20.560><c> here</c><00:13:20.800><c> is</c><00:13:21.040><c> podman</c><00:13:21.600><c> run</c><00:13:22.000><c> in</c>
+
+00:13:22.150 --> 00:13:22.160 align:start position:0%
+going to run here is podman run in
+ 
+
+00:13:22.160 --> 00:13:24.710 align:start position:0%
+going to run here is podman run in
+detached<00:13:22.639><c> mode</c><00:13:23.279><c> name</c><00:13:23.519><c> for</c><00:13:23.760><c> j</c><00:13:24.240><c> and</c><00:13:24.399><c> then</c><00:13:24.560><c> we're</c>
+
+00:13:24.710 --> 00:13:24.720 align:start position:0%
+detached mode name for j and then we're
+ 
+
+00:13:24.720 --> 00:13:29.030 align:start position:0%
+detached mode name for j and then we're
+going<00:13:24.800><c> to</c><00:13:24.959><c> expose</c><00:13:25.360><c> port</c><00:13:25.920><c> 3000</c><00:13:26.959><c> and</c><00:13:27.680><c> 2222</c><00:13:28.720><c> for</c>
+
+00:13:29.030 --> 00:13:29.040 align:start position:0%
+going to expose port 3000 and 2222 for
+ 
+
+00:13:29.040 --> 00:13:31.430 align:start position:0%
+going to expose port 3000 and 2222 for
+the<00:13:29.279><c> ssh</c><00:13:29.839><c> connection</c><00:13:30.800><c> and</c><00:13:31.120><c> we're</c><00:13:31.279><c> going</c><00:13:31.360><c> to</c>
+
+00:13:31.430 --> 00:13:31.440 align:start position:0%
+the ssh connection and we're going to
+ 
+
+00:13:31.440 --> 00:13:33.750 align:start position:0%
+the ssh connection and we're going to
+give<00:13:31.519><c> it</c><00:13:31.680><c> a</c><00:13:31.920><c> volume</c><00:13:32.240><c> as</c><00:13:32.480><c> well.</c><00:13:32.959><c> So</c><00:13:33.200><c> if</c><00:13:33.440><c> I</c><00:13:33.600><c> run</c>
+
+00:13:33.750 --> 00:13:33.760 align:start position:0%
+give it a volume as well. So if I run
+ 
+
+00:13:33.760 --> 00:13:35.750 align:start position:0%
+give it a volume as well. So if I run
+this,<00:13:34.160><c> it's</c><00:13:34.399><c> going</c><00:13:34.560><c> to</c><00:13:34.720><c> start</c><00:13:34.880><c> the</c><00:13:35.120><c> 4Jo</c>
+
+00:13:35.750 --> 00:13:35.760 align:start position:0%
+this, it's going to start the 4Jo
+ 
+
+00:13:35.760 --> 00:13:39.269 align:start position:0%
+this, it's going to start the 4Jo
+container.<00:13:36.560><c> And</c><00:13:36.720><c> if</c><00:13:36.880><c> I</c><00:13:37.040><c> then</c><00:13:37.200><c> go</c><00:13:37.360><c> to</c><00:13:37.600><c> localhost</c>
+
+00:13:39.269 --> 00:13:39.279 align:start position:0%
+container. And if I then go to localhost
+ 
+
+00:13:39.279 --> 00:13:41.509 align:start position:0%
+container. And if I then go to localhost
+3000,
+
+00:13:41.509 --> 00:13:41.519 align:start position:0%
+3000,
+ 
+
+00:13:41.519 --> 00:13:44.550 align:start position:0%
+3000,
+I'm<00:13:41.839><c> now</c><00:13:42.079><c> connected</c><00:13:42.480><c> to</c><00:13:42.800><c> my</c><00:13:43.440><c> fresh</c><00:13:44.000><c> forj</c>
+
+00:13:44.550 --> 00:13:44.560 align:start position:0%
+I'm now connected to my fresh forj
+ 
+
+00:13:44.560 --> 00:13:46.470 align:start position:0%
+I'm now connected to my fresh forj
+instance.
+
+00:13:46.470 --> 00:13:46.480 align:start position:0%
+instance.
+ 
+
+00:13:46.480 --> 00:13:49.030 align:start position:0%
+instance.
+So<00:13:47.360><c> you</c><00:13:47.600><c> can</c><00:13:47.760><c> just</c><00:13:48.000><c> accept</c><00:13:48.320><c> the</c><00:13:48.560><c> default</c>
+
+00:13:49.030 --> 00:13:49.040 align:start position:0%
+So you can just accept the default
+ 
+
+00:13:49.040 --> 00:13:52.150 align:start position:0%
+So you can just accept the default
+settings<00:13:49.440><c> here</c><00:13:50.160><c> and</c><00:13:50.480><c> install</c><00:13:50.959><c> forj.</c><00:13:51.760><c> And</c><00:13:52.000><c> you</c>
+
+00:13:52.150 --> 00:13:52.160 align:start position:0%
+settings here and install forj. And you
+ 
+
+00:13:52.160 --> 00:13:54.790 align:start position:0%
+settings here and install forj. And you
+have<00:13:52.320><c> to</c><00:13:52.560><c> uncheck</c><00:13:53.040><c> this</c><00:13:53.360><c> box.</c><00:13:54.240><c> And</c><00:13:54.399><c> when</c><00:13:54.639><c> you</c>
+
+00:13:54.790 --> 00:13:54.800 align:start position:0%
+have to uncheck this box. And when you
+ 
+
+00:13:54.800 --> 00:13:57.750 align:start position:0%
+have to uncheck this box. And when you
+then<00:13:55.279><c> install</c><00:13:55.760><c> forj</c><00:13:56.399><c> like</c><00:13:56.639><c> this,</c><00:13:57.120><c> it</c><00:13:57.360><c> is</c><00:13:57.519><c> now</c>
+
+00:13:57.750 --> 00:13:57.760 align:start position:0%
+then install forj like this, it is now
+ 
+
+00:13:57.760 --> 00:13:59.750 align:start position:0%
+then install forj like this, it is now
+going<00:13:57.920><c> to</c><00:13:58.079><c> load</c><00:13:58.399><c> up.</c><00:13:58.800><c> And</c><00:13:59.040><c> there</c><00:13:59.199><c> we</c><00:13:59.360><c> go.</c><00:13:59.600><c> We</c>
+
+00:13:59.750 --> 00:13:59.760 align:start position:0%
+going to load up. And there we go. We
+ 
+
+00:13:59.760 --> 00:14:01.670 align:start position:0%
+going to load up. And there we go. We
+can<00:13:59.920><c> now</c><00:14:00.160><c> log</c><00:14:00.399><c> in.</c><00:14:00.639><c> And</c><00:14:00.800><c> that's</c><00:14:01.040><c> how</c><00:14:01.279><c> easy</c><00:14:01.440><c> it</c>
+
+00:14:01.670 --> 00:14:01.680 align:start position:0%
+can now log in. And that's how easy it
+ 
+
+00:14:01.680 --> 00:14:04.230 align:start position:0%
+can now log in. And that's how easy it
+is<00:14:01.839><c> to</c><00:14:02.079><c> get</c><00:14:02.240><c> started</c><00:14:02.639><c> with</c><00:14:02.959><c> for</c><00:14:03.279><c> JO.</c><00:14:03.839><c> Now,</c><00:14:04.079><c> when</c>
+
+00:14:04.230 --> 00:14:04.240 align:start position:0%
+is to get started with for JO. Now, when
+ 
+
+00:14:04.240 --> 00:14:05.910 align:start position:0%
+is to get started with for JO. Now, when
+you've<00:14:04.480><c> done</c><00:14:04.639><c> this,</c><00:14:04.880><c> you</c><00:14:05.199><c> already</c><00:14:05.440><c> have</c><00:14:05.680><c> your</c>
+
+00:14:05.910 --> 00:14:05.920 align:start position:0%
+you've done this, you already have your
+ 
+
+00:14:05.920 --> 00:14:07.910 align:start position:0%
+you've done this, you already have your
+self-hosted<00:14:06.560><c> git</c><00:14:06.880><c> instance.</c><00:14:07.279><c> Like</c><00:14:07.440><c> you</c><00:14:07.600><c> you</c>
+
+00:14:07.910 --> 00:14:07.920 align:start position:0%
+self-hosted git instance. Like you you
+ 
+
+00:14:07.920 --> 00:14:09.269 align:start position:0%
+self-hosted git instance. Like you you
+literally<00:14:08.320><c> don't</c><00:14:08.560><c> need</c><00:14:08.720><c> more</c><00:14:08.959><c> to</c><00:14:09.120><c> get</c>
+
+00:14:09.269 --> 00:14:09.279 align:start position:0%
+literally don't need more to get
+ 
+
+00:14:09.279 --> 00:14:11.590 align:start position:0%
+literally don't need more to get
+started.<00:14:10.160><c> But</c><00:14:10.320><c> let's</c><00:14:10.720><c> also</c><00:14:11.040><c> look</c><00:14:11.199><c> at</c><00:14:11.360><c> the</c>
+
+00:14:11.590 --> 00:14:11.600 align:start position:0%
+started. But let's also look at the
+ 
+
+00:14:11.600 --> 00:14:13.990 align:start position:0%
+started. But let's also look at the
+self-hosted<00:14:12.320><c> actions</c><00:14:12.800><c> component</c><00:14:13.279><c> of</c><00:14:13.519><c> this.</c>
+
+00:14:13.990 --> 00:14:14.000 align:start position:0%
+self-hosted actions component of this.
+ 
+
+00:14:14.000 --> 00:14:16.470 align:start position:0%
+self-hosted actions component of this.
+So<00:14:14.240><c> I</c><00:14:14.399><c> am</c><00:14:14.560><c> now</c><00:14:14.800><c> on</c><00:14:15.040><c> the</c><00:14:15.120><c> on</c><00:14:15.360><c> the</c><00:14:15.519><c> CLI,</c><00:14:16.079><c> I</c><00:14:16.320><c> have</c>
+
+00:14:16.470 --> 00:14:16.480 align:start position:0%
+So I am now on the on the CLI, I have
+ 
+
+00:14:16.480 --> 00:14:19.509 align:start position:0%
+So I am now on the on the CLI, I have
+prepared<00:14:16.959><c> a</c><00:14:17.519><c> test</c><00:14:17.920><c> blog</c><00:14:18.320><c> post.</c><00:14:18.880><c> So</c><00:14:19.040><c> if</c><00:14:19.199><c> I</c><00:14:19.360><c> now</c>
+
+00:14:19.509 --> 00:14:19.519 align:start position:0%
+prepared a test blog post. So if I now
+ 
+
+00:14:19.519 --> 00:14:21.590 align:start position:0%
+prepared a test blog post. So if I now
+run<00:14:19.760><c> my</c><00:14:20.000><c> publish</c><00:14:20.480><c> command,</c><00:14:20.959><c> it</c><00:14:21.120><c> is</c><00:14:21.360><c> actually</c>
+
+00:14:21.590 --> 00:14:21.600 align:start position:0%
+run my publish command, it is actually
+ 
+
+00:14:21.600 --> 00:14:23.990 align:start position:0%
+run my publish command, it is actually
+going<00:14:21.839><c> to</c><00:14:22.160><c> commit</c><00:14:22.480><c> the</c><00:14:22.720><c> changes</c><00:14:23.040><c> to</c><00:14:23.279><c> the</c><00:14:23.519><c> repo</c>
+
+00:14:23.990 --> 00:14:24.000 align:start position:0%
+going to commit the changes to the repo
+ 
+
+00:14:24.000 --> 00:14:26.310 align:start position:0%
+going to commit the changes to the repo
+and<00:14:24.240><c> then</c><00:14:24.399><c> it's</c><00:14:24.720><c> going</c><00:14:24.880><c> to</c><00:14:25.279><c> trigger</c><00:14:25.600><c> the</c><00:14:25.920><c> build</c>
+
+00:14:26.310 --> 00:14:26.320 align:start position:0%
+and then it's going to trigger the build
+ 
+
+00:14:26.320 --> 00:14:30.470 align:start position:0%
+and then it's going to trigger the build
+and<00:14:26.720><c> watch</c><00:14:26.959><c> it</c><00:14:27.279><c> run.</c><00:14:28.160><c> So</c><00:14:28.800><c> if</c><00:14:29.040><c> I</c><00:14:29.279><c> go</c><00:14:29.440><c> to</c><00:14:29.680><c> my</c><00:14:30.079><c> blog</c>
+
+00:14:30.470 --> 00:14:30.480 align:start position:0%
+and watch it run. So if I go to my blog
+ 
+
+00:14:30.480 --> 00:14:33.110 align:start position:0%
+and watch it run. So if I go to my blog
+repo<00:14:30.959><c> now,</c><00:14:31.839><c> we'll</c><00:14:32.079><c> see</c><00:14:32.240><c> that</c><00:14:32.399><c> the</c><00:14:32.560><c> a</c><00:14:32.800><c> git</c>
+
+00:14:33.110 --> 00:14:33.120 align:start position:0%
+repo now, we'll see that the a git
+ 
+
+00:14:33.120 --> 00:14:35.750 align:start position:0%
+repo now, we'll see that the a git
+commit<00:14:33.440><c> has</c><00:14:33.680><c> been</c><00:14:33.839><c> has</c><00:14:34.160><c> appeared</c><00:14:34.560><c> now</c><00:14:35.360><c> and</c>
+
+00:14:35.750 --> 00:14:35.760 align:start position:0%
+commit has been has appeared now and
+ 
+
+00:14:35.760 --> 00:14:38.069 align:start position:0%
+commit has been has appeared now and
+this<00:14:36.000><c> also</c><00:14:36.480><c> triggered</c><00:14:36.880><c> an</c><00:14:37.120><c> action</c><00:14:37.600><c> which</c><00:14:37.920><c> is</c>
+
+00:14:38.069 --> 00:14:38.079 align:start position:0%
+this also triggered an action which is
+ 
+
+00:14:38.079 --> 00:14:40.949 align:start position:0%
+this also triggered an action which is
+now<00:14:38.320><c> running.</c><00:14:38.800><c> So</c><00:14:38.959><c> as</c><00:14:39.199><c> we</c><00:14:39.440><c> speak,</c><00:14:40.160><c> this</c><00:14:40.480><c> is</c><00:14:40.639><c> now</c>
+
+00:14:40.949 --> 00:14:40.959 align:start position:0%
+now running. So as we speak, this is now
+ 
+
+00:14:40.959 --> 00:14:43.430 align:start position:0%
+now running. So as we speak, this is now
+running<00:14:41.440><c> on</c><00:14:41.760><c> my</c><00:14:42.000><c> own</c><00:14:42.240><c> kubernetes</c><00:14:42.800><c> cluster</c><00:14:43.199><c> at</c>
+
+00:14:43.430 --> 00:14:43.440 align:start position:0%
+running on my own kubernetes cluster at
+ 
+
+00:14:43.440 --> 00:14:47.670 align:start position:0%
+running on my own kubernetes cluster at
+home.<00:14:44.079><c> it</c><00:14:44.320><c> is</c><00:14:44.560><c> going</c><00:14:44.720><c> to</c><00:14:45.199><c> check</c><00:14:45.440><c> out</c><00:14:45.680><c> the</c><00:14:45.920><c> repo</c>
+
+00:14:47.670 --> 00:14:47.680 align:start position:0%
+home. it is going to check out the repo
+ 
+
+00:14:47.680 --> 00:14:50.150 align:start position:0%
+home. it is going to check out the repo
+and<00:14:47.920><c> it's</c><00:14:48.240><c> going</c><00:14:48.480><c> to</c><00:14:49.360><c> take</c><00:14:49.519><c> check</c><00:14:49.760><c> out</c><00:14:50.000><c> the</c>
+
+00:14:50.150 --> 00:14:50.160 align:start position:0%
+and it's going to take check out the
+ 
+
+00:14:50.160 --> 00:14:52.710 align:start position:0%
+and it's going to take check out the
+code<00:14:50.959><c> build</c><00:14:51.199><c> that</c><00:14:51.519><c> code</c><00:14:51.760><c> into</c><00:14:52.079><c> a</c><00:14:52.240><c> container</c>
+
+00:14:52.710 --> 00:14:52.720 align:start position:0%
+code build that code into a container
+ 
+
+00:14:52.720 --> 00:14:55.670 align:start position:0%
+code build that code into a container
+image<00:14:53.440><c> and</c><00:14:53.920><c> then</c><00:14:54.240><c> git</c><00:14:54.560><c> ops</c><00:14:54.880><c> is</c><00:14:55.120><c> going</c><00:14:55.279><c> to</c><00:14:55.440><c> pull</c>
+
+00:14:55.670 --> 00:14:55.680 align:start position:0%
+image and then git ops is going to pull
+ 
+
+00:14:55.680 --> 00:14:58.150 align:start position:0%
+image and then git ops is going to pull
+in<00:14:55.839><c> that</c><00:14:56.160><c> change</c><00:14:56.720><c> into</c><00:14:57.199><c> my</c><00:14:57.600><c> kubernetes</c>
+
+00:14:58.150 --> 00:14:58.160 align:start position:0%
+in that change into my kubernetes
+ 
+
+00:14:58.160 --> 00:15:00.069 align:start position:0%
+in that change into my kubernetes
+cluster.<00:14:58.639><c> So</c><00:14:58.880><c> now</c><00:14:58.959><c> we</c><00:14:59.199><c> see</c><00:14:59.360><c> it</c><00:14:59.519><c> is</c><00:14:59.680><c> now</c><00:14:59.839><c> going</c>
+
+00:15:00.069 --> 00:15:00.079 align:start position:0%
+cluster. So now we see it is now going
+ 
+
+00:15:00.079 --> 00:15:02.470 align:start position:0%
+cluster. So now we see it is now going
+to<00:15:00.480><c> build</c><00:15:00.720><c> the</c><00:15:00.959><c> image</c><00:15:01.600><c> and</c><00:15:01.839><c> after</c><00:15:02.079><c> it</c><00:15:02.320><c> is</c>
+
+00:15:02.470 --> 00:15:02.480 align:start position:0%
+to build the image and after it is
+ 
+
+00:15:02.480 --> 00:15:04.870 align:start position:0%
+to build the image and after it is
+finished<00:15:02.880><c> building</c><00:15:03.519><c> this</c><00:15:03.839><c> image</c><00:15:04.399><c> it's</c><00:15:04.639><c> also</c>
+
+00:15:04.870 --> 00:15:04.880 align:start position:0%
+finished building this image it's also
+ 
+
+00:15:04.880 --> 00:15:07.350 align:start position:0%
+finished building this image it's also
+going<00:15:05.040><c> to</c><00:15:05.199><c> push</c><00:15:05.519><c> it</c><00:15:05.760><c> to</c><00:15:06.079><c> my</c><00:15:06.399><c> own</c><00:15:06.800><c> container</c>
+
+00:15:07.350 --> 00:15:07.360 align:start position:0%
+going to push it to my own container
+ 
+
+00:15:07.360 --> 00:15:11.110 align:start position:0%
+going to push it to my own container
+registry<00:15:08.079><c> also</c><00:15:08.560><c> provided</c><00:15:08.959><c> by</c><00:15:09.360><c> 4j.</c><00:15:10.320><c> So</c><00:15:10.800><c> the</c>
+
+00:15:11.110 --> 00:15:11.120 align:start position:0%
+registry also provided by 4j. So the
+ 
+
+00:15:11.120 --> 00:15:13.590 align:start position:0%
+registry also provided by 4j. So the
+whole<00:15:11.519><c> software</c><00:15:12.079><c> pipeline</c><00:15:12.639><c> from</c><00:15:12.959><c> hosting</c><00:15:13.360><c> the</c>
+
+00:15:13.590 --> 00:15:13.600 align:start position:0%
+whole software pipeline from hosting the
+ 
+
+00:15:13.600 --> 00:15:16.550 align:start position:0%
+whole software pipeline from hosting the
+code<00:15:14.160><c> to</c><00:15:14.560><c> building</c><00:15:14.880><c> the</c><00:15:15.120><c> code</c><00:15:15.680><c> and</c><00:15:16.000><c> I'm</c><00:15:16.240><c> I'm</c>
+
+00:15:16.550 --> 00:15:16.560 align:start position:0%
+code to building the code and I'm I'm
+ 
+
+00:15:16.560 --> 00:15:18.790 align:start position:0%
+code to building the code and I'm I'm
+not<00:15:16.959><c> currently</c><00:15:17.440><c> testing</c><00:15:17.839><c> this</c><00:15:18.079><c> code</c><00:15:18.399><c> but</c><00:15:18.560><c> I</c>
+
+00:15:18.790 --> 00:15:18.800 align:start position:0%
+not currently testing this code but I
+ 
+
+00:15:18.800 --> 00:15:21.110 align:start position:0%
+not currently testing this code but I
+could<00:15:18.959><c> test</c><00:15:19.199><c> it.</c><00:15:19.760><c> I</c><00:15:20.079><c> can</c><00:15:20.160><c> do</c><00:15:20.399><c> everything</c><00:15:20.800><c> that</c>
+
+00:15:21.110 --> 00:15:21.120 align:start position:0%
+could test it. I can do everything that
+ 
+
+00:15:21.120 --> 00:15:24.150 align:start position:0%
+could test it. I can do everything that
+I<00:15:21.440><c> normally</c><00:15:21.839><c> do</c><00:15:22.000><c> in</c><00:15:22.160><c> a</c><00:15:22.320><c> CI/CD</c><00:15:23.040><c> pipeline</c><00:15:23.839><c> in</c>
+
+00:15:24.150 --> 00:15:24.160 align:start position:0%
+I normally do in a CI/CD pipeline in
+ 
+
+00:15:24.160 --> 00:15:27.910 align:start position:0%
+I normally do in a CI/CD pipeline in
+these<00:15:24.480><c> actions</c><00:15:25.519><c> and</c><00:15:25.839><c> this</c><00:15:26.160><c> action</c><00:15:26.639><c> runner</c><00:15:27.279><c> is</c>
+
+00:15:27.910 --> 00:15:27.920 align:start position:0%
+these actions and this action runner is
+ 
+
+00:15:27.920 --> 00:15:31.030 align:start position:0%
+these actions and this action runner is
+running<00:15:28.320><c> on</c><00:15:28.639><c> my</c><00:15:28.800><c> own</c><00:15:29.040><c> Kubernetes</c><00:15:29.600><c> cluster.</c><00:15:30.800><c> So</c>
+
+00:15:31.030 --> 00:15:31.040 align:start position:0%
+running on my own Kubernetes cluster. So
+ 
+
+00:15:31.040 --> 00:15:36.629 align:start position:0%
+running on my own Kubernetes cluster. So
+if<00:15:31.199><c> I</c><00:15:31.360><c> go</c><00:15:31.519><c> to</c><00:15:31.680><c> my</c><00:15:31.839><c> home</c><00:15:32.160><c> lab</c><00:15:33.040><c> now</c><00:15:34.240><c> and</c><00:15:34.800><c> if</c><00:15:35.120><c> I</c>
+
+00:15:36.629 --> 00:15:36.639 align:start position:0%
+if I go to my home lab now and if I
+ 
+
+00:15:36.639 --> 00:15:39.350 align:start position:0%
+if I go to my home lab now and if I
+open<00:15:36.880><c> up</c><00:15:37.120><c> K9s</c>
+
+00:15:39.350 --> 00:15:39.360 align:start position:0%
+open up K9s
+ 
+
+00:15:39.360 --> 00:15:42.470 align:start position:0%
+open up K9s
+then<00:15:39.920><c> if</c><00:15:40.160><c> I</c><00:15:40.480><c> search</c><00:15:40.720><c> for</c><00:15:40.959><c> for</c><00:15:41.120><c> 4Jo</c><00:15:42.000><c> then</c><00:15:42.240><c> we'll</c>
+
+00:15:42.470 --> 00:15:42.480 align:start position:0%
+then if I search for for 4Jo then we'll
+ 
+
+00:15:42.480 --> 00:15:45.350 align:start position:0%
+then if I search for for 4Jo then we'll
+see<00:15:42.639><c> there</c><00:15:42.800><c> is</c><00:15:42.880><c> a</c><00:15:43.040><c> 4J</c><00:15:43.680><c> runner</c><00:15:44.240><c> which</c><00:15:44.480><c> is</c><00:15:44.639><c> now</c>
+
+00:15:45.350 --> 00:15:45.360 align:start position:0%
+see there is a 4J runner which is now
+ 
+
+00:15:45.360 --> 00:15:47.990 align:start position:0%
+see there is a 4J runner which is now
+actually<00:15:45.920><c> running</c><00:15:46.399><c> this</c><00:15:46.800><c> process</c><00:15:47.440><c> as</c><00:15:47.760><c> we</c>
+
+00:15:47.990 --> 00:15:48.000 align:start position:0%
+actually running this process as we
+ 
+
+00:15:48.000 --> 00:15:50.550 align:start position:0%
+actually running this process as we
+speak.<00:15:48.320><c> Okay,</c><00:15:48.880><c> this</c><00:15:49.120><c> is</c><00:15:49.199><c> now</c><00:15:49.440><c> running</c><00:15:49.759><c> on</c><00:15:50.000><c> my</c>
+
+00:15:50.550 --> 00:15:50.560 align:start position:0%
+speak. Okay, this is now running on my
+ 
+
+00:15:50.560 --> 00:15:53.749 align:start position:0%
+speak. Okay, this is now running on my
+uh<00:15:50.720><c> on</c><00:15:50.959><c> my</c><00:15:51.120><c> home</c><00:15:51.440><c> lab</c><00:15:51.680><c> cluster.</c>
+
+00:15:53.749 --> 00:15:53.759 align:start position:0%
+uh on my home lab cluster.
+ 
+
+00:15:53.759 --> 00:15:56.310 align:start position:0%
+uh on my home lab cluster.
+It<00:15:53.920><c> is</c><00:15:54.160><c> building</c><00:15:54.399><c> the</c><00:15:54.639><c> image</c><00:15:55.440><c> and</c><00:15:55.759><c> now</c><00:15:55.920><c> it</c><00:15:56.160><c> has</c>
+
+00:15:56.310 --> 00:15:56.320 align:start position:0%
+It is building the image and now it has
+ 
+
+00:15:56.320 --> 00:15:58.310 align:start position:0%
+It is building the image and now it has
+pushed<00:15:56.560><c> the</c><00:15:56.800><c> image.</c><00:15:57.360><c> So</c><00:15:57.600><c> the</c><00:15:57.839><c> changes</c><00:15:58.079><c> are</c>
+
+00:15:58.310 --> 00:15:58.320 align:start position:0%
+pushed the image. So the changes are
+ 
+
+00:15:58.320 --> 00:15:59.990 align:start position:0%
+pushed the image. So the changes are
+pulled<00:15:58.560><c> to</c><00:15:58.720><c> my</c><00:15:58.880><c> cluster</c><00:15:59.199><c> and</c><00:15:59.440><c> if</c><00:15:59.600><c> I</c><00:15:59.759><c> then</c>
+
+00:15:59.990 --> 00:16:00.000 align:start position:0%
+pulled to my cluster and if I then
+ 
+
+00:16:00.000 --> 00:16:02.310 align:start position:0%
+pulled to my cluster and if I then
+refresh<00:16:00.399><c> my</c><00:16:00.639><c> blog</c><00:16:00.959><c> here,</c><00:16:01.279><c> we</c><00:16:01.680><c> see</c><00:16:01.839><c> that</c><00:16:02.079><c> there</c>
+
+00:16:02.310 --> 00:16:02.320 align:start position:0%
+refresh my blog here, we see that there
+ 
+
+00:16:02.320 --> 00:16:05.509 align:start position:0%
+refresh my blog here, we see that there
+is<00:16:02.639><c> a</c><00:16:03.360><c> test</c><00:16:03.680><c> post</c><00:16:04.079><c> here</c><00:16:04.560><c> for</c><00:16:04.880><c> my</c><00:16:05.120><c> demo</c>
+
+00:16:05.509 --> 00:16:05.519 align:start position:0%
+is a test post here for my demo
+ 
+
+00:16:05.519 --> 00:16:08.310 align:start position:0%
+is a test post here for my demo
+purposes.<00:16:06.079><c> So</c><00:16:06.320><c> this</c><00:16:06.560><c> was</c><00:16:07.360><c> just</c><00:16:07.680><c> added</c><00:16:08.000><c> as</c><00:16:08.160><c> a</c>
+
+00:16:08.310 --> 00:16:08.320 align:start position:0%
+purposes. So this was just added as a
+ 
+
+00:16:08.320 --> 00:16:09.910 align:start position:0%
+purposes. So this was just added as a
+demo.<00:16:08.720><c> I'm</c><00:16:08.959><c> going</c><00:16:09.040><c> to</c><00:16:09.120><c> be</c><00:16:09.279><c> deleting</c><00:16:09.600><c> this</c>
+
+00:16:09.910 --> 00:16:09.920 align:start position:0%
+demo. I'm going to be deleting this
+ 
+
+00:16:09.920 --> 00:16:12.069 align:start position:0%
+demo. I'm going to be deleting this
+after<00:16:10.240><c> the</c><00:16:10.639><c> after</c><00:16:10.880><c> I</c><00:16:11.120><c> finish</c><00:16:11.440><c> recording</c><00:16:11.839><c> this</c>
+
+00:16:12.069 --> 00:16:12.079 align:start position:0%
+after the after I finish recording this
+ 
+
+00:16:12.079 --> 00:16:14.550 align:start position:0%
+after the after I finish recording this
+video.<00:16:12.720><c> But</c><00:16:12.880><c> here</c><00:16:13.040><c> you</c><00:16:13.360><c> see</c><00:16:13.440><c> that</c><00:16:13.759><c> I</c><00:16:14.079><c> have</c>
+
+00:16:14.550 --> 00:16:14.560 align:start position:0%
+video. But here you see that I have
+ 
+
+00:16:14.560 --> 00:16:17.269 align:start position:0%
+video. But here you see that I have
+committed<00:16:15.040><c> code</c><00:16:15.839><c> to</c><00:16:16.079><c> a</c><00:16:16.320><c> repository</c><00:16:17.040><c> running</c>
+
+00:16:17.269 --> 00:16:17.279 align:start position:0%
+committed code to a repository running
+ 
+
+00:16:17.279 --> 00:16:19.269 align:start position:0%
+committed code to a repository running
+on<00:16:17.440><c> my</c><00:16:17.680><c> own</c><00:16:17.839><c> infrastructure</c><00:16:18.639><c> and</c><00:16:18.800><c> then</c><00:16:18.959><c> I'm</c>
+
+00:16:19.269 --> 00:16:19.279 align:start position:0%
+on my own infrastructure and then I'm
+ 
+
+00:16:19.279 --> 00:16:21.350 align:start position:0%
+on my own infrastructure and then I'm
+building<00:16:19.600><c> this</c><00:16:19.839><c> code</c><00:16:20.320><c> and</c><00:16:20.560><c> then</c><00:16:20.720><c> I'm</c><00:16:21.040><c> serving</c>
+
+00:16:21.350 --> 00:16:21.360 align:start position:0%
+building this code and then I'm serving
+ 
+
+00:16:21.360 --> 00:16:23.430 align:start position:0%
+building this code and then I'm serving
+that<00:16:21.680><c> container</c><00:16:22.160><c> image</c><00:16:22.560><c> all</c><00:16:22.880><c> from</c><00:16:23.040><c> my</c><00:16:23.279><c> own</c>
+
+00:16:23.430 --> 00:16:23.440 align:start position:0%
+that container image all from my own
+ 
+
+00:16:23.440 --> 00:16:25.430 align:start position:0%
+that container image all from my own
+Kubernetes<00:16:24.000><c> home</c><00:16:24.320><c> lab.</c><00:16:24.560><c> And</c><00:16:24.720><c> I'm</c><00:16:24.959><c> doing</c><00:16:25.120><c> this</c>
+
+00:16:25.430 --> 00:16:25.440 align:start position:0%
+Kubernetes home lab. And I'm doing this
+ 
+
+00:16:25.440 --> 00:16:27.110 align:start position:0%
+Kubernetes home lab. And I'm doing this
+on<00:16:25.680><c> my</c><00:16:25.839><c> own</c><00:16:26.160><c> complete</c><00:16:26.560><c> sovereign</c>
+
+00:16:27.110 --> 00:16:27.120 align:start position:0%
+on my own complete sovereign
+ 
+
+00:16:27.120 --> 00:16:29.350 align:start position:0%
+on my own complete sovereign
+infrastructure.<00:16:28.000><c> So</c><00:16:28.160><c> for</c><00:16:28.399><c> JJO</c><00:16:28.800><c> is</c><00:16:28.959><c> a</c><00:16:29.120><c> great</c>
+
+00:16:29.350 --> 00:16:29.360 align:start position:0%
+infrastructure. So for JJO is a great
+ 
+
+00:16:29.360 --> 00:16:31.030 align:start position:0%
+infrastructure. So for JJO is a great
+project.<00:16:29.839><c> I</c><00:16:30.000><c> really</c><00:16:30.240><c> recommend</c><00:16:30.639><c> you</c><00:16:30.880><c> look</c>
+
+00:16:31.030 --> 00:16:31.040 align:start position:0%
+project. I really recommend you look
+ 
+
+00:16:31.040 --> 00:16:32.949 align:start position:0%
+project. I really recommend you look
+into<00:16:31.199><c> it.</c><00:16:31.680><c> It's</c><00:16:31.920><c> really</c><00:16:32.160><c> easy</c><00:16:32.320><c> to</c><00:16:32.480><c> get</c><00:16:32.639><c> started</c>
+
+00:16:32.949 --> 00:16:32.959 align:start position:0%
+into it. It's really easy to get started
+ 
+
+00:16:32.959 --> 00:16:34.790 align:start position:0%
+into it. It's really easy to get started
+with<00:16:33.120><c> Docker.</c><00:16:33.759><c> But</c><00:16:33.920><c> if</c><00:16:34.079><c> you</c><00:16:34.240><c> are</c><00:16:34.399><c> running</c><00:16:34.560><c> a</c>
+
+00:16:34.790 --> 00:16:34.800 align:start position:0%
+with Docker. But if you are running a
+ 
+
+00:16:34.800 --> 00:16:36.949 align:start position:0%
+with Docker. But if you are running a
+Kubernetes<00:16:35.360><c> home</c><00:16:35.680><c> lab</c><00:16:36.000><c> and</c><00:16:36.160><c> you</c><00:16:36.399><c> also</c><00:16:36.639><c> want</c><00:16:36.800><c> to</c>
+
+00:16:36.949 --> 00:16:36.959 align:start position:0%
+Kubernetes home lab and you also want to
+ 
+
+00:16:36.959 --> 00:16:40.069 align:start position:0%
+Kubernetes home lab and you also want to
+run<00:16:37.199><c> forj</c><00:16:37.759><c> on</c><00:16:38.000><c> Kubernetes,</c><00:16:39.040><c> then</c><00:16:39.360><c> I</c><00:16:39.680><c> have</c><00:16:39.839><c> all</c>
+
+00:16:40.069 --> 00:16:40.079 align:start position:0%
+run forj on Kubernetes, then I have all
+ 
+
+00:16:40.079 --> 00:16:42.470 align:start position:0%
+run forj on Kubernetes, then I have all
+of<00:16:40.160><c> the</c><00:16:40.320><c> source</c><00:16:40.639><c> code</c><00:16:41.040><c> available</c><00:16:41.680><c> here.</c><00:16:42.240><c> I</c>
+
+00:16:42.470 --> 00:16:42.480 align:start position:0%
+of the source code available here. I
+ 
+
+00:16:42.480 --> 00:16:44.949 align:start position:0%
+of the source code available here. I
+have<00:16:42.639><c> the</c><00:16:42.959><c> manifest</c><00:16:43.600><c> already</c><00:16:43.920><c> written</c><00:16:44.240><c> out.</c>
+
+00:16:44.949 --> 00:16:44.959 align:start position:0%
+have the manifest already written out.
+ 
+
+00:16:44.959 --> 00:16:46.629 align:start position:0%
+have the manifest already written out.
+And<00:16:45.120><c> I</c><00:16:45.360><c> spent</c><00:16:45.600><c> a</c><00:16:45.759><c> lot</c><00:16:45.839><c> of</c><00:16:46.000><c> time</c><00:16:46.160><c> on</c><00:16:46.399><c> this</c>
+
+00:16:46.629 --> 00:16:46.639 align:start position:0%
+And I spent a lot of time on this
+ 
+
+00:16:46.639 --> 00:16:48.470 align:start position:0%
+And I spent a lot of time on this
+because<00:16:46.959><c> it's</c><00:16:47.199><c> actually</c><00:16:47.519><c> really</c><00:16:47.839><c> tricky</c><00:16:48.240><c> to</c>
+
+00:16:48.470 --> 00:16:48.480 align:start position:0%
+because it's actually really tricky to
+ 
+
+00:16:48.480 --> 00:16:51.030 align:start position:0%
+because it's actually really tricky to
+get<00:16:48.639><c> it</c><00:16:48.959><c> running</c><00:16:49.519><c> with</c><00:16:49.759><c> a</c><00:16:50.000><c> self-hosted</c><00:16:50.720><c> runner</c>
+
+00:16:51.030 --> 00:16:51.040 align:start position:0%
+get it running with a self-hosted runner
+ 
+
+00:16:51.040 --> 00:16:53.030 align:start position:0%
+get it running with a self-hosted runner
+on<00:16:51.360><c> Kubernetes.</c><00:16:52.160><c> And</c><00:16:52.399><c> if</c><00:16:52.560><c> you</c><00:16:52.639><c> want</c><00:16:52.720><c> to</c><00:16:52.880><c> get</c>
+
+00:16:53.030 --> 00:16:53.040 align:start position:0%
+on Kubernetes. And if you want to get
+ 
+
+00:16:53.040 --> 00:16:54.949 align:start position:0%
+on Kubernetes. And if you want to get
+all<00:16:53.199><c> of</c><00:16:53.279><c> these</c><00:16:53.519><c> manifests</c><00:16:54.000><c> so</c><00:16:54.240><c> you</c><00:16:54.399><c> can</c><00:16:54.639><c> start</c>
+
+00:16:54.949 --> 00:16:54.959 align:start position:0%
+all of these manifests so you can start
+ 
+
+00:16:54.959 --> 00:16:57.350 align:start position:0%
+all of these manifests so you can start
+running<00:16:55.440><c> forj</c><00:16:56.000><c> on</c><00:16:56.160><c> your</c><00:16:56.320><c> Kubernetes</c><00:16:56.880><c> cluster,</c>
+
+00:16:57.350 --> 00:16:57.360 align:start position:0%
+running forj on your Kubernetes cluster,
+ 
+
+00:16:57.360 --> 00:16:59.030 align:start position:0%
+running forj on your Kubernetes cluster,
+you<00:16:57.519><c> can</c><00:16:57.680><c> check</c><00:16:57.759><c> out</c><00:16:57.920><c> the</c><00:16:58.160><c> link</c><00:16:58.320><c> below</c><00:16:58.639><c> and</c><00:16:58.880><c> get</c>
+
+00:16:59.030 --> 00:16:59.040 align:start position:0%
+you can check out the link below and get
+ 
+
+00:16:59.040 --> 00:17:00.790 align:start position:0%
+you can check out the link below and get
+it<00:16:59.199><c> all</c><00:16:59.360><c> for</c><00:16:59.519><c> free.</c><00:16:59.920><c> Now,</c><00:17:00.079><c> let</c><00:17:00.240><c> me</c><00:17:00.399><c> know</c><00:17:00.480><c> in</c><00:17:00.639><c> the</c>
+
+00:17:00.790 --> 00:17:00.800 align:start position:0%
+it all for free. Now, let me know in the
+ 
+
+00:17:00.800 --> 00:17:02.310 align:start position:0%
+it all for free. Now, let me know in the
+comments<00:17:01.120><c> if</c><00:17:01.360><c> you're</c><00:17:01.519><c> going</c><00:17:01.680><c> to</c><00:17:01.839><c> try</c><00:17:02.079><c> out</c>
+
+00:17:02.310 --> 00:17:02.320 align:start position:0%
+comments if you're going to try out
+ 
+
+00:17:02.320 --> 00:17:04.789 align:start position:0%
+comments if you're going to try out
+forjo.<00:17:02.959><c> Let</c><00:17:03.120><c> me</c><00:17:03.279><c> know</c><00:17:03.360><c> what</c><00:17:03.600><c> you</c><00:17:03.759><c> think.</c><00:17:04.559><c> Make</c>
+
+00:17:04.789 --> 00:17:04.799 align:start position:0%
+forjo. Let me know what you think. Make
+ 
+
+00:17:04.799 --> 00:17:06.549 align:start position:0%
+forjo. Let me know what you think. Make
+sure<00:17:04.959><c> to</c><00:17:05.199><c> subscribe</c><00:17:05.600><c> and</c><00:17:05.839><c> I'll</c><00:17:06.079><c> see</c><00:17:06.240><c> you</c><00:17:06.400><c> in</c>
+
+00:17:06.549 --> 00:17:06.559 align:start position:0%
+sure to subscribe and I'll see you in
+ 
+
+00:17:06.559 --> 00:17:08.959 align:start position:0%
+sure to subscribe and I'll see you in
+the<00:17:06.720><c> next</c>
+

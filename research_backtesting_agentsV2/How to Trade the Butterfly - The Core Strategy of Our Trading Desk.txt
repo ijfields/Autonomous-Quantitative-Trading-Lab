@@ -1,0 +1,265 @@
+most of the options income traders on
+our trading desk here at SMB trade a
+strategy known as the butterfly
+professional options income traders tend
+to gravitate towards the butterfly
+because it has excellent risk reward
+characteristics and is easily modified
+to adapt to market conditions and still
+maintain strong profitability potential
+the initial risk reward ratio of a
+typical butterfly trade is very flexible
+but typically ranges anywhere from about
+three to one to as high as ten to one
+depending on how this trade is initially
+structured by the professional options
+trader in this video I'm going to be
+breaking down why the butterfly is so
+attractive two options income traders so
+if you're interested in learning about
+the most popular initial setup on our
+trading desk
+then stick around because I think you're
+gonna learn a lot from this video
+[Music]
+hi i'm seth pearlberg and I'm the head
+trader of SMB capitals options trading
+desk SMB capital is a proprietary
+trading firm located in midtown
+Manhattan and we provide capital for
+options and equity traders from all over
+the world trading both remotely and in
+our offices here in New York City you'll
+want to click our subscribe button right
+now so that you don't miss any of our
+free trading videos produced for the
+trading and investment community okay so
+the butterfly is a strategy that can
+take many forms and the form that we'll
+be covering this video is known as the
+Iron Butterfly it's comprised of a short
+call and a short put surrounded by a
+long call and a long put so let's jump
+right into an example so you'll begin to
+understand what this is all about but
+before I do that I want to make sure
+you're familiar with all the terminology
+involved in the trade now most of you
+are probably familiar with index options
+which are the options that we'll be
+using in this example but there may be
+some who just have a passing knowledge
+of how they work so I'm gonna do a quick
+basic review of the basics so that
+you'll be able to understand this
+strategy for those experienced options
+guys out there don't worry this will be
+quick and then we'll jump right back
+into the guts of the lesson so you are
+all probably familiar with how equity
+options work with equity options a call
+buys you the right to buy 100 shares of
+a stock at the strike price of that
+option any time before the option
+expires and I put options option
+entitles you to sell 100 shares of stock
+at the strike price of the put before
+that option expires but there are also
+index options which works similarly to
+equity options except that there's no
+such thing as 100 shares of an index
+like the S&amp;P 500 so you can't really buy
+or sell 100 shares of it into index but
+what you can do is get paid in cash $100
+per point if the index expires above the
+strike price of an index call that you
+buy or alternatively you'll be paid $100
+per point for each point the index drops
+below the strike price of your index put
+so for example if the SPX index is
+trading at 3,000 and you buy the 30 10
+call if the SPX goes to
+3015 you were to receive $500 in your
+account if the index closes at three
+thousand and nine or lower your call
+expires worthless on the other side of
+the ledger if you buy a twenty nine
+eighty five foot and the market sells
+off the 2975 you'd make a thousand
+dollars but if the market just sold off
+to twenty nine eighty five or higher the
+put would actually expire worthless so
+those are the basics of index option so
+now here is an example of an Iron
+Butterfly this example is constructed in
+the SPX index and what you'll see is ten
+short calls and ten short puts at twenty
+eight fifteen which is where the index
+was trading on this particular day so
+those short calls and short puts are
+right at the money and as protection we
+buy ten long calls twenty-five points
+above the market at twenty eight forty
+and on the downside we buy ten long puts
+twenty-five points below the market at
+twenty seven ninety this formation short
+calls and short puts at the money and to
+equi distant long options equi distant
+from each other and out of the money is
+known as an Iron Butterfly now let's
+really break down the risks and rewards
+of each of these options so you
+understand how and why this trade works
+so let's first take a look at why we're
+entering this trade and actually
+receiving a credit of cash into our
+account at the outset of the trade so as
+you can see we pay six thousand nine
+hundred fifty dollars for those ten
+twenty eight forty calls at the top of
+the trade because we purchased ten of
+those for 6.95 cents and each point is
+worth one hundred dollars as we
+mentioned so the cost comes out to that
+figure
+similarly we sold ten of those at the
+money twenty eight fifteen calls and we
+received over eighteen thousand dollars
+for those we also received over
+seventeen thousand dollars for those ten
+short 28:15 puts and finally we had to
+pay almost ten thousand dollars for
+those protective 2790 puts at the bottom
+of the trade so if you do the math the
+total cash we've received in our account
+for entering into this trade is 19
+thousand and four hundred dollars now
+your broker will margin you fifty six
+hundred dollars for this trade as that
+is the worst possible loss that can be
+suffered on the trade
+so the
+risk/reward on this trade is more than
+three to one which appeals to most
+traders okay so we're off to the races
+on this trade and one way that you can
+look at the Iron Butterfly trade is that
+our goal is to have to give back as
+little of that original
+19400 as possible by the end of the
+trade so let's see how this trade
+actually turned out and more importantly
+we'll explain why before we move to that
+part of lesson though I wanted to
+mention that we're running a to our free
+intensive workshop at the moment so just
+go ahead and click the link that should
+be appearing now at the top right corner
+of your screen that will open the free
+registration page in a new window or you
+can just go ahead over to options class
+comm to register for this free intensive
+workshop it's a rare opportunity for
+retail traders and investors to learn
+directly from Wall Street traders but
+that's exactly what you'll be getting
+through this free online workshop so
+click the link to sign up now and don't
+miss it so let's move forward to march
+13th as the options are expiring and as
+you can see the SPX closed that day at
+28 1090 now as I mentioned earlier these
+options are settled in cash after
+they've expired so let's break down how
+each option individually will settle so
+you'll see why this trade did so well so
+both calls the short 28 15 and the long
+28 40 well those are above the money so
+those calls have no value at settlement
+they expire for zero now the short put
+of 28 15 that one is four dollars and
+ten cents in the money because the SPX
+closed at 29 1090 on expiration day so
+that means our account will be debited
+40 100 dollars to extinguish our
+obligation to the owner of that put as
+you can see from the calculation finally
+the 27 90 put well that is below the
+market so that also expires worthless so
+remember that our goal was to retain as
+much of the original credit as possible
+well in this case that went very well
+because the only obligation we have to
+return some of that original credit came
+about as a result of that short 28 15
+put so you can see we were able to walk
+away with fifteen thousand four hundred
+dollars in this case which against the
+original 50
+$600 margin on the trade resulted in a
+15,000 $300 profit now please don't
+think that every Iron Butterfly trade
+will be so successful most will not be
+and most professional traders would have
+probably exited traded a bit earlier or
+at least started to close out of their
+position and cash in some of their chips
+earlier than expiration itself but I did
+want you to see the potential of the
+Iron Butterfly trade and its mechanics
+and provide you with an example of how
+the profits are calculated at the end of
+the trade so the purpose of this video
+was to expose you to an introductory
+lesson of how the Iron Butterfly trade
+works and its mechanics there are a lot
+of nuances to how you can trade the Iron
+Butterfly and there are a myriad of ways
+of modifying it during the course of the
+trade in such a way as to adapt to
+changing market conditions and prices
+and will actually cover some of those
+techniques in subsequent videos now just
+to remind you as I said earlier if you
+enjoyed the video and would like to
+learn three more real-world option
+strategies that our traders use
+including the surprisingly simple
+strategy that some of the greatest
+investors in the world like Warren
+Buffett use all the time plus an options
+trading strategy that has a statistical
+80 percent probability of profit month
+in and month out plus an option strategy
+that you can employ with a stock that
+you like where you'll make your target
+profit whether the stock goes up goes
+nowhere or even goes down a small
+percentage then you should check out the
+free options class that we're currently
+running just go ahead and click the link
+that should be appearing now at the top
+right corner of the screen that will
+open the free registration page in a new
+window or you can just go ahead over to
+options class com2 register for this
+free intensive workshop it's a rare
+opportunity for retail traders and
+investors to learn directly from Wall
+Street traders but that's exactly what
+you'll be getting through this free
+online workshop so click the link to
+sign up now and don't miss it now one
+more thing I'd like you to do is to go
+ahead and click our subscribe button so
+you don't miss any of our trading videos
+per district produced for the trading
+and investing community and while you're
+at it please please add your feedback in
+the comment section for what videos
+you'd like us to produce next as well
+as what you found helpful from this
+video that will help us to produce
+high-quality videos from you in the
+future so from all of us at SMB trade
+well

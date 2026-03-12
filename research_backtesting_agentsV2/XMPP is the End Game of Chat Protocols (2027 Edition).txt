@@ -1,0 +1,509 @@
+It is the year 2041. Your toaster
+requires biometric face scan to log into
+it. You can't join a group chat without
+linking three government databases and
+proving [music] you're eligible to
+communicate. You need to submit your
+identification, blood type, social
+security number, and whole [music] pass
+before you authenticate to your local
+chat application. For those of us who
+just want to send hello world print to
+the homies, there's another option.
+[music] Withdraw consent from the age
+verification slop. Use protocols, not
+[music] platforms. XMPPP is the answer.
+What's up, guys? My [music] name is
+Tony, and today I'm going to give you a
+quick and painless guide on XMPPP.
+XMPPP, formerly known as Jabber, [music]
+is the extensible messaging and presence
+protocol. It is a federated instant
+messaging standard [music] where your
+server talks to all other servers, just
+like email. It is a very lightweight
+messaging protocol that has been battle
+tested for over 25 years. I recently
+made a video on Matrix, which is another
+open-source messaging protocol. But
+there are some reasons why I think XMPPP
+is superior. In Matrix, when you join a
+room, your server downloads [music] and
+stores the entire history of that room.
+If someone on a federated server posts
+illegal content in a room you're in,
+your server is now hosting it, and you
+are liable. Whereas [music]
+in XMPPP, messages are relayed in real
+time. Group chat, MU history stays on
+your server hosting that room. So your
+server [music] only stores messages for
+your users which means that no content
+caching there is no content caching from
+other servers. This is a fundamental
+architectural difference [music] which
+makes the XMPPP protocol better in my
+opinion. So let's jump into how to
+install and use XMPPP. So similar to the
+matrix video, I'm going to show two
+paths. One is the normie path, the
+5-minute escape route where we're going
+to create a public account and then
+download a client. And for me, my client
+of choice is Gajim. As you can see here,
+it's similar to Discord [music] or
+Element in so far as it's got
+workspaces, it's got rooms, etc. But
+after I show that, I will show the
+self-hosting path [music] for those of
+you who are more enthused, if you will.
+So, without further ado, let's jump
+right into it. All right, so the first
+thing we're going to do is head over to
+xmp.org and [music] click on the getting
+started tab. Now, it says to download a
+client first and then create an account
+after. If you already have an account,
+you can just download a client and log
+into that account. But for the normie
+coming over from Discord or Telegram or
+what have you, we're going to scroll
+down here to create an account and we're
+going to click this public provider list
+here. And for us, for today's purposes,
+we're going to use jabers.1 here. We'll
+click on the English and we'll go
+straight to this website here,
+jabbers.1. We'll create an [music]
+account and I'm going to make that tony
+btw. And for the password, I'm going to
+do password one, two, three, and accept
+the privacy policy and the terms of use.
+And this is going to be the hardest part
+for me, confirming that I am a human
+because like I said previously, I do
+kind of feel like a robot in my soul
+here. See, this is the thing. It says
+find places for relaxing. So, I got to
+think, what would a human [music] look
+for when relaxing, right? Probably not a
+monster truck. That's probably not very
+relaxing for humans. Maybe [music] a
+couch, I guess. Maybe some chairs.
+Again, I'm not sure. I'm just going off
+of what I've read from the LLM training
+data that I've been kind of trained on
+here. So, yeah, I think humans prefer to
+be relaxing on these couches or
+whatever. So, we'll verify that. Looks
+like that worked out. So, once you've
+passed the human check, just go ahead
+and register that. And there we go. All
+right. So, the registration succeeded
+and we're ready to jump into a client
+here. So, now over back on this getting
+started tab here, we do see a couple
+options. You've got a couple browser
+options. Mov.js.
+You've got Dino and Gajim. Kajjim is my
+preferred client here. That's going to
+be on Linux native desktop here. But for
+the purpose of this tutorial, we're
+going to use converse.js just right in
+the browser. Now, I don't know anything
+about Beagle IM cuz I've never heard of
+this distribution of Linux. I don't know
+what that is. I don't know if that's
+MSUS or MCOS. If you have that
+distribution of Linux, maybe check
+Beagle IM out, but I can't attest to the
+validity of how good that's going to be
+as a user experience for [music] you.
+So, let's check out converse.js JS here
+today. And we see it's just a web
+browser client here for XMPPP chat. So
+let's click take me to the app. And
+we're going to log in with that account
+we just made here. It's going to be Tony
+by the way one jabver.1. [music] The
+password is going to be you know what we
+discussed earlier. So we'll log into
+that. And there [music] we go. Got this
+beautiful looking chat app here with no
+group chats or no anything. So now
+[music] this part is where you're going
+to join one of my rooms here. And I've
+got a general conference here. So we'll
+do add group chat. And the group chat
+[music] address is going to be Tony by
+the way at
+conference.xmP.tononybyway.com.
+Nickname could be Tony by the way. And
+we'll join that. There we go. So we're
+inside of this group chat here. Going to
+tell everybody that they're all going to
+get doxed in this video here. But yeah,
+this is the group chat here for now.
+It's got 15 participants in this
+specific room. You can add group chats
+here and you can join other rooms as
+needed and you can do a lot more than
+that. And that's it. You're on XMPPP. no
+government ID, no proprietary garbage,
+you're ready to go. And if you want to
+stop here and just use a public server,
+that's totally fine. But if you want to
+self-host your own server and have full
+control, I'm going to explain how to do
+that right now. So for me, in my
+situation, I have created a bridge on my
+XMPPP server that goes straight to the
+matrix server. So I can join a matrix
+room from an XMPP client so I can keep
+everything consolidated in one place.
+So, what that looks like in practice is
+I can go over to the OXWM matrix room
+for my XMPPP client and just start
+talking about OXWM. But yeah, let's jump
+into the setup of the XMPPP server. So,
+thanks to Iconic here for the B-roll, we
+can talk about the great things that
+Linux and self-hosting [music] have in
+general. So, for self-hosting, similar
+to Matrix, I have my XMPP server on the
+same ThinkPad in my closet. As shown
+previously, you can literally get a
+laptop from a thrift store for really
+cheap and restore it as needed. or you
+can just grab a laptop from your dad's
+garage or what have you. And the
+beautiful thing about XMPPP is that it
+is such a lightweight protocol that you
+can host it on hardware from the 1990s
+and it will still run fine. And the
+benefit of that is that you don't need a
+VPS. But again, if you really want to
+use one, that's fine, too. All you need
+is a domain name and an internet
+connection. For the operating system of
+the server, I'm going to be using Nyx OS
+today due to its ability to declare the
+entire server in one or two files and
+not have to worry about maneuvering
+around random EngineX config files or
+Synapse config files, etc. So, there
+will be more of a deeper dive, so to
+speak, on the DevOps side of things with
+respect to Nyxos in the future, but for
+today's video, I'm just going to assume
+you guys are already on board with the
+Nyx OS message. All right. So, I'm on a
+NixxOS machine here. And what we're
+going to do is we're going to add an
+XMPP.Nix
+file to our configuration. So, for me,
+I'm going to CD into my Nixos.files
+directory. And I'm just going to make
+XMPP.Nix.
+And I'm going to go into
+configuration.nix here and include that
+file into this import section here.
+So, let's open up this XMPP.N nix file
+and we'll start the process on getting
+this going. So we're going to define
+some variables here. Let's define the
+domain here. For me, this is going to be
+xmp.tonony
+by theway.com. And then we'll do the muk
+domain. So that's going to be
+conference.domain.
+And then the upload domain, it's going
+to be upload.domain.
+So we've got our variables here. And
+we're going to enable the procity
+service. So we'll do services.procity.
+And for procity, let's leave that empty
+for right now, just to kind of show what
+we're going to do total. So we'll do the
+procity service. And then we're also
+going to set up some networking here. So
+we'll do networking.firewall.allow
+TCP ports here. And we're going to
+eventually enable some ports. So this is
+going to be the structure of the file.
+We're just going to have the procity
+service, which is what we're going to be
+using for our XMPPP server. And then
+we're going to open up some ports here
+on the firewall. [music] So let's start
+filling this out. All right. So we're
+going to go ahead and enable this here.
+And we're going to set the admins here
+declaratively. So we'll do admins
+equals. And for me, I like to do admin
+at domain. So pretty common convention.
+Now for the SSL certificates, we're
+going to set theert path equal to var
+lib acme domain
+and that'll be fullchain.pm. And for the
+key, we're going to set the same path
+there, but it's just going to be key. So
+this will configure global SSL and TLS
+certificates for encrypted connections.
+And this is going to point to let's
+encrypt certificates which are managed
+by Acme. So we also want HTTP file
+sharing enabled so that users can send
+up to 100 megabyte files through the
+XMPPP server. So what we're going to do
+for that is do http fileshare and we're
+going to make the domain equal the
+upload domain which is [music] going to
+be upload.xmpp.ton
+by the way.com which we've declared at
+the top of the file. And then for the
+upload file size limit, we'll do upload
+file size limit. And that's going to be
+100 * 1024 * 1024. So that'll be 100
+megabytes. All right. So let's actually
+set up the multiuser chat room here. So
+that's going to be MU. So for the MU,
+we'll do MU. We'll do domain and we're
+going to set that to the MU domain. And
+the name of that is going to be whatever
+you want. So for me, I'm going to do
+chat rooms. And let's set restrict room
+creation to false. So we can actually
+create rooms. All right, almost done
+with this file here. We do want to add a
+virtual host block here. So we're going
+to do virtual hosts.domain.
+And for that virtual host, we're going
+to enable it. And we'll set the domain
+to domain. So it's going to be that
+XMPPP. Tony, by the way. Now for the
+SSL, we're actually going to use the
+same block above here for this virtual
+host. So we'll just paste that in. And
+that ensures that this virtual host has
+the same file path for the SSL
+certificates. All right. So now we need
+to add some modules. And these are going
+to be some pro city specific modules.
+And these are some of the ones that I
+like. So So we're going to definitely
+enable roster which will give us contact
+lists. We want SASL authentication so we
+can authenticate. We're going to set TLS
+to true. That's going to be an
+encryption module. We want dialback that
+is serverto-s server verification. We
+want disco as well. Disco is a module
+that allows [music] service discovery.
+We're going to enable carbons which is a
+module that allows you to synchronize
+messages across devices. We are going to
+enable PEP as well here. And [music]
+this is important for the personal
+eventing protocol giving you things like
+avatars, status, etc. We're going to
+enable MAM or message archive
+management. So we can have message
+history. We're going to keep pings alive
+here by enabling the ping module. And
+then for me, I like the admin ad hoc
+module because that gives us access to
+admin commands. And then HTTP files
+so we can upload files there. And that's
+good here for a sort of minimal module
+list. And a list for all these modules
+are going to be available here in the
+Pro City community module website. And
+I'll put a link to this list below the
+subscribe button. So you can take a look
+at this list and see if any modules
+apply to your server that you're going
+to want. And one more thing I want to do
+here is disable registration. So we'll
+turn allow registration to false. It'll
+make it easy so that nobody can register
+to your personal server. If you want to
+allow people to register, you can omit
+this part and then create accounts for
+other people for your server. But yeah,
+that looks good for the pro city service
+configuration. So we can move on to the
+Acme config and the engine X config and
+then we'll be good to go. So I'm just
+going to fold those lines here with ZF
+and we're going to make a group here.
+users.groups.serts
+members. We'll put proity and enginex in
+here. That'll create a group so both
+procity and engineext can read the SSL
+certificates. All right. So, let's move
+on to the Acme configuration. So, we'll
+do security.acme
+and let's set this [music] up here. So,
+we're going to accept the terms and then
+the defaults. I'm going to put Tony at
+Tony by the way.com. You just put your
+email address. For theerts, we're going
+to doerts.domain.
+And the group is going to be the search
+group we just made. The web route will
+be var lib acme acme challenge. And then
+the postr run it's going to be systemctl
+reload procity.
+So that means that every time the
+certificate is validated or refreshed
+the procity service will get restarted.
+And then to ensure that theerts are
+actually going to validate all the
+domains, let's add an extra domains flag
+here. We'll put the muk domain in here
+and the upload domain. That way we can
+just create one certificate that will
+cover all three domains. And that looks
+good. So we can move on to the engine X
+block and go from there. All right. So
+for engineext, we'll do
+services.engineext.
+Just going to enable that obviously. And
+then we will set up virtual hosts inside
+of this engine X here. And we'll do
+locations/wellnown
+acme challenge.root.
+And we're going to set that equal to var
+lib acme acme challenge. Let's also set
+a returned 404 as well because this is
+not a real website. So why we need an
+engine x web server on top of the proced
+server is so that we can serve the acme
+challenge files for let's encrypt domain
+verification. So we need to return 404
+for any other route since it's not
+really a website. And yeah, that'll be
+it for now. If you have a matrix server
+already, similar to the XMPPP server,
+and you have a spot for well-known Acme
+Challenge certificate validation, you
+don't need to double dip and add this.
+I'm going to add it for this tutorial
+because on this machine, it's just going
+to be an XMPPP server. All right, last
+thing we need to do in this file is to
+open up some firewall ports here. It's
+going to be port 80 for the Acme
+Challenge, http, and then we need 443
+open for the HTTPS file uploads. And
+then we're going to need to open 5281
+for Pro Cities HTTP upload port. And
+then we're also going to need 5222 open
+for the XMPPP client connections. And
+then we're also going to need 5269 open
+for the XMPPP server federation. And
+yeah, with these ports open, it looks
+like we've got a functioning XMPPP
+server. So in theory, we should be able
+to just run a pseudo Nixos rebuild
+switch and we'll be good to go here. So,
+what I'm going to do is Nyx Flake update
+to make sure all my packages are up to
+date. All right. What I'll do here is
+I'll run a pseudo Nixos rebuild
+switch-fliles
+directory. And the host is Nixxos, by
+the way.
+And that looks good to go. So, looks
+like we didn't make any typos there.
+What we're going to need to do now is
+ensure that our Pro CD server is running
+and then yeah, we can go from there. So,
+let's do a systemctl status proced.
+There we go. Looks like it's active and
+good to go here. Now to create the
+account, you can do a pseudo procity
+add user. And you can make an account
+here. I'm going to make test at
+xmppp.tonby
+way.com. We're going to make a password
+for this user. So you already know it's
+going to be. So we've created a test
+user here, test atxP.by
+way.com through the procdctl command
+line here. And now in theory, we should
+be able to use a client and log in. So,
+I'm going to go ahead and swap over to a
+different machine here and show you guys
+what that looks like. All right. So,
+I've logged into test atxP.tononyby.com.
+And now what I can do is join a group
+chat. And we're going to add this group
+chat. It's going to be again
+tonybyconference.xmpp.tonbyway.com.
+This is just going to be Tony by the
+way. So, we'll join that. And there we
+go. We are in the group chat now. So we
+can just simply say, "Hey guys, I'm
+posting from a test account made from a
+live demo." And yeah, this is sent from
+2027 here. So there we go. Converse.js
+is nice for for a browser client. Not
+bad. But again, I would recommend
+something like Gajim over that for
+non-leacy dros. And for more information
+on Gajjim, you can go to gajim.org.
+Click install. And again, I'm not sure
+what these distributions are. For Mace
+OS, it looks like they've got some
+options. Never heard of that DRO. And
+then for I guess this is maybe a phone
+distro. Not sure. They've got options
+for these two dros. But let's check the
+mainline Linux distributions here. And
+as you can see here, we have
+availability on tons of legacy dros. So
+for example, Arch Linux in the extra
+repository. Looks like Debian 14 if
+you're into that. We've got Forky. It's
+available on Debian SID as well. So
+yeah, lot of availability for these
+legacy dros. Now what I'm going to do is
+I'm going to NYX packages. So that's
+available on 2511 and unstable. So
+that's good for us. But if you are on
+the other non legacy DRO, let's take a
+look on how to get that here. Looks like
+it is outdated on Geeks. So your mileage
+may vary with that. So I would encourage
+you to shoot a message to Tronda and
+he'll be able to assist you on setting
+up Gajim on Geeks. Yeah, like I said,
+Gajim looks pretty clean. It's got my
+Matrix bridge set up so I can interact
+with people from Matrix inside of my
+XMPPP client and not have to worry about
+managing several clients. But yeah, so
+that's going to wrap up the video today.
+You're going to have an XMPPP identity.
+You're going to have full federation
+with your entire XMPPP network. You'll
+have group chats that don't replicate to
+other servers. You're going to have file
+sharing with 100 megabyte uploads.
+You'll have message history and no
+liability for federated content. You
+know, the best part about this is you're
+not going to have to submit any DNA or
+biometric scanning information to any
+threeletter agency. You can just create
+this server and own it yourself. So,
+thanks so much for checking out the
+video. And if you have any free and open
+source software or Linux/BSD
+related software questions you'd like me
+to go over, just drop a comment and I
+will put it in the pipeline. And as
+always, I wouldn't be able to end the
+video without an obligatory Neochetch.

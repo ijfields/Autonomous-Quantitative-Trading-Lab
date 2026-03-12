@@ -1,0 +1,399 @@
+When you visit my blog on the internet,
+you're actually connecting to a
+container that's running on the
+Kubernetes cluster that I run at home in
+my home lab. Now, what if I told you
+that it's not just the container that's
+running there, it's also all of the
+source code, all of the CI/CD pipelines,
+and everything that's needed to run this
+blog is also being run on that same
+Kubernetes cluster. And in this video,
+I'm going to show you why I don't need
+GitHub anymore in order to build and
+host my blog all on my own home lab. So,
+let's jump in. So, the tool I'm using
+for this is called ForJo, which is a
+self-hosted Git server. Now, if you're
+watching this video, it's likely that
+you're aware of Git and GitHub, but I
+just want to make sure everyone is on
+the same page. So, I'll just briefly
+explain what this is all about. Now many
+people don't know this but GitHub is not
+the same as Git. Git is the actual
+version control system which is created
+by Linus Torvaltz the creator of Linux
+and Git is used to manage the versioning
+of files. So if you have people working
+on the same files you need a way of
+tracking what things have changed in
+those files. Especially if you're
+working on the same file with whole
+teams of people, it becomes very
+important that you have a good system in
+place for this to make sure that all of
+these changes can actually be
+implemented. Right? So one of the best
+examples for this is actually the Linux
+source code which is on GitHub. Now a
+project where you use git is usually
+contained in one directory and this is
+called a repository. So a git repository
+is a collection of files that uses git
+for version control. Now you need to
+place this repository somewhere right
+and in this case or many cases it is
+GitHub. GitHub is basically a place to
+put your Git repositories and that is
+basically all that is what it does. Now
+for example the Linux source code is
+hosted on GitHub. You can go in and read
+the code here and you can also look at
+the commits. So a commit to a git repo
+is when someone makes a change and then
+um for example here are the changes in
+the code which are being managed by git
+in the version control. So here you have
+a record of everything that has been
+changed by whom and you can always go
+back to a previous commit for example so
+that you can you can you can you know
+revert your changes or you can actually
+know exactly what was changed and when.
+So you can see in real time what is
+being changed in the Linux kernel. Now
+for example GitHub is then a Microsoft
+owned company that provides a service
+where you can put these git
+repositories. Now what forjo does is it
+provides you with your own GitHub. Okay,
+it provides you with a place where you
+can host your own self-hosted git
+repositories. And that is what I did. So
+for example, my blog, all of this source
+code lives in a repository on my own
+self-hosted git instance. So whenever I
+publish a blog now, the code is actually
+being committed to my own repository and
+not to GitHub anymore. So why would you
+even bother with this? Why does anyone
+need to have their own self-hosted Git
+instance? But before we continue, about
+73% of my viewers aren't subscribed. So
+please subscribe. It helps me put out
+more honest content like this every
+single week, and it's a completely free
+way to support my channel. So, everybody
+knows that AI models are really good at
+writing code, right? That's one of the
+things that they're best at. Now, where
+do you think all of this code came from?
+All of this code was gathered from
+places like Stack Overflow, but also
+GitHub. So, Microsoft, who owns GitHub,
+scans all of the code that is being
+published on GitHub, and then they're
+taking that to train the models, etc.
+And I don't think there's necessarily
+anything wrong with that. However, if
+there are things that I am developing
+myself that I don't necessarily want to
+share with others, I want to keep that
+in my own git repositories. Right? So if
+you're using this service, you're
+basically agreeing that they can use
+that data. and I I have certain
+projects, private projects, for example,
+my own note-taking system that I don't
+want Microsoft to have and I don't want
+them to scan that. So, this is the
+reason why I deployed my own self-hosted
+git instance. Now, let's take a look at
+my git instance. So, this for example is
+my blog repo. So, you can see it has a
+very nice UI where I can just check out
+all of the changes I made. It has these
+um commit changes for example. So, if I
+check the overview over here, you will
+see all of the changes I've made here.
+For example, I changed a an image that I
+um that that went wrong. So, I had to to
+change the code for this image. It has a
+very nice UI for this. So, and it also
+supports pull requests. So, there's the
+full normal pull request workflow that
+you might be used to when using GitHub.
+it it really feels almost the same as
+running GitHub. The second thing is that
+for Jio also provides you with your own
+self-hosted actions runner. In other
+words, your self-hosted CI/CD pipeline.
+So when I commit some code to my blog
+here, then a set of automations are
+going to take place and I'm going to
+demonstrate this in a second. But these
+are then going to take my code, build it
+into a container image and deploy it to
+my Kubernetes cluster. And all of this
+is running on my own infrastructure. So
+if you have an open-source project or
+GitHub, it is for free. You can you can
+store it for free and you can use GitHub
+actions for free. However, if you have
+your private repos, first of all, your
+code is going to be scanned, but also
+it's a bit limited what you can do with
+the free GitHub actions. Okay. So I am I
+have completely unlimited um CI/CD
+pipelines now because I'm running them
+on my own infrastructure. Now one
+interesting thing is that you are
+actually able to self-host your GitHub
+actions on your own infrastructure. So
+you can use GitHub and use those runners
+on your own infrastructure. But
+recently, Microsoft made a big mistake
+where they announced that they were
+going to charge you for the self-hosted
+GitHub runners as well. They published
+this on the 15th of December. They
+announced the pricing changes for GitHub
+actions. And uh that what this led to a
+huge backlash on social media and X was
+completely on fire about this. So they
+wanted to charge you for running stuff
+on your own infrastructure and that did
+not sit well with the community and as
+you see in the in the announcement now
+here they're saying TLDDR we're
+postponing the announced billing change
+uh to take time to reevaluate the
+approach. So they actually came back and
+reverse that price change. So they they
+lost some phase there. Um so even though
+um you can still do it for free, there
+are changes coming. So this is also
+another catalyst. I actually had already
+deployed for JO at that point but um
+this was actually a catalyst for me
+knowing that okay I I did the right
+thing here by going the self-hosted way
+and hosting my own git server. Now
+another really cool feature of 4Jo is
+that you can mirror git repos to your
+own infrastructure. So for example there
+is this UB key guide that is a public
+git repo on GitHub but you can set this
+up as a mirror. So every day my forjio
+instance is going to check a se certain
+amount of repos that I configured and
+it's going to mirror those repos to my
+own infrastructure. So if the owner of
+this repository in in this case the the
+UB key guide if the owner for some
+reason decides to take that repository
+down I will always have my own copy of
+that repo on my own infrastructure. So I
+don't know if you've experienced this
+but there have been several projects
+that I really liked that were taken
+offline. So sometimes companies sue open
+source projects and force them to take
+the code down. Well, in the case that
+happens, I will always have my own copy,
+including all of the commit history. And
+note, this includes the full commit
+history. Okay? So, I have the full
+history of the repository available to
+me on my own self-hosted infrastructure.
+So, I always have a copy of the source
+code on my own infrastructure and I can
+keep developing on it if I want to. Now,
+when I decided to self-host my own git
+server, there were a few alternatives
+that I considered. One of them is
+GitLab. that is actually the most
+obvious one. This is a alternative to
+GitHub which is used a lot in enterprise
+as well and I I kind of lean towards
+this one because it would also give me
+um experience with GitLab and in fact I
+worked with GitLab in my first DevOps
+job. We were running our own self-hosted
+GitLab instances. So in that sense it
+made sense for me to continue with that.
+But GitLab is quite advanced to host. It
+involves a lot of things especially if
+you're hosting it on Kubernetes and
+frankly for my own use case I was a
+little bit too much. It was a very much
+overkill. And then the second one that
+that I considered was Gy. Now, gy
+there's I don't think there's anything
+wrong with it. But Gy used to be an
+open-source free project which was then
+acquired by a company which now has
+offered a SAS version of this as well.
+So you can still run it for free. It's
+still open source. So there's nothing
+wrong with that in that sense. But there
+was a huge row about this when the the
+the project was acquired and actually it
+was forked by a group of people who then
+started forj and the reason why I then
+chose for Jio is because they actually
+say it's a guaranteed 100% free software
+forever. So when Gy was acquired, it was
+forked and a group of people went with
+it and basically created an open-source
+project which is completely guaranteed
+100% free and open source forever and
+this resonated with me and I decided I
+wanted to support this project as well.
+And what's really cool about this is if
+you if you're aware of codeberg, which
+is basically a free and open- source
+alternative to GitHub, well, Codeberg is
+actually being run on forj. So they're
+using 4Jo to provide this Git instance.
+And I thought this was really cool. So
+Codeberg is basically a big middle
+finger to GitHub and the big
+corporations because they provide a
+nonprofit community-led open-source
+alternative to them and they are using
+forjo to run this. So I think this is
+very admirable and I I think they
+deserve all the support they they can
+get. So I actually donate money to 4JO
+every single month because I think it's
+such a good project. It works really
+well. And also because of their
+commitment to being guaranteed 100% free
+and open source, I think they deserve
+all of the support they can get. And
+just to be clear, I am not affiliated
+with them, but I just want to use my
+audience and my reach to expose as many
+people as possible to this wonderful
+project because they deserve all of the
+support that they can get. And another
+interesting thing about forj and which
+also influenced my choice is because the
+enterprise and government world is also
+showing interest in this now. So there
+is a discussion here on the official
+forj repo where someone working in a
+Dutch government actually expressed
+interest that the Dutch government is
+interested in using forjo. So I think if
+you are uh someone who is oriented
+towards open-source software also in
+your career which I think is a very good
+thing to do um I think forjjo will be a
+good choice to learn. So to get started
+with forj is actually super easy if you
+just want to quickly try it out. You
+just go to the installation guide in the
+documentation and here they have some
+installation instructions to um install
+it with docker. And this is what I
+recommend you do just to get started
+with it and to try it out and then when
+you have when you like the thing then
+you can actually start moving it towards
+your server. So on my machine here I'm
+I'm running podman. So the command I'm
+going to run here is podman run in
+detached mode name for j and then we're
+going to expose port 3000 and 2222 for
+the ssh connection and we're going to
+give it a volume as well. So if I run
+this, it's going to start the 4Jo
+container. And if I then go to localhost
+3000,
+I'm now connected to my fresh forj
+instance.
+So you can just accept the default
+settings here and install forj. And you
+have to uncheck this box. And when you
+then install forj like this, it is now
+going to load up. And there we go. We
+can now log in. And that's how easy it
+is to get started with for JO. Now, when
+you've done this, you already have your
+self-hosted git instance. Like you you
+literally don't need more to get
+started. But let's also look at the
+self-hosted actions component of this.
+So I am now on the on the CLI, I have
+prepared a test blog post. So if I now
+run my publish command, it is actually
+going to commit the changes to the repo
+and then it's going to trigger the build
+and watch it run. So if I go to my blog
+repo now, we'll see that the a git
+commit has been has appeared now and
+this also triggered an action which is
+now running. So as we speak, this is now
+running on my own kubernetes cluster at
+home. it is going to check out the repo
+and it's going to take check out the
+code build that code into a container
+image and then git ops is going to pull
+in that change into my kubernetes
+cluster. So now we see it is now going
+to build the image and after it is
+finished building this image it's also
+going to push it to my own container
+registry also provided by 4j. So the
+whole software pipeline from hosting the
+code to building the code and I'm I'm
+not currently testing this code but I
+could test it. I can do everything that
+I normally do in a CI/CD pipeline in
+these actions and this action runner is
+running on my own Kubernetes cluster. So
+if I go to my home lab now and if I
+open up K9s
+then if I search for for 4Jo then we'll
+see there is a 4J runner which is now
+actually running this process as we
+speak. Okay, this is now running on my
+uh on my home lab cluster.
+It is building the image and now it has
+pushed the image. So the changes are
+pulled to my cluster and if I then
+refresh my blog here, we see that there
+is a test post here for my demo
+purposes. So this was just added as a
+demo. I'm going to be deleting this
+after the after I finish recording this
+video. But here you see that I have
+committed code to a repository running
+on my own infrastructure and then I'm
+building this code and then I'm serving
+that container image all from my own
+Kubernetes home lab. And I'm doing this
+on my own complete sovereign
+infrastructure. So for JJO is a great
+project. I really recommend you look
+into it. It's really easy to get started
+with Docker. But if you are running a
+Kubernetes home lab and you also want to
+run forj on Kubernetes, then I have all
+of the source code available here. I
+have the manifest already written out.
+And I spent a lot of time on this
+because it's actually really tricky to
+get it running with a self-hosted runner
+on Kubernetes. And if you want to get
+all of these manifests so you can start
+running forj on your Kubernetes cluster,
+you can check out the link below and get
+it all for free. Now, let me know in the
+comments if you're going to try out
+forjo. Let me know what you think. Make
+sure to subscribe and I'll see you in
+the next

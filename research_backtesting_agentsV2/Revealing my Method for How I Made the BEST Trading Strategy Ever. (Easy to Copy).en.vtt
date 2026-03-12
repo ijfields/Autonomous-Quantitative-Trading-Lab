@@ -1,0 +1,3928 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:02.149 align:start position:0%
+ 
+Today<00:00:00.320><c> I'm</c><00:00:00.560><c> going</c><00:00:00.719><c> over</c><00:00:00.960><c> how</c><00:00:01.199><c> this</c><00:00:01.439><c> strategy</c>
+
+00:00:02.149 --> 00:00:02.159 align:start position:0%
+Today I'm going over how this strategy
+ 
+
+00:00:02.159 --> 00:00:05.349 align:start position:0%
+Today I'm going over how this strategy
+got<00:00:02.480><c> a</c><00:00:02.720><c> sharp</c><00:00:03.040><c> ratio</c><00:00:03.360><c> of</c><00:00:03.600><c> 1.21,</c>
+
+00:00:05.349 --> 00:00:05.359 align:start position:0%
+got a sharp ratio of 1.21,
+ 
+
+00:00:05.359 --> 00:00:07.909 align:start position:0%
+got a sharp ratio of 1.21,
+which<00:00:05.680><c> is</c><00:00:06.080><c> a</c><00:00:06.319><c> godlike</c><00:00:06.960><c> sharp</c><00:00:07.279><c> ratio,</c><00:00:07.600><c> and</c><00:00:07.759><c> a</c>
+
+00:00:07.909 --> 00:00:07.919 align:start position:0%
+which is a godlike sharp ratio, and a
+ 
+
+00:00:07.919 --> 00:00:11.030 align:start position:0%
+which is a godlike sharp ratio, and a
+sortino<00:00:08.480><c> ratio</c><00:00:08.800><c> of</c><00:00:09.200><c> 11.01</c>
+
+00:00:11.030 --> 00:00:11.040 align:start position:0%
+sortino ratio of 11.01
+ 
+
+00:00:11.040 --> 00:00:12.870 align:start position:0%
+sortino ratio of 11.01
+in<00:00:11.200><c> out</c><00:00:11.360><c> of</c><00:00:11.519><c> sample</c><00:00:11.840><c> data.</c><00:00:12.080><c> And</c><00:00:12.240><c> look</c><00:00:12.400><c> at</c><00:00:12.559><c> this</c>
+
+00:00:12.870 --> 00:00:12.880 align:start position:0%
+in out of sample data. And look at this
+ 
+
+00:00:12.880 --> 00:00:16.470 align:start position:0%
+in out of sample data. And look at this
+max<00:00:13.280><c> draw</c><00:00:13.599><c> down</c><00:00:14.080><c> 9%.</c><00:00:15.360><c> Incredible.</c><00:00:16.160><c> And</c><00:00:16.320><c> this</c>
+
+00:00:16.470 --> 00:00:16.480 align:start position:0%
+max draw down 9%. Incredible. And this
+ 
+
+00:00:16.480 --> 00:00:19.189 align:start position:0%
+max draw down 9%. Incredible. And this
+is<00:00:16.640><c> an</c><00:00:16.960><c> outof</c><00:00:17.279><c> sample</c><00:00:17.760><c> data</c><00:00:18.320><c> as</c><00:00:18.720><c> well.</c>
+
+00:00:19.189 --> 00:00:19.199 align:start position:0%
+is an outof sample data as well.
+ 
+
+00:00:19.199 --> 00:00:21.910 align:start position:0%
+is an outof sample data as well.
+Phenomenal.<00:00:20.000><c> So</c><00:00:20.400><c> what</c><00:00:20.720><c> this</c><00:00:21.119><c> actually</c><00:00:21.600><c> did</c>
+
+00:00:21.910 --> 00:00:21.920 align:start position:0%
+Phenomenal. So what this actually did
+ 
+
+00:00:21.920 --> 00:00:23.590 align:start position:0%
+Phenomenal. So what this actually did
+was<00:00:22.320><c> Claude</c><00:00:22.720><c> worked</c><00:00:22.960><c> on</c><00:00:23.039><c> the</c><00:00:23.199><c> strategy</c>
+
+00:00:23.590 --> 00:00:23.600 align:start position:0%
+was Claude worked on the strategy
+ 
+
+00:00:23.600 --> 00:00:25.990 align:start position:0%
+was Claude worked on the strategy
+overnight<00:00:24.080><c> for</c><00:00:24.320><c> me,</c><00:00:24.640><c> built</c><00:00:24.960><c> me</c><00:00:25.119><c> a</c><00:00:25.439><c> series</c><00:00:25.760><c> of</c>
+
+00:00:25.990 --> 00:00:26.000 align:start position:0%
+overnight for me, built me a series of
+ 
+
+00:00:26.000 --> 00:00:27.750 align:start position:0%
+overnight for me, built me a series of
+different<00:00:26.400><c> strategies,</c><00:00:26.960><c> and</c><00:00:27.199><c> then</c><00:00:27.439><c> ranked</c>
+
+00:00:27.750 --> 00:00:27.760 align:start position:0%
+different strategies, and then ranked
+ 
+
+00:00:27.760 --> 00:00:29.910 align:start position:0%
+different strategies, and then ranked
+the<00:00:28.000><c> top</c><00:00:28.240><c> five</c><00:00:28.480><c> of</c><00:00:28.560><c> them.</c><00:00:28.720><c> There</c><00:00:28.880><c> was</c><00:00:29.039><c> about</c><00:00:29.359><c> 25</c>
+
+00:00:29.910 --> 00:00:29.920 align:start position:0%
+the top five of them. There was about 25
+ 
+
+00:00:29.920 --> 00:00:31.750 align:start position:0%
+the top five of them. There was about 25
+that<00:00:30.160><c> it</c><00:00:30.400><c> was</c><00:00:30.480><c> testing</c><00:00:30.880><c> overnight.</c><00:00:31.439><c> And</c><00:00:31.599><c> if</c>
+
+00:00:31.750 --> 00:00:31.760 align:start position:0%
+that it was testing overnight. And if
+ 
+
+00:00:31.760 --> 00:00:33.270 align:start position:0%
+that it was testing overnight. And if
+you're<00:00:31.840><c> new</c><00:00:32.000><c> to</c><00:00:32.160><c> the</c><00:00:32.320><c> channel</c><00:00:32.559><c> here,</c><00:00:33.040><c> I'm</c>
+
+00:00:33.270 --> 00:00:33.280 align:start position:0%
+you're new to the channel here, I'm
+ 
+
+00:00:33.280 --> 00:00:35.830 align:start position:0%
+you're new to the channel here, I'm
+using<00:00:33.600><c> Claude</c><00:00:34.079><c> to</c><00:00:34.719><c> run</c><00:00:34.960><c> a</c><00:00:35.200><c> training</c><00:00:35.520><c> engine</c>
+
+00:00:35.830 --> 00:00:35.840 align:start position:0%
+using Claude to run a training engine
+ 
+
+00:00:35.840 --> 00:00:37.990 align:start position:0%
+using Claude to run a training engine
+overnight.<00:00:36.399><c> So,</c><00:00:36.559><c> I</c><00:00:36.719><c> hand</c><00:00:36.960><c> off</c><00:00:37.120><c> my</c><00:00:37.440><c> actual</c>
+
+00:00:37.990 --> 00:00:38.000 align:start position:0%
+overnight. So, I hand off my actual
+ 
+
+00:00:38.000 --> 00:00:40.310 align:start position:0%
+overnight. So, I hand off my actual
+Python<00:00:38.480><c> trading</c><00:00:38.800><c> engine</c><00:00:39.040><c> to</c><00:00:39.360><c> Claude</c><00:00:39.920><c> and</c><00:00:40.160><c> then</c>
+
+00:00:40.310 --> 00:00:40.320 align:start position:0%
+Python trading engine to Claude and then
+ 
+
+00:00:40.320 --> 00:00:42.630 align:start position:0%
+Python trading engine to Claude and then
+it<00:00:40.480><c> handles</c><00:00:40.800><c> it</c><00:00:41.040><c> for</c><00:00:41.280><c> me</c><00:00:41.520><c> overnight.</c><00:00:42.079><c> And</c><00:00:42.399><c> I</c>
+
+00:00:42.630 --> 00:00:42.640 align:start position:0%
+it handles it for me overnight. And I
+ 
+
+00:00:42.640 --> 00:00:44.470 align:start position:0%
+it handles it for me overnight. And I
+have<00:00:42.879><c> previous</c><00:00:43.360><c> videos</c><00:00:43.600><c> where</c><00:00:43.840><c> I</c><00:00:44.079><c> show</c><00:00:44.239><c> you</c>
+
+00:00:44.470 --> 00:00:44.480 align:start position:0%
+have previous videos where I show you
+ 
+
+00:00:44.480 --> 00:00:46.709 align:start position:0%
+have previous videos where I show you
+guys<00:00:44.719><c> how</c><00:00:44.960><c> to</c><00:00:45.200><c> build</c><00:00:45.440><c> that</c><00:00:45.840><c> yourself</c><00:00:46.320><c> free.</c>
+
+00:00:46.709 --> 00:00:46.719 align:start position:0%
+guys how to build that yourself free.
+ 
+
+00:00:46.719 --> 00:00:48.790 align:start position:0%
+guys how to build that yourself free.
+So,<00:00:46.800><c> you</c><00:00:47.039><c> can</c><00:00:47.120><c> have</c><00:00:47.280><c> your</c><00:00:47.440><c> own</c><00:00:47.840><c> system</c><00:00:48.239><c> locally</c>
+
+00:00:48.790 --> 00:00:48.800 align:start position:0%
+So, you can have your own system locally
+ 
+
+00:00:48.800 --> 00:00:50.709 align:start position:0%
+So, you can have your own system locally
+to<00:00:49.120><c> do</c><00:00:49.200><c> the</c><00:00:49.440><c> exact</c><00:00:49.760><c> same</c><00:00:50.000><c> thing.</c><00:00:50.399><c> And</c><00:00:50.559><c> we</c>
+
+00:00:50.709 --> 00:00:50.719 align:start position:0%
+to do the exact same thing. And we
+ 
+
+00:00:50.719 --> 00:00:52.630 align:start position:0%
+to do the exact same thing. And we
+already<00:00:50.960><c> have</c><00:00:51.120><c> users</c><00:00:51.520><c> in</c><00:00:51.760><c> the</c><00:00:52.000><c> community</c><00:00:52.399><c> in</c>
+
+00:00:52.630 --> 00:00:52.640 align:start position:0%
+already have users in the community in
+ 
+
+00:00:52.640 --> 00:00:54.709 align:start position:0%
+already have users in the community in
+the<00:00:52.800><c> trade</c><00:00:53.039><c> tactics</c><00:00:53.520><c> discord</c><00:00:54.000><c> who</c><00:00:54.239><c> are</c><00:00:54.480><c> doing</c>
+
+00:00:54.709 --> 00:00:54.719 align:start position:0%
+the trade tactics discord who are doing
+ 
+
+00:00:54.719 --> 00:00:57.189 align:start position:0%
+the trade tactics discord who are doing
+the<00:00:55.039><c> exact</c><00:00:55.360><c> same</c><00:00:55.680><c> thing.</c><00:00:56.000><c> So</c><00:00:56.239><c> this</c><00:00:56.640><c> movement,</c>
+
+00:00:57.189 --> 00:00:57.199 align:start position:0%
+the exact same thing. So this movement,
+ 
+
+00:00:57.199 --> 00:00:58.869 align:start position:0%
+the exact same thing. So this movement,
+this<00:00:57.360><c> trading</c><00:00:57.600><c> bot</c><00:00:58.000><c> movement</c><00:00:58.320><c> has,</c><00:00:58.640><c> you</c><00:00:58.719><c> know,</c>
+
+00:00:58.869 --> 00:00:58.879 align:start position:0%
+this trading bot movement has, you know,
+ 
+
+00:00:58.879 --> 00:01:01.990 align:start position:0%
+this trading bot movement has, you know,
+taken<00:00:59.359><c> the</c><00:00:59.760><c> retail</c><00:01:00.160><c> trading</c><00:01:00.480><c> space</c><00:01:00.960><c> by</c><00:01:01.359><c> storm.</c>
+
+00:01:01.990 --> 00:01:02.000 align:start position:0%
+taken the retail trading space by storm.
+ 
+
+00:01:02.000 --> 00:01:04.630 align:start position:0%
+taken the retail trading space by storm.
+There<00:01:02.160><c> are</c><00:01:02.320><c> a</c><00:01:02.480><c> lot</c><00:01:02.640><c> of</c><00:01:03.199><c> really</c><00:01:03.600><c> big</c><00:01:04.080><c> firms</c><00:01:04.400><c> that</c>
+
+00:01:04.630 --> 00:01:04.640 align:start position:0%
+There are a lot of really big firms that
+ 
+
+00:01:04.640 --> 00:01:07.190 align:start position:0%
+There are a lot of really big firms that
+have<00:01:04.960><c> trading</c><00:01:05.280><c> bots,</c><00:01:05.680><c> but</c><00:01:05.920><c> now</c><00:01:06.400><c> retail</c><00:01:06.960><c> is</c>
+
+00:01:07.190 --> 00:01:07.200 align:start position:0%
+have trading bots, but now retail is
+ 
+
+00:01:07.200 --> 00:01:09.670 align:start position:0%
+have trading bots, but now retail is
+coming<00:01:07.680><c> for</c><00:01:07.920><c> you</c><00:01:08.080><c> guys</c><00:01:08.320><c> with</c><00:01:08.640><c> with</c><00:01:09.119><c> actual</c>
+
+00:01:09.670 --> 00:01:09.680 align:start position:0%
+coming for you guys with with actual
+ 
+
+00:01:09.680 --> 00:01:11.990 align:start position:0%
+coming for you guys with with actual
+really<00:01:10.000><c> good</c><00:01:10.320><c> trading</c><00:01:10.640><c> bots.</c><00:01:11.040><c> So</c><00:01:11.200><c> the</c><00:01:11.439><c> free</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+really good trading bots. So the free
+ 
+
+00:01:12.000 --> 00:01:13.670 align:start position:0%
+really good trading bots. So the free
+Discord,<00:01:12.560><c> if</c><00:01:12.799><c> you</c><00:01:12.880><c> want</c><00:01:13.040><c> to</c><00:01:13.200><c> take</c><00:01:13.280><c> a</c><00:01:13.439><c> look</c><00:01:13.520><c> at</c>
+
+00:01:13.670 --> 00:01:13.680 align:start position:0%
+Discord, if you want to take a look at
+ 
+
+00:01:13.680 --> 00:01:16.070 align:start position:0%
+Discord, if you want to take a look at
+the<00:01:13.840><c> progress</c><00:01:14.240><c> and</c><00:01:14.720><c> contribute,</c><00:01:15.439><c> the</c><00:01:15.680><c> link</c><00:01:15.840><c> to</c>
+
+00:01:16.070 --> 00:01:16.080 align:start position:0%
+the progress and contribute, the link to
+ 
+
+00:01:16.080 --> 00:01:17.510 align:start position:0%
+the progress and contribute, the link to
+that<00:01:16.240><c> Discord's</c><00:01:16.720><c> down</c><00:01:16.880><c> in</c><00:01:17.040><c> the</c><00:01:17.200><c> description.</c>
+
+00:01:17.510 --> 00:01:17.520 align:start position:0%
+that Discord's down in the description.
+ 
+
+00:01:17.520 --> 00:01:19.670 align:start position:0%
+that Discord's down in the description.
+It's<00:01:17.759><c> free.</c><00:01:18.080><c> And</c><00:01:18.320><c> also</c><00:01:18.640><c> if</c><00:01:18.960><c> you</c><00:01:19.119><c> guys</c><00:01:19.360><c> feel</c>
+
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+It's free. And also if you guys feel
+ 
+
+00:01:19.680 --> 00:01:21.749 align:start position:0%
+It's free. And also if you guys feel
+like<00:01:19.840><c> it,</c><00:01:20.240><c> give</c><00:01:20.400><c> the</c><00:01:20.640><c> video</c><00:01:20.880><c> a</c><00:01:21.119><c> like</c><00:01:21.360><c> and</c>
+
+00:01:21.749 --> 00:01:21.759 align:start position:0%
+like it, give the video a like and
+ 
+
+00:01:21.759 --> 00:01:23.190 align:start position:0%
+like it, give the video a like and
+subscribe<00:01:22.080><c> to</c><00:01:22.240><c> the</c><00:01:22.479><c> channel</c><00:01:22.640><c> and</c><00:01:22.880><c> hit</c><00:01:23.040><c> the</c>
+
+00:01:23.190 --> 00:01:23.200 align:start position:0%
+subscribe to the channel and hit the
+ 
+
+00:01:23.200 --> 00:01:26.149 align:start position:0%
+subscribe to the channel and hit the
+bell<00:01:23.439><c> notification</c><00:01:24.080><c> icon</c><00:01:24.640><c> if</c><00:01:24.960><c> you</c><00:01:25.360><c> find</c><00:01:25.759><c> value</c>
+
+00:01:26.149 --> 00:01:26.159 align:start position:0%
+bell notification icon if you find value
+ 
+
+00:01:26.159 --> 00:01:27.749 align:start position:0%
+bell notification icon if you find value
+from<00:01:26.400><c> the</c><00:01:26.640><c> channel.</c><00:01:26.960><c> All</c><00:01:26.960><c> right,</c><00:01:27.200><c> so</c><00:01:27.439><c> what</c>
+
+00:01:27.749 --> 00:01:27.759 align:start position:0%
+from the channel. All right, so what
+ 
+
+00:01:27.759 --> 00:01:29.990 align:start position:0%
+from the channel. All right, so what
+exactly<00:01:28.320><c> is</c><00:01:28.640><c> this</c><00:01:28.880><c> strategy?</c><00:01:29.360><c> This</c><00:01:29.520><c> is</c><00:01:29.680><c> a</c>
+
+00:01:29.990 --> 00:01:30.000 align:start position:0%
+exactly is this strategy? This is a
+ 
+
+00:01:30.000 --> 00:01:33.190 align:start position:0%
+exactly is this strategy? This is a
+decay<00:01:30.799><c> fractal</c><00:01:31.360><c> decay</c><00:01:31.920><c> strategy.</c><00:01:32.640><c> And</c><00:01:32.880><c> the</c>
+
+00:01:33.190 --> 00:01:33.200 align:start position:0%
+decay fractal decay strategy. And the
+ 
+
+00:01:33.200 --> 00:01:36.069 align:start position:0%
+decay fractal decay strategy. And the
+way<00:01:33.280><c> that</c><00:01:33.520><c> it</c><00:01:33.680><c> works</c><00:01:33.920><c> is</c><00:01:34.400><c> it</c><00:01:34.799><c> scans</c><00:01:35.360><c> for</c><00:01:35.759><c> price</c>
+
+00:01:36.069 --> 00:01:36.079 align:start position:0%
+way that it works is it scans for price
+ 
+
+00:01:36.079 --> 00:01:38.870 align:start position:0%
+way that it works is it scans for price
+structures<00:01:36.880><c> of</c><00:01:37.200><c> varying</c><00:01:37.920><c> depth</c><00:01:38.320><c> levels</c><00:01:38.640><c> and</c>
+
+00:01:38.870 --> 00:01:38.880 align:start position:0%
+structures of varying depth levels and
+ 
+
+00:01:38.880 --> 00:01:41.749 align:start position:0%
+structures of varying depth levels and
+then<00:01:39.280><c> specifies</c><00:01:40.240><c> a</c><00:01:40.560><c> sigma</c><00:01:40.960><c> weighted</c><00:01:41.360><c> decay</c>
+
+00:01:41.749 --> 00:01:41.759 align:start position:0%
+then specifies a sigma weighted decay
+ 
+
+00:01:41.759 --> 00:01:44.149 align:start position:0%
+then specifies a sigma weighted decay
+filter<00:01:42.240><c> to</c><00:01:42.479><c> confirm</c><00:01:42.880><c> the</c><00:01:43.119><c> move</c><00:01:43.439><c> is</c><00:01:43.759><c> real</c>
+
+00:01:44.149 --> 00:01:44.159 align:start position:0%
+filter to confirm the move is real
+ 
+
+00:01:44.159 --> 00:01:46.469 align:start position:0%
+filter to confirm the move is real
+before<00:01:44.560><c> entering.</c><00:01:45.119><c> And</c><00:01:45.280><c> so</c><00:01:45.520><c> that's</c><00:01:45.759><c> how</c><00:01:46.079><c> it</c>
+
+00:01:46.469 --> 00:01:46.479 align:start position:0%
+before entering. And so that's how it
+ 
+
+00:01:46.479 --> 00:01:48.950 align:start position:0%
+before entering. And so that's how it
+achieved<00:01:47.040><c> this</c><00:01:47.520><c> result.</c><00:01:48.159><c> So</c><00:01:48.320><c> the</c><00:01:48.560><c> decay</c>
+
+00:01:48.950 --> 00:01:48.960 align:start position:0%
+achieved this result. So the decay
+ 
+
+00:01:48.960 --> 00:01:52.069 align:start position:0%
+achieved this result. So the decay
+period<00:01:49.439><c> filters</c><00:01:49.920><c> out</c><00:01:50.479><c> old</c><00:01:51.040><c> price</c><00:01:51.360><c> structures</c>
+
+00:01:52.069 --> 00:01:52.079 align:start position:0%
+period filters out old price structures
+ 
+
+00:01:52.079 --> 00:01:54.469 align:start position:0%
+period filters out old price structures
+and<00:01:52.479><c> only</c><00:01:52.799><c> looks</c><00:01:53.040><c> at</c><00:01:53.200><c> the</c><00:01:53.439><c> current</c><00:01:54.000><c> period</c>
+
+00:01:54.469 --> 00:01:54.479 align:start position:0%
+and only looks at the current period
+ 
+
+00:01:54.479 --> 00:01:56.789 align:start position:0%
+and only looks at the current period
+which<00:01:54.880><c> is</c><00:01:55.280><c> incredible.</c><00:01:56.000><c> This</c><00:01:56.240><c> was</c><00:01:56.479><c> Claude</c>
+
+00:01:56.789 --> 00:01:56.799 align:start position:0%
+which is incredible. This was Claude
+ 
+
+00:01:56.799 --> 00:01:59.830 align:start position:0%
+which is incredible. This was Claude
+Opus<00:01:57.439><c> running</c><00:01:57.680><c> on</c><00:01:57.920><c> my</c><00:01:58.159><c> machine</c><00:01:58.640><c> overnight</c><00:01:59.439><c> and</c>
+
+00:01:59.830 --> 00:01:59.840 align:start position:0%
+Opus running on my machine overnight and
+ 
+
+00:01:59.840 --> 00:02:02.950 align:start position:0%
+Opus running on my machine overnight and
+testing<00:02:00.399><c> different</c><00:02:00.880><c> strategy</c><00:02:01.520><c> rules,</c><00:02:02.399><c> price</c>
+
+00:02:02.950 --> 00:02:02.960 align:start position:0%
+testing different strategy rules, price
+ 
+
+00:02:02.960 --> 00:02:05.109 align:start position:0%
+testing different strategy rules, price
+uh<00:02:03.119><c> strategy</c><00:02:03.520><c> entries</c><00:02:03.920><c> and</c><00:02:04.159><c> exits</c><00:02:04.640><c> and</c><00:02:04.960><c> then</c>
+
+00:02:05.109 --> 00:02:05.119 align:start position:0%
+uh strategy entries and exits and then
+ 
+
+00:02:05.119 --> 00:02:06.950 align:start position:0%
+uh strategy entries and exits and then
+just<00:02:05.280><c> created</c><00:02:05.600><c> this</c><00:02:05.759><c> one.</c><00:02:06.000><c> This</c><00:02:06.159><c> is</c><00:02:06.240><c> a</c><00:02:06.640><c> very</c>
+
+00:02:06.950 --> 00:02:06.960 align:start position:0%
+just created this one. This is a very
+ 
+
+00:02:06.960 --> 00:02:09.029 align:start position:0%
+just created this one. This is a very
+clear<00:02:07.600><c> winner.</c><00:02:08.160><c> I'm</c><00:02:08.319><c> going</c><00:02:08.399><c> to</c><00:02:08.560><c> go</c><00:02:08.720><c> through</c>
+
+00:02:09.029 --> 00:02:09.039 align:start position:0%
+clear winner. I'm going to go through
+ 
+
+00:02:09.039 --> 00:02:10.949 align:start position:0%
+clear winner. I'm going to go through
+the<00:02:09.280><c> other</c><00:02:09.520><c> four</c><00:02:09.920><c> as</c><00:02:10.160><c> well.</c><00:02:10.479><c> So</c><00:02:10.640><c> we're</c><00:02:10.879><c> going</c>
+
+00:02:10.949 --> 00:02:10.959 align:start position:0%
+the other four as well. So we're going
+ 
+
+00:02:10.959 --> 00:02:12.869 align:start position:0%
+the other four as well. So we're going
+to<00:02:11.039><c> start</c><00:02:11.440><c> after</c><00:02:11.760><c> this.</c><00:02:12.080><c> I'll</c><00:02:12.239><c> I'll</c><00:02:12.560><c> just</c>
+
+00:02:12.869 --> 00:02:12.879 align:start position:0%
+to start after this. I'll I'll just
+ 
+
+00:02:12.879 --> 00:02:14.630 align:start position:0%
+to start after this. I'll I'll just
+summarize<00:02:13.360><c> this</c><00:02:13.520><c> one.</c><00:02:13.840><c> We'll</c><00:02:14.080><c> go</c><00:02:14.239><c> more</c><00:02:14.480><c> in</c>
+
+00:02:14.630 --> 00:02:14.640 align:start position:0%
+summarize this one. We'll go more in
+ 
+
+00:02:14.640 --> 00:02:16.630 align:start position:0%
+summarize this one. We'll go more in
+depth<00:02:15.120><c> later</c><00:02:15.440><c> on</c><00:02:15.599><c> to</c><00:02:15.760><c> the</c><00:02:15.920><c> video,</c><00:02:16.160><c> but</c><00:02:16.319><c> I</c><00:02:16.560><c> just</c>
+
+00:02:16.630 --> 00:02:16.640 align:start position:0%
+depth later on to the video, but I just
+ 
+
+00:02:16.640 --> 00:02:18.790 align:start position:0%
+depth later on to the video, but I just
+want<00:02:16.800><c> to</c><00:02:16.879><c> show</c><00:02:17.040><c> you</c><00:02:17.200><c> how</c><00:02:17.520><c> it</c><00:02:17.840><c> got</c><00:02:18.000><c> here</c><00:02:18.400><c> because</c>
+
+00:02:18.790 --> 00:02:18.800 align:start position:0%
+want to show you how it got here because
+ 
+
+00:02:18.800 --> 00:02:21.670 align:start position:0%
+want to show you how it got here because
+it<00:02:19.120><c> built</c><00:02:19.520><c> off</c><00:02:19.760><c> of</c><00:02:20.080><c> other</c><00:02:20.560><c> ones.</c><00:02:21.040><c> So,</c><00:02:21.360><c> I</c><00:02:21.520><c> want</c>
+
+00:02:21.670 --> 00:02:21.680 align:start position:0%
+it built off of other ones. So, I want
+ 
+
+00:02:21.680 --> 00:02:23.350 align:start position:0%
+it built off of other ones. So, I want
+to<00:02:21.760><c> show</c><00:02:21.840><c> you</c><00:02:22.000><c> how</c><00:02:22.160><c> the</c><00:02:22.400><c> how</c><00:02:22.640><c> Claude</c><00:02:23.120><c> went</c>
+
+00:02:23.350 --> 00:02:23.360 align:start position:0%
+to show you how the how Claude went
+ 
+
+00:02:23.360 --> 00:02:24.630 align:start position:0%
+to show you how the how Claude went
+through<00:02:23.599><c> that</c><00:02:23.840><c> so</c><00:02:24.000><c> that</c><00:02:24.160><c> you</c><00:02:24.319><c> guys</c><00:02:24.480><c> can</c>
+
+00:02:24.630 --> 00:02:24.640 align:start position:0%
+through that so that you guys can
+ 
+
+00:02:24.640 --> 00:02:27.270 align:start position:0%
+through that so that you guys can
+replicate<00:02:25.120><c> that</c><00:02:25.360><c> for</c><00:02:25.599><c> yourself.</c><00:02:26.560><c> So,</c><00:02:26.800><c> here</c><00:02:27.040><c> is</c>
+
+00:02:27.270 --> 00:02:27.280 align:start position:0%
+replicate that for yourself. So, here is
+ 
+
+00:02:27.280 --> 00:02:29.910 align:start position:0%
+replicate that for yourself. So, here is
+the<00:02:27.760><c> fifth</c><00:02:28.080><c> place</c><00:02:28.319><c> strategy</c><00:02:28.879><c> and</c><00:02:29.120><c> I</c><00:02:29.440><c> have,</c><00:02:29.760><c> you</c>
+
+00:02:29.910 --> 00:02:29.920 align:start position:0%
+the fifth place strategy and I have, you
+ 
+
+00:02:29.920 --> 00:02:31.350 align:start position:0%
+the fifth place strategy and I have, you
+know,<00:02:30.160><c> a</c><00:02:30.400><c> couple</c><00:02:30.560><c> more</c><00:02:30.720><c> that</c><00:02:30.879><c> I</c><00:02:31.040><c> want</c><00:02:31.120><c> to</c><00:02:31.200><c> get</c>
+
+00:02:31.350 --> 00:02:31.360 align:start position:0%
+know, a couple more that I want to get
+ 
+
+00:02:31.360 --> 00:02:33.509 align:start position:0%
+know, a couple more that I want to get
+through,<00:02:31.599><c> but</c><00:02:31.840><c> this</c><00:02:32.000><c> one</c><00:02:32.560><c> it</c><00:02:32.800><c> looks</c><00:02:33.040><c> a</c><00:02:33.360><c> little</c>
+
+00:02:33.509 --> 00:02:33.519 align:start position:0%
+through, but this one it looks a little
+ 
+
+00:02:33.519 --> 00:02:35.030 align:start position:0%
+through, but this one it looks a little
+bit<00:02:33.680><c> promising,</c><00:02:34.160><c> right?</c><00:02:34.400><c> We</c><00:02:34.560><c> have</c><00:02:34.560><c> a</c><00:02:34.720><c> win</c><00:02:34.879><c> rate</c>
+
+00:02:35.030 --> 00:02:35.040 align:start position:0%
+bit promising, right? We have a win rate
+ 
+
+00:02:35.040 --> 00:02:38.790 align:start position:0%
+bit promising, right? We have a win rate
+of<00:02:35.200><c> 53%</c><00:02:36.080><c> sharp</c><00:02:36.480><c> ratio</c><00:02:37.040><c> of</c><00:02:37.519><c> 0.66</c><00:02:38.480><c> and</c><00:02:38.720><c> the</c>
+
+00:02:38.790 --> 00:02:38.800 align:start position:0%
+of 53% sharp ratio of 0.66 and the
+ 
+
+00:02:38.800 --> 00:02:40.550 align:start position:0%
+of 53% sharp ratio of 0.66 and the
+Sortino<00:02:39.360><c> is</c><00:02:39.519><c> fairly</c><00:02:39.840><c> good.</c><00:02:40.080><c> This</c><00:02:40.239><c> is</c><00:02:40.400><c> the</c>
+
+00:02:40.550 --> 00:02:40.560 align:start position:0%
+Sortino is fairly good. This is the
+ 
+
+00:02:40.560 --> 00:02:43.190 align:start position:0%
+Sortino is fairly good. This is the
+swing<00:02:41.040><c> struck.</c><00:02:41.440><c> So</c><00:02:41.680><c> it</c><00:02:42.000><c> tracks</c><00:02:42.400><c> how</c><00:02:42.879><c> the</c>
+
+00:02:43.190 --> 00:02:43.200 align:start position:0%
+swing struck. So it tracks how the
+ 
+
+00:02:43.200 --> 00:02:45.350 align:start position:0%
+swing struck. So it tracks how the
+sequence<00:02:43.440><c> of</c><00:02:43.680><c> swing</c><00:02:43.920><c> highs</c><00:02:44.239><c> and</c><00:02:44.480><c> swing</c><00:02:44.800><c> lows.</c>
+
+00:02:45.350 --> 00:02:45.360 align:start position:0%
+sequence of swing highs and swing lows.
+ 
+
+00:02:45.360 --> 00:02:47.190 align:start position:0%
+sequence of swing highs and swing lows.
+So<00:02:45.519><c> it's</c><00:02:45.840><c> another</c><00:02:46.080><c> one</c><00:02:46.239><c> that</c><00:02:46.560><c> tries</c><00:02:46.959><c> to</c>
+
+00:02:47.190 --> 00:02:47.200 align:start position:0%
+So it's another one that tries to
+ 
+
+00:02:47.200 --> 00:02:49.350 align:start position:0%
+So it's another one that tries to
+classify<00:02:47.760><c> market</c><00:02:48.160><c> structure</c><00:02:48.800><c> which</c><00:02:48.959><c> is</c><00:02:49.120><c> very</c>
+
+00:02:49.350 --> 00:02:49.360 align:start position:0%
+classify market structure which is very
+ 
+
+00:02:49.360 --> 00:02:51.430 align:start position:0%
+classify market structure which is very
+hard<00:02:49.519><c> to</c><00:02:49.760><c> do</c><00:02:50.080><c> properly.</c><00:02:50.640><c> So</c><00:02:50.800><c> higher</c><00:02:51.120><c> highs</c><00:02:51.280><c> and</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+hard to do properly. So higher highs and
+ 
+
+00:02:51.440 --> 00:02:53.110 align:start position:0%
+hard to do properly. So higher highs and
+higher<00:02:51.760><c> lows,</c><00:02:52.160><c> you</c><00:02:52.319><c> know,</c><00:02:52.560><c> indicate</c><00:02:52.879><c> an</c>
+
+00:02:53.110 --> 00:02:53.120 align:start position:0%
+higher lows, you know, indicate an
+ 
+
+00:02:53.120 --> 00:02:55.910 align:start position:0%
+higher lows, you know, indicate an
+uptrend.<00:02:53.680><c> So</c><00:02:53.840><c> it</c><00:02:54.160><c> identifies</c><00:02:54.720><c> that</c><00:02:55.040><c> and</c><00:02:55.360><c> tries</c>
+
+00:02:55.910 --> 00:02:55.920 align:start position:0%
+uptrend. So it identifies that and tries
+ 
+
+00:02:55.920 --> 00:02:58.710 align:start position:0%
+uptrend. So it identifies that and tries
+to<00:02:56.560><c> match</c><00:02:56.959><c> that</c><00:02:57.360><c> where</c><00:02:57.599><c> it's</c><00:02:57.840><c> trading.</c><00:02:58.239><c> I</c><00:02:58.400><c> also</c>
+
+00:02:58.710 --> 00:02:58.720 align:start position:0%
+to match that where it's trading. I also
+ 
+
+00:02:58.720 --> 00:03:00.949 align:start position:0%
+to match that where it's trading. I also
+have<00:02:59.040><c> a</c><00:02:59.360><c> couple</c><00:02:59.599><c> other</c><00:02:59.840><c> graphs</c><00:03:00.239><c> here.</c><00:03:00.560><c> So</c><00:03:00.720><c> we</c>
+
+00:03:00.949 --> 00:03:00.959 align:start position:0%
+have a couple other graphs here. So we
+ 
+
+00:03:00.959 --> 00:03:03.190 align:start position:0%
+have a couple other graphs here. So we
+did<00:03:01.360><c> one,</c><00:03:01.840><c> you</c><00:03:02.000><c> know,</c><00:03:02.239><c> rolling</c><00:03:02.800><c> average</c>
+
+00:03:03.190 --> 00:03:03.200 align:start position:0%
+did one, you know, rolling average
+ 
+
+00:03:03.200 --> 00:03:05.030 align:start position:0%
+did one, you know, rolling average
+period.<00:03:03.680><c> This</c><00:03:03.840><c> is</c><00:03:03.920><c> a</c><00:03:04.159><c> little</c><00:03:04.239><c> bit</c><00:03:04.400><c> more</c><00:03:04.720><c> out</c><00:03:04.879><c> of</c>
+
+00:03:05.030 --> 00:03:05.040 align:start position:0%
+period. This is a little bit more out of
+ 
+
+00:03:05.040 --> 00:03:06.869 align:start position:0%
+period. This is a little bit more out of
+sample<00:03:05.440><c> data.</c><00:03:05.840><c> The</c><00:03:06.000><c> win</c><00:03:06.159><c> rate</c><00:03:06.400><c> stays</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+sample data. The win rate stays
+ 
+
+00:03:06.879 --> 00:03:09.430 align:start position:0%
+sample data. The win rate stays
+confidence<00:03:07.440><c> around</c><00:03:07.840><c> 53%</c><00:03:08.800><c> and</c><00:03:09.040><c> it</c><00:03:09.200><c> has</c><00:03:09.280><c> a</c>
+
+00:03:09.430 --> 00:03:09.440 align:start position:0%
+confidence around 53% and it has a
+ 
+
+00:03:09.440 --> 00:03:11.509 align:start position:0%
+confidence around 53% and it has a
+pretty<00:03:09.680><c> good</c><00:03:09.920><c> total</c><00:03:10.239><c> trades</c><00:03:10.640><c> ratio.</c><00:03:11.040><c> So,</c><00:03:11.280><c> we</c>
+
+00:03:11.509 --> 00:03:11.519 align:start position:0%
+pretty good total trades ratio. So, we
+ 
+
+00:03:11.519 --> 00:03:13.509 align:start position:0%
+pretty good total trades ratio. So, we
+know<00:03:11.599><c> that</c><00:03:11.840><c> we're</c><00:03:12.000><c> we're</c><00:03:12.400><c> not</c><00:03:12.560><c> too</c><00:03:12.800><c> bad</c><00:03:12.959><c> here.</c>
+
+00:03:13.509 --> 00:03:13.519 align:start position:0%
+know that we're we're not too bad here.
+ 
+
+00:03:13.519 --> 00:03:16.470 align:start position:0%
+know that we're we're not too bad here.
+And<00:03:13.760><c> if</c><00:03:14.000><c> I</c><00:03:14.159><c> scroll</c><00:03:14.400><c> down</c><00:03:14.720><c> here,</c><00:03:15.120><c> it</c><00:03:15.440><c> did</c><00:03:15.599><c> have</c><00:03:16.159><c> a</c>
+
+00:03:16.470 --> 00:03:16.480 align:start position:0%
+And if I scroll down here, it did have a
+ 
+
+00:03:16.480 --> 00:03:19.190 align:start position:0%
+And if I scroll down here, it did have a
+44%<00:03:17.440><c> max</c><00:03:17.760><c> draw</c><00:03:17.920><c> down.</c><00:03:18.239><c> So,</c><00:03:18.480><c> the</c><00:03:18.800><c> testing</c>
+
+00:03:19.190 --> 00:03:19.200 align:start position:0%
+44% max draw down. So, the testing
+ 
+
+00:03:19.200 --> 00:03:21.830 align:start position:0%
+44% max draw down. So, the testing
+periods<00:03:19.760><c> that</c><00:03:20.080><c> was</c><00:03:20.239><c> not</c><00:03:20.720><c> as</c><00:03:21.120><c> good.</c><00:03:21.440><c> And</c><00:03:21.599><c> then</c>
+
+00:03:21.830 --> 00:03:21.840 align:start position:0%
+periods that was not as good. And then
+ 
+
+00:03:21.840 --> 00:03:23.990 align:start position:0%
+periods that was not as good. And then
+the<00:03:22.000><c> last</c><00:03:22.159><c> one</c><00:03:22.319><c> I</c><00:03:22.480><c> have</c><00:03:22.720><c> full</c><00:03:22.959><c> out</c><00:03:23.200><c> of</c><00:03:23.360><c> sample,</c>
+
+00:03:23.990 --> 00:03:24.000 align:start position:0%
+the last one I have full out of sample,
+ 
+
+00:03:24.000 --> 00:03:25.750 align:start position:0%
+the last one I have full out of sample,
+which<00:03:24.239><c> the</c><00:03:24.480><c> last</c><00:03:24.640><c> one</c><00:03:24.959><c> I</c><00:03:25.200><c> showed</c><00:03:25.360><c> you,</c><00:03:25.519><c> the</c>
+
+00:03:25.750 --> 00:03:25.760 align:start position:0%
+which the last one I showed you, the
+ 
+
+00:03:25.760 --> 00:03:28.309 align:start position:0%
+which the last one I showed you, the
+best<00:03:25.920><c> one</c><00:03:26.159><c> was</c><00:03:26.640><c> uh</c><00:03:26.800><c> 10%</c><00:03:27.280><c> draw</c><00:03:27.519><c> down</c><00:03:27.680><c> or</c><00:03:27.760><c> 9%</c><00:03:28.159><c> draw</c>
+
+00:03:28.309 --> 00:03:28.319 align:start position:0%
+best one was uh 10% draw down or 9% draw
+ 
+
+00:03:28.319 --> 00:03:30.550 align:start position:0%
+best one was uh 10% draw down or 9% draw
+down.<00:03:28.640><c> This</c><00:03:28.800><c> one</c><00:03:29.200><c> not</c><00:03:29.440><c> good.</c><00:03:29.920><c> So,</c><00:03:30.080><c> when</c><00:03:30.319><c> we</c>
+
+00:03:30.550 --> 00:03:30.560 align:start position:0%
+down. This one not good. So, when we
+ 
+
+00:03:30.560 --> 00:03:33.110 align:start position:0%
+down. This one not good. So, when we
+show<00:03:30.879><c> this</c><00:03:31.200><c> strategy</c><00:03:32.000><c> completely</c><00:03:32.560><c> unseen</c>
+
+00:03:33.110 --> 00:03:33.120 align:start position:0%
+show this strategy completely unseen
+ 
+
+00:03:33.120 --> 00:03:35.670 align:start position:0%
+show this strategy completely unseen
+data,<00:03:33.680><c> it</c><00:03:33.920><c> collapses,</c><00:03:34.480><c> which</c><00:03:34.720><c> is</c><00:03:34.879><c> why</c><00:03:35.040><c> we</c><00:03:35.360><c> do</c>
+
+00:03:35.670 --> 00:03:35.680 align:start position:0%
+data, it collapses, which is why we do
+ 
+
+00:03:35.680 --> 00:03:37.910 align:start position:0%
+data, it collapses, which is why we do
+those<00:03:36.080><c> those</c><00:03:36.480><c> validation</c><00:03:37.040><c> steps.</c><00:03:37.519><c> So</c><00:03:37.760><c> that's</c>
+
+00:03:37.910 --> 00:03:37.920 align:start position:0%
+those those validation steps. So that's
+ 
+
+00:03:37.920 --> 00:03:40.390 align:start position:0%
+those those validation steps. So that's
+why<00:03:38.159><c> this</c><00:03:38.400><c> one</c><00:03:38.799><c> completely</c><00:03:39.280><c> gets</c><00:03:39.599><c> thrown</c><00:03:40.080><c> in</c>
+
+00:03:40.390 --> 00:03:40.400 align:start position:0%
+why this one completely gets thrown in
+ 
+
+00:03:40.400 --> 00:03:42.470 align:start position:0%
+why this one completely gets thrown in
+the<00:03:40.640><c> gutter.</c><00:03:41.120><c> So</c><00:03:41.280><c> we</c><00:03:41.440><c> can</c><00:03:41.599><c> move</c><00:03:41.760><c> on</c><00:03:42.000><c> from</c><00:03:42.239><c> this</c>
+
+00:03:42.470 --> 00:03:42.480 align:start position:0%
+the gutter. So we can move on from this
+ 
+
+00:03:42.480 --> 00:03:44.949 align:start position:0%
+the gutter. So we can move on from this
+one<00:03:42.640><c> here.</c><00:03:43.040><c> Next</c><00:03:43.200><c> up,</c><00:03:43.440><c> we</c><00:03:43.680><c> have</c><00:03:43.840><c> the</c><00:03:44.159><c> cowman</c>
+
+00:03:44.949 --> 00:03:44.959 align:start position:0%
+one here. Next up, we have the cowman
+ 
+
+00:03:44.959 --> 00:03:47.990 align:start position:0%
+one here. Next up, we have the cowman
+strategy.<00:03:45.680><c> Cowman</c><00:03:46.159><c> is</c><00:03:46.319><c> an</c><00:03:46.480><c> adaptive</c><00:03:47.280><c> smoother</c>
+
+00:03:47.990 --> 00:03:48.000 align:start position:0%
+strategy. Cowman is an adaptive smoother
+ 
+
+00:03:48.000 --> 00:03:50.070 align:start position:0%
+strategy. Cowman is an adaptive smoother
+from<00:03:48.480><c> aerospace</c><00:03:49.120><c> engineering</c><00:03:49.680><c> and</c><00:03:49.920><c> it</c>
+
+00:03:50.070 --> 00:03:50.080 align:start position:0%
+from aerospace engineering and it
+ 
+
+00:03:50.080 --> 00:03:52.470 align:start position:0%
+from aerospace engineering and it
+estimates<00:03:50.560><c> the</c><00:03:50.799><c> true</c><00:03:51.120><c> price</c><00:03:51.519><c> by</c><00:03:51.760><c> dynamically</c>
+
+00:03:52.470 --> 00:03:52.480 align:start position:0%
+estimates the true price by dynamically
+ 
+
+00:03:52.480 --> 00:03:55.110 align:start position:0%
+estimates the true price by dynamically
+balancing<00:03:53.120><c> new</c><00:03:53.519><c> data</c><00:03:54.000><c> by</c><00:03:54.319><c> its</c><00:03:54.720><c> existing</c>
+
+00:03:55.110 --> 00:03:55.120 align:start position:0%
+balancing new data by its existing
+ 
+
+00:03:55.120 --> 00:03:57.110 align:start position:0%
+balancing new data by its existing
+estimate.<00:03:55.519><c> So</c><00:03:55.599><c> this</c><00:03:55.840><c> was</c><00:03:56.000><c> the</c><00:03:56.319><c> third</c><00:03:56.640><c> one.</c>
+
+00:03:57.110 --> 00:03:57.120 align:start position:0%
+estimate. So this was the third one.
+ 
+
+00:03:57.120 --> 00:03:59.830 align:start position:0%
+estimate. So this was the third one.
+This<00:03:57.360><c> this</c><00:03:57.680><c> came</c><00:03:57.920><c> third</c><00:03:58.400><c> uh</c><00:03:58.560><c> overnight</c><00:03:59.360><c> and</c>
+
+00:03:59.830 --> 00:03:59.840 align:start position:0%
+This this came third uh overnight and
+ 
+
+00:03:59.840 --> 00:04:02.550 align:start position:0%
+This this came third uh overnight and
+this<00:04:00.080><c> was</c><00:04:00.239><c> out</c><00:04:00.400><c> of</c><00:04:00.560><c> over</c><00:04:01.040><c> 25</c><00:04:01.760><c> that</c><00:04:02.000><c> it</c><00:04:02.239><c> ran</c><00:04:02.400><c> on</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+this was out of over 25 that it ran on
+ 
+
+00:04:02.560 --> 00:04:04.710 align:start position:0%
+this was out of over 25 that it ran on
+my<00:04:02.720><c> system</c><00:04:02.959><c> while</c><00:04:03.200><c> I</c><00:04:03.360><c> was</c><00:04:03.760><c> sleeping.</c><00:04:04.159><c> So,</c><00:04:04.400><c> I</c>
+
+00:04:04.710 --> 00:04:04.720 align:start position:0%
+my system while I was sleeping. So, I
+ 
+
+00:04:04.720 --> 00:04:07.350 align:start position:0%
+my system while I was sleeping. So, I
+kind<00:04:05.040><c> of</c><00:04:05.200><c> gave</c><00:04:05.680><c> some</c><00:04:06.000><c> guidelines</c><00:04:06.720><c> to</c><00:04:07.040><c> what</c>
+
+00:04:07.350 --> 00:04:07.360 align:start position:0%
+kind of gave some guidelines to what
+ 
+
+00:04:07.360 --> 00:04:09.990 align:start position:0%
+kind of gave some guidelines to what
+Claude<00:04:07.680><c> Opus</c><00:04:08.080><c> could</c><00:04:08.239><c> do</c><00:04:08.799><c> overnight</c><00:04:09.519><c> and</c><00:04:09.680><c> I</c>
+
+00:04:09.990 --> 00:04:10.000 align:start position:0%
+Claude Opus could do overnight and I
+ 
+
+00:04:10.000 --> 00:04:12.070 align:start position:0%
+Claude Opus could do overnight and I
+just<00:04:10.319><c> wanted</c><00:04:10.640><c> it</c><00:04:10.799><c> to</c><00:04:11.040><c> compete.</c><00:04:11.439><c> I</c><00:04:11.680><c> wanted</c><00:04:11.840><c> it</c>
+
+00:04:12.070 --> 00:04:12.080 align:start position:0%
+just wanted it to compete. I wanted it
+ 
+
+00:04:12.080 --> 00:04:14.550 align:start position:0%
+just wanted it to compete. I wanted it
+to<00:04:12.480><c> rank</c><00:04:12.959><c> its</c><00:04:13.280><c> previous</c><00:04:13.599><c> best</c><00:04:13.920><c> strategy</c><00:04:14.319><c> and</c>
+
+00:04:14.550 --> 00:04:14.560 align:start position:0%
+to rank its previous best strategy and
+ 
+
+00:04:14.560 --> 00:04:16.390 align:start position:0%
+to rank its previous best strategy and
+then<00:04:14.720><c> try</c><00:04:14.959><c> to</c><00:04:15.120><c> beat</c><00:04:15.360><c> those</c><00:04:15.680><c> benchmarks.</c><00:04:16.239><c> So,</c>
+
+00:04:16.390 --> 00:04:16.400 align:start position:0%
+then try to beat those benchmarks. So,
+ 
+
+00:04:16.400 --> 00:04:18.310 align:start position:0%
+then try to beat those benchmarks. So,
+the<00:04:16.560><c> benchmarks</c><00:04:17.040><c> it</c><00:04:17.199><c> had</c><00:04:17.359><c> to</c><00:04:17.519><c> beat</c><00:04:17.840><c> were</c><00:04:18.079><c> here.</c>
+
+00:04:18.310 --> 00:04:18.320 align:start position:0%
+the benchmarks it had to beat were here.
+ 
+
+00:04:18.320 --> 00:04:20.150 align:start position:0%
+the benchmarks it had to beat were here.
+Here's<00:04:18.560><c> the</c><00:04:18.720><c> insample</c><00:04:19.280><c> data.</c><00:04:19.519><c> This</c><00:04:20.000><c> you're</c>
+
+00:04:20.150 --> 00:04:20.160 align:start position:0%
+Here's the insample data. This you're
+ 
+
+00:04:20.160 --> 00:04:21.749 align:start position:0%
+Here's the insample data. This you're
+looking<00:04:20.320><c> at</c><00:04:20.400><c> the</c><00:04:20.479><c> out</c><00:04:20.639><c> of</c><00:04:20.799><c> sample</c><00:04:21.120><c> here</c><00:04:21.280><c> with</c>
+
+00:04:21.749 --> 00:04:21.759 align:start position:0%
+looking at the out of sample here with
+ 
+
+00:04:21.759 --> 00:04:23.430 align:start position:0%
+looking at the out of sample here with
+uh<00:04:21.919><c> the</c><00:04:22.160><c> low</c><00:04:22.400><c> draw</c><00:04:22.639><c> down.</c><00:04:22.960><c> Here</c><00:04:23.040><c> it</c><00:04:23.199><c> is.</c><00:04:23.360><c> So,</c>
+
+00:04:23.430 --> 00:04:23.440 align:start position:0%
+uh the low draw down. Here it is. So,
+ 
+
+00:04:23.440 --> 00:04:25.590 align:start position:0%
+uh the low draw down. Here it is. So,
+I've<00:04:23.600><c> I've</c><00:04:24.080><c> relaunched</c><00:04:24.560><c> it</c><00:04:24.800><c> just</c><00:04:25.040><c> just</c><00:04:25.360><c> wanted</c>
+
+00:04:25.590 --> 00:04:25.600 align:start position:0%
+I've I've relaunched it just just wanted
+ 
+
+00:04:25.600 --> 00:04:28.469 align:start position:0%
+I've I've relaunched it just just wanted
+to<00:04:25.919><c> get</c><00:04:26.160><c> the</c><00:04:26.479><c> accurate</c><00:04:27.040><c> calman.</c><00:04:27.919><c> So,</c><00:04:28.160><c> here</c><00:04:28.320><c> are</c>
+
+00:04:28.469 --> 00:04:28.479 align:start position:0%
+to get the accurate calman. So, here are
+ 
+
+00:04:28.479 --> 00:04:30.070 align:start position:0%
+to get the accurate calman. So, here are
+the<00:04:28.639><c> parameters</c><00:04:28.960><c> that</c><00:04:29.120><c> it</c><00:04:29.360><c> found.</c><00:04:29.759><c> This</c><00:04:29.919><c> was</c>
+
+00:04:30.070 --> 00:04:30.080 align:start position:0%
+the parameters that it found. This was
+ 
+
+00:04:30.080 --> 00:04:32.150 align:start position:0%
+the parameters that it found. This was
+the<00:04:30.240><c> winning</c><00:04:30.639><c> formula.</c><00:04:31.360><c> you</c><00:04:31.600><c> know</c><00:04:31.840><c> performed</c>
+
+00:04:32.150 --> 00:04:32.160 align:start position:0%
+the winning formula. you know performed
+ 
+
+00:04:32.160 --> 00:04:34.230 align:start position:0%
+the winning formula. you know performed
+the<00:04:32.320><c> best</c><00:04:32.479><c> in</c><00:04:32.800><c> the</c><00:04:33.040><c> training</c><00:04:33.360><c> data</c><00:04:33.759><c> and</c><00:04:34.000><c> we</c>
+
+00:04:34.230 --> 00:04:34.240 align:start position:0%
+the best in the training data and we
+ 
+
+00:04:34.240 --> 00:04:36.469 align:start position:0%
+the best in the training data and we
+have<00:04:34.560><c> some</c><00:04:35.199><c> testing</c><00:04:35.520><c> data.</c><00:04:35.840><c> So</c><00:04:36.000><c> this</c><00:04:36.160><c> is</c><00:04:36.240><c> the</c>
+
+00:04:36.469 --> 00:04:36.479 align:start position:0%
+have some testing data. So this is the
+ 
+
+00:04:36.479 --> 00:04:37.909 align:start position:0%
+have some testing data. So this is the
+first<00:04:36.720><c> out</c><00:04:36.880><c> of</c><00:04:36.960><c> sample</c><00:04:37.280><c> data</c><00:04:37.520><c> and</c><00:04:37.680><c> I</c><00:04:37.840><c> have</c>
+
+00:04:37.909 --> 00:04:37.919 align:start position:0%
+first out of sample data and I have
+ 
+
+00:04:37.919 --> 00:04:39.909 align:start position:0%
+first out of sample data and I have
+multiple<00:04:38.320><c> out</c><00:04:38.479><c> of</c><00:04:38.639><c> sample</c><00:04:39.280><c> pieces</c><00:04:39.520><c> of</c><00:04:39.680><c> data</c>
+
+00:04:39.909 --> 00:04:39.919 align:start position:0%
+multiple out of sample pieces of data
+ 
+
+00:04:39.919 --> 00:04:41.430 align:start position:0%
+multiple out of sample pieces of data
+that<00:04:40.080><c> I</c><00:04:40.240><c> will</c><00:04:40.320><c> show</c><00:04:40.479><c> it.</c><00:04:40.639><c> So</c><00:04:40.880><c> this</c><00:04:41.040><c> is</c><00:04:41.120><c> the</c><00:04:41.280><c> out</c>
+
+00:04:41.430 --> 00:04:41.440 align:start position:0%
+that I will show it. So this is the out
+ 
+
+00:04:41.440 --> 00:04:43.909 align:start position:0%
+that I will show it. So this is the out
+of<00:04:41.600><c> sample</c><00:04:41.919><c> data</c><00:04:42.160><c> that</c><00:04:42.639><c> Claude</c><00:04:43.120><c> can</c><00:04:43.360><c> see</c><00:04:43.680><c> and</c>
+
+00:04:43.909 --> 00:04:43.919 align:start position:0%
+of sample data that Claude can see and
+ 
+
+00:04:43.919 --> 00:04:45.909 align:start position:0%
+of sample data that Claude can see and
+it<00:04:44.080><c> wants.</c><00:04:44.560><c> So</c><00:04:44.800><c> there's</c><00:04:45.120><c> here</c><00:04:45.360><c> here's</c><00:04:45.680><c> here's</c>
+
+00:04:45.909 --> 00:04:45.919 align:start position:0%
+it wants. So there's here here's here's
+ 
+
+00:04:45.919 --> 00:04:47.430 align:start position:0%
+it wants. So there's here here's here's
+a<00:04:46.160><c> general</c><00:04:46.400><c> structure.</c><00:04:46.800><c> This</c><00:04:46.960><c> is</c><00:04:47.040><c> how</c><00:04:47.120><c> I</c><00:04:47.280><c> got</c>
+
+00:04:47.430 --> 00:04:47.440 align:start position:0%
+a general structure. This is how I got
+ 
+
+00:04:47.440 --> 00:04:49.030 align:start position:0%
+a general structure. This is how I got
+it<00:04:47.600><c> locked</c><00:04:47.919><c> down</c><00:04:48.240><c> to</c><00:04:48.479><c> make</c><00:04:48.560><c> sure</c><00:04:48.639><c> that</c><00:04:48.800><c> it's</c>
+
+00:04:49.030 --> 00:04:49.040 align:start position:0%
+it locked down to make sure that it's
+ 
+
+00:04:49.040 --> 00:04:51.110 align:start position:0%
+it locked down to make sure that it's
+robust.<00:04:49.440><c> So</c><00:04:49.600><c> I</c><00:04:49.840><c> have</c><00:04:49.919><c> insample</c><00:04:50.560><c> data.</c><00:04:50.880><c> This</c><00:04:51.040><c> is</c>
+
+00:04:51.110 --> 00:04:51.120 align:start position:0%
+robust. So I have insample data. This is
+ 
+
+00:04:51.120 --> 00:04:53.430 align:start position:0%
+robust. So I have insample data. This is
+the<00:04:51.280><c> the</c><00:04:51.520><c> data</c><00:04:51.759><c> that</c><00:04:51.919><c> my</c><00:04:52.080><c> engine</c><00:04:52.479><c> sees.</c><00:04:53.120><c> This</c>
+
+00:04:53.430 --> 00:04:53.440 align:start position:0%
+the the data that my engine sees. This
+ 
+
+00:04:53.440 --> 00:04:55.110 align:start position:0%
+the the data that my engine sees. This
+first<00:04:53.759><c> chart</c><00:04:54.080><c> here</c><00:04:54.560><c> and</c><00:04:54.720><c> these</c><00:04:54.960><c> are</c><00:04:55.040><c> the</c>
+
+00:04:55.110 --> 00:04:55.120 align:start position:0%
+first chart here and these are the
+ 
+
+00:04:55.120 --> 00:04:58.390 align:start position:0%
+first chart here and these are the
+candlesticks<00:04:55.919><c> from</c><00:04:56.400><c> 2020</c><00:04:57.040><c> all</c><00:04:57.199><c> the</c><00:04:57.360><c> way</c><00:04:57.520><c> to</c>
+
+00:04:58.390 --> 00:04:58.400 align:start position:0%
+candlesticks from 2020 all the way to
+ 
+
+00:04:58.400 --> 00:05:01.510 align:start position:0%
+candlesticks from 2020 all the way to
+2023<00:04:59.440><c> in</c><00:04:59.759><c> February.</c><00:05:00.320><c> So</c><00:05:00.560><c> that's</c><00:05:00.880><c> the</c><00:05:01.360><c> uh</c>
+
+00:05:01.510 --> 00:05:01.520 align:start position:0%
+2023 in February. So that's the uh
+ 
+
+00:05:01.520 --> 00:05:04.230 align:start position:0%
+2023 in February. So that's the uh
+claude<00:05:02.000><c> and</c><00:05:02.320><c> my</c><00:05:02.479><c> engine</c><00:05:02.800><c> can</c><00:05:03.040><c> see</c><00:05:03.199><c> this</c><00:05:03.759><c> and</c>
+
+00:05:04.230 --> 00:05:04.240 align:start position:0%
+claude and my engine can see this and
+ 
+
+00:05:04.240 --> 00:05:07.029 align:start position:0%
+claude and my engine can see this and
+then<00:05:04.639><c> the</c><00:05:04.800><c> the</c><00:05:05.199><c> engine</c><00:05:05.600><c> can't</c><00:05:06.000><c> see</c><00:05:06.400><c> this</c><00:05:06.720><c> data.</c>
+
+00:05:07.029 --> 00:05:07.039 align:start position:0%
+then the the engine can't see this data.
+ 
+
+00:05:07.039 --> 00:05:08.469 align:start position:0%
+then the the engine can't see this data.
+This<00:05:07.120><c> is</c><00:05:07.199><c> the</c><00:05:07.280><c> out</c><00:05:07.440><c> of</c><00:05:07.600><c> sample</c><00:05:07.919><c> data</c><00:05:08.080><c> and</c><00:05:08.320><c> it's</c>
+
+00:05:08.469 --> 00:05:08.479 align:start position:0%
+This is the out of sample data and it's
+ 
+
+00:05:08.479 --> 00:05:10.150 align:start position:0%
+This is the out of sample data and it's
+not<00:05:08.639><c> selecting</c><00:05:09.120><c> you</c><00:05:09.280><c> know</c><00:05:09.360><c> these</c><00:05:09.680><c> parameters</c>
+
+00:05:10.150 --> 00:05:10.160 align:start position:0%
+not selecting you know these parameters
+ 
+
+00:05:10.160 --> 00:05:11.990 align:start position:0%
+not selecting you know these parameters
+this<00:05:10.320><c> parameter</c><00:05:10.639><c> set</c><00:05:10.960><c> based</c><00:05:11.199><c> off</c><00:05:11.440><c> this.</c><00:05:11.840><c> So</c>
+
+00:05:11.990 --> 00:05:12.000 align:start position:0%
+this parameter set based off this. So
+ 
+
+00:05:12.000 --> 00:05:14.230 align:start position:0%
+this parameter set based off this. So
+it's<00:05:12.160><c> going</c><00:05:12.320><c> in</c><00:05:12.560><c> blind</c><00:05:12.960><c> but</c><00:05:13.199><c> my</c><00:05:13.520><c> claude</c><00:05:13.919><c> can</c>
+
+00:05:14.230 --> 00:05:14.240 align:start position:0%
+it's going in blind but my claude can
+ 
+
+00:05:14.240 --> 00:05:16.870 align:start position:0%
+it's going in blind but my claude can
+see<00:05:14.639><c> this</c><00:05:15.120><c> data.</c><00:05:15.680><c> So</c><00:05:15.919><c> claude</c><00:05:16.320><c> can</c><00:05:16.479><c> rank</c><00:05:16.720><c> this</c>
+
+00:05:16.870 --> 00:05:16.880 align:start position:0%
+see this data. So claude can rank this
+ 
+
+00:05:16.880 --> 00:05:19.590 align:start position:0%
+see this data. So claude can rank this
+and<00:05:17.120><c> and</c><00:05:17.440><c> say</c><00:05:17.759><c> okay</c><00:05:18.240><c> we</c><00:05:18.560><c> have</c><00:05:18.960><c> you</c><00:05:19.120><c> know</c><00:05:19.199><c> a</c><00:05:19.360><c> win</c>
+
+00:05:19.590 --> 00:05:19.600 align:start position:0%
+and and say okay we have you know a win
+ 
+
+00:05:19.600 --> 00:05:22.710 align:start position:0%
+and and say okay we have you know a win
+rate<00:05:19.759><c> of</c><00:05:19.919><c> 49%</c><00:05:20.880><c> the</c><00:05:21.120><c> sharp</c><00:05:21.440><c> ratio</c><00:05:21.680><c> is</c><00:05:21.840><c> 0.3</c>
+
+00:05:22.710 --> 00:05:22.720 align:start position:0%
+rate of 49% the sharp ratio is 0.3
+ 
+
+00:05:22.720 --> 00:05:25.270 align:start position:0%
+rate of 49% the sharp ratio is 0.3
+sortino<00:05:23.280><c> ratio</c><00:05:23.600><c> is</c><00:05:23.759><c> 0.75.</c>
+
+00:05:25.270 --> 00:05:25.280 align:start position:0%
+sortino ratio is 0.75.
+ 
+
+00:05:25.280 --> 00:05:27.189 align:start position:0%
+sortino ratio is 0.75.
+What<00:05:25.360><c> do</c><00:05:25.520><c> we</c><00:05:25.680><c> think</c><00:05:25.840><c> about</c><00:05:26.080><c> this?</c><00:05:26.639><c> And</c><00:05:26.880><c> this</c>
+
+00:05:27.189 --> 00:05:27.199 align:start position:0%
+What do we think about this? And this
+ 
+
+00:05:27.199 --> 00:05:29.270 align:start position:0%
+What do we think about this? And this
+was,<00:05:27.440><c> you</c><00:05:27.600><c> know,</c><00:05:27.680><c> out</c><00:05:27.919><c> of</c><00:05:28.000><c> all</c><00:05:28.160><c> 25</c><00:05:28.639><c> strategies,</c>
+
+00:05:29.270 --> 00:05:29.280 align:start position:0%
+was, you know, out of all 25 strategies,
+ 
+
+00:05:29.280 --> 00:05:31.830 align:start position:0%
+was, you know, out of all 25 strategies,
+this<00:05:29.520><c> one</c><00:05:29.680><c> came</c><00:05:30.080><c> in</c><00:05:30.400><c> around</c><00:05:30.800><c> third.</c><00:05:31.440><c> And</c><00:05:31.600><c> then</c>
+
+00:05:31.830 --> 00:05:31.840 align:start position:0%
+this one came in around third. And then
+ 
+
+00:05:31.840 --> 00:05:34.629 align:start position:0%
+this one came in around third. And then
+there's<00:05:32.240><c> one</c><00:05:32.560><c> last</c><00:05:33.199><c> uh</c><00:05:33.440><c> out</c><00:05:33.600><c> of</c><00:05:33.840><c> sample</c><00:05:34.160><c> data</c>
+
+00:05:34.629 --> 00:05:34.639 align:start position:0%
+there's one last uh out of sample data
+ 
+
+00:05:34.639 --> 00:05:36.629 align:start position:0%
+there's one last uh out of sample data
+point.<00:05:35.280><c> And</c><00:05:35.360><c> these</c><00:05:35.600><c> are</c><00:05:35.759><c> for</c><00:05:36.080><c> all</c><00:05:36.320><c> of</c><00:05:36.400><c> the</c>
+
+00:05:36.629 --> 00:05:36.639 align:start position:0%
+point. And these are for all of the
+ 
+
+00:05:36.639 --> 00:05:37.909 align:start position:0%
+point. And these are for all of the
+strategies<00:05:36.960><c> that</c><00:05:37.120><c> I've</c><00:05:37.280><c> built,</c><00:05:37.520><c> by</c><00:05:37.600><c> the</c><00:05:37.680><c> way.</c>
+
+00:05:37.909 --> 00:05:37.919 align:start position:0%
+strategies that I've built, by the way.
+ 
+
+00:05:37.919 --> 00:05:40.390 align:start position:0%
+strategies that I've built, by the way.
+Just<00:05:38.080><c> the</c><00:05:38.320><c> whole</c><00:05:38.639><c> process</c><00:05:39.039><c> for</c><00:05:39.360><c> how</c><00:05:39.680><c> I</c><00:05:40.000><c> ensure</c>
+
+00:05:40.390 --> 00:05:40.400 align:start position:0%
+Just the whole process for how I ensure
+ 
+
+00:05:40.400 --> 00:05:41.749 align:start position:0%
+Just the whole process for how I ensure
+that<00:05:40.639><c> it's</c><00:05:40.880><c> building</c><00:05:41.199><c> strategies</c><00:05:41.520><c> that</c><00:05:41.680><c> are</c>
+
+00:05:41.749 --> 00:05:41.759 align:start position:0%
+that it's building strategies that are
+ 
+
+00:05:41.759 --> 00:05:44.230 align:start position:0%
+that it's building strategies that are
+robust.<00:05:42.160><c> I</c><00:05:42.400><c> have</c><00:05:42.720><c> true</c><00:05:43.199><c> out</c><00:05:43.280><c> of</c><00:05:43.520><c> sample</c><00:05:43.840><c> data.</c>
+
+00:05:44.230 --> 00:05:44.240 align:start position:0%
+robust. I have true out of sample data.
+ 
+
+00:05:44.240 --> 00:05:46.550 align:start position:0%
+robust. I have true out of sample data.
+And<00:05:44.400><c> this</c><00:05:44.560><c> is</c><00:05:44.720><c> data</c><00:05:44.960><c> that</c><00:05:45.199><c> neither</c><00:05:45.600><c> my</c><00:05:45.919><c> engine</c>
+
+00:05:46.550 --> 00:05:46.560 align:start position:0%
+And this is data that neither my engine
+ 
+
+00:05:46.560 --> 00:05:49.749 align:start position:0%
+And this is data that neither my engine
+or<00:05:47.120><c> Claude</c><00:05:47.520><c> can</c><00:05:47.759><c> see.</c><00:05:48.240><c> Which</c><00:05:48.560><c> means</c><00:05:48.800><c> that</c><00:05:49.360><c> if</c>
+
+00:05:49.749 --> 00:05:49.759 align:start position:0%
+or Claude can see. Which means that if
+ 
+
+00:05:49.759 --> 00:05:51.830 align:start position:0%
+or Claude can see. Which means that if
+you<00:05:49.840><c> know</c><00:05:50.000><c> Claude</c><00:05:50.400><c> approved</c><00:05:50.800><c> the</c><00:05:51.039><c> strategy,</c><00:05:51.600><c> I</c>
+
+00:05:51.830 --> 00:05:51.840 align:start position:0%
+you know Claude approved the strategy, I
+ 
+
+00:05:51.840 --> 00:05:53.990 align:start position:0%
+you know Claude approved the strategy, I
+go<00:05:52.000><c> in</c><00:05:52.160><c> and</c><00:05:52.320><c> I</c><00:05:52.560><c> verify</c><00:05:53.120><c> okay</c><00:05:53.440><c> well</c><00:05:53.759><c> you</c>
+
+00:05:53.990 --> 00:05:54.000 align:start position:0%
+go in and I verify okay well you
+ 
+
+00:05:54.000 --> 00:05:55.670 align:start position:0%
+go in and I verify okay well you
+approved<00:05:54.479><c> the</c><00:05:54.720><c> other</c><00:05:54.960><c> numbers</c><00:05:55.280><c> from</c><00:05:55.440><c> these</c>
+
+00:05:55.670 --> 00:05:55.680 align:start position:0%
+approved the other numbers from these
+ 
+
+00:05:55.680 --> 00:05:57.990 align:start position:0%
+approved the other numbers from these
+two<00:05:55.840><c> other</c><00:05:56.080><c> charts</c><00:05:56.560><c> but</c><00:05:56.880><c> this</c><00:05:57.199><c> last</c><00:05:57.600><c> chart</c>
+
+00:05:57.990 --> 00:05:58.000 align:start position:0%
+two other charts but this last chart
+ 
+
+00:05:58.000 --> 00:06:00.070 align:start position:0%
+two other charts but this last chart
+here<00:05:58.160><c> is</c><00:05:58.400><c> where</c><00:05:58.639><c> I'm</c><00:05:58.880><c> verifying</c><00:05:59.520><c> and</c><00:05:59.840><c> the</c>
+
+00:06:00.070 --> 00:06:00.080 align:start position:0%
+here is where I'm verifying and the
+ 
+
+00:06:00.080 --> 00:06:02.230 align:start position:0%
+here is where I'm verifying and the
+sharp<00:06:00.400><c> ratio</c><00:06:00.800><c> continued</c><00:06:01.199><c> to</c><00:06:01.360><c> come</c><00:06:01.520><c> down</c><00:06:01.919><c> which</c>
+
+00:06:02.230 --> 00:06:02.240 align:start position:0%
+sharp ratio continued to come down which
+ 
+
+00:06:02.240 --> 00:06:04.469 align:start position:0%
+sharp ratio continued to come down which
+is<00:06:02.560><c> it</c><00:06:02.800><c> is</c><00:06:02.960><c> expected</c><00:06:03.440><c> in</c><00:06:03.680><c> out</c><00:06:03.840><c> of</c><00:06:04.000><c> sample</c><00:06:04.319><c> that</c>
+
+00:06:04.469 --> 00:06:04.479 align:start position:0%
+is it is expected in out of sample that
+ 
+
+00:06:04.479 --> 00:06:05.430 align:start position:0%
+is it is expected in out of sample that
+you're<00:06:04.720><c> you're</c><00:06:04.960><c> going</c><00:06:05.039><c> to</c><00:06:05.120><c> have</c><00:06:05.280><c> some</c>
+
+00:06:05.430 --> 00:06:05.440 align:start position:0%
+you're you're going to have some
+ 
+
+00:06:05.440 --> 00:06:07.270 align:start position:0%
+you're you're going to have some
+distortion<00:06:05.919><c> between</c><00:06:06.400><c> you</c><00:06:06.560><c> know</c><00:06:06.720><c> the</c><00:06:06.880><c> win</c><00:06:07.039><c> rate</c>
+
+00:06:07.270 --> 00:06:07.280 align:start position:0%
+distortion between you know the win rate
+ 
+
+00:06:07.280 --> 00:06:10.390 align:start position:0%
+distortion between you know the win rate
+before<00:06:07.520><c> was</c><00:06:08.240><c> over</c><00:06:08.479><c> 50%</c><00:06:09.039><c> now</c><00:06:09.280><c> we're</c><00:06:09.520><c> below</c><00:06:09.840><c> 50%</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+before was over 50% now we're below 50%
+ 
+
+00:06:10.400 --> 00:06:12.070 align:start position:0%
+before was over 50% now we're below 50%
+so<00:06:10.560><c> it's</c><00:06:10.800><c> gotten</c><00:06:11.039><c> slightly</c><00:06:11.360><c> worse</c><00:06:11.759><c> there</c><00:06:11.919><c> was</c>
+
+00:06:12.070 --> 00:06:12.080 align:start position:0%
+so it's gotten slightly worse there was
+ 
+
+00:06:12.080 --> 00:06:14.390 align:start position:0%
+so it's gotten slightly worse there was
+some<00:06:12.240><c> decay</c><00:06:12.560><c> there</c><00:06:12.960><c> which</c><00:06:13.199><c> is</c><00:06:13.440><c> fine</c><00:06:14.080><c> uh</c><00:06:14.160><c> but</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+some decay there which is fine uh but
+ 
+
+00:06:14.400 --> 00:06:18.150 align:start position:0%
+some decay there which is fine uh but
+this<00:06:14.800><c> 46</c><00:06:15.600><c> 47%</c><00:06:16.560><c> draw</c><00:06:16.800><c> down</c><00:06:17.120><c> is</c><00:06:17.360><c> not</c><00:06:17.600><c> fine.</c><00:06:17.919><c> that</c>
+
+00:06:18.150 --> 00:06:18.160 align:start position:0%
+this 46 47% draw down is not fine. that
+ 
+
+00:06:18.160 --> 00:06:20.230 align:start position:0%
+this 46 47% draw down is not fine. that
+is<00:06:18.319><c> too</c><00:06:18.560><c> high,</c><00:06:18.960><c> especially</c><00:06:19.440><c> when</c><00:06:20.000><c> you</c><00:06:20.080><c> know</c>
+
+00:06:20.230 --> 00:06:20.240 align:start position:0%
+is too high, especially when you know
+ 
+
+00:06:20.240 --> 00:06:22.070 align:start position:0%
+is too high, especially when you know
+there's<00:06:20.639><c> this</c><00:06:20.960><c> strategy</c><00:06:21.360><c> here</c><00:06:21.680><c> doesn't</c><00:06:21.919><c> look</c>
+
+00:06:22.070 --> 00:06:22.080 align:start position:0%
+there's this strategy here doesn't look
+ 
+
+00:06:22.080 --> 00:06:24.469 align:start position:0%
+there's this strategy here doesn't look
+like<00:06:22.240><c> it's</c><00:06:22.400><c> a</c><00:06:22.639><c> clear</c><00:06:22.960><c> up</c><00:06:23.280><c> all</c><00:06:23.520><c> the</c><00:06:23.680><c> way</c><00:06:23.840><c> through</c>
+
+00:06:24.469 --> 00:06:24.479 align:start position:0%
+like it's a clear up all the way through
+ 
+
+00:06:24.479 --> 00:06:26.870 align:start position:0%
+like it's a clear up all the way through
+and<00:06:24.960><c> yeah</c><00:06:25.280><c> there's</c><00:06:25.600><c> there's</c><00:06:26.000><c> just</c><00:06:26.560><c> there's</c>
+
+00:06:26.870 --> 00:06:26.880 align:start position:0%
+and yeah there's there's just there's
+ 
+
+00:06:26.880 --> 00:06:28.710 align:start position:0%
+and yeah there's there's just there's
+just<00:06:27.039><c> not</c><00:06:27.280><c> enough</c><00:06:27.520><c> consistent</c><00:06:28.080><c> results.</c><00:06:28.479><c> Plus</c>
+
+00:06:28.710 --> 00:06:28.720 align:start position:0%
+just not enough consistent results. Plus
+ 
+
+00:06:28.720 --> 00:06:31.510 align:start position:0%
+just not enough consistent results. Plus
+buy<00:06:28.880><c> and</c><00:06:29.120><c> hold</c><00:06:29.360><c> was</c><00:06:29.759><c> you</c><00:06:29.919><c> know</c><00:06:30.160><c> 700%</c><00:06:31.120><c> in</c><00:06:31.360><c> that</c>
+
+00:06:31.510 --> 00:06:31.520 align:start position:0%
+buy and hold was you know 700% in that
+ 
+
+00:06:31.520 --> 00:06:33.270 align:start position:0%
+buy and hold was you know 700% in that
+period.<00:06:31.919><c> So</c><00:06:32.160><c> I'm</c><00:06:32.400><c> comparing</c><00:06:32.720><c> to</c><00:06:32.880><c> that</c><00:06:33.120><c> you</c>
+
+00:06:33.270 --> 00:06:33.280 align:start position:0%
+period. So I'm comparing to that you
+ 
+
+00:06:33.280 --> 00:06:35.909 align:start position:0%
+period. So I'm comparing to that you
+know<00:06:33.440><c> 27%.</c><00:06:34.240><c> Not</c><00:06:34.479><c> good.</c><00:06:34.720><c> So</c><00:06:34.960><c> moving</c><00:06:35.199><c> on</c><00:06:35.680><c> and</c>
+
+00:06:35.909 --> 00:06:35.919 align:start position:0%
+know 27%. Not good. So moving on and
+ 
+
+00:06:35.919 --> 00:06:39.270 align:start position:0%
+know 27%. Not good. So moving on and
+here<00:06:36.240><c> is</c><00:06:36.560><c> the</c><00:06:37.199><c> next</c><00:06:37.440><c> one.</c><00:06:38.080><c> This</c><00:06:38.240><c> one</c><00:06:38.720><c> looked</c>
+
+00:06:39.270 --> 00:06:39.280 align:start position:0%
+here is the next one. This one looked
+ 
+
+00:06:39.280 --> 00:06:41.990 align:start position:0%
+here is the next one. This one looked
+very<00:06:39.840><c> promising.</c><00:06:40.560><c> 14%</c><00:06:41.199><c> draw</c><00:06:41.440><c> down</c><00:06:41.680><c> in</c><00:06:41.840><c> the</c>
+
+00:06:41.990 --> 00:06:42.000 align:start position:0%
+very promising. 14% draw down in the
+ 
+
+00:06:42.000 --> 00:06:43.909 align:start position:0%
+very promising. 14% draw down in the
+training<00:06:42.319><c> data.</c><00:06:42.720><c> This</c><00:06:42.880><c> is</c><00:06:43.039><c> the</c><00:06:43.440><c> first</c><00:06:43.680><c> one</c>
+
+00:06:43.909 --> 00:06:43.919 align:start position:0%
+training data. This is the first one
+ 
+
+00:06:43.919 --> 00:06:46.390 align:start position:0%
+training data. This is the first one
+that<00:06:44.240><c> both</c><00:06:44.639><c> Claude</c><00:06:45.120><c> and</c><00:06:45.440><c> my</c><00:06:45.759><c> trading</c><00:06:46.080><c> engine</c>
+
+00:06:46.390 --> 00:06:46.400 align:start position:0%
+that both Claude and my trading engine
+ 
+
+00:06:46.400 --> 00:06:48.870 align:start position:0%
+that both Claude and my trading engine
+can<00:06:46.720><c> see.</c><00:06:47.280><c> So</c><00:06:47.600><c> it</c><00:06:47.840><c> wants</c><00:06:48.080><c> to</c><00:06:48.319><c> make</c><00:06:48.560><c> these</c>
+
+00:06:48.870 --> 00:06:48.880 align:start position:0%
+can see. So it wants to make these
+ 
+
+00:06:48.880 --> 00:06:50.629 align:start position:0%
+can see. So it wants to make these
+numbers,<00:06:49.440><c> it</c><00:06:49.600><c> wants</c><00:06:49.759><c> to</c><00:06:49.840><c> make</c><00:06:50.000><c> this</c><00:06:50.240><c> draw</c>
+
+00:06:50.629 --> 00:06:50.639 align:start position:0%
+numbers, it wants to make this draw
+ 
+
+00:06:50.639 --> 00:06:52.150 align:start position:0%
+numbers, it wants to make this draw
+number<00:06:50.880><c> the</c><00:06:51.120><c> lowest</c><00:06:51.520><c> and</c><00:06:51.680><c> it</c><00:06:51.840><c> wants</c><00:06:51.919><c> to</c><00:06:52.080><c> make</c>
+
+00:06:52.150 --> 00:06:52.160 align:start position:0%
+number the lowest and it wants to make
+ 
+
+00:06:52.160 --> 00:06:54.150 align:start position:0%
+number the lowest and it wants to make
+this<00:06:52.319><c> sharp</c><00:06:52.639><c> ratio</c><00:06:53.039><c> the</c><00:06:53.360><c> highest.</c><00:06:53.840><c> Those</c><00:06:54.000><c> are</c>
+
+00:06:54.150 --> 00:06:54.160 align:start position:0%
+this sharp ratio the highest. Those are
+ 
+
+00:06:54.160 --> 00:06:55.830 align:start position:0%
+this sharp ratio the highest. Those are
+the<00:06:54.319><c> two</c><00:06:54.479><c> variables</c><00:06:54.960><c> that</c><00:06:55.120><c> I'm</c><00:06:55.360><c> optimizing</c>
+
+00:06:55.830 --> 00:06:55.840 align:start position:0%
+the two variables that I'm optimizing
+ 
+
+00:06:55.840 --> 00:06:57.670 align:start position:0%
+the two variables that I'm optimizing
+for.<00:06:56.160><c> I'm</c><00:06:56.319><c> not</c><00:06:56.479><c> optimizing</c><00:06:56.960><c> for</c><00:06:57.120><c> net</c><00:06:57.360><c> profit.</c>
+
+00:06:57.670 --> 00:06:57.680 align:start position:0%
+for. I'm not optimizing for net profit.
+ 
+
+00:06:57.680 --> 00:06:59.270 align:start position:0%
+for. I'm not optimizing for net profit.
+So<00:06:57.840><c> if</c><00:06:58.000><c> the</c><00:06:58.160><c> engine</c><00:06:58.400><c> sees</c><00:06:58.639><c> a</c><00:06:58.800><c> higher</c><00:06:58.960><c> net</c>
+
+00:06:59.270 --> 00:06:59.280 align:start position:0%
+So if the engine sees a higher net
+ 
+
+00:06:59.280 --> 00:07:01.189 align:start position:0%
+So if the engine sees a higher net
+profit,<00:06:59.680><c> it</c><00:06:59.840><c> doesn't</c><00:07:00.160><c> necessarily</c><00:07:00.880><c> select</c>
+
+00:07:01.189 --> 00:07:01.199 align:start position:0%
+profit, it doesn't necessarily select
+ 
+
+00:07:01.199 --> 00:07:03.430 align:start position:0%
+profit, it doesn't necessarily select
+for<00:07:01.360><c> that.</c><00:07:01.599><c> So</c><00:07:01.840><c> let's</c><00:07:02.080><c> say</c><00:07:02.319><c> candle</c><00:07:02.800><c> momentum.</c>
+
+00:07:03.430 --> 00:07:03.440 align:start position:0%
+for that. So let's say candle momentum.
+ 
+
+00:07:03.440 --> 00:07:05.350 align:start position:0%
+for that. So let's say candle momentum.
+The<00:07:03.599><c> way</c><00:07:03.680><c> that</c><00:07:03.919><c> this</c><00:07:04.080><c> strategy</c><00:07:04.560><c> works</c><00:07:04.960><c> is</c><00:07:05.199><c> it</c>
+
+00:07:05.350 --> 00:07:05.360 align:start position:0%
+The way that this strategy works is it
+ 
+
+00:07:05.360 --> 00:07:07.909 align:start position:0%
+The way that this strategy works is it
+looks<00:07:05.599><c> for</c><00:07:06.319><c> candles</c><00:07:06.880><c> like</c><00:07:07.199><c> three</c><00:07:07.599><c> green</c>
+
+00:07:07.909 --> 00:07:07.919 align:start position:0%
+looks for candles like three green
+ 
+
+00:07:07.919 --> 00:07:09.909 align:start position:0%
+looks for candles like three green
+candles<00:07:08.319><c> in</c><00:07:08.479><c> a</c><00:07:08.720><c> row</c><00:07:08.800><c> or</c><00:07:09.039><c> like</c><00:07:09.280><c> three</c><00:07:09.680><c> three</c>
+
+00:07:09.909 --> 00:07:09.919 align:start position:0%
+candles in a row or like three three
+ 
+
+00:07:09.919 --> 00:07:11.749 align:start position:0%
+candles in a row or like three three
+bullish<00:07:10.240><c> a</c><00:07:10.479><c> bullish</c><00:07:10.800><c> pattern</c><00:07:11.120><c> or</c><00:07:11.280><c> a</c><00:07:11.440><c> bearish</c>
+
+00:07:11.749 --> 00:07:11.759 align:start position:0%
+bullish a bullish pattern or a bearish
+ 
+
+00:07:11.759 --> 00:07:13.909 align:start position:0%
+bullish a bullish pattern or a bearish
+pattern<00:07:12.000><c> and</c><00:07:12.240><c> it</c><00:07:12.400><c> enters</c><00:07:12.800><c> in</c><00:07:13.280><c> that</c><00:07:13.520><c> direction</c>
+
+00:07:13.909 --> 00:07:13.919 align:start position:0%
+pattern and it enters in that direction
+ 
+
+00:07:13.919 --> 00:07:15.589 align:start position:0%
+pattern and it enters in that direction
+once<00:07:14.160><c> we</c><00:07:14.400><c> have</c><00:07:14.560><c> confirmation.</c><00:07:15.199><c> So</c><00:07:15.440><c> this</c>
+
+00:07:15.589 --> 00:07:15.599 align:start position:0%
+once we have confirmation. So this
+ 
+
+00:07:15.599 --> 00:07:17.110 align:start position:0%
+once we have confirmation. So this
+strategy<00:07:16.000><c> was</c><00:07:16.240><c> a</c><00:07:16.400><c> little</c><00:07:16.479><c> bit</c><00:07:16.639><c> better.</c><00:07:16.880><c> Win</c>
+
+00:07:17.110 --> 00:07:17.120 align:start position:0%
+strategy was a little bit better. Win
+ 
+
+00:07:17.120 --> 00:07:20.710 align:start position:0%
+strategy was a little bit better. Win
+rate<00:07:17.360><c> 47%.</c><00:07:18.479><c> Uh</c><00:07:18.960><c> which</c><00:07:19.520><c> is</c><00:07:19.759><c> manageable</c><00:07:20.240><c> as</c><00:07:20.479><c> long</c>
+
+00:07:20.710 --> 00:07:20.720 align:start position:0%
+rate 47%. Uh which is manageable as long
+ 
+
+00:07:20.720 --> 00:07:23.510 align:start position:0%
+rate 47%. Uh which is manageable as long
+as<00:07:21.120><c> the</c><00:07:21.759><c> uh</c><00:07:21.919><c> risk</c><00:07:22.160><c> ratio</c><00:07:22.479><c> is</c><00:07:22.720><c> high</c><00:07:22.880><c> enough</c><00:07:23.199><c> and</c>
+
+00:07:23.510 --> 00:07:23.520 align:start position:0%
+as the uh risk ratio is high enough and
+ 
+
+00:07:23.520 --> 00:07:24.950 align:start position:0%
+as the uh risk ratio is high enough and
+you<00:07:23.680><c> know</c><00:07:23.759><c> that's</c><00:07:24.000><c> a</c><00:07:24.240><c> pretty</c><00:07:24.400><c> good</c><00:07:24.639><c> net</c>
+
+00:07:24.950 --> 00:07:24.960 align:start position:0%
+you know that's a pretty good net
+ 
+
+00:07:24.960 --> 00:07:26.469 align:start position:0%
+you know that's a pretty good net
+profit.<00:07:25.360><c> Now</c><00:07:25.599><c> the</c><00:07:25.759><c> next</c><00:07:25.919><c> thing</c><00:07:26.000><c> we</c><00:07:26.240><c> need</c><00:07:26.319><c> to</c>
+
+00:07:26.469 --> 00:07:26.479 align:start position:0%
+profit. Now the next thing we need to
+ 
+
+00:07:26.479 --> 00:07:28.710 align:start position:0%
+profit. Now the next thing we need to
+see<00:07:26.800><c> this</c><00:07:26.960><c> is</c><00:07:27.039><c> the</c><00:07:27.199><c> one</c><00:07:27.360><c> that</c><00:07:27.680><c> we</c><00:07:28.000><c> the</c><00:07:28.319><c> the</c>
+
+00:07:28.710 --> 00:07:28.720 align:start position:0%
+see this is the one that we the the
+ 
+
+00:07:28.720 --> 00:07:30.309 align:start position:0%
+see this is the one that we the the
+engine<00:07:29.039><c> and</c><00:07:29.280><c> claude</c><00:07:29.680><c> we're</c><00:07:29.919><c> looking</c><00:07:30.080><c> to</c>
+
+00:07:30.309 --> 00:07:30.319 align:start position:0%
+engine and claude we're looking to
+ 
+
+00:07:30.319 --> 00:07:32.230 align:start position:0%
+engine and claude we're looking to
+optimize<00:07:31.039><c> the</c><00:07:31.280><c> draw</c><00:07:31.599><c> down</c><00:07:31.840><c> trying</c><00:07:32.000><c> to</c><00:07:32.160><c> get</c>
+
+00:07:32.230 --> 00:07:32.240 align:start position:0%
+optimize the draw down trying to get
+ 
+
+00:07:32.240 --> 00:07:34.150 align:start position:0%
+optimize the draw down trying to get
+this<00:07:32.400><c> number</c><00:07:32.639><c> low.</c><00:07:33.039><c> Now</c><00:07:33.280><c> the</c><00:07:33.520><c> one</c><00:07:33.680><c> that</c><00:07:33.919><c> the</c>
+
+00:07:34.150 --> 00:07:34.160 align:start position:0%
+this number low. Now the one that the
+ 
+
+00:07:34.160 --> 00:07:36.550 align:start position:0%
+this number low. Now the one that the
+engine<00:07:34.479><c> can't</c><00:07:34.800><c> see</c><00:07:35.039><c> but</c><00:07:35.280><c> Claude</c><00:07:35.680><c> can</c><00:07:36.080><c> is</c><00:07:36.319><c> the</c>
+
+00:07:36.550 --> 00:07:36.560 align:start position:0%
+engine can't see but Claude can is the
+ 
+
+00:07:36.560 --> 00:07:38.230 align:start position:0%
+engine can't see but Claude can is the
+second<00:07:36.720><c> one.</c><00:07:36.960><c> So</c><00:07:37.120><c> this</c><00:07:37.199><c> is</c><00:07:37.360><c> a</c><00:07:37.520><c> second</c><00:07:37.840><c> data</c>
+
+00:07:38.230 --> 00:07:38.240 align:start position:0%
+second one. So this is a second data
+ 
+
+00:07:38.240 --> 00:07:40.950 align:start position:0%
+second one. So this is a second data
+set.<00:07:38.560><c> So</c><00:07:38.800><c> 2020</c><00:07:39.199><c> to</c><00:07:39.440><c> 2023.</c><00:07:40.240><c> And</c><00:07:40.400><c> now</c><00:07:40.560><c> we</c><00:07:40.720><c> come</c><00:07:40.800><c> to</c>
+
+00:07:40.950 --> 00:07:40.960 align:start position:0%
+set. So 2020 to 2023. And now we come to
+ 
+
+00:07:40.960 --> 00:07:44.150 align:start position:0%
+set. So 2020 to 2023. And now we come to
+the<00:07:41.120><c> 2024</c><00:07:41.919><c> data</c><00:07:42.319><c> all</c><00:07:42.479><c> the</c><00:07:42.639><c> way</c><00:07:42.720><c> to</c><00:07:42.880><c> 2025</c><00:07:43.759><c> in</c>
+
+00:07:44.150 --> 00:07:44.160 align:start position:0%
+the 2024 data all the way to 2025 in
+ 
+
+00:07:44.160 --> 00:07:47.189 align:start position:0%
+the 2024 data all the way to 2025 in
+March.<00:07:44.720><c> So</c><00:07:45.120><c> net</c><00:07:45.440><c> profit</c><00:07:45.759><c> is</c><00:07:46.400><c> 127.</c><00:07:46.880><c> The</c><00:07:47.039><c> win</c>
+
+00:07:47.189 --> 00:07:47.199 align:start position:0%
+March. So net profit is 127. The win
+ 
+
+00:07:47.199 --> 00:07:49.110 align:start position:0%
+March. So net profit is 127. The win
+rate<00:07:47.440><c> came</c><00:07:47.680><c> down</c><00:07:48.000><c> and</c><00:07:48.160><c> the</c><00:07:48.319><c> sharp</c><00:07:48.639><c> ratio</c><00:07:48.960><c> and</c>
+
+00:07:49.110 --> 00:07:49.120 align:start position:0%
+rate came down and the sharp ratio and
+ 
+
+00:07:49.120 --> 00:07:50.710 align:start position:0%
+rate came down and the sharp ratio and
+certino<00:07:49.599><c> come</c><00:07:49.759><c> down</c><00:07:49.919><c> a</c><00:07:50.080><c> little</c><00:07:50.160><c> bit</c><00:07:50.240><c> as</c><00:07:50.400><c> well.</c>
+
+00:07:50.710 --> 00:07:50.720 align:start position:0%
+certino come down a little bit as well.
+ 
+
+00:07:50.720 --> 00:07:52.950 align:start position:0%
+certino come down a little bit as well.
+What<00:07:50.960><c> does</c><00:07:51.039><c> that</c><00:07:51.280><c> mean?</c><00:07:51.680><c> Well,</c><00:07:52.080><c> it</c><00:07:52.240><c> it</c><00:07:52.639><c> means</c>
+
+00:07:52.950 --> 00:07:52.960 align:start position:0%
+What does that mean? Well, it it means
+ 
+
+00:07:52.960 --> 00:07:55.270 align:start position:0%
+What does that mean? Well, it it means
+that<00:07:53.440><c> out</c><00:07:53.680><c> of</c><00:07:53.840><c> sample</c><00:07:54.240><c> it's</c><00:07:54.479><c> it's</c><00:07:54.879><c> having</c><00:07:55.120><c> a</c>
+
+00:07:55.270 --> 00:07:55.280 align:start position:0%
+that out of sample it's it's having a
+ 
+
+00:07:55.280 --> 00:07:56.629 align:start position:0%
+that out of sample it's it's having a
+little<00:07:55.599><c> starting</c><00:07:55.840><c> to</c><00:07:56.000><c> have</c><00:07:56.080><c> a</c><00:07:56.319><c> little</c><00:07:56.400><c> bit</c><00:07:56.479><c> of</c>
+
+00:07:56.629 --> 00:07:56.639 align:start position:0%
+little starting to have a little bit of
+ 
+
+00:07:56.639 --> 00:07:58.950 align:start position:0%
+little starting to have a little bit of
+trouble,<00:07:56.879><c> but</c><00:07:57.280><c> you</c><00:07:57.440><c> know</c><00:07:57.759><c> the</c><00:07:58.000><c> true</c><00:07:58.400><c> the</c><00:07:58.720><c> last</c>
+
+00:07:58.950 --> 00:07:58.960 align:start position:0%
+trouble, but you know the true the last
+ 
+
+00:07:58.960 --> 00:08:01.189 align:start position:0%
+trouble, but you know the true the last
+test<00:07:59.199><c> is</c><00:07:59.599><c> the</c><00:07:59.759><c> the</c><00:08:00.080><c> one</c><00:08:00.319><c> where</c><00:08:00.479><c> I</c><00:08:00.879><c> actually</c>
+
+00:08:01.189 --> 00:08:01.199 align:start position:0%
+test is the the one where I actually
+ 
+
+00:08:01.199 --> 00:08:03.189 align:start position:0%
+test is the the one where I actually
+determine<00:08:01.599><c> it.</c><00:08:01.919><c> So</c><00:08:02.240><c> let's</c><00:08:02.479><c> look</c><00:08:02.639><c> at</c><00:08:02.800><c> the</c>
+
+00:08:03.189 --> 00:08:03.199 align:start position:0%
+determine it. So let's look at the
+ 
+
+00:08:03.199 --> 00:08:05.270 align:start position:0%
+determine it. So let's look at the
+metrics<00:08:03.599><c> here</c><00:08:03.759><c> in</c><00:08:03.919><c> the</c><00:08:04.000><c> out</c><00:08:04.160><c> of</c><00:08:04.319><c> sample</c><00:08:04.720><c> or</c><00:08:04.960><c> the</c>
+
+00:08:05.270 --> 00:08:05.280 align:start position:0%
+metrics here in the out of sample or the
+ 
+
+00:08:05.280 --> 00:08:08.390 align:start position:0%
+metrics here in the out of sample or the
+testing<00:08:06.080><c> uh</c><00:08:06.400><c> sample</c><00:08:07.120><c> and</c><00:08:07.440><c> the</c><00:08:07.680><c> win</c><00:08:07.840><c> rate.</c><00:08:08.080><c> Yep.</c>
+
+00:08:08.390 --> 00:08:08.400 align:start position:0%
+testing uh sample and the win rate. Yep.
+ 
+
+00:08:08.400 --> 00:08:12.950 align:start position:0%
+testing uh sample and the win rate. Yep.
+40%<00:08:09.199><c> and</c><00:08:09.520><c> max</c><00:08:10.160><c> draw</c><00:08:10.319><c> down</c><00:08:10.960><c> came</c><00:08:11.199><c> up</c><00:08:11.440><c> 50</c><00:08:11.759><c> 53%.</c><00:08:12.560><c> So</c>
+
+00:08:12.950 --> 00:08:12.960 align:start position:0%
+40% and max draw down came up 50 53%. So
+ 
+
+00:08:12.960 --> 00:08:14.469 align:start position:0%
+40% and max draw down came up 50 53%. So
+that's<00:08:13.280><c> you</c><00:08:13.520><c> can</c><00:08:13.599><c> see</c><00:08:13.759><c> there's</c><00:08:14.000><c> a</c><00:08:14.160><c> period</c><00:08:14.319><c> of</c>
+
+00:08:14.469 --> 00:08:14.479 align:start position:0%
+that's you can see there's a period of
+ 
+
+00:08:14.479 --> 00:08:15.749 align:start position:0%
+that's you can see there's a period of
+draw<00:08:14.639><c> down</c><00:08:14.879><c> here.</c><00:08:15.199><c> That's</c><00:08:15.360><c> what</c><00:08:15.520><c> that's</c>
+
+00:08:15.749 --> 00:08:15.759 align:start position:0%
+draw down here. That's what that's
+ 
+
+00:08:15.759 --> 00:08:18.309 align:start position:0%
+draw down here. That's what that's
+looking<00:08:15.919><c> at</c><00:08:16.240><c> the</c><00:08:16.800><c> and</c><00:08:17.039><c> so</c><00:08:17.360><c> the</c><00:08:17.599><c> engine</c><00:08:17.919><c> is</c><00:08:18.160><c> not</c>
+
+00:08:18.309 --> 00:08:18.319 align:start position:0%
+looking at the and so the engine is not
+ 
+
+00:08:18.319 --> 00:08:20.790 align:start position:0%
+looking at the and so the engine is not
+liking<00:08:18.879><c> this</c><00:08:19.199><c> period</c><00:08:19.759><c> specifically</c><00:08:20.400><c> here.</c>
+
+00:08:20.790 --> 00:08:20.800 align:start position:0%
+liking this period specifically here.
+ 
+
+00:08:20.800 --> 00:08:22.790 align:start position:0%
+liking this period specifically here.
+And<00:08:20.960><c> you</c><00:08:21.120><c> know</c><00:08:21.199><c> if</c><00:08:21.360><c> we</c><00:08:21.520><c> unpacked</c><00:08:22.080><c> why</c><00:08:22.400><c> we</c><00:08:22.639><c> could</c>
+
+00:08:22.790 --> 00:08:22.800 align:start position:0%
+And you know if we unpacked why we could
+ 
+
+00:08:22.800 --> 00:08:24.629 align:start position:0%
+And you know if we unpacked why we could
+probably<00:08:23.039><c> go</c><00:08:23.199><c> in</c><00:08:23.599><c> and</c><00:08:23.759><c> see</c><00:08:23.919><c> if</c><00:08:24.080><c> we</c><00:08:24.240><c> could</c><00:08:24.400><c> add</c>
+
+00:08:24.629 --> 00:08:24.639 align:start position:0%
+probably go in and see if we could add
+ 
+
+00:08:24.639 --> 00:08:26.629 align:start position:0%
+probably go in and see if we could add
+anything<00:08:24.879><c> to</c><00:08:25.120><c> this</c><00:08:25.360><c> to</c><00:08:25.680><c> supplement</c><00:08:26.080><c> the</c><00:08:26.319><c> rules</c>
+
+00:08:26.629 --> 00:08:26.639 align:start position:0%
+anything to this to supplement the rules
+ 
+
+00:08:26.639 --> 00:08:28.230 align:start position:0%
+anything to this to supplement the rules
+to<00:08:26.879><c> kind</c><00:08:27.039><c> of</c><00:08:27.120><c> make</c><00:08:27.360><c> figure</c><00:08:27.599><c> out</c><00:08:27.759><c> how</c><00:08:27.919><c> it</c><00:08:28.160><c> was</c>
+
+00:08:28.230 --> 00:08:28.240 align:start position:0%
+to kind of make figure out how it was
+ 
+
+00:08:28.240 --> 00:08:30.070 align:start position:0%
+to kind of make figure out how it was
+weak<00:08:28.479><c> in</c><00:08:28.639><c> that</c><00:08:28.879><c> area.</c><00:08:29.520><c> It</c><00:08:29.680><c> looks</c><00:08:29.919><c> pretty</c>
+
+00:08:30.070 --> 00:08:30.080 align:start position:0%
+weak in that area. It looks pretty
+ 
+
+00:08:30.080 --> 00:08:31.670 align:start position:0%
+weak in that area. It looks pretty
+strong<00:08:30.240><c> everywhere</c><00:08:30.639><c> else</c><00:08:30.960><c> just</c><00:08:31.120><c> in</c><00:08:31.280><c> this</c><00:08:31.520><c> one</c>
+
+00:08:31.670 --> 00:08:31.680 align:start position:0%
+strong everywhere else just in this one
+ 
+
+00:08:31.680 --> 00:08:33.829 align:start position:0%
+strong everywhere else just in this one
+period.<00:08:32.159><c> A</c><00:08:32.320><c> little</c><00:08:32.479><c> bit</c><00:08:32.640><c> weak,</c><00:08:32.959><c> but</c><00:08:33.519><c> it's</c>
+
+00:08:33.829 --> 00:08:33.839 align:start position:0%
+period. A little bit weak, but it's
+ 
+
+00:08:33.839 --> 00:08:35.990 align:start position:0%
+period. A little bit weak, but it's
+worth<00:08:34.159><c> doing</c><00:08:34.399><c> that</c><00:08:34.560><c> or</c><00:08:34.800><c> not.</c><00:08:35.200><c> depends</c><00:08:35.599><c> on</c><00:08:35.760><c> the</c>
+
+00:08:35.990 --> 00:08:36.000 align:start position:0%
+worth doing that or not. depends on the
+ 
+
+00:08:36.000 --> 00:08:38.630 align:start position:0%
+worth doing that or not. depends on the
+final<00:08:36.320><c> chart</c><00:08:36.640><c> the</c><00:08:37.039><c> sample</c><00:08:37.519><c> out</c><00:08:37.680><c> of</c><00:08:37.839><c> s</c><00:08:38.159><c> the</c><00:08:38.320><c> the</c>
+
+00:08:38.630 --> 00:08:38.640 align:start position:0%
+final chart the sample out of s the the
+ 
+
+00:08:38.640 --> 00:08:41.190 align:start position:0%
+final chart the sample out of s the the
+final<00:08:38.880><c> test</c><00:08:39.200><c> which</c><00:08:39.440><c> this</c><00:08:39.599><c> is</c><00:08:39.919><c> 2025</c><00:08:40.640><c> data</c><00:08:40.959><c> from</c>
+
+00:08:41.190 --> 00:08:41.200 align:start position:0%
+final test which this is 2025 data from
+ 
+
+00:08:41.200 --> 00:08:43.589 align:start position:0%
+final test which this is 2025 data from
+March<00:08:41.519><c> all</c><00:08:41.760><c> the</c><00:08:41.919><c> way</c><00:08:42.000><c> to</c><00:08:42.159><c> the</c><00:08:42.399><c> present</c><00:08:42.959><c> moment</c>
+
+00:08:43.589 --> 00:08:43.599 align:start position:0%
+March all the way to the present moment
+ 
+
+00:08:43.599 --> 00:08:46.949 align:start position:0%
+March all the way to the present moment
+and<00:08:44.159><c> it</c><00:08:44.399><c> I</c><00:08:44.640><c> mean</c><00:08:44.720><c> it's</c><00:08:44.959><c> profitable</c><00:08:45.279><c> it's</c><00:08:45.600><c> 268%</c>
+
+00:08:46.949 --> 00:08:46.959 align:start position:0%
+and it I mean it's profitable it's 268%
+ 
+
+00:08:46.959 --> 00:08:49.509 align:start position:0%
+and it I mean it's profitable it's 268%
+it's<00:08:47.200><c> just</c><00:08:47.360><c> that</c><00:08:47.519><c> there's</c><00:08:47.839><c> 56%</c><00:08:48.880><c> draw</c><00:08:49.200><c> down</c>
+
+00:08:49.509 --> 00:08:49.519 align:start position:0%
+it's just that there's 56% draw down
+ 
+
+00:08:49.519 --> 00:08:51.670 align:start position:0%
+it's just that there's 56% draw down
+right<00:08:49.760><c> this</c><00:08:50.000><c> period</c><00:08:50.320><c> here</c><00:08:50.880><c> once</c><00:08:51.120><c> we</c><00:08:51.360><c> started</c>
+
+00:08:51.670 --> 00:08:51.680 align:start position:0%
+right this period here once we started
+ 
+
+00:08:51.680 --> 00:08:53.910 align:start position:0%
+right this period here once we started
+out<00:08:52.000><c> did</c><00:08:52.240><c> not</c><00:08:52.480><c> do</c><00:08:52.640><c> so</c><00:08:52.880><c> well</c><00:08:53.040><c> so</c><00:08:53.279><c> it</c><00:08:53.519><c> was</c><00:08:53.680><c> coming</c>
+
+00:08:53.910 --> 00:08:53.920 align:start position:0%
+out did not do so well so it was coming
+ 
+
+00:08:53.920 --> 00:08:56.230 align:start position:0%
+out did not do so well so it was coming
+down<00:08:54.240><c> having</c><00:08:54.560><c> a</c><00:08:54.800><c> really</c><00:08:55.120><c> rough</c><00:08:55.440><c> time</c><00:08:55.839><c> until</c>
+
+00:08:56.230 --> 00:08:56.240 align:start position:0%
+down having a really rough time until
+ 
+
+00:08:56.240 --> 00:08:58.949 align:start position:0%
+down having a really rough time until
+here<00:08:56.640><c> and</c><00:08:56.880><c> then</c><00:08:57.040><c> one</c><00:08:57.279><c> big</c><00:08:57.519><c> trade</c><00:08:58.000><c> that's</c><00:08:58.560><c> it</c><00:08:58.800><c> is</c>
+
+00:08:58.949 --> 00:08:58.959 align:start position:0%
+here and then one big trade that's it is
+ 
+
+00:08:58.959 --> 00:09:00.630 align:start position:0%
+here and then one big trade that's it is
+kind<00:08:59.120><c> of</c><00:08:59.120><c> a</c><00:08:59.360><c> red</c><00:08:59.519><c> flag</c><00:09:00.000><c> most</c><00:09:00.160><c> of</c><00:09:00.240><c> this</c><00:09:00.399><c> net</c>
+
+00:09:00.630 --> 00:09:00.640 align:start position:0%
+kind of a red flag most of this net
+ 
+
+00:09:00.640 --> 00:09:02.310 align:start position:0%
+kind of a red flag most of this net
+profit<00:09:00.880><c> is</c><00:09:01.040><c> coming</c><00:09:01.279><c> from</c><00:09:01.440><c> this</c><00:09:01.680><c> trade</c><00:09:02.080><c> which</c>
+
+00:09:02.310 --> 00:09:02.320 align:start position:0%
+profit is coming from this trade which
+ 
+
+00:09:02.320 --> 00:09:03.590 align:start position:0%
+profit is coming from this trade which
+could<00:09:02.480><c> have</c><00:09:02.640><c> just</c><00:09:02.720><c> been</c><00:09:02.800><c> a</c><00:09:02.959><c> fluke</c><00:09:03.279><c> we</c><00:09:03.519><c> don't</c>
+
+00:09:03.590 --> 00:09:03.600 align:start position:0%
+could have just been a fluke we don't
+ 
+
+00:09:03.600 --> 00:09:05.430 align:start position:0%
+could have just been a fluke we don't
+want<00:09:04.080><c> we</c><00:09:04.240><c> want</c><00:09:04.480><c> consist</c><00:09:04.640><c> consistency.</c><00:09:05.200><c> We</c>
+
+00:09:05.430 --> 00:09:05.440 align:start position:0%
+want we want consist consistency. We
+ 
+
+00:09:05.440 --> 00:09:07.269 align:start position:0%
+want we want consist consistency. We
+want<00:09:05.519><c> to</c><00:09:05.680><c> have,</c><00:09:06.000><c> you</c><00:09:06.160><c> know,</c><00:09:06.320><c> a</c><00:09:06.560><c> a</c><00:09:06.880><c> big</c><00:09:07.040><c> enough</c>
+
+00:09:07.269 --> 00:09:07.279 align:start position:0%
+want to have, you know, a a big enough
+ 
+
+00:09:07.279 --> 00:09:09.430 align:start position:0%
+want to have, you know, a a big enough
+sample<00:09:07.680><c> size</c><00:09:08.160><c> and,</c><00:09:08.560><c> you</c><00:09:08.640><c> know,</c><00:09:08.880><c> consistent</c>
+
+00:09:09.430 --> 00:09:09.440 align:start position:0%
+sample size and, you know, consistent
+ 
+
+00:09:09.440 --> 00:09:11.110 align:start position:0%
+sample size and, you know, consistent
+enough<00:09:09.680><c> win</c><00:09:09.920><c> rate</c><00:09:10.160><c> as</c><00:09:10.320><c> well.</c><00:09:10.560><c> Sharp</c><00:09:10.800><c> ratio</c>
+
+00:09:11.110 --> 00:09:11.120 align:start position:0%
+enough win rate as well. Sharp ratio
+ 
+
+00:09:11.120 --> 00:09:13.030 align:start position:0%
+enough win rate as well. Sharp ratio
+should<00:09:11.279><c> be</c><00:09:11.360><c> higher.</c><00:09:11.680><c> So,</c><00:09:11.839><c> in</c><00:09:12.080><c> here,</c><00:09:12.560><c> it's</c><00:09:12.880><c> hard</c>
+
+00:09:13.030 --> 00:09:13.040 align:start position:0%
+should be higher. So, in here, it's hard
+ 
+
+00:09:13.040 --> 00:09:14.550 align:start position:0%
+should be higher. So, in here, it's hard
+to<00:09:13.200><c> say.</c><00:09:13.519><c> Look,</c><00:09:13.760><c> this</c><00:09:13.920><c> is</c><00:09:14.000><c> the</c><00:09:14.160><c> draw</c><00:09:14.320><c> down</c>
+
+00:09:14.550 --> 00:09:14.560 align:start position:0%
+to say. Look, this is the draw down
+ 
+
+00:09:14.560 --> 00:09:16.389 align:start position:0%
+to say. Look, this is the draw down
+graph<00:09:14.800><c> here.</c><00:09:14.959><c> You</c><00:09:15.120><c> can</c><00:09:15.200><c> kind</c><00:09:15.360><c> of</c><00:09:15.440><c> see</c><00:09:15.760><c> this</c><00:09:16.080><c> net</c>
+
+00:09:16.389 --> 00:09:16.399 align:start position:0%
+graph here. You can kind of see this net
+ 
+
+00:09:16.399 --> 00:09:18.389 align:start position:0%
+graph here. You can kind of see this net
+profit<00:09:16.800><c> visualized</c><00:09:17.279><c> here.</c><00:09:17.680><c> This</c><00:09:17.839><c> is</c><00:09:17.920><c> the</c><00:09:18.240><c> the</c>
+
+00:09:18.389 --> 00:09:18.399 align:start position:0%
+profit visualized here. This is the the
+ 
+
+00:09:18.399 --> 00:09:20.230 align:start position:0%
+profit visualized here. This is the the
+draw<00:09:18.720><c> down</c><00:09:18.880><c> graph.</c><00:09:19.279><c> Really</c><00:09:19.519><c> high</c><00:09:19.760><c> draw</c><00:09:20.000><c> down</c>
+
+00:09:20.230 --> 00:09:20.240 align:start position:0%
+draw down graph. Really high draw down
+ 
+
+00:09:20.240 --> 00:09:23.269 align:start position:0%
+draw down graph. Really high draw down
+here.<00:09:20.560><c> Came</c><00:09:20.800><c> down</c><00:09:20.959><c> there</c><00:09:21.519><c> or</c><00:09:21.760><c> 56.</c><00:09:22.399><c> So,</c><00:09:22.720><c> that</c><00:09:22.959><c> is</c>
+
+00:09:23.269 --> 00:09:23.279 align:start position:0%
+here. Came down there or 56. So, that is
+ 
+
+00:09:23.279 --> 00:09:25.350 align:start position:0%
+here. Came down there or 56. So, that is
+a<00:09:23.760><c> little</c><00:09:24.080><c> the</c><00:09:24.320><c> strategy</c><00:09:24.640><c> is</c><00:09:24.720><c> a</c><00:09:24.959><c> little</c><00:09:25.120><c> bit</c>
+
+00:09:25.350 --> 00:09:25.360 align:start position:0%
+a little the strategy is a little bit
+ 
+
+00:09:25.360 --> 00:09:27.030 align:start position:0%
+a little the strategy is a little bit
+stubborn.<00:09:25.839><c> Little</c><00:09:26.080><c> bit</c><00:09:26.160><c> stubborn.</c><00:09:26.640><c> So,</c><00:09:26.800><c> let's</c>
+
+00:09:27.030 --> 00:09:27.040 align:start position:0%
+stubborn. Little bit stubborn. So, let's
+ 
+
+00:09:27.040 --> 00:09:28.630 align:start position:0%
+stubborn. Little bit stubborn. So, let's
+go<00:09:27.200><c> to</c><00:09:27.360><c> our</c><00:09:27.519><c> last</c><00:09:27.760><c> strategy</c><00:09:28.080><c> here</c><00:09:28.240><c> and</c><00:09:28.480><c> we'll</c>
+
+00:09:28.630 --> 00:09:28.640 align:start position:0%
+go to our last strategy here and we'll
+ 
+
+00:09:28.640 --> 00:09:31.910 align:start position:0%
+go to our last strategy here and we'll
+do<00:09:28.800><c> the</c><00:09:28.959><c> exact</c><00:09:29.200><c> same</c><00:09:29.440><c> process.</c><00:09:30.080><c> So</c><00:09:30.399><c> the</c><00:09:30.880><c> Q</c><00:09:31.200><c> sum</c>
+
+00:09:31.910 --> 00:09:31.920 align:start position:0%
+do the exact same process. So the Q sum
+ 
+
+00:09:31.920 --> 00:09:35.030 align:start position:0%
+do the exact same process. So the Q sum
+strategy<00:09:32.720><c> it</c><00:09:32.959><c> is</c><00:09:33.120><c> a</c><00:09:33.600><c> this</c><00:09:33.839><c> is</c><00:09:33.920><c> a</c><00:09:34.160><c> statistical</c>
+
+00:09:35.030 --> 00:09:35.040 align:start position:0%
+strategy it is a this is a statistical
+ 
+
+00:09:35.040 --> 00:09:38.150 align:start position:0%
+strategy it is a this is a statistical
+method<00:09:35.440><c> that</c><00:09:36.160><c> it</c><00:09:36.399><c> accumulates</c><00:09:37.120><c> deviations</c><00:09:37.839><c> of</c>
+
+00:09:38.150 --> 00:09:38.160 align:start position:0%
+method that it accumulates deviations of
+ 
+
+00:09:38.160 --> 00:09:40.310 align:start position:0%
+method that it accumulates deviations of
+returns<00:09:38.880><c> by</c><00:09:39.120><c> their</c><00:09:39.440><c> name</c><00:09:39.680><c> and</c><00:09:39.839><c> then</c><00:09:40.000><c> when</c><00:09:40.160><c> the</c>
+
+00:09:40.310 --> 00:09:40.320 align:start position:0%
+returns by their name and then when the
+ 
+
+00:09:40.320 --> 00:09:42.870 align:start position:0%
+returns by their name and then when the
+sum<00:09:40.720><c> exceeds</c><00:09:41.279><c> a</c><00:09:41.519><c> threshold</c><00:09:42.080><c> it</c><00:09:42.320><c> signals</c><00:09:42.720><c> a</c>
+
+00:09:42.870 --> 00:09:42.880 align:start position:0%
+sum exceeds a threshold it signals a
+ 
+
+00:09:42.880 --> 00:09:44.470 align:start position:0%
+sum exceeds a threshold it signals a
+regime<00:09:43.279><c> change.</c><00:09:43.600><c> So</c><00:09:43.680><c> the</c><00:09:43.920><c> market</c><00:09:44.240><c> you</c><00:09:44.320><c> know</c>
+
+00:09:44.470 --> 00:09:44.480 align:start position:0%
+regime change. So the market you know
+ 
+
+00:09:44.480 --> 00:09:46.870 align:start position:0%
+regime change. So the market you know
+shifted<00:09:44.880><c> from</c><00:09:45.120><c> noise</c><00:09:45.519><c> to</c><00:09:46.000><c> a</c><00:09:46.240><c> trend.</c><00:09:46.560><c> So</c><00:09:46.720><c> that's</c>
+
+00:09:46.870 --> 00:09:46.880 align:start position:0%
+shifted from noise to a trend. So that's
+ 
+
+00:09:46.880 --> 00:09:48.470 align:start position:0%
+shifted from noise to a trend. So that's
+when<00:09:47.040><c> it</c><00:09:47.200><c> will</c><00:09:47.360><c> actually</c><00:09:47.920><c> enter.</c><00:09:48.320><c> So</c>
+
+00:09:48.470 --> 00:09:48.480 align:start position:0%
+when it will actually enter. So
+ 
+
+00:09:48.480 --> 00:09:50.470 align:start position:0%
+when it will actually enter. So
+inherently<00:09:48.959><c> to</c><00:09:49.200><c> this</c><00:09:49.519><c> there</c><00:09:49.760><c> is</c><00:09:50.000><c> a</c><00:09:50.240><c> little</c><00:09:50.399><c> bit</c>
+
+00:09:50.470 --> 00:09:50.480 align:start position:0%
+inherently to this there is a little bit
+ 
+
+00:09:50.480 --> 00:09:53.269 align:start position:0%
+inherently to this there is a little bit
+of<00:09:50.560><c> a</c><00:09:50.720><c> flat</c><00:09:51.040><c> filter</c><00:09:51.680><c> and</c><00:09:52.080><c> so</c><00:09:52.320><c> it</c><00:09:52.480><c> it</c><00:09:52.800><c> man</c><00:09:53.040><c> it</c>
+
+00:09:53.269 --> 00:09:53.279 align:start position:0%
+of a flat filter and so it it man it
+ 
+
+00:09:53.279 --> 00:09:55.190 align:start position:0%
+of a flat filter and so it it man it
+manufactures<00:09:53.920><c> its</c><00:09:54.240><c> own</c><00:09:54.399><c> kind</c><00:09:54.640><c> of</c><00:09:54.800><c> quality</c>
+
+00:09:55.190 --> 00:09:55.200 align:start position:0%
+manufactures its own kind of quality
+ 
+
+00:09:55.200 --> 00:09:57.190 align:start position:0%
+manufactures its own kind of quality
+control<00:09:55.600><c> as</c><00:09:55.839><c> well</c><00:09:55.920><c> as</c><00:09:56.240><c> its</c><00:09:56.480><c> own</c><00:09:56.560><c> directional.</c>
+
+00:09:57.190 --> 00:09:57.200 align:start position:0%
+control as well as its own directional.
+ 
+
+00:09:57.200 --> 00:10:00.150 align:start position:0%
+control as well as its own directional.
+So<00:09:57.600><c> this</c><00:09:57.760><c> is</c><00:09:57.839><c> what</c><00:09:58.080><c> claude</c><00:09:58.399><c> opus</c><00:09:58.720><c> found</c><00:09:59.279><c> uh</c><00:09:59.440><c> 51%</c>
+
+00:10:00.150 --> 00:10:00.160 align:start position:0%
+So this is what claude opus found uh 51%
+ 
+
+00:10:00.160 --> 00:10:01.910 align:start position:0%
+So this is what claude opus found uh 51%
+draw<00:10:00.320><c> down</c><00:10:00.640><c> right</c><00:10:00.800><c> away</c><00:10:00.959><c> in</c><00:10:01.120><c> the</c><00:10:01.279><c> in</c><00:10:01.519><c> this</c>
+
+00:10:01.910 --> 00:10:01.920 align:start position:0%
+draw down right away in the in this
+ 
+
+00:10:01.920 --> 00:10:04.230 align:start position:0%
+draw down right away in the in this
+right.<00:10:02.240><c> So</c><00:10:02.720><c> this</c><00:10:02.880><c> was</c><00:10:03.040><c> the</c><00:10:03.200><c> la</c><00:10:03.440><c> the</c><00:10:03.600><c> the</c><00:10:04.000><c> last</c>
+
+00:10:04.230 --> 00:10:04.240 align:start position:0%
+right. So this was the la the the last
+ 
+
+00:10:04.240 --> 00:10:06.870 align:start position:0%
+right. So this was the la the the last
+place<00:10:05.120><c> uh</c><00:10:05.279><c> for</c><00:10:05.600><c> our</c><00:10:05.760><c> trades.</c><00:10:06.240><c> So</c><00:10:06.480><c> I'll</c><00:10:06.720><c> just</c>
+
+00:10:06.870 --> 00:10:06.880 align:start position:0%
+place uh for our trades. So I'll just
+ 
+
+00:10:06.880 --> 00:10:08.070 align:start position:0%
+place uh for our trades. So I'll just
+quickly<00:10:07.120><c> go</c><00:10:07.279><c> through</c><00:10:07.440><c> this</c><00:10:07.600><c> one.</c><00:10:07.839><c> This</c><00:10:07.920><c> one</c>
+
+00:10:08.070 --> 00:10:08.080 align:start position:0%
+quickly go through this one. This one
+ 
+
+00:10:08.080 --> 00:10:09.829 align:start position:0%
+quickly go through this one. This one
+was<00:10:08.320><c> not.</c><00:10:08.560><c> So</c><00:10:08.720><c> this</c><00:10:08.880><c> will</c><00:10:09.040><c> be</c><00:10:09.120><c> quick</c><00:10:09.360><c> but</c><00:10:09.600><c> yeah</c>
+
+00:10:09.829 --> 00:10:09.839 align:start position:0%
+was not. So this will be quick but yeah
+ 
+
+00:10:09.839 --> 00:10:11.829 align:start position:0%
+was not. So this will be quick but yeah
+sharp<00:10:10.080><c> ratio</c><00:10:10.480><c> in</c><00:10:10.640><c> a</c><00:10:10.880><c> training</c><00:10:11.200><c> data.</c><00:10:11.600><c> Let's</c>
+
+00:10:11.829 --> 00:10:11.839 align:start position:0%
+sharp ratio in a training data. Let's
+ 
+
+00:10:11.839 --> 00:10:13.269 align:start position:0%
+sharp ratio in a training data. Let's
+see<00:10:12.080><c> here.</c><00:10:12.320><c> Was</c><00:10:12.480><c> that</c><00:10:12.640><c> the</c><00:10:12.720><c> out</c><00:10:12.880><c> of</c><00:10:12.959><c> sample?</c>
+
+00:10:13.269 --> 00:10:13.279 align:start position:0%
+see here. Was that the out of sample?
+ 
+
+00:10:13.279 --> 00:10:14.230 align:start position:0%
+see here. Was that the out of sample?
+Yeah.<00:10:13.680><c> Sorry</c><00:10:13.680><c> sorry</c><00:10:13.680><c> sorry</c><00:10:13.839><c> about</c><00:10:13.920><c> that.</c><00:10:14.079><c> I</c>
+
+00:10:14.230 --> 00:10:14.240 align:start position:0%
+Yeah. Sorry sorry sorry about that. I
+ 
+
+00:10:14.240 --> 00:10:16.389 align:start position:0%
+Yeah. Sorry sorry sorry about that. I
+showed<00:10:14.399><c> the</c><00:10:14.560><c> out</c><00:10:14.720><c> of</c><00:10:14.880><c> sample</c><00:10:15.279><c> first</c><00:10:15.839><c> but</c><00:10:16.079><c> yeah</c>
+
+00:10:16.389 --> 00:10:16.399 align:start position:0%
+showed the out of sample first but yeah
+ 
+
+00:10:16.399 --> 00:10:18.550 align:start position:0%
+showed the out of sample first but yeah
+this<00:10:16.560><c> is</c><00:10:16.640><c> the</c><00:10:16.880><c> this</c><00:10:17.040><c> is</c><00:10:17.200><c> the</c><00:10:17.440><c> Q</c><00:10:17.680><c> sum</c><00:10:18.079><c> strategy.</c>
+
+00:10:18.550 --> 00:10:18.560 align:start position:0%
+this is the this is the Q sum strategy.
+ 
+
+00:10:18.560 --> 00:10:21.110 align:start position:0%
+this is the this is the Q sum strategy.
+So<00:10:18.800><c> 24%</c><00:10:19.839><c> and</c><00:10:20.079><c> this</c><00:10:20.240><c> graph</c><00:10:20.480><c> looks</c><00:10:20.720><c> pretty</c><00:10:20.880><c> good</c>
+
+00:10:21.110 --> 00:10:21.120 align:start position:0%
+So 24% and this graph looks pretty good
+ 
+
+00:10:21.120 --> 00:10:23.030 align:start position:0%
+So 24% and this graph looks pretty good
+right?<00:10:21.360><c> 51%</c><00:10:22.000><c> win</c><00:10:22.160><c> rate.</c><00:10:22.399><c> Now,</c><00:10:22.640><c> if</c><00:10:22.800><c> you</c><00:10:22.880><c> were</c>
+
+00:10:23.030 --> 00:10:23.040 align:start position:0%
+right? 51% win rate. Now, if you were
+ 
+
+00:10:23.040 --> 00:10:24.550 align:start position:0%
+right? 51% win rate. Now, if you were
+just<00:10:23.200><c> trading</c><00:10:23.360><c> on</c><00:10:23.519><c> Trading</c><00:10:23.839><c> View</c><00:10:24.079><c> and</c><00:10:24.320><c> you</c><00:10:24.480><c> saw</c>
+
+00:10:24.550 --> 00:10:24.560 align:start position:0%
+just trading on Trading View and you saw
+ 
+
+00:10:24.560 --> 00:10:26.310 align:start position:0%
+just trading on Trading View and you saw
+a<00:10:24.720><c> graph</c><00:10:24.959><c> like</c><00:10:25.200><c> this,</c><00:10:25.600><c> you</c><00:10:25.680><c> know,</c><00:10:25.839><c> you</c><00:10:26.079><c> open</c><00:10:26.240><c> up</c>
+
+00:10:26.310 --> 00:10:26.320 align:start position:0%
+a graph like this, you know, you open up
+ 
+
+00:10:26.320 --> 00:10:28.470 align:start position:0%
+a graph like this, you know, you open up
+your<00:10:26.480><c> Trading</c><00:10:26.800><c> View</c><00:10:27.120><c> or</c><00:10:27.760><c> which</c><00:10:28.079><c> whichever</c>
+
+00:10:28.470 --> 00:10:28.480 align:start position:0%
+your Trading View or which whichever
+ 
+
+00:10:28.480 --> 00:10:30.470 align:start position:0%
+your Trading View or which whichever
+trading<00:10:28.800><c> program</c><00:10:29.279><c> that</c><00:10:29.519><c> you</c><00:10:29.680><c> use</c><00:10:30.000><c> and</c><00:10:30.320><c> you</c>
+
+00:10:30.470 --> 00:10:30.480 align:start position:0%
+trading program that you use and you
+ 
+
+00:10:30.480 --> 00:10:32.550 align:start position:0%
+trading program that you use and you
+have<00:10:30.640><c> a</c><00:10:30.880><c> chart</c><00:10:31.040><c> that</c><00:10:31.279><c> looks</c><00:10:31.519><c> this</c><00:10:31.839><c> good,</c><00:10:32.240><c> it's</c>
+
+00:10:32.550 --> 00:10:32.560 align:start position:0%
+have a chart that looks this good, it's
+ 
+
+00:10:32.560 --> 00:10:34.389 align:start position:0%
+have a chart that looks this good, it's
+you<00:10:32.880><c> might</c><00:10:33.040><c> think</c><00:10:33.200><c> it's</c><00:10:33.519><c> tradable.</c><00:10:34.079><c> You</c><00:10:34.240><c> might</c>
+
+00:10:34.389 --> 00:10:34.399 align:start position:0%
+you might think it's tradable. You might
+ 
+
+00:10:34.399 --> 00:10:36.069 align:start position:0%
+you might think it's tradable. You might
+you<00:10:34.560><c> might</c><00:10:34.720><c> actually</c><00:10:35.120><c> consider</c><00:10:35.519><c> putting</c><00:10:35.760><c> real</c>
+
+00:10:36.069 --> 00:10:36.079 align:start position:0%
+you might actually consider putting real
+ 
+
+00:10:36.079 --> 00:10:37.990 align:start position:0%
+you might actually consider putting real
+money<00:10:36.240><c> on</c><00:10:36.399><c> the</c><00:10:36.560><c> line</c><00:10:36.800><c> here.</c><00:10:37.279><c> But</c><00:10:37.519><c> let's</c><00:10:37.760><c> go</c><00:10:37.920><c> to</c>
+
+00:10:37.990 --> 00:10:38.000 align:start position:0%
+money on the line here. But let's go to
+ 
+
+00:10:38.000 --> 00:10:39.910 align:start position:0%
+money on the line here. But let's go to
+the<00:10:38.560><c> first</c><00:10:38.800><c> out</c><00:10:38.959><c> of</c><00:10:39.120><c> sample.</c><00:10:39.519><c> Now,</c><00:10:39.760><c> this</c><00:10:39.839><c> is</c>
+
+00:10:39.910 --> 00:10:39.920 align:start position:0%
+the first out of sample. Now, this is
+ 
+
+00:10:39.920 --> 00:10:41.990 align:start position:0%
+the first out of sample. Now, this is
+the<00:10:40.160><c> one</c><00:10:40.320><c> again,</c><00:10:40.800><c> this</c><00:10:41.040><c> data,</c><00:10:41.440><c> see</c><00:10:41.680><c> how</c><00:10:41.839><c> it</c>
+
+00:10:41.990 --> 00:10:42.000 align:start position:0%
+the one again, this data, see how it
+ 
+
+00:10:42.000 --> 00:10:43.990 align:start position:0%
+the one again, this data, see how it
+gets<00:10:42.320><c> way</c><00:10:42.640><c> like</c><00:10:43.040><c> slightly</c><00:10:43.440><c> more</c><00:10:43.600><c> choppy.</c>
+
+00:10:43.990 --> 00:10:44.000 align:start position:0%
+gets way like slightly more choppy.
+ 
+
+00:10:44.000 --> 00:10:45.750 align:start position:0%
+gets way like slightly more choppy.
+There's<00:10:44.240><c> still</c><00:10:44.399><c> an</c><00:10:44.560><c> uptrend.</c><00:10:45.120><c> Let's</c><00:10:45.360><c> go</c><00:10:45.440><c> back.</c>
+
+00:10:45.750 --> 00:10:45.760 align:start position:0%
+There's still an uptrend. Let's go back.
+ 
+
+00:10:45.760 --> 00:10:47.509 align:start position:0%
+There's still an uptrend. Let's go back.
+Look<00:10:45.920><c> how</c><00:10:46.240><c> smooth</c><00:10:46.640><c> that</c><00:10:46.959><c> first</c><00:10:47.200><c> trending</c>
+
+00:10:47.509 --> 00:10:47.519 align:start position:0%
+Look how smooth that first trending
+ 
+
+00:10:47.519 --> 00:10:49.990 align:start position:0%
+Look how smooth that first trending
+curve<00:10:47.839><c> was.</c><00:10:48.160><c> Really</c><00:10:48.480><c> smooth,</c><00:10:48.800><c> right?</c><00:10:49.279><c> And</c><00:10:49.680><c> as</c>
+
+00:10:49.990 --> 00:10:50.000 align:start position:0%
+curve was. Really smooth, right? And as
+ 
+
+00:10:50.000 --> 00:10:52.069 align:start position:0%
+curve was. Really smooth, right? And as
+soon<00:10:50.160><c> as</c><00:10:50.399><c> the</c><00:10:50.640><c> engine</c><00:10:51.120><c> stops</c><00:10:51.519><c> looking</c><00:10:51.839><c> and</c>
+
+00:10:52.069 --> 00:10:52.079 align:start position:0%
+soon as the engine stops looking and
+ 
+
+00:10:52.079 --> 00:10:53.910 align:start position:0%
+soon as the engine stops looking and
+then<00:10:52.240><c> it</c><00:10:52.480><c> just</c><00:10:52.800><c> you</c><00:10:52.959><c> know</c><00:10:53.120><c> validates</c><00:10:53.600><c> that</c>
+
+00:10:53.910 --> 00:10:53.920 align:start position:0%
+then it just you know validates that
+ 
+
+00:10:53.920 --> 00:10:56.069 align:start position:0%
+then it just you know validates that
+this<00:10:54.079><c> these</c><00:10:54.399><c> same</c><00:10:54.560><c> parameters</c><00:10:55.120><c> on</c><00:10:55.680><c> future</c>
+
+00:10:56.069 --> 00:10:56.079 align:start position:0%
+this these same parameters on future
+ 
+
+00:10:56.079 --> 00:10:58.150 align:start position:0%
+this these same parameters on future
+data<00:10:56.560><c> without</c><00:10:56.959><c> adjusting</c><00:10:57.360><c> these</c><00:10:57.680><c> or</c><00:10:57.839><c> anything</c>
+
+00:10:58.150 --> 00:10:58.160 align:start position:0%
+data without adjusting these or anything
+ 
+
+00:10:58.160 --> 00:11:00.150 align:start position:0%
+data without adjusting these or anything
+else<00:10:58.560><c> you</c><00:10:58.640><c> know</c><00:10:58.800><c> so</c><00:10:59.040><c> hands</c><00:10:59.360><c> off</c><00:10:59.600><c> the</c><00:10:59.760><c> engine</c>
+
+00:11:00.150 --> 00:11:00.160 align:start position:0%
+else you know so hands off the engine
+ 
+
+00:11:00.160 --> 00:11:02.230 align:start position:0%
+else you know so hands off the engine
+just<00:11:00.560><c> keeps</c><00:11:00.959><c> everything</c><00:11:01.440><c> constant</c><00:11:01.839><c> and</c><00:11:02.160><c> then</c>
+
+00:11:02.230 --> 00:11:02.240 align:start position:0%
+just keeps everything constant and then
+ 
+
+00:11:02.240 --> 00:11:04.470 align:start position:0%
+just keeps everything constant and then
+introduces<00:11:02.800><c> new</c><00:11:03.040><c> data</c><00:11:03.519><c> things</c><00:11:03.920><c> get</c><00:11:04.160><c> a</c><00:11:04.320><c> little</c>
+
+00:11:04.470 --> 00:11:04.480 align:start position:0%
+introduces new data things get a little
+ 
+
+00:11:04.480 --> 00:11:06.870 align:start position:0%
+introduces new data things get a little
+bit<00:11:04.560><c> more</c><00:11:04.720><c> choppy</c><00:11:05.279><c> watch</c><00:11:05.519><c> this</c><00:11:05.920><c> and</c><00:11:06.320><c> chop</c><00:11:06.720><c> just</c>
+
+00:11:06.870 --> 00:11:06.880 align:start position:0%
+bit more choppy watch this and chop just
+ 
+
+00:11:06.880 --> 00:11:09.030 align:start position:0%
+bit more choppy watch this and chop just
+appears<00:11:07.360><c> so</c><00:11:07.760><c> that's</c><00:11:08.000><c> not</c><00:11:08.240><c> good</c><00:11:08.560><c> and</c><00:11:08.720><c> I</c><00:11:08.880><c> think</c>
+
+00:11:09.030 --> 00:11:09.040 align:start position:0%
+appears so that's not good and I think
+ 
+
+00:11:09.040 --> 00:11:11.509 align:start position:0%
+appears so that's not good and I think
+this<00:11:09.279><c> is</c><00:11:09.440><c> around</c><00:11:09.839><c> 60%</c><00:11:10.560><c> draw</c><00:11:10.800><c> down</c><00:11:11.200><c> I</c><00:11:11.360><c> could</c>
+
+00:11:11.509 --> 00:11:11.519 align:start position:0%
+this is around 60% draw down I could
+ 
+
+00:11:11.519 --> 00:11:13.509 align:start position:0%
+this is around 60% draw down I could
+scroll<00:11:11.680><c> down</c><00:11:11.839><c> and</c><00:11:12.000><c> and</c><00:11:12.079><c> and</c><00:11:12.720><c> see</c><00:11:12.880><c> that</c><00:11:13.200><c> yeah</c>
+
+00:11:13.509 --> 00:11:13.519 align:start position:0%
+scroll down and and and see that yeah
+ 
+
+00:11:13.519 --> 00:11:16.150 align:start position:0%
+scroll down and and and see that yeah
+59%<00:11:14.480><c> max</c><00:11:14.800><c> draw</c><00:11:15.040><c> down</c><00:11:15.440><c> not</c><00:11:15.680><c> what</c><00:11:15.839><c> you</c><00:11:15.920><c> want</c><00:11:16.079><c> to</c>
+
+00:11:16.150 --> 00:11:16.160 align:start position:0%
+59% max draw down not what you want to
+ 
+
+00:11:16.160 --> 00:11:18.150 align:start position:0%
+59% max draw down not what you want to
+see<00:11:16.480><c> so</c><00:11:16.880><c> right</c><00:11:17.040><c> away</c><00:11:17.279><c> this</c><00:11:17.440><c> is</c><00:11:17.519><c> ruled</c><00:11:17.839><c> out</c>
+
+00:11:18.150 --> 00:11:18.160 align:start position:0%
+see so right away this is ruled out
+ 
+
+00:11:18.160 --> 00:11:19.829 align:start position:0%
+see so right away this is ruled out
+right<00:11:18.560><c> um</c><00:11:18.640><c> it</c><00:11:18.880><c> looks</c><00:11:19.200><c> good</c><00:11:19.360><c> from</c><00:11:19.519><c> the</c><00:11:19.600><c> training</c>
+
+00:11:19.829 --> 00:11:19.839 align:start position:0%
+right um it looks good from the training
+ 
+
+00:11:19.839 --> 00:11:21.350 align:start position:0%
+right um it looks good from the training
+data<00:11:20.160><c> and</c><00:11:20.480><c> of</c><00:11:20.640><c> course</c><00:11:20.720><c> I</c><00:11:20.880><c> already</c><00:11:21.040><c> showed</c><00:11:21.200><c> you</c>
+
+00:11:21.350 --> 00:11:21.360 align:start position:0%
+data and of course I already showed you
+ 
+
+00:11:21.360 --> 00:11:23.430 align:start position:0%
+data and of course I already showed you
+guys<00:11:21.519><c> the</c><00:11:21.680><c> out</c><00:11:21.839><c> of</c><00:11:22.000><c> sample</c><00:11:22.560><c> data</c><00:11:23.040><c> and</c><00:11:23.279><c> this</c><00:11:23.360><c> is</c>
+
+00:11:23.430 --> 00:11:23.440 align:start position:0%
+guys the out of sample data and this is
+ 
+
+00:11:23.440 --> 00:11:26.150 align:start position:0%
+guys the out of sample data and this is
+where<00:11:23.680><c> claude</c><00:11:24.079><c> opus</c><00:11:24.640><c> and</c><00:11:24.880><c> my</c><00:11:25.040><c> engine</c><00:11:25.519><c> claopus</c>
+
+00:11:26.150 --> 00:11:26.160 align:start position:0%
+where claude opus and my engine claopus
+ 
+
+00:11:26.160 --> 00:11:27.990 align:start position:0%
+where claude opus and my engine claopus
+just<00:11:26.399><c> you</c><00:11:26.560><c> know</c><00:11:26.720><c> proves</c><00:11:27.040><c> it</c><00:11:27.279><c> and</c><00:11:27.519><c> doesn't</c><00:11:27.760><c> even</c>
+
+00:11:27.990 --> 00:11:28.000 align:start position:0%
+just you know proves it and doesn't even
+ 
+
+00:11:28.000 --> 00:11:29.829 align:start position:0%
+just you know proves it and doesn't even
+look<00:11:28.160><c> at</c><00:11:28.320><c> this</c><00:11:28.560><c> data</c><00:11:28.800><c> set</c><00:11:29.040><c> only</c><00:11:29.279><c> I</c><00:11:29.519><c> look</c><00:11:29.680><c> at</c>
+
+00:11:29.829 --> 00:11:29.839 align:start position:0%
+look at this data set only I look at
+ 
+
+00:11:29.839 --> 00:11:32.069 align:start position:0%
+look at this data set only I look at
+this<00:11:30.000><c> data</c><00:11:30.240><c> set</c><00:11:30.480><c> final</c><00:11:30.800><c> conf</c><00:11:31.040><c> to</c><00:11:31.360><c> remove</c><00:11:31.680><c> bias</c>
+
+00:11:32.069 --> 00:11:32.079 align:start position:0%
+this data set final conf to remove bias
+ 
+
+00:11:32.079 --> 00:11:34.230 align:start position:0%
+this data set final conf to remove bias
+completely<00:11:32.640><c> so</c><00:11:32.800><c> that</c><00:11:32.959><c> the</c><00:11:33.120><c> AI</c><00:11:33.519><c> the</c><00:11:33.760><c> AI</c><00:11:34.079><c> can</c>
+
+00:11:34.230 --> 00:11:34.240 align:start position:0%
+completely so that the AI the AI can
+ 
+
+00:11:34.240 --> 00:11:37.030 align:start position:0%
+completely so that the AI the AI can
+introduce<00:11:34.640><c> bias</c><00:11:35.040><c> to</c><00:11:35.200><c> be</c><00:11:35.360><c> clear</c><00:11:35.680><c> the</c><00:11:35.839><c> AI</c><00:11:36.480><c> will</c>
+
+00:11:37.030 --> 00:11:37.040 align:start position:0%
+introduce bias to be clear the AI will
+ 
+
+00:11:37.040 --> 00:11:38.470 align:start position:0%
+introduce bias to be clear the AI will
+select<00:11:37.440><c> things</c><00:11:37.600><c> that</c><00:11:37.760><c> look</c><00:11:38.000><c> good</c><00:11:38.160><c> in</c><00:11:38.320><c> the</c>
+
+00:11:38.470 --> 00:11:38.480 align:start position:0%
+select things that look good in the
+ 
+
+00:11:38.480 --> 00:11:40.389 align:start position:0%
+select things that look good in the
+training<00:11:38.720><c> data</c><00:11:39.040><c> and</c><00:11:39.279><c> if</c><00:11:39.440><c> you</c><00:11:39.600><c> show</c><00:11:39.839><c> claude</c><00:11:40.240><c> all</c>
+
+00:11:40.389 --> 00:11:40.399 align:start position:0%
+training data and if you show claude all
+ 
+
+00:11:40.399 --> 00:11:42.790 align:start position:0%
+training data and if you show claude all
+your<00:11:40.560><c> data</c><00:11:40.959><c> claude</c><00:11:41.360><c> will</c><00:11:41.680><c> be</c><00:11:41.839><c> select</c><00:11:42.399><c> uh</c><00:11:42.560><c> with</c>
+
+00:11:42.790 --> 00:11:42.800 align:start position:0%
+your data claude will be select uh with
+ 
+
+00:11:42.800 --> 00:11:44.790 align:start position:0%
+your data claude will be select uh with
+a<00:11:42.959><c> bias</c><00:11:43.279><c> which</c><00:11:43.440><c> you</c><00:11:43.600><c> want</c><00:11:43.680><c> to</c><00:11:43.839><c> remove</c><00:11:44.160><c> so</c><00:11:44.560><c> yeah</c>
+
+00:11:44.790 --> 00:11:44.800 align:start position:0%
+a bias which you want to remove so yeah
+ 
+
+00:11:44.800 --> 00:11:47.110 align:start position:0%
+a bias which you want to remove so yeah
+this<00:11:45.279><c> completely</c><00:11:45.920><c> garbage</c><00:11:46.560><c> once</c><00:11:46.800><c> you</c><00:11:46.959><c> see</c>
+
+00:11:47.110 --> 00:11:47.120 align:start position:0%
+this completely garbage once you see
+ 
+
+00:11:47.120 --> 00:11:49.590 align:start position:0%
+this completely garbage once you see
+this<00:11:47.440><c> engine</c><00:11:47.760><c> run</c><00:11:48.160><c> or</c><00:11:48.480><c> this</c><00:11:48.800><c> specifically</c><00:11:49.279><c> Q</c>
+
+00:11:49.590 --> 00:11:49.600 align:start position:0%
+this engine run or this specifically Q
+ 
+
+00:11:49.600 --> 00:11:51.590 align:start position:0%
+this engine run or this specifically Q
+sum<00:11:49.839><c> strategy</c><00:11:50.240><c> run</c><00:11:50.480><c> on</c><00:11:50.720><c> out</c><00:11:50.880><c> of</c><00:11:50.959><c> sample</c><00:11:51.279><c> data.</c>
+
+00:11:51.590 --> 00:11:51.600 align:start position:0%
+sum strategy run on out of sample data.
+ 
+
+00:11:51.600 --> 00:11:53.190 align:start position:0%
+sum strategy run on out of sample data.
+It's<00:11:51.839><c> garbage,</c><00:11:52.240><c> right?</c><00:11:52.480><c> So,</c><00:11:52.640><c> let's</c><00:11:52.880><c> go</c><00:11:52.959><c> to</c><00:11:53.040><c> our</c>
+
+00:11:53.190 --> 00:11:53.200 align:start position:0%
+It's garbage, right? So, let's go to our
+ 
+
+00:11:53.200 --> 00:11:54.870 align:start position:0%
+It's garbage, right? So, let's go to our
+god<00:11:53.440><c> tier</c><00:11:53.760><c> strategy.</c><00:11:54.079><c> This</c><00:11:54.240><c> is</c><00:11:54.399><c> this</c><00:11:54.640><c> is</c><00:11:54.720><c> the</c>
+
+00:11:54.870 --> 00:11:54.880 align:start position:0%
+god tier strategy. This is this is the
+ 
+
+00:11:54.880 --> 00:11:56.470 align:start position:0%
+god tier strategy. This is this is the
+one<00:11:55.040><c> that</c><00:11:55.200><c> we</c><00:11:55.360><c> got</c><00:11:55.680><c> and</c><00:11:55.920><c> this</c><00:11:56.000><c> is</c><00:11:56.079><c> our</c><00:11:56.240><c> winner</c>
+
+00:11:56.470 --> 00:11:56.480 align:start position:0%
+one that we got and this is our winner
+ 
+
+00:11:56.480 --> 00:11:58.389 align:start position:0%
+one that we got and this is our winner
+of<00:11:56.560><c> the</c><00:11:56.720><c> day.</c><00:11:56.959><c> I'm</c><00:11:57.200><c> going</c><00:11:57.279><c> to</c><00:11:57.360><c> show</c><00:11:57.519><c> you</c><00:11:57.839><c> first.</c>
+
+00:11:58.389 --> 00:11:58.399 align:start position:0%
+of the day. I'm going to show you first.
+ 
+
+00:11:58.399 --> 00:11:59.910 align:start position:0%
+of the day. I'm going to show you first.
+This<00:11:58.560><c> is</c><00:11:58.640><c> actually</c><00:11:58.880><c> out</c><00:11:59.040><c> of</c><00:11:59.200><c> sample.</c><00:11:59.600><c> So,</c><00:11:59.760><c> this</c>
+
+00:11:59.910 --> 00:11:59.920 align:start position:0%
+This is actually out of sample. So, this
+ 
+
+00:11:59.920 --> 00:12:01.750 align:start position:0%
+This is actually out of sample. So, this
+is<00:12:00.000><c> the</c><00:12:00.079><c> one</c><00:12:00.240><c> that</c><00:12:00.480><c> Claude</c><00:12:00.959><c> did</c><00:12:01.200><c> not</c><00:12:01.360><c> look</c><00:12:01.519><c> at</c>
+
+00:12:01.750 --> 00:12:01.760 align:start position:0%
+is the one that Claude did not look at
+ 
+
+00:12:01.760 --> 00:12:03.590 align:start position:0%
+is the one that Claude did not look at
+and<00:12:02.000><c> the</c><00:12:02.160><c> engine</c><00:12:02.480><c> could</c><00:12:02.720><c> not</c><00:12:02.880><c> look</c><00:12:03.040><c> at.</c><00:12:03.360><c> That's</c>
+
+00:12:03.590 --> 00:12:03.600 align:start position:0%
+and the engine could not look at. That's
+ 
+
+00:12:03.600 --> 00:12:06.870 align:start position:0%
+and the engine could not look at. That's
+how<00:12:03.760><c> I</c><00:12:03.920><c> know</c><00:12:04.079><c> that</c><00:12:04.320><c> this</c><00:12:04.720><c> is</c><00:12:05.360><c> a</c><00:12:05.760><c> clear</c><00:12:06.320><c> winner</c>
+
+00:12:06.870 --> 00:12:06.880 align:start position:0%
+how I know that this is a clear winner
+ 
+
+00:12:06.880 --> 00:12:08.870 align:start position:0%
+how I know that this is a clear winner
+with<00:12:07.040><c> this</c><00:12:07.279><c> strategy.</c><00:12:07.839><c> Fractal</c><00:12:08.240><c> depth</c><00:12:08.639><c> 5</c>
+
+00:12:08.870 --> 00:12:08.880 align:start position:0%
+with this strategy. Fractal depth 5
+ 
+
+00:12:08.880 --> 00:12:10.949 align:start position:0%
+with this strategy. Fractal depth 5
+decay<00:12:09.279><c> period</c><00:12:09.600><c> 24.</c><00:12:10.240><c> It</c><00:12:10.480><c> picked</c><00:12:10.720><c> these</c>
+
+00:12:10.949 --> 00:12:10.959 align:start position:0%
+decay period 24. It picked these
+ 
+
+00:12:10.959 --> 00:12:12.550 align:start position:0%
+decay period 24. It picked these
+parameters<00:12:11.360><c> on</c><00:12:11.519><c> the</c><00:12:11.680><c> training</c><00:12:12.000><c> data.</c><00:12:12.399><c> So,</c>
+
+00:12:12.550 --> 00:12:12.560 align:start position:0%
+parameters on the training data. So,
+ 
+
+00:12:12.560 --> 00:12:14.310 align:start position:0%
+parameters on the training data. So,
+let's<00:12:12.800><c> go</c><00:12:12.959><c> look</c><00:12:13.200><c> at</c><00:12:13.360><c> the</c><00:12:13.519><c> training</c><00:12:13.839><c> data.</c><00:12:14.160><c> And</c>
+
+00:12:14.310 --> 00:12:14.320 align:start position:0%
+let's go look at the training data. And
+ 
+
+00:12:14.320 --> 00:12:16.069 align:start position:0%
+let's go look at the training data. And
+to<00:12:14.480><c> be</c><00:12:14.639><c> clear,</c><00:12:14.880><c> there's</c><00:12:15.040><c> also</c><00:12:15.440><c> bootstrapping.</c>
+
+00:12:16.069 --> 00:12:16.079 align:start position:0%
+to be clear, there's also bootstrapping.
+ 
+
+00:12:16.079 --> 00:12:17.670 align:start position:0%
+to be clear, there's also bootstrapping.
+We<00:12:16.240><c> randomize</c><00:12:16.720><c> the</c><00:12:16.880><c> candlesticks</c><00:12:17.360><c> to</c><00:12:17.519><c> make</c>
+
+00:12:17.670 --> 00:12:17.680 align:start position:0%
+We randomize the candlesticks to make
+ 
+
+00:12:17.680 --> 00:12:19.430 align:start position:0%
+We randomize the candlesticks to make
+sure<00:12:17.760><c> that</c><00:12:18.000><c> for</c><00:12:18.240><c> all</c><00:12:18.399><c> of</c><00:12:18.480><c> these</c><00:12:18.720><c> here</c><00:12:19.040><c> that</c><00:12:19.279><c> it</c>
+
+00:12:19.430 --> 00:12:19.440 align:start position:0%
+sure that for all of these here that it
+ 
+
+00:12:19.440 --> 00:12:21.350 align:start position:0%
+sure that for all of these here that it
+it'll<00:12:19.839><c> hold</c><00:12:20.000><c> up</c><00:12:20.160><c> if</c><00:12:20.399><c> we</c><00:12:20.560><c> jumble</c><00:12:20.880><c> up</c><00:12:21.040><c> the</c>
+
+00:12:21.350 --> 00:12:21.360 align:start position:0%
+it'll hold up if we jumble up the
+ 
+
+00:12:21.360 --> 00:12:22.550 align:start position:0%
+it'll hold up if we jumble up the
+candlesticks<00:12:21.839><c> to</c><00:12:22.000><c> make</c><00:12:22.079><c> sure</c><00:12:22.160><c> that</c><00:12:22.320><c> there's</c>
+
+00:12:22.550 --> 00:12:22.560 align:start position:0%
+candlesticks to make sure that there's
+ 
+
+00:12:22.560 --> 00:12:24.949 align:start position:0%
+candlesticks to make sure that there's
+no<00:12:22.720><c> patterns</c><00:12:23.200><c> that</c><00:12:23.760><c> we're</c><00:12:24.000><c> curve</c><00:12:24.399><c> fitting</c><00:12:24.639><c> for</c>
+
+00:12:24.949 --> 00:12:24.959 align:start position:0%
+no patterns that we're curve fitting for
+ 
+
+00:12:24.959 --> 00:12:27.990 align:start position:0%
+no patterns that we're curve fitting for
+or<00:12:25.440><c> anything</c><00:12:25.760><c> like</c><00:12:26.000><c> that.</c><00:12:26.480><c> And</c><00:12:26.959><c> 28%</c><00:12:27.519><c> draw</c><00:12:27.760><c> down</c>
+
+00:12:27.990 --> 00:12:28.000 align:start position:0%
+or anything like that. And 28% draw down
+ 
+
+00:12:28.000 --> 00:12:30.949 align:start position:0%
+or anything like that. And 28% draw down
+on<00:12:28.240><c> just</c><00:12:28.399><c> the</c><00:12:28.560><c> main</c><00:12:28.800><c> data</c><00:12:29.120><c> set</c><00:12:29.440><c> which</c><00:12:29.920><c> is</c><00:12:30.399><c> again</c>
+
+00:12:30.949 --> 00:12:30.959 align:start position:0%
+on just the main data set which is again
+ 
+
+00:12:30.959 --> 00:12:32.470 align:start position:0%
+on just the main data set which is again
+um<00:12:31.120><c> you</c><00:12:31.440><c> wouldn't</c><00:12:31.760><c> think</c><00:12:31.920><c> that</c><00:12:32.160><c> would</c><00:12:32.320><c> be</c>
+
+00:12:32.470 --> 00:12:32.480 align:start position:0%
+um you wouldn't think that would be
+ 
+
+00:12:32.480 --> 00:12:34.629 align:start position:0%
+um you wouldn't think that would be
+good.<00:12:32.959><c> And</c><00:12:33.279><c> of</c><00:12:33.519><c> course</c><00:12:33.760><c> from</c><00:12:34.000><c> here</c><00:12:34.240><c> this</c><00:12:34.480><c> is</c>
+
+00:12:34.629 --> 00:12:34.639 align:start position:0%
+good. And of course from here this is
+ 
+
+00:12:34.639 --> 00:12:35.750 align:start position:0%
+good. And of course from here this is
+just<00:12:34.800><c> the</c><00:12:35.040><c> beginning</c><00:12:35.279><c> entry</c><00:12:35.519><c> of</c><00:12:35.600><c> the</c>
+
+00:12:35.750 --> 00:12:35.760 align:start position:0%
+just the beginning entry of the
+ 
+
+00:12:35.760 --> 00:12:37.269 align:start position:0%
+just the beginning entry of the
+strategy.<00:12:36.079><c> You</c><00:12:36.240><c> can</c><00:12:36.399><c> add</c><00:12:36.639><c> you</c><00:12:36.720><c> know</c><00:12:36.880><c> regime</c>
+
+00:12:37.269 --> 00:12:37.279 align:start position:0%
+strategy. You can add you know regime
+ 
+
+00:12:37.279 --> 00:12:39.110 align:start position:0%
+strategy. You can add you know regime
+filters<00:12:37.680><c> and</c><00:12:37.920><c> to</c><00:12:38.160><c> try</c><00:12:38.320><c> to</c><00:12:38.480><c> filter</c><00:12:38.720><c> out</c><00:12:38.880><c> bad</c>
+
+00:12:39.110 --> 00:12:39.120 align:start position:0%
+filters and to try to filter out bad
+ 
+
+00:12:39.120 --> 00:12:40.949 align:start position:0%
+filters and to try to filter out bad
+trades<00:12:39.440><c> from</c><00:12:39.600><c> here</c><00:12:39.839><c> to</c><00:12:40.079><c> get</c><00:12:40.240><c> that</c><00:12:40.480><c> better</c><00:12:40.800><c> and</c>
+
+00:12:40.949 --> 00:12:40.959 align:start position:0%
+trades from here to get that better and
+ 
+
+00:12:40.959 --> 00:12:43.110 align:start position:0%
+trades from here to get that better and
+and<00:12:41.200><c> more</c><00:12:41.440><c> optimized.</c><00:12:41.920><c> And</c><00:12:42.079><c> then</c><00:12:42.399><c> from</c><00:12:42.720><c> here,</c>
+
+00:12:43.110 --> 00:12:43.120 align:start position:0%
+and more optimized. And then from here,
+ 
+
+00:12:43.120 --> 00:12:44.949 align:start position:0%
+and more optimized. And then from here,
+assuming<00:12:43.519><c> we</c><00:12:43.680><c> accept</c><00:12:43.920><c> this</c><00:12:44.160><c> strategy,</c><00:12:44.720><c> let's</c>
+
+00:12:44.949 --> 00:12:44.959 align:start position:0%
+assuming we accept this strategy, let's
+ 
+
+00:12:44.959 --> 00:12:46.870 align:start position:0%
+assuming we accept this strategy, let's
+go<00:12:45.200><c> through</c><00:12:45.440><c> to</c><00:12:45.680><c> the</c><00:12:45.920><c> testing</c><00:12:46.240><c> data.</c><00:12:46.639><c> This</c><00:12:46.800><c> is</c>
+
+00:12:46.870 --> 00:12:46.880 align:start position:0%
+go through to the testing data. This is
+ 
+
+00:12:46.880 --> 00:12:49.030 align:start position:0%
+go through to the testing data. This is
+the<00:12:47.040><c> data</c><00:12:47.200><c> that</c><00:12:47.440><c> Claude</c><00:12:47.839><c> Opus</c><00:12:48.320><c> could</c><00:12:48.560><c> see,</c><00:12:48.800><c> but</c>
+
+00:12:49.030 --> 00:12:49.040 align:start position:0%
+the data that Claude Opus could see, but
+ 
+
+00:12:49.040 --> 00:12:50.949 align:start position:0%
+the data that Claude Opus could see, but
+our<00:12:49.200><c> trading</c><00:12:49.519><c> engine</c><00:12:49.920><c> just</c><00:12:50.160><c> put</c><00:12:50.399><c> forward</c><00:12:50.720><c> the</c>
+
+00:12:50.949 --> 00:12:50.959 align:start position:0%
+our trading engine just put forward the
+ 
+
+00:12:50.959 --> 00:12:52.230 align:start position:0%
+our trading engine just put forward the
+parameters.<00:12:51.440><c> And</c><00:12:51.600><c> there</c><00:12:51.760><c> you</c><00:12:51.920><c> have</c><00:12:52.000><c> it.</c><00:12:52.160><c> Look</c>
+
+00:12:52.230 --> 00:12:52.240 align:start position:0%
+parameters. And there you have it. Look
+ 
+
+00:12:52.240 --> 00:12:54.470 align:start position:0%
+parameters. And there you have it. Look
+at<00:12:52.399><c> that.</c><00:12:52.720><c> Nice</c><00:12:53.279><c> really</c><00:12:53.600><c> nice</c><00:12:53.920><c> graph.</c><00:12:54.320><c> That's</c>
+
+00:12:54.470 --> 00:12:54.480 align:start position:0%
+at that. Nice really nice graph. That's
+ 
+
+00:12:54.480 --> 00:12:57.350 align:start position:0%
+at that. Nice really nice graph. That's
+how<00:12:54.639><c> it</c><00:12:54.880><c> should</c><00:12:55.120><c> look.</c><00:12:55.600><c> And</c><00:12:56.079><c> the</c><00:12:56.639><c> draw</c><00:12:56.880><c> down</c>
+
+00:12:57.350 --> 00:12:57.360 align:start position:0%
+how it should look. And the draw down
+ 
+
+00:12:57.360 --> 00:12:59.910 align:start position:0%
+how it should look. And the draw down
+was<00:12:57.600><c> around</c><00:12:58.000><c> 24%</c><00:12:58.720><c> in</c><00:12:58.959><c> the</c><00:12:59.200><c> just</c><00:12:59.440><c> the</c><00:12:59.600><c> out</c><00:12:59.760><c> of</c>
+
+00:12:59.910 --> 00:12:59.920 align:start position:0%
+was around 24% in the just the out of
+ 
+
+00:12:59.920 --> 00:13:03.190 align:start position:0%
+was around 24% in the just the out of
+sample<00:13:00.320><c> testing</c><00:13:00.800><c> data.</c><00:13:01.279><c> And</c><00:13:01.920><c> none</c><00:13:02.160><c> of</c><00:13:02.800><c> all</c><00:13:03.040><c> of</c>
+
+00:13:03.190 --> 00:13:03.200 align:start position:0%
+sample testing data. And none of all of
+ 
+
+00:13:03.200 --> 00:13:04.550 align:start position:0%
+sample testing data. And none of all of
+all<00:13:03.360><c> of</c><00:13:03.440><c> the</c><00:13:03.600><c> strategies</c><00:13:04.000><c> run</c><00:13:04.160><c> on</c><00:13:04.320><c> the</c><00:13:04.480><c> same</c>
+
+00:13:04.550 --> 00:13:04.560 align:start position:0%
+all of the strategies run on the same
+ 
+
+00:13:04.560 --> 00:13:06.389 align:start position:0%
+all of the strategies run on the same
+coin.<00:13:04.880><c> This</c><00:13:04.959><c> is</c><00:13:05.120><c> Salana</c><00:13:05.519><c> 1</c><00:13:05.680><c> hour</c><00:13:05.920><c> chart.</c><00:13:06.160><c> And</c>
+
+00:13:06.389 --> 00:13:06.399 align:start position:0%
+coin. This is Salana 1 hour chart. And
+ 
+
+00:13:06.399 --> 00:13:08.230 align:start position:0%
+coin. This is Salana 1 hour chart. And
+so<00:13:06.720><c> why</c><00:13:06.959><c> does</c><00:13:07.120><c> it</c><00:13:07.279><c> look</c><00:13:07.440><c> so</c><00:13:07.600><c> good</c><00:13:07.760><c> on</c><00:13:08.000><c> this</c>
+
+00:13:08.230 --> 00:13:08.240 align:start position:0%
+so why does it look so good on this
+ 
+
+00:13:08.240 --> 00:13:11.430 align:start position:0%
+so why does it look so good on this
+final<00:13:08.639><c> graph?</c><00:13:09.120><c> It</c><00:13:09.360><c> looks</c><00:13:09.680><c> amazing.</c><00:13:10.560><c> 9%</c><00:13:11.120><c> draw</c>
+
+00:13:11.430 --> 00:13:11.440 align:start position:0%
+final graph? It looks amazing. 9% draw
+ 
+
+00:13:11.440 --> 00:13:14.710 align:start position:0%
+final graph? It looks amazing. 9% draw
+down<00:13:11.760><c> sharp</c><00:13:12.079><c> ratio</c><00:13:12.399><c> of</c><00:13:12.720><c> 1.21.</c><00:13:14.000><c> That</c><00:13:14.160><c> is</c><00:13:14.399><c> a</c>
+
+00:13:14.710 --> 00:13:14.720 align:start position:0%
+down sharp ratio of 1.21. That is a
+ 
+
+00:13:14.720 --> 00:13:16.470 align:start position:0%
+down sharp ratio of 1.21. That is a
+godly<00:13:15.279><c> sharp</c><00:13:15.600><c> ratio.</c><00:13:15.839><c> And</c><00:13:16.000><c> we</c><00:13:16.079><c> know</c><00:13:16.160><c> that</c><00:13:16.320><c> this</c>
+
+00:13:16.470 --> 00:13:16.480 align:start position:0%
+godly sharp ratio. And we know that this
+ 
+
+00:13:16.480 --> 00:13:18.470 align:start position:0%
+godly sharp ratio. And we know that this
+isn't<00:13:16.720><c> curve</c><00:13:17.040><c> fitted</c><00:13:17.360><c> because</c><00:13:17.600><c> we've</c><00:13:17.839><c> done</c><00:13:18.240><c> a</c>
+
+00:13:18.470 --> 00:13:18.480 align:start position:0%
+isn't curve fitted because we've done a
+ 
+
+00:13:18.480 --> 00:13:20.550 align:start position:0%
+isn't curve fitted because we've done a
+robustness<00:13:19.040><c> checks</c><00:13:19.360><c> out</c><00:13:19.519><c> of</c><00:13:19.680><c> sample</c><00:13:20.240><c> walk</c>
+
+00:13:20.550 --> 00:13:20.560 align:start position:0%
+robustness checks out of sample walk
+ 
+
+00:13:20.560 --> 00:13:22.790 align:start position:0%
+robustness checks out of sample walk
+forward.<00:13:21.120><c> We've</c><00:13:21.360><c> done</c><00:13:21.839><c> bootstrapping</c><00:13:22.480><c> on</c><00:13:22.560><c> it.</c>
+
+00:13:22.790 --> 00:13:22.800 align:start position:0%
+forward. We've done bootstrapping on it.
+ 
+
+00:13:22.800 --> 00:13:24.230 align:start position:0%
+forward. We've done bootstrapping on it.
+We've<00:13:23.040><c> done</c><00:13:23.200><c> all</c><00:13:23.360><c> of</c><00:13:23.440><c> these</c><00:13:23.760><c> all</c><00:13:23.920><c> of</c><00:13:24.079><c> the</c>
+
+00:13:24.230 --> 00:13:24.240 align:start position:0%
+We've done all of these all of the
+ 
+
+00:13:24.240 --> 00:13:25.990 align:start position:0%
+We've done all of these all of the
+rigorous<00:13:24.560><c> tests</c><00:13:24.800><c> and</c><00:13:25.040><c> then</c><00:13:25.120><c> we</c><00:13:25.279><c> get</c><00:13:25.360><c> a</c><00:13:25.519><c> certino</c>
+
+00:13:25.990 --> 00:13:26.000 align:start position:0%
+rigorous tests and then we get a certino
+ 
+
+00:13:26.000 --> 00:13:27.990 align:start position:0%
+rigorous tests and then we get a certino
+of<00:13:26.160><c> 11.</c><00:13:26.560><c> So</c><00:13:26.720><c> that's</c><00:13:26.880><c> really</c><00:13:27.120><c> good.</c><00:13:27.360><c> Now</c><00:13:27.760><c> we're</c>
+
+00:13:27.990 --> 00:13:28.000 align:start position:0%
+of 11. So that's really good. Now we're
+ 
+
+00:13:28.000 --> 00:13:31.030 align:start position:0%
+of 11. So that's really good. Now we're
+not<00:13:28.160><c> done,</c><00:13:28.639><c> right?</c><00:13:29.120><c> This</c><00:13:29.440><c> is</c><00:13:30.079><c> promising,</c><00:13:30.800><c> but</c>
+
+00:13:31.030 --> 00:13:31.040 align:start position:0%
+not done, right? This is promising, but
+ 
+
+00:13:31.040 --> 00:13:33.829 align:start position:0%
+not done, right? This is promising, but
+it's<00:13:31.360><c> not</c><00:13:31.760><c> if</c><00:13:32.000><c> you're</c><00:13:32.160><c> really</c><00:13:32.639><c> serious</c><00:13:33.200><c> about</c>
+
+00:13:33.829 --> 00:13:33.839 align:start position:0%
+it's not if you're really serious about
+ 
+
+00:13:33.839 --> 00:13:36.310 align:start position:0%
+it's not if you're really serious about
+trusting<00:13:34.240><c> your</c><00:13:34.399><c> bot</c><00:13:34.720><c> with</c><00:13:35.279><c> a</c><00:13:35.519><c> live</c><00:13:35.839><c> account,</c>
+
+00:13:36.310 --> 00:13:36.320 align:start position:0%
+trusting your bot with a live account,
+ 
+
+00:13:36.320 --> 00:13:38.069 align:start position:0%
+trusting your bot with a live account,
+you<00:13:36.560><c> would</c><00:13:36.720><c> want</c><00:13:37.040><c> this</c><00:13:37.279><c> algorithm.</c><00:13:37.760><c> I</c><00:13:37.920><c> would</c>
+
+00:13:38.069 --> 00:13:38.079 align:start position:0%
+you would want this algorithm. I would
+ 
+
+00:13:38.079 --> 00:13:39.670 align:start position:0%
+you would want this algorithm. I would
+ask<00:13:38.160><c> my</c><00:13:38.320><c> claude,</c><00:13:38.720><c> okay,</c><00:13:38.959><c> tune</c><00:13:39.200><c> this</c><00:13:39.360><c> on</c>
+
+00:13:39.670 --> 00:13:39.680 align:start position:0%
+ask my claude, okay, tune this on
+ 
+
+00:13:39.680 --> 00:13:41.030 align:start position:0%
+ask my claude, okay, tune this on
+different<00:13:40.000><c> time</c><00:13:40.240><c> periods.</c><00:13:40.720><c> This</c><00:13:40.800><c> is</c><00:13:40.880><c> the</c>
+
+00:13:41.030 --> 00:13:41.040 align:start position:0%
+different time periods. This is the
+ 
+
+00:13:41.040 --> 00:13:42.949 align:start position:0%
+different time periods. This is the
+Salana<00:13:41.440><c> 1</c><00:13:41.600><c> hour</c><00:13:41.760><c> chart.</c><00:13:42.079><c> Can</c><00:13:42.240><c> it</c><00:13:42.399><c> perform</c><00:13:42.720><c> on</c>
+
+00:13:42.949 --> 00:13:42.959 align:start position:0%
+Salana 1 hour chart. Can it perform on
+ 
+
+00:13:42.959 --> 00:13:45.350 align:start position:0%
+Salana 1 hour chart. Can it perform on
+the<00:13:43.360><c> 30</c><00:13:43.600><c> minute</c><00:13:43.920><c> chart?</c><00:13:44.240><c> Can</c><00:13:44.399><c> it</c><00:13:44.560><c> perform</c><00:13:45.120><c> on</c>
+
+00:13:45.350 --> 00:13:45.360 align:start position:0%
+the 30 minute chart? Can it perform on
+ 
+
+00:13:45.360 --> 00:13:47.110 align:start position:0%
+the 30 minute chart? Can it perform on
+different<00:13:45.600><c> coin</c><00:13:45.839><c> pairs?</c><00:13:46.320><c> That's</c><00:13:46.639><c> important,</c>
+
+00:13:47.110 --> 00:13:47.120 align:start position:0%
+different coin pairs? That's important,
+ 
+
+00:13:47.120 --> 00:13:48.949 align:start position:0%
+different coin pairs? That's important,
+too.<00:13:47.440><c> Other</c><00:13:47.760><c> coin</c><00:13:48.000><c> pairs,</c><00:13:48.480><c> making</c><00:13:48.720><c> sure</c><00:13:48.800><c> that</c>
+
+00:13:48.949 --> 00:13:48.959 align:start position:0%
+too. Other coin pairs, making sure that
+ 
+
+00:13:48.959 --> 00:13:50.629 align:start position:0%
+too. Other coin pairs, making sure that
+your<00:13:49.120><c> engine</c><00:13:49.440><c> is</c><00:13:49.600><c> flexible,</c><00:13:50.240><c> that</c><00:13:50.399><c> your</c>
+
+00:13:50.629 --> 00:13:50.639 align:start position:0%
+your engine is flexible, that your
+ 
+
+00:13:50.639 --> 00:13:52.710 align:start position:0%
+your engine is flexible, that your
+strategy<00:13:51.040><c> has</c><00:13:51.200><c> an</c><00:13:51.440><c> edge.</c><00:13:52.000><c> Maybe</c><00:13:52.160><c> not</c><00:13:52.399><c> just</c>
+
+00:13:52.710 --> 00:13:52.720 align:start position:0%
+strategy has an edge. Maybe not just
+ 
+
+00:13:52.720 --> 00:13:54.949 align:start position:0%
+strategy has an edge. Maybe not just
+maybe<00:13:52.959><c> it</c><00:13:53.120><c> is</c><00:13:53.200><c> just</c><00:13:53.360><c> good</c><00:13:53.519><c> on</c><00:13:53.680><c> this</c><00:13:54.000><c> one</c><00:13:54.480><c> coin,</c>
+
+00:13:54.949 --> 00:13:54.959 align:start position:0%
+maybe it is just good on this one coin,
+ 
+
+00:13:54.959 --> 00:13:57.189 align:start position:0%
+maybe it is just good on this one coin,
+Salana,<00:13:55.440><c> and</c><00:13:55.680><c> this</c><00:13:55.920><c> strategy</c><00:13:56.399><c> only</c><00:13:56.720><c> works</c><00:13:56.959><c> on</c>
+
+00:13:57.189 --> 00:13:57.199 align:start position:0%
+Salana, and this strategy only works on
+ 
+
+00:13:57.199 --> 00:13:58.790 align:start position:0%
+Salana, and this strategy only works on
+Salana,<00:13:57.600><c> but</c><00:13:57.920><c> you</c><00:13:58.000><c> know,</c><00:13:58.079><c> the</c><00:13:58.240><c> chances</c><00:13:58.560><c> go</c><00:13:58.720><c> up</c>
+
+00:13:58.790 --> 00:13:58.800 align:start position:0%
+Salana, but you know, the chances go up
+ 
+
+00:13:58.800 --> 00:14:01.509 align:start position:0%
+Salana, but you know, the chances go up
+that<00:13:59.120><c> is</c><00:13:59.600><c> it</c><00:13:59.760><c> has</c><00:14:00.160><c> general</c><00:14:00.720><c> robustness.</c>
+
+00:14:01.509 --> 00:14:01.519 align:start position:0%
+that is it has general robustness.
+ 
+
+00:14:01.519 --> 00:14:03.430 align:start position:0%
+that is it has general robustness.
+That's<00:14:01.680><c> a</c><00:14:01.839><c> key</c><00:14:02.000><c> word.</c><00:14:02.320><c> General</c><00:14:02.800><c> robustness</c>
+
+00:14:03.430 --> 00:14:03.440 align:start position:0%
+That's a key word. General robustness
+ 
+
+00:14:03.440 --> 00:14:05.910 align:start position:0%
+That's a key word. General robustness
+means<00:14:04.079><c> that</c><00:14:04.320><c> it</c><00:14:04.560><c> can</c><00:14:04.639><c> apply</c><00:14:05.199><c> more</c><00:14:05.440><c> broadly,</c>
+
+00:14:05.910 --> 00:14:05.920 align:start position:0%
+means that it can apply more broadly,
+ 
+
+00:14:05.920 --> 00:14:08.310 align:start position:0%
+means that it can apply more broadly,
+not<00:14:06.079><c> just</c><00:14:06.320><c> to</c><00:14:06.480><c> one</c><00:14:06.959><c> coin.</c><00:14:07.519><c> Or</c><00:14:07.760><c> let's</c><00:14:08.000><c> say</c><00:14:08.160><c> that</c>
+
+00:14:08.310 --> 00:14:08.320 align:start position:0%
+not just to one coin. Or let's say that
+ 
+
+00:14:08.320 --> 00:14:09.910 align:start position:0%
+not just to one coin. Or let's say that
+you<00:14:08.480><c> have</c><00:14:08.560><c> a</c><00:14:08.800><c> strategy</c><00:14:09.120><c> that</c><00:14:09.279><c> only</c><00:14:09.519><c> works</c><00:14:09.760><c> on</c>
+
+00:14:09.910 --> 00:14:09.920 align:start position:0%
+you have a strategy that only works on
+ 
+
+00:14:09.920 --> 00:14:12.310 align:start position:0%
+you have a strategy that only works on
+gold<00:14:10.240><c> or</c><00:14:10.480><c> only</c><00:14:10.720><c> works</c><00:14:10.959><c> on</c><00:14:11.120><c> NQ</c><00:14:11.600><c> future</c><00:14:11.839><c> or</c><00:14:12.079><c> only</c>
+
+00:14:12.310 --> 00:14:12.320 align:start position:0%
+gold or only works on NQ future or only
+ 
+
+00:14:12.320 --> 00:14:14.310 align:start position:0%
+gold or only works on NQ future or only
+works<00:14:12.560><c> on</c><00:14:12.800><c> a</c><00:14:13.040><c> certain</c><00:14:13.279><c> forex</c><00:14:13.760><c> in</c><00:14:13.920><c> a</c><00:14:14.079><c> certain</c>
+
+00:14:14.310 --> 00:14:14.320 align:start position:0%
+works on a certain forex in a certain
+ 
+
+00:14:14.320 --> 00:14:15.829 align:start position:0%
+works on a certain forex in a certain
+time<00:14:14.560><c> period.</c><00:14:14.959><c> Well,</c><00:14:15.120><c> that</c><00:14:15.279><c> means</c><00:14:15.440><c> that</c><00:14:15.600><c> it's</c>
+
+00:14:15.829 --> 00:14:15.839 align:start position:0%
+time period. Well, that means that it's
+ 
+
+00:14:15.839 --> 00:14:18.389 align:start position:0%
+time period. Well, that means that it's
+going<00:14:16.000><c> to</c><00:14:16.480><c> alpha</c><00:14:17.199><c> alpha</c><00:14:17.519><c> decay</c><00:14:18.000><c> quicker,</c>
+
+00:14:18.389 --> 00:14:18.399 align:start position:0%
+going to alpha alpha decay quicker,
+ 
+
+00:14:18.399 --> 00:14:19.829 align:start position:0%
+going to alpha alpha decay quicker,
+meaning<00:14:18.560><c> that</c><00:14:18.720><c> it's</c><00:14:18.959><c> your</c><00:14:19.199><c> strategy</c><00:14:19.600><c> will</c><00:14:19.760><c> be</c>
+
+00:14:19.829 --> 00:14:19.839 align:start position:0%
+meaning that it's your strategy will be
+ 
+
+00:14:19.839 --> 00:14:21.189 align:start position:0%
+meaning that it's your strategy will be
+obsolete<00:14:20.240><c> faster.</c><00:14:20.560><c> If</c><00:14:20.720><c> your</c><00:14:20.800><c> strategy</c><00:14:20.959><c> is</c>
+
+00:14:21.189 --> 00:14:21.199 align:start position:0%
+obsolete faster. If your strategy is
+ 
+
+00:14:21.199 --> 00:14:23.910 align:start position:0%
+obsolete faster. If your strategy is
+more<00:14:21.440><c> robust,</c><00:14:22.240><c> then</c><00:14:22.480><c> it</c><00:14:22.880><c> will</c><00:14:23.199><c> last</c><00:14:23.519><c> longer.</c>
+
+00:14:23.910 --> 00:14:23.920 align:start position:0%
+more robust, then it will last longer.
+ 
+
+00:14:23.920 --> 00:14:26.870 align:start position:0%
+more robust, then it will last longer.
+It'll<00:14:24.399><c> you</c><00:14:24.720><c> can</c><00:14:24.880><c> put</c><00:14:25.040><c> it</c><00:14:25.279><c> on</c><00:14:26.000><c> different</c><00:14:26.320><c> assets</c>
+
+00:14:26.870 --> 00:14:26.880 align:start position:0%
+It'll you can put it on different assets
+ 
+
+00:14:26.880 --> 00:14:28.310 align:start position:0%
+It'll you can put it on different assets
+and<00:14:27.120><c> it'll</c><00:14:27.360><c> work</c><00:14:27.519><c> and</c><00:14:27.680><c> it'll</c><00:14:27.920><c> work</c><00:14:28.079><c> for</c><00:14:28.160><c> a</c>
+
+00:14:28.310 --> 00:14:28.320 align:start position:0%
+and it'll work and it'll work for a
+ 
+
+00:14:28.320 --> 00:14:30.150 align:start position:0%
+and it'll work and it'll work for a
+longer<00:14:28.639><c> period.</c><00:14:28.959><c> Now,</c><00:14:29.440><c> a</c><00:14:29.440><c> a</c><00:14:29.680><c> strategy</c><00:14:29.920><c> is</c>
+
+00:14:30.150 --> 00:14:30.160 align:start position:0%
+longer period. Now, a a strategy is
+ 
+
+00:14:30.160 --> 00:14:32.230 align:start position:0%
+longer period. Now, a a strategy is
+never<00:14:30.560><c> they</c><00:14:30.800><c> won't</c><00:14:30.959><c> last</c><00:14:31.199><c> forever.</c><00:14:31.680><c> But</c><00:14:32.000><c> one</c>
+
+00:14:32.230 --> 00:14:32.240 align:start position:0%
+never they won't last forever. But one
+ 
+
+00:14:32.240 --> 00:14:33.590 align:start position:0%
+never they won't last forever. But one
+of<00:14:32.320><c> the</c><00:14:32.480><c> things</c><00:14:32.639><c> that</c><00:14:32.800><c> is</c><00:14:33.040><c> important,</c><00:14:33.440><c> one</c><00:14:33.600><c> of</c>
+
+00:14:33.590 --> 00:14:33.600 align:start position:0%
+of the things that is important, one of
+ 
+
+00:14:33.600 --> 00:14:35.269 align:start position:0%
+of the things that is important, one of
+the<00:14:33.760><c> things</c><00:14:33.839><c> that</c><00:14:34.000><c> I</c><00:14:34.160><c> hear</c><00:14:34.320><c> a</c><00:14:34.560><c> lot</c><00:14:34.720><c> is</c><00:14:34.959><c> that,</c>
+
+00:14:35.269 --> 00:14:35.279 align:start position:0%
+the things that I hear a lot is that,
+ 
+
+00:14:35.279 --> 00:14:37.430 align:start position:0%
+the things that I hear a lot is that,
+you<00:14:35.440><c> know,</c><00:14:35.600><c> trading</c><00:14:35.920><c> bots,</c><00:14:36.720><c> uh,</c><00:14:37.040><c> you</c><00:14:37.199><c> just</c>
+
+00:14:37.430 --> 00:14:37.440 align:start position:0%
+you know, trading bots, uh, you just
+ 
+
+00:14:37.440 --> 00:14:39.030 align:start position:0%
+you know, trading bots, uh, you just
+don't<00:14:37.600><c> have</c><00:14:37.680><c> a</c><00:14:37.920><c> chance.</c><00:14:38.240><c> It's</c><00:14:38.480><c> hopeless</c>
+
+00:14:39.030 --> 00:14:39.040 align:start position:0%
+don't have a chance. It's hopeless
+ 
+
+00:14:39.040 --> 00:14:41.189 align:start position:0%
+don't have a chance. It's hopeless
+because<00:14:39.760><c> the</c><00:14:40.000><c> market's</c><00:14:40.399><c> already</c><00:14:40.639><c> rigged</c><00:14:40.959><c> or</c>
+
+00:14:41.189 --> 00:14:41.199 align:start position:0%
+because the market's already rigged or
+ 
+
+00:14:41.199 --> 00:14:42.710 align:start position:0%
+because the market's already rigged or
+there's<00:14:41.440><c> already</c><00:14:41.680><c> so</c><00:14:41.839><c> many</c><00:14:42.000><c> algorithms</c><00:14:42.399><c> in</c><00:14:42.560><c> it</c>
+
+00:14:42.710 --> 00:14:42.720 align:start position:0%
+there's already so many algorithms in it
+ 
+
+00:14:42.720 --> 00:14:44.310 align:start position:0%
+there's already so many algorithms in it
+and<00:14:42.959><c> clustered.</c><00:14:43.440><c> Well,</c><00:14:43.680><c> guess</c><00:14:43.839><c> what?</c><00:14:44.000><c> If</c><00:14:44.160><c> you</c>
+
+00:14:44.310 --> 00:14:44.320 align:start position:0%
+and clustered. Well, guess what? If you
+ 
+
+00:14:44.320 --> 00:14:46.710 align:start position:0%
+and clustered. Well, guess what? If you
+make<00:14:44.399><c> a</c><00:14:44.560><c> better</c><00:14:44.800><c> algorithm,</c><00:14:45.600><c> your</c><00:14:46.000><c> algorithm</c>
+
+00:14:46.710 --> 00:14:46.720 align:start position:0%
+make a better algorithm, your algorithm
+ 
+
+00:14:46.720 --> 00:14:48.470 align:start position:0%
+make a better algorithm, your algorithm
+can<00:14:46.959><c> overshadow</c><00:14:47.600><c> other</c><00:14:47.839><c> algorithms.</c><00:14:48.320><c> So,</c>
+
+00:14:48.470 --> 00:14:48.480 align:start position:0%
+can overshadow other algorithms. So,
+ 
+
+00:14:48.480 --> 00:14:49.590 align:start position:0%
+can overshadow other algorithms. So,
+that's<00:14:48.639><c> what</c><00:14:48.800><c> we're</c><00:14:48.959><c> doing.</c><00:14:49.120><c> We're</c><00:14:49.360><c> looking</c>
+
+00:14:49.590 --> 00:14:49.600 align:start position:0%
+that's what we're doing. We're looking
+ 
+
+00:14:49.600 --> 00:14:51.590 align:start position:0%
+that's what we're doing. We're looking
+at<00:14:49.839><c> real</c><00:14:50.160><c> price</c><00:14:50.399><c> data</c><00:14:50.800><c> all</c><00:14:50.959><c> the</c><00:14:51.120><c> way</c><00:14:51.199><c> up</c><00:14:51.360><c> until</c>
+
+00:14:51.590 --> 00:14:51.600 align:start position:0%
+at real price data all the way up until
+ 
+
+00:14:51.600 --> 00:14:53.910 align:start position:0%
+at real price data all the way up until
+the<00:14:51.760><c> current</c><00:14:52.000><c> day,</c><00:14:52.399><c> 2026,</c><00:14:53.199><c> when</c><00:14:53.360><c> I'm</c><00:14:53.519><c> filming</c>
+
+00:14:53.910 --> 00:14:53.920 align:start position:0%
+the current day, 2026, when I'm filming
+ 
+
+00:14:53.920 --> 00:14:55.670 align:start position:0%
+the current day, 2026, when I'm filming
+this<00:14:54.079><c> video,</c><00:14:54.399><c> and</c><00:14:54.800><c> we</c><00:14:55.040><c> are</c><00:14:55.199><c> still</c><00:14:55.440><c> having</c>
+
+00:14:55.670 --> 00:14:55.680 align:start position:0%
+this video, and we are still having
+ 
+
+00:14:55.680 --> 00:14:57.430 align:start position:0%
+this video, and we are still having
+these<00:14:56.000><c> really</c><00:14:56.320><c> good</c><00:14:56.480><c> results.</c><00:14:56.959><c> So,</c><00:14:57.120><c> this</c><00:14:57.360><c> is</c>
+
+00:14:57.430 --> 00:14:57.440 align:start position:0%
+these really good results. So, this is
+ 
+
+00:14:57.440 --> 00:14:59.030 align:start position:0%
+these really good results. So, this is
+promising.<00:14:57.920><c> Now,</c><00:14:58.079><c> we</c><00:14:58.240><c> could</c><00:14:58.320><c> take</c><00:14:58.480><c> this,</c><00:14:58.880><c> we</c>
+
+00:14:59.030 --> 00:14:59.040 align:start position:0%
+promising. Now, we could take this, we
+ 
+
+00:14:59.040 --> 00:15:00.710 align:start position:0%
+promising. Now, we could take this, we
+can<00:14:59.199><c> add</c><00:14:59.440><c> more</c><00:14:59.600><c> regime</c><00:15:00.000><c> filters,</c><00:15:00.399><c> we</c><00:15:00.560><c> could</c>
+
+00:15:00.710 --> 00:15:00.720 align:start position:0%
+can add more regime filters, we could
+ 
+
+00:15:00.720 --> 00:15:03.750 align:start position:0%
+can add more regime filters, we could
+add<00:15:01.040><c> proper</c><00:15:01.760><c> take</c><00:15:02.079><c> profits,</c><00:15:02.800><c> right?</c><00:15:03.120><c> Dynamic</c>
+
+00:15:03.750 --> 00:15:03.760 align:start position:0%
+add proper take profits, right? Dynamic
+ 
+
+00:15:03.760 --> 00:15:05.670 align:start position:0%
+add proper take profits, right? Dynamic
+customized<00:15:04.560><c> profits.</c><00:15:04.959><c> And</c><00:15:05.120><c> I</c><00:15:05.279><c> can</c><00:15:05.360><c> ask</c><00:15:05.519><c> my</c>
+
+00:15:05.670 --> 00:15:05.680 align:start position:0%
+customized profits. And I can ask my
+ 
+
+00:15:05.680 --> 00:15:07.350 align:start position:0%
+customized profits. And I can ask my
+claw<00:15:05.920><c> to</c><00:15:06.079><c> do</c><00:15:06.160><c> that</c><00:15:06.399><c> tonight.</c><00:15:06.720><c> I'll</c><00:15:06.959><c> I'll</c><00:15:07.199><c> be</c>
+
+00:15:07.350 --> 00:15:07.360 align:start position:0%
+claw to do that tonight. I'll I'll be
+ 
+
+00:15:07.360 --> 00:15:08.870 align:start position:0%
+claw to do that tonight. I'll I'll be
+doing<00:15:07.440><c> that</c><00:15:07.600><c> later</c><00:15:07.839><c> this</c><00:15:08.000><c> week</c><00:15:08.160><c> for</c><00:15:08.399><c> sure.</c><00:15:08.720><c> And</c>
+
+00:15:08.870 --> 00:15:08.880 align:start position:0%
+doing that later this week for sure. And
+ 
+
+00:15:08.880 --> 00:15:10.710 align:start position:0%
+doing that later this week for sure. And
+so,<00:15:09.120><c> follow</c><00:15:09.440><c> along</c><00:15:09.680><c> and</c><00:15:10.000><c> subscribe</c><00:15:10.399><c> if</c><00:15:10.639><c> you</c>
+
+00:15:10.710 --> 00:15:10.720 align:start position:0%
+so, follow along and subscribe if you
+ 
+
+00:15:10.720 --> 00:15:12.389 align:start position:0%
+so, follow along and subscribe if you
+want<00:15:10.800><c> to</c><00:15:10.959><c> see</c><00:15:11.120><c> updates</c><00:15:11.519><c> how</c><00:15:11.680><c> I</c><00:15:11.839><c> how</c><00:15:12.079><c> I</c><00:15:12.240><c> build</c>
+
+00:15:12.389 --> 00:15:12.399 align:start position:0%
+want to see updates how I how I build
+ 
+
+00:15:12.399 --> 00:15:14.310 align:start position:0%
+want to see updates how I how I build
+this<00:15:12.639><c> if</c><00:15:12.800><c> I</c><00:15:12.880><c> ever</c><00:15:13.120><c> release</c><00:15:13.360><c> a</c><00:15:13.600><c> strategy.</c><00:15:14.160><c> But</c>
+
+00:15:14.310 --> 00:15:14.320 align:start position:0%
+this if I ever release a strategy. But
+ 
+
+00:15:14.320 --> 00:15:16.710 align:start position:0%
+this if I ever release a strategy. But
+this<00:15:14.480><c> is</c><00:15:14.560><c> the</c><00:15:14.720><c> process.</c><00:15:15.199><c> This</c><00:15:15.360><c> is</c><00:15:15.680><c> how</c><00:15:16.320><c> uh</c><00:15:16.480><c> I'm</c>
+
+00:15:16.710 --> 00:15:16.720 align:start position:0%
+this is the process. This is how uh I'm
+ 
+
+00:15:16.720 --> 00:15:18.069 align:start position:0%
+this is the process. This is how uh I'm
+just<00:15:16.880><c> showing</c><00:15:17.040><c> you</c><00:15:17.199><c> guys</c><00:15:17.360><c> transparently</c><00:15:17.920><c> how</c>
+
+00:15:18.069 --> 00:15:18.079 align:start position:0%
+just showing you guys transparently how
+ 
+
+00:15:18.079 --> 00:15:20.069 align:start position:0%
+just showing you guys transparently how
+I<00:15:18.320><c> operate.</c><00:15:18.800><c> And</c><00:15:19.040><c> this</c><00:15:19.279><c> is</c><00:15:19.440><c> this</c><00:15:19.600><c> is</c><00:15:19.760><c> how</c><00:15:19.920><c> it's</c>
+
+00:15:20.069 --> 00:15:20.079 align:start position:0%
+I operate. And this is this is how it's
+ 
+
+00:15:20.079 --> 00:15:21.910 align:start position:0%
+I operate. And this is this is how it's
+done.<00:15:20.399><c> So,</c><00:15:20.560><c> from</c><00:15:20.720><c> here,</c><00:15:21.040><c> yeah,</c><00:15:21.279><c> it's</c><00:15:21.519><c> in</c><00:15:21.760><c> it</c>
+
+00:15:21.910 --> 00:15:21.920 align:start position:0%
+done. So, from here, yeah, it's in it
+ 
+
+00:15:21.920 --> 00:15:24.150 align:start position:0%
+done. So, from here, yeah, it's in it
+right<00:15:22.079><c> now.</c><00:15:22.320><c> It's</c><00:15:22.399><c> in</c><00:15:22.560><c> Python.</c><00:15:22.959><c> I</c><00:15:23.199><c> can</c><00:15:23.680><c> add</c><00:15:23.920><c> to</c>
+
+00:15:24.150 --> 00:15:24.160 align:start position:0%
+right now. It's in Python. I can add to
+ 
+
+00:15:24.160 --> 00:15:26.150 align:start position:0%
+right now. It's in Python. I can add to
+it.<00:15:24.480><c> And</c><00:15:24.639><c> then</c><00:15:24.880><c> if</c><00:15:25.120><c> I</c><00:15:25.279><c> really</c><00:15:25.440><c> like</c><00:15:25.600><c> it,</c><00:15:25.839><c> I</c><00:15:26.079><c> can</c>
+
+00:15:26.150 --> 00:15:26.160 align:start position:0%
+it. And then if I really like it, I can
+ 
+
+00:15:26.160 --> 00:15:27.829 align:start position:0%
+it. And then if I really like it, I can
+take<00:15:26.320><c> it,</c><00:15:26.560><c> customize</c><00:15:26.959><c> it.</c><00:15:27.199><c> I</c><00:15:27.440><c> could</c><00:15:27.600><c> trade</c>
+
+00:15:27.829 --> 00:15:27.839 align:start position:0%
+take it, customize it. I could trade
+ 
+
+00:15:27.839 --> 00:15:29.829 align:start position:0%
+take it, customize it. I could trade
+with<00:15:28.000><c> it</c><00:15:28.160><c> directly</c><00:15:28.480><c> in</c><00:15:28.639><c> Python</c><00:15:29.120><c> or</c><00:15:29.360><c> convert</c><00:15:29.680><c> it</c>
+
+00:15:29.829 --> 00:15:29.839 align:start position:0%
+with it directly in Python or convert it
+ 
+
+00:15:29.839 --> 00:15:32.550 align:start position:0%
+with it directly in Python or convert it
+to<00:15:30.000><c> MT5</c><00:15:30.800><c> or</c><00:15:31.120><c> into</c><00:15:31.440><c> Pinecript</c><00:15:32.000><c> so</c><00:15:32.160><c> I</c><00:15:32.320><c> can</c><00:15:32.399><c> trade</c>
+
+00:15:32.550 --> 00:15:32.560 align:start position:0%
+to MT5 or into Pinecript so I can trade
+ 
+
+00:15:32.560 --> 00:15:34.710 align:start position:0%
+to MT5 or into Pinecript so I can trade
+it<00:15:32.800><c> on</c><00:15:33.120><c> Trading</c><00:15:33.440><c> View</c><00:15:33.760><c> for</c><00:15:33.839><c> example.</c><00:15:34.399><c> But</c><00:15:34.560><c> what</c>
+
+00:15:34.710 --> 00:15:34.720 align:start position:0%
+it on Trading View for example. But what
+ 
+
+00:15:34.720 --> 00:15:36.629 align:start position:0%
+it on Trading View for example. But what
+I<00:15:34.959><c> what</c><00:15:35.120><c> I</c><00:15:35.360><c> probably</c><00:15:35.680><c> will</c><00:15:35.920><c> do</c><00:15:36.079><c> if</c><00:15:36.320><c> this</c><00:15:36.480><c> is</c>
+
+00:15:36.629 --> 00:15:36.639 align:start position:0%
+I what I probably will do if this is
+ 
+
+00:15:36.639 --> 00:15:38.230 align:start position:0%
+I what I probably will do if this is
+good<00:15:36.800><c> if</c><00:15:36.959><c> it</c><00:15:37.120><c> pans</c><00:15:37.440><c> out</c><00:15:37.519><c> in</c><00:15:37.760><c> real</c><00:15:38.000><c> world</c>
+
+00:15:38.230 --> 00:15:38.240 align:start position:0%
+good if it pans out in real world
+ 
+
+00:15:38.240 --> 00:15:40.389 align:start position:0%
+good if it pans out in real world
+trading<00:15:38.720><c> is</c><00:15:38.959><c> I</c><00:15:39.440><c> you</c><00:15:39.680><c> guys</c><00:15:39.760><c> know</c><00:15:39.920><c> I</c><00:15:40.079><c> have</c><00:15:40.160><c> the</c>
+
+00:15:40.389 --> 00:15:40.399 align:start position:0%
+trading is I you guys know I have the
+ 
+
+00:15:40.399 --> 00:15:42.310 align:start position:0%
+trading is I you guys know I have the
+marketplace<00:15:40.959><c> signal</c><00:15:41.360><c> swap</c><00:15:41.680><c> marketplace</c><00:15:42.079><c> that</c>
+
+00:15:42.310 --> 00:15:42.320 align:start position:0%
+marketplace signal swap marketplace that
+ 
+
+00:15:42.320 --> 00:15:45.189 align:start position:0%
+marketplace signal swap marketplace that
+I'm<00:15:42.480><c> a</c><00:15:42.880><c> I</c><00:15:43.040><c> was</c><00:15:43.199><c> a</c><00:15:43.360><c> developer</c><00:15:43.760><c> for</c><00:15:44.160><c> and</c><00:15:44.800><c> we</c><00:15:45.040><c> have</c>
+
+00:15:45.189 --> 00:15:45.199 align:start position:0%
+I'm a I was a developer for and we have
+ 
+
+00:15:45.199 --> 00:15:47.350 align:start position:0%
+I'm a I was a developer for and we have
+an<00:15:45.440><c> amazing</c><00:15:45.839><c> marketplace</c><00:15:46.320><c> that</c><00:15:46.639><c> uses</c><00:15:47.040><c> real</c>
+
+00:15:47.350 --> 00:15:47.360 align:start position:0%
+an amazing marketplace that uses real
+ 
+
+00:15:47.360 --> 00:15:49.590 align:start position:0%
+an amazing marketplace that uses real
+world<00:15:47.680><c> for</c><00:15:48.000><c> tested</c><00:15:48.320><c> data</c><00:15:48.560><c> as</c><00:15:48.800><c> well</c><00:15:48.880><c> as</c><00:15:49.040><c> it</c><00:15:49.279><c> uses</c>
+
+00:15:49.590 --> 00:15:49.600 align:start position:0%
+world for tested data as well as it uses
+ 
+
+00:15:49.600 --> 00:15:52.069 align:start position:0%
+world for tested data as well as it uses
+stress<00:15:49.839><c> testing.</c><00:15:50.399><c> So</c><00:15:50.800><c> this</c><00:15:51.360><c> uh</c><00:15:51.519><c> if</c><00:15:51.680><c> this</c><00:15:51.839><c> if</c>
+
+00:15:52.069 --> 00:15:52.079 align:start position:0%
+stress testing. So this uh if this if
+ 
+
+00:15:52.079 --> 00:15:54.230 align:start position:0%
+stress testing. So this uh if this if
+this<00:15:52.320><c> works</c><00:15:52.800><c> then</c><00:15:53.040><c> you'll</c><00:15:53.360><c> see</c><00:15:53.440><c> it</c><00:15:53.680><c> on</c><00:15:54.000><c> this</c>
+
+00:15:54.230 --> 00:15:54.240 align:start position:0%
+this works then you'll see it on this
+ 
+
+00:15:54.240 --> 00:15:55.990 align:start position:0%
+this works then you'll see it on this
+one<00:15:54.399><c> on</c><00:15:54.560><c> the</c><00:15:54.720><c> single</c><00:15:55.040><c> swap</c><00:15:55.360><c> marketplace.</c><00:15:55.839><c> So,</c>
+
+00:15:55.990 --> 00:15:56.000 align:start position:0%
+one on the single swap marketplace. So,
+ 
+
+00:15:56.000 --> 00:15:58.389 align:start position:0%
+one on the single swap marketplace. So,
+I'll<00:15:56.240><c> put</c><00:15:56.399><c> it</c><00:15:56.480><c> up</c><00:15:56.639><c> there.</c><00:15:57.040><c> And</c><00:15:57.440><c> if</c><00:15:57.680><c> you</c><00:15:57.839><c> guys</c>
+
+00:15:58.389 --> 00:15:58.399 align:start position:0%
+I'll put it up there. And if you guys
+ 
+
+00:15:58.399 --> 00:16:00.389 align:start position:0%
+I'll put it up there. And if you guys
+want<00:15:58.560><c> to</c><00:15:58.880><c> list</c><00:15:59.199><c> anything</c><00:15:59.519><c> on</c><00:15:59.680><c> the</c><00:15:59.839><c> Signal</c><00:16:00.160><c> Swap</c>
+
+00:16:00.389 --> 00:16:00.399 align:start position:0%
+want to list anything on the Signal Swap
+ 
+
+00:16:00.399 --> 00:16:01.749 align:start position:0%
+want to list anything on the Signal Swap
+marketplace,<00:16:00.720><c> if</c><00:16:00.959><c> you</c><00:16:01.040><c> have</c><00:16:01.120><c> a</c><00:16:01.199><c> good</c><00:16:01.360><c> bot,</c><00:16:01.600><c> or</c>
+
+00:16:01.749 --> 00:16:01.759 align:start position:0%
+marketplace, if you have a good bot, or
+ 
+
+00:16:01.759 --> 00:16:03.189 align:start position:0%
+marketplace, if you have a good bot, or
+if<00:16:01.920><c> you</c><00:16:02.000><c> want</c><00:16:02.079><c> to</c><00:16:02.160><c> find</c><00:16:02.320><c> a</c><00:16:02.480><c> good</c><00:16:02.560><c> bot,</c><00:16:02.959><c> then</c>
+
+00:16:03.189 --> 00:16:03.199 align:start position:0%
+if you want to find a good bot, then
+ 
+
+00:16:03.199 --> 00:16:04.870 align:start position:0%
+if you want to find a good bot, then
+sign<00:16:03.440><c> up</c><00:16:03.519><c> for</c><00:16:03.680><c> Signal</c><00:16:04.000><c> Swap.</c><00:16:04.320><c> It's</c><00:16:04.560><c> free</c><00:16:04.720><c> to</c>
+
+00:16:04.870 --> 00:16:04.880 align:start position:0%
+sign up for Signal Swap. It's free to
+ 
+
+00:16:04.880 --> 00:16:06.790 align:start position:0%
+sign up for Signal Swap. It's free to
+join,<00:16:05.199><c> free</c><00:16:05.360><c> to</c><00:16:05.519><c> use,</c><00:16:06.000><c> and</c><00:16:06.240><c> you</c><00:16:06.480><c> can,</c><00:16:06.639><c> you</c>
+
+00:16:06.790 --> 00:16:06.800 align:start position:0%
+join, free to use, and you can, you
+ 
+
+00:16:06.800 --> 00:16:08.230 align:start position:0%
+join, free to use, and you can, you
+know,<00:16:06.959><c> you</c><00:16:07.120><c> can</c><00:16:07.199><c> list</c><00:16:07.440><c> on</c><00:16:07.600><c> the</c><00:16:07.680><c> Signal</c><00:16:08.000><c> Swap</c>
+
+00:16:08.230 --> 00:16:08.240 align:start position:0%
+know, you can list on the Signal Swap
+ 
+
+00:16:08.240 --> 00:16:09.990 align:start position:0%
+know, you can list on the Signal Swap
+marketplace,<00:16:08.720><c> and</c><00:16:09.040><c> you</c><00:16:09.199><c> could</c><00:16:09.360><c> price</c><00:16:09.600><c> it</c><00:16:09.759><c> the</c>
+
+00:16:09.990 --> 00:16:10.000 align:start position:0%
+marketplace, and you could price it the
+ 
+
+00:16:10.000 --> 00:16:12.069 align:start position:0%
+marketplace, and you could price it the
+way<00:16:10.079><c> that</c><00:16:10.240><c> you</c><00:16:10.399><c> want</c><00:16:10.560><c> and</c><00:16:10.720><c> get</c><00:16:10.959><c> 70%</c><00:16:11.519><c> the</c>
+
+00:16:12.069 --> 00:16:12.079 align:start position:0%
+way that you want and get 70% the
+ 
+
+00:16:12.079 --> 00:16:13.670 align:start position:0%
+way that you want and get 70% the
+revenue<00:16:12.320><c> from</c><00:16:12.639><c> the</c><00:16:12.800><c> vast</c><00:16:12.959><c> majority</c><00:16:13.360><c> of</c><00:16:13.440><c> the</c>
+
+00:16:13.670 --> 00:16:13.680 align:start position:0%
+revenue from the vast majority of the
+ 
+
+00:16:13.680 --> 00:16:15.430 align:start position:0%
+revenue from the vast majority of the
+revenue<00:16:13.920><c> from</c><00:16:14.160><c> the</c><00:16:14.320><c> bot</c><00:16:14.560><c> that</c><00:16:14.800><c> you</c><00:16:14.959><c> create.</c>
+
+00:16:15.430 --> 00:16:15.440 align:start position:0%
+revenue from the bot that you create.
+ 
+
+00:16:15.440 --> 00:16:17.189 align:start position:0%
+revenue from the bot that you create.
+So,<00:16:15.759><c> going</c><00:16:16.000><c> back</c><00:16:16.160><c> to</c><00:16:16.399><c> this</c><00:16:16.560><c> other</c><00:16:16.800><c> strategy</c>
+
+00:16:17.189 --> 00:16:17.199 align:start position:0%
+So, going back to this other strategy
+ 
+
+00:16:17.199 --> 00:16:19.110 align:start position:0%
+So, going back to this other strategy
+here,<00:16:17.600><c> the</c><00:16:17.759><c> one</c><00:16:18.160><c> as</c><00:16:18.320><c> soon</c><00:16:18.480><c> as</c><00:16:18.560><c> you</c><00:16:18.720><c> see</c><00:16:18.800><c> the</c><00:16:18.959><c> out</c>
+
+00:16:19.110 --> 00:16:19.120 align:start position:0%
+here, the one as soon as you see the out
+ 
+
+00:16:19.120 --> 00:16:20.629 align:start position:0%
+here, the one as soon as you see the out
+assembled<00:16:19.519><c> data</c><00:16:19.839><c> looking</c><00:16:20.079><c> really</c><00:16:20.240><c> bad,</c>
+
+00:16:20.629 --> 00:16:20.639 align:start position:0%
+assembled data looking really bad,
+ 
+
+00:16:20.639 --> 00:16:21.749 align:start position:0%
+assembled data looking really bad,
+that's<00:16:20.800><c> how</c><00:16:20.959><c> you</c><00:16:21.120><c> know</c><00:16:21.279><c> that</c><00:16:21.519><c> it's</c>
+
+00:16:21.749 --> 00:16:21.759 align:start position:0%
+that's how you know that it's
+ 
+
+00:16:21.759 --> 00:16:23.269 align:start position:0%
+that's how you know that it's
+curfeitted.<00:16:22.399><c> This</c><00:16:22.560><c> strategy</c><00:16:22.880><c> was</c><00:16:23.040><c> curve</c>
+
+00:16:23.269 --> 00:16:23.279 align:start position:0%
+curfeitted. This strategy was curve
+ 
+
+00:16:23.279 --> 00:16:25.269 align:start position:0%
+curfeitted. This strategy was curve
+fitted<00:16:23.680><c> to</c><00:16:23.839><c> the</c><00:16:24.079><c> original</c><00:16:24.399><c> data.</c><00:16:24.880><c> Going</c><00:16:25.120><c> back</c>
+
+00:16:25.269 --> 00:16:25.279 align:start position:0%
+fitted to the original data. Going back
+ 
+
+00:16:25.279 --> 00:16:27.430 align:start position:0%
+fitted to the original data. Going back
+here<00:16:25.519><c> to</c><00:16:25.680><c> the</c><00:16:25.839><c> the</c><00:16:26.320><c> original</c><00:16:26.720><c> training</c><00:16:27.040><c> data.</c>
+
+00:16:27.430 --> 00:16:27.440 align:start position:0%
+here to the the original training data.
+ 
+
+00:16:27.440 --> 00:16:29.110 align:start position:0%
+here to the the original training data.
+Looks<00:16:27.680><c> looks</c><00:16:28.000><c> promising,</c><00:16:28.480><c> right?</c><00:16:28.880><c> Really</c>
+
+00:16:29.110 --> 00:16:29.120 align:start position:0%
+Looks looks promising, right? Really
+ 
+
+00:16:29.120 --> 00:16:31.269 align:start position:0%
+Looks looks promising, right? Really
+good.<00:16:29.440><c> But</c><00:16:29.600><c> it's</c><00:16:29.759><c> curve</c><00:16:30.079><c> fitted.</c><00:16:30.560><c> And</c><00:16:30.800><c> this</c><00:16:31.120><c> is</c>
+
+00:16:31.269 --> 00:16:31.279 align:start position:0%
+good. But it's curve fitted. And this is
+ 
+
+00:16:31.279 --> 00:16:33.829 align:start position:0%
+good. But it's curve fitted. And this is
+a<00:16:31.519><c> tool</c><00:16:32.240><c> that</c><00:16:32.560><c> you</c><00:16:32.800><c> should</c><00:16:32.959><c> use.</c><00:16:33.279><c> Everyone</c><00:16:33.600><c> has</c>
+
+00:16:33.829 --> 00:16:33.839 align:start position:0%
+a tool that you should use. Everyone has
+ 
+
+00:16:33.839 --> 00:16:35.269 align:start position:0%
+a tool that you should use. Everyone has
+to<00:16:33.920><c> use</c><00:16:34.079><c> this.</c><00:16:34.399><c> Whether</c><00:16:34.639><c> you're</c><00:16:34.959><c> trying</c><00:16:35.120><c> to</c>
+
+00:16:35.269 --> 00:16:35.279 align:start position:0%
+to use this. Whether you're trying to
+ 
+
+00:16:35.279 --> 00:16:37.030 align:start position:0%
+to use this. Whether you're trying to
+tune<00:16:35.519><c> your</c><00:16:35.680><c> strategy</c><00:16:36.000><c> in</c><00:16:36.160><c> Trading</c><00:16:36.480><c> View</c><00:16:36.800><c> or</c>
+
+00:16:37.030 --> 00:16:37.040 align:start position:0%
+tune your strategy in Trading View or
+ 
+
+00:16:37.040 --> 00:16:39.350 align:start position:0%
+tune your strategy in Trading View or
+not,<00:16:37.360><c> you</c><00:16:37.680><c> have</c><00:16:37.920><c> to</c><00:16:38.240><c> test</c><00:16:38.560><c> if</c><00:16:38.800><c> it's</c><00:16:38.959><c> fitted.</c>
+
+00:16:39.350 --> 00:16:39.360 align:start position:0%
+not, you have to test if it's fitted.
+ 
+
+00:16:39.360 --> 00:16:41.110 align:start position:0%
+not, you have to test if it's fitted.
+Otherwise,<00:16:39.759><c> you're</c><00:16:40.000><c> you're</c><00:16:40.480><c> going</c><00:16:40.639><c> to</c><00:16:40.800><c> lose</c>
+
+00:16:41.110 --> 00:16:41.120 align:start position:0%
+Otherwise, you're you're going to lose
+ 
+
+00:16:41.120 --> 00:16:43.030 align:start position:0%
+Otherwise, you're you're going to lose
+money<00:16:41.279><c> and</c><00:16:41.519><c> nobody</c><00:16:41.920><c> teaches</c><00:16:42.240><c> you</c><00:16:42.480><c> this.</c><00:16:42.800><c> So,</c>
+
+00:16:43.030 --> 00:16:43.040 align:start position:0%
+money and nobody teaches you this. So,
+ 
+
+00:16:43.040 --> 00:16:44.629 align:start position:0%
+money and nobody teaches you this. So,
+thank<00:16:43.199><c> you</c><00:16:43.360><c> for</c><00:16:43.680><c> following</c><00:16:44.000><c> along</c><00:16:44.240><c> on</c><00:16:44.480><c> this</c>
+
+00:16:44.629 --> 00:16:44.639 align:start position:0%
+thank you for following along on this
+ 
+
+00:16:44.639 --> 00:16:45.990 align:start position:0%
+thank you for following along on this
+video.<00:16:45.040><c> And</c><00:16:45.199><c> if</c><00:16:45.360><c> you're</c><00:16:45.519><c> looking</c><00:16:45.680><c> for</c><00:16:45.839><c> good</c>
+
+00:16:45.990 --> 00:16:46.000 align:start position:0%
+video. And if you're looking for good
+ 
+
+00:16:46.000 --> 00:16:48.310 align:start position:0%
+video. And if you're looking for good
+strategy<00:16:46.399><c> ideas,</c><00:16:47.040><c> you</c><00:16:47.199><c> can</c><00:16:47.360><c> always</c><00:16:47.759><c> join,</c><00:16:48.240><c> you</c>
+
+00:16:48.310 --> 00:16:48.320 align:start position:0%
+strategy ideas, you can always join, you
+ 
+
+00:16:48.320 --> 00:16:50.069 align:start position:0%
+strategy ideas, you can always join, you
+know,<00:16:48.399><c> the</c><00:16:48.639><c> free</c><00:16:48.800><c> Discord.</c><00:16:49.440><c> There's</c><00:16:49.680><c> tons</c><00:16:49.920><c> of</c>
+
+00:16:50.069 --> 00:16:50.079 align:start position:0%
+know, the free Discord. There's tons of
+ 
+
+00:16:50.079 --> 00:16:51.670 align:start position:0%
+know, the free Discord. There's tons of
+strategy<00:16:50.399><c> come</c><00:16:50.560><c> out</c><00:16:50.720><c> and</c><00:16:50.959><c> you</c><00:16:51.199><c> can</c><00:16:51.279><c> test</c><00:16:51.519><c> them</c>
+
+00:16:51.670 --> 00:16:51.680 align:start position:0%
+strategy come out and you can test them
+ 
+
+00:16:51.680 --> 00:16:53.350 align:start position:0%
+strategy come out and you can test them
+for<00:16:51.839><c> yourself</c><00:16:52.079><c> for</c><00:16:52.320><c> robustness.</c><00:16:53.040><c> You</c><00:16:53.199><c> know,</c>
+
+00:16:53.350 --> 00:16:53.360 align:start position:0%
+for yourself for robustness. You know,
+ 
+
+00:16:53.360 --> 00:16:55.749 align:start position:0%
+for yourself for robustness. You know,
+there's<00:16:53.600><c> this</c><00:16:53.759><c> one</c><00:16:53.920><c> here,</c><00:16:54.240><c> 70</c><00:16:54.560><c> to</c><00:16:54.800><c> 80%</c><00:16:55.519><c> win</c>
+
+00:16:55.749 --> 00:16:55.759 align:start position:0%
+there's this one here, 70 to 80% win
+ 
+
+00:16:55.759 --> 00:16:58.150 align:start position:0%
+there's this one here, 70 to 80% win
+rate<00:16:56.000><c> on</c><00:16:56.240><c> many</c><00:16:56.560><c> crypto</c><00:16:56.880><c> pairs,</c><00:16:57.440><c> and</c><00:16:57.839><c> you</c><00:16:58.079><c> can</c>
+
+00:16:58.150 --> 00:16:58.160 align:start position:0%
+rate on many crypto pairs, and you can
+ 
+
+00:16:58.160 --> 00:17:00.150 align:start position:0%
+rate on many crypto pairs, and you can
+test<00:16:58.399><c> if</c><00:16:58.639><c> you</c><00:16:58.800><c> get</c><00:16:58.880><c> a</c><00:16:59.040><c> bit</c><00:16:59.440><c> a</c><00:16:59.680><c> breakthrough</c><00:17:00.000><c> on</c>
+
+00:17:00.150 --> 00:17:00.160 align:start position:0%
+test if you get a bit a breakthrough on
+ 
+
+00:17:00.160 --> 00:17:02.150 align:start position:0%
+test if you get a bit a breakthrough on
+them<00:17:00.320><c> and</c><00:17:00.480><c> and</c><00:17:01.120><c> make</c><00:17:01.279><c> sure</c><00:17:01.440><c> that</c><00:17:01.600><c> you</c><00:17:01.920><c> thank</c>
+
+00:17:02.150 --> 00:17:02.160 align:start position:0%
+them and and make sure that you thank
+ 
+
+00:17:02.160 --> 00:17:03.749 align:start position:0%
+them and and make sure that you thank
+the<00:17:02.399><c> creators</c><00:17:02.720><c> of</c><00:17:02.800><c> them.</c><00:17:03.040><c> They're</c><00:17:03.440><c> they're</c>
+
+00:17:03.749 --> 00:17:03.759 align:start position:0%
+the creators of them. They're they're
+ 
+
+00:17:03.759 --> 00:17:05.590 align:start position:0%
+the creators of them. They're they're
+open<00:17:04.000><c> source.</c><00:17:04.480><c> And</c><00:17:04.720><c> so,</c><00:17:04.959><c> I</c><00:17:05.120><c> just</c><00:17:05.199><c> wanted</c><00:17:05.360><c> to</c>
+
+00:17:05.590 --> 00:17:05.600 align:start position:0%
+open source. And so, I just wanted to
+ 
+
+00:17:05.600 --> 00:17:06.870 align:start position:0%
+open source. And so, I just wanted to
+thank<00:17:05.679><c> you</c><00:17:05.760><c> for</c><00:17:06.000><c> watching</c><00:17:06.240><c> this</c><00:17:06.400><c> far</c><00:17:06.559><c> in</c><00:17:06.720><c> the</c>
+
+00:17:06.870 --> 00:17:06.880 align:start position:0%
+thank you for watching this far in the
+ 
+
+00:17:06.880 --> 00:17:09.029 align:start position:0%
+thank you for watching this far in the
+video,<00:17:07.280><c> for</c><00:17:07.520><c> liking,</c><00:17:08.000><c> subscribing,</c><00:17:08.640><c> and</c><00:17:08.880><c> if</c>
+
+00:17:09.029 --> 00:17:09.039 align:start position:0%
+video, for liking, subscribing, and if
+ 
+
+00:17:09.039 --> 00:17:10.470 align:start position:0%
+video, for liking, subscribing, and if
+you<00:17:09.120><c> have</c><00:17:09.280><c> any</c><00:17:09.439><c> questions,</c><00:17:09.919><c> you</c><00:17:10.079><c> made</c><00:17:10.160><c> it</c><00:17:10.319><c> this</c>
+
+00:17:10.470 --> 00:17:10.480 align:start position:0%
+you have any questions, you made it this
+ 
+
+00:17:10.480 --> 00:17:12.390 align:start position:0%
+you have any questions, you made it this
+far,<00:17:10.880><c> then</c><00:17:11.280><c> comment</c><00:17:11.600><c> down</c><00:17:11.839><c> below</c><00:17:12.160><c> any</c>
+
+00:17:12.390 --> 00:17:12.400 align:start position:0%
+far, then comment down below any
+ 
+
+00:17:12.400 --> 00:17:13.909 align:start position:0%
+far, then comment down below any
+questions<00:17:12.640><c> you</c><00:17:12.880><c> have,</c><00:17:12.959><c> and</c><00:17:13.120><c> I'll</c><00:17:13.280><c> I'll</c><00:17:13.600><c> do</c><00:17:13.760><c> my</c>
+
+00:17:13.909 --> 00:17:13.919 align:start position:0%
+questions you have, and I'll I'll do my
+ 
+
+00:17:13.919 --> 00:17:14.949 align:start position:0%
+questions you have, and I'll I'll do my
+best<00:17:14.000><c> to</c><00:17:14.160><c> answer</c><00:17:14.319><c> all</c><00:17:14.480><c> of</c><00:17:14.559><c> I'll</c><00:17:14.720><c> see</c><00:17:14.799><c> you</c><00:17:14.880><c> in</c>
+
+00:17:14.949 --> 00:17:14.959 align:start position:0%
+best to answer all of I'll see you in
+ 
+
+00:17:14.959 --> 00:17:17.039 align:start position:0%
+best to answer all of I'll see you in
+the
+

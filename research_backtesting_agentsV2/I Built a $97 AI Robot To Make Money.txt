@@ -1,0 +1,274 @@
+I just built an AI device that can hear,
+think, talk, and it has full access to
+its own computer. Take that, Helen
+Kella. And the first thing that I did
+was tell it to turn $10 into as much
+money as possible. Not a good idea. All
+because a question I want to answer is,
+can AI agents actually make money on
+their own? Okay, so about 2 weeks ago, I
+saw this super genius Sebastian Vocal, I
+hope I said that right, post this
+project where he built OpenClaw into a
+real device and it was super viral and I
+lost my mind. I was like, this is sick.
+This dude built a fully functional AI
+device that is a tenth of the size of an
+iPhone. And here's the real knee
+slapping kicker. It costs less than $100
+to make. So, me being absolutely
+terrified of AI taking my job, I'm going
+to build something that takes my job and
+just pray this thing makes me rich and
+can crack my girlfriend at the same
+time.
+Here are the three main parts. Raspberry
+Pi Zero. Wow, this thing. Look at I feel
+smart holding this. This is the Wisplay
+board that does the display, audio,
+speakers, everything. And then this is
+what powers it all. The pie sugar
+battery pack. I started setting it up
+like a good young factory worker. Also,
+I think I just realized I'm missing a
+freaking piece, dude. I'm sure I'm
+missing like 10 pieces, but I think I
+need like an SD card slot there. SD.
+Insert the TF card. I don't have that.
+It's writing the software onto the micro
+SD. This stands for microscopic
+D. And then we plug it into this thing
+right here. You see? And then it can
+run. I'm drinking my tea. Okay, I've
+literally been stuck forever because I
+was trying to screw these things
+together and there's these little clear
+things on it on the screw holes and I
+think you're supposed to pop them out.
+So, that's what I'm doing now.
+Oh, what? I screwed it on backwards.
+Shisel. Am I doing this right? Oh, I
+hate this. I hate pressing these in. Oh
+my gosh. Why is it so hard? Oh,
+come on.
+&gt;&gt; Buckle up. Chuckle. So, technically this
+is it. I freaking built it.
+I was trying to connect to my 5
+gigahertz or gigachad subtier normie
+Wi-Fi, but I needed to be on the 2.4
+GHz. So, I had to split my freaking
+Wi-Fi up so that I was able to connect
+to the 2.4 GHz. So, if you build this at
+your house, make sure you connect to 2.4
+GHz. I also tried connecting to my
+hotspot on my phone cuz chatbt said that
+was uh 2.4, but that didn't work either.
+So, you got to just split up your Wi-Fi
+like an absolute pawn. I feel like I'm
+basically making Facebook right now. Or
+like I'm basically making Apple. Like,
+I'm just so advanced. Test six.
+Yes, it turned green, bro. There's
+colors on this. Dang, dude. Look at
+that. I'm going to green screen
+something funny into it. All right, it's
+now day three or four. I've been
+freaking trying to do this forever.
+Realized my SD card was too small. I
+think I already said that. So, I bought
+128 GB like get gigaflexed on idiot and
+I've now got it installed and we are
+about to hopefully run it and we will
+see what happens. All right, 3 2 1 come
+on. Uh, can't open file. Okay, we'll be
+back. Testing testing testing testing.
+Yo, testing testing testing penis.
+Testing testing testing testing. Yo,
+testing testing testing penis. Oh, let's
+go. Dude, it played audio. Did you hear
+that? I just got it to finally work
+after like 5 days.
+Please work.
+Yo, can you hear me, bro? What is 5 + 5?
+&gt;&gt; Yo, loud and clear. 5 + 5.
+&gt;&gt; Did you hear that? I don't know if you
+guys could hear that. That was insane.
+Um, what should we ask it? Who had the
+biggest wiener in all of history? That's
+a spicy question. Officially, there's no
+verified record for that, but some
+rumors say Jonah Falcon.
+&gt;&gt; Shout out Jonah Falcon, bro.
+Let's go. All right, boys. I've been
+cooking. Look at this. I got a little
+animation. It says claw ready. Hold
+button to speak. Like, look at the size
+difference of my iPhone versus this
+thing. I know that my iPhone is way
+cooler and can do more stuff, but this
+just feels cool, bro. Like, I'm so
+All right. So, here is exactly what
+happened with the three businesses that
+I tried to run with my OpenClaw device.
+And genuinely, I did not know if these
+businesses would work and I could
+actually make money because I've seen
+people on Twitter claim that they're
+making thousands of dollars from it
+already. And I don't know, I don't know
+if I believed it. But, um, after running
+my own experiments, spoiler, I have more
+questions. So, business number one was
+lowballing boomers on Facebook
+Marketplace. something that I personally
+find extremely fun to do. Just messaging
+them takes a while. So, I thought this
+would be a perfect thing to set it up
+with. So, I talked to it and told it,
+"What I want you to do is sign up for
+Facebook with the email I gave you. Go
+to the marketplace in my area and start
+lowballing people that are pricing their
+items too high. Make no mistakes." This
+is just two words, entrepreurship.
+Unfortunately, this one died before I
+even started. I could not get it to get
+past Facebook's bot detection, I think.
+and talking to this thing and trying to
+like do stuff genuinely takes forever
+because I'm just talking and then it
+takes a second for it to then tell me
+what it's doing. This took an entire day
+of me going back and forth trying to get
+it to go onto Facebook and message
+people. I tried for way longer than I
+should have. So maybe I'm just not
+technical enough, but this is a zero out
+of 10. Did not work. Business number
+two, cold email outreach. Something that
+I absolutely despise because I get
+hundreds of these a day and they piss me
+off. So I'm going to do it myself. So, I
+told this little sexy clinker right
+here, find small businesses like
+chiropractors or whatever, or you know,
+do your research. I don't know. You're
+smarter than me. Start finding these in
+more niche small towns. And then what I
+want you to do is start cold email
+outreaching them, offering them to set
+up AI, cold email outreach for them.
+Make no mistakes. Wait, who is at who's
+knocking at the door?
+&gt;&gt; What rules, you sons of
+&gt;&gt; And this one actually did it. It started
+finding businesses, reaching out to
+them. I just had it draft all the
+emails, and then I would click send
+because I was still a little bit nervous
+it might send something crazy because I
+did tell it to push the limits with its
+headline writing and stuff like that.
+So, yeah, just wanted to be a little bit
+cautious. The pitch was basically, hey,
+I can set up AI uh outreach in your
+business for 500 bucks. I left this one
+running for a few days. I'm sure that
+some people opened the emails because of
+some of these headlines, but uh yeah,
+absolutely zero responses. I don't know
+if it's because my Gmail looks weird or
+if it's new uh or if people just don't
+want this, but even if just one person
+signed up, that'd be 500 bucks and would
+make this thing profitable. So, I'm
+going to keep that one probably running
+and maybe I'll check back in 30 days and
+update you on that and some of the other
+things I'm going to run with it.
+Business number three, the one that I
+was the most excited for, prediction
+markets, baby. So, I went to one of
+these absolute hedonistic, hyonistic,
+whatever the word is, you know, evil
+websites where they take all your money.
+I'm not going to name the name because I
+don't want to promote them. But all I
+did was find the API keys and stuff like
+that. I did have to do this on my
+computer because just talking to it was
+way too hard. I set it up with the API
+keys and then I just started talking to
+it. Basically, I just told it to make
+trades for whatever information it could
+find. It apparently was scraping Reddit
+comments and going through Twitter and
+trying to find trades. I don't know if
+it actually was because I can't like
+look inside this thing and see what it's
+actually doing. So, it just told me it
+was. And I just kept refreshing the page
+over and over and my portfolio was still
+at $10. And I was so mad because I
+wanted this to work. Even if it lost all
+the money, I didn't care. And I started
+having this like existential crisis
+because this was the thing I was most
+excited for. Did I just build this thing
+for absolutely nothing? And I had no
+idea what it was doing. Like I am not
+technical at all. This thing could be
+hacking all of my information. I just
+kept asking it what it was doing and it
+was telling me that it was analyzing
+data trying to find the right opening
+because it it didn't want to just lose
+the money. It wanted to actually find
+the right trade. So maybe it was doing
+that. But then I refreshed the page for
+like literally the last time I was about
+to give up. I'm not even trying to be
+dramatic here. And I saw that it spent
+like 3 cents. I was freaking out. Those
+that that was literally magic to me,
+bro. I lost my mind because what just
+happened was some idiot assembled some
+parts, talked to it just completely, you
+know, using voice and it just made a
+trade and spent some money. Like is that
+not insane? I didn't touch anything
+besides getting it giving it the API
+keys. Like, holy smokes. And then it
+started making another trade and another
+trade and another trade and I think I
+got to four or five trades all while I
+was just scratching my balls and then it
+stopped because I went and checked on
+the machine I'm running this on because
+I'm not running this on my personal
+machine and it was pinned. It was like
+maxing out the CPU and GPU. I have no
+idea what I've installed or done to this
+open claw bot where it's, you know,
+using this much power. So, I shut it off
+because I did not want to ruin a laptop.
+And before I tell you if any of those
+trades paid out, like just think this is
+the dumbest this will ever be. Like, in
+a year, this could be insane. Or even
+just, you know, the tech on my computer
+cuz I don't know if something like this
+would ever take off. It's freaking so
+hard to use. I spent an entire week just
+talking to it to do like some things. I
+could have just clicked a few buttons.
+But hey, I'm going to continue to keep
+this thing running, emailing people once
+I get it like more dialed in. Maybe have
+it continue making trades. Maybe run
+some other business models. I don't
+know. Make sure you subscribe so you do
+not miss that. And did any of the trades
+pay out? Absolutely not. I lost 83 cents
+and then however much money the thing
+cost me. Peace.

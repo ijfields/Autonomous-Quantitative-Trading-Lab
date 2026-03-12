@@ -1,0 +1,491 @@
+Today I'm going over how this strategy
+got a sharp ratio of 1.21,
+which is a godlike sharp ratio, and a
+sortino ratio of 11.01
+in out of sample data. And look at this
+max draw down 9%. Incredible. And this
+is an outof sample data as well.
+Phenomenal. So what this actually did
+was Claude worked on the strategy
+overnight for me, built me a series of
+different strategies, and then ranked
+the top five of them. There was about 25
+that it was testing overnight. And if
+you're new to the channel here, I'm
+using Claude to run a training engine
+overnight. So, I hand off my actual
+Python trading engine to Claude and then
+it handles it for me overnight. And I
+have previous videos where I show you
+guys how to build that yourself free.
+So, you can have your own system locally
+to do the exact same thing. And we
+already have users in the community in
+the trade tactics discord who are doing
+the exact same thing. So this movement,
+this trading bot movement has, you know,
+taken the retail trading space by storm.
+There are a lot of really big firms that
+have trading bots, but now retail is
+coming for you guys with with actual
+really good trading bots. So the free
+Discord, if you want to take a look at
+the progress and contribute, the link to
+that Discord's down in the description.
+It's free. And also if you guys feel
+like it, give the video a like and
+subscribe to the channel and hit the
+bell notification icon if you find value
+from the channel. All right, so what
+exactly is this strategy? This is a
+decay fractal decay strategy. And the
+way that it works is it scans for price
+structures of varying depth levels and
+then specifies a sigma weighted decay
+filter to confirm the move is real
+before entering. And so that's how it
+achieved this result. So the decay
+period filters out old price structures
+and only looks at the current period
+which is incredible. This was Claude
+Opus running on my machine overnight and
+testing different strategy rules, price
+uh strategy entries and exits and then
+just created this one. This is a very
+clear winner. I'm going to go through
+the other four as well. So we're going
+to start after this. I'll I'll just
+summarize this one. We'll go more in
+depth later on to the video, but I just
+want to show you how it got here because
+it built off of other ones. So, I want
+to show you how the how Claude went
+through that so that you guys can
+replicate that for yourself. So, here is
+the fifth place strategy and I have, you
+know, a couple more that I want to get
+through, but this one it looks a little
+bit promising, right? We have a win rate
+of 53% sharp ratio of 0.66 and the
+Sortino is fairly good. This is the
+swing struck. So it tracks how the
+sequence of swing highs and swing lows.
+So it's another one that tries to
+classify market structure which is very
+hard to do properly. So higher highs and
+higher lows, you know, indicate an
+uptrend. So it identifies that and tries
+to match that where it's trading. I also
+have a couple other graphs here. So we
+did one, you know, rolling average
+period. This is a little bit more out of
+sample data. The win rate stays
+confidence around 53% and it has a
+pretty good total trades ratio. So, we
+know that we're we're not too bad here.
+And if I scroll down here, it did have a
+44% max draw down. So, the testing
+periods that was not as good. And then
+the last one I have full out of sample,
+which the last one I showed you, the
+best one was uh 10% draw down or 9% draw
+down. This one not good. So, when we
+show this strategy completely unseen
+data, it collapses, which is why we do
+those those validation steps. So that's
+why this one completely gets thrown in
+the gutter. So we can move on from this
+one here. Next up, we have the cowman
+strategy. Cowman is an adaptive smoother
+from aerospace engineering and it
+estimates the true price by dynamically
+balancing new data by its existing
+estimate. So this was the third one.
+This this came third uh overnight and
+this was out of over 25 that it ran on
+my system while I was sleeping. So, I
+kind of gave some guidelines to what
+Claude Opus could do overnight and I
+just wanted it to compete. I wanted it
+to rank its previous best strategy and
+then try to beat those benchmarks. So,
+the benchmarks it had to beat were here.
+Here's the insample data. This you're
+looking at the out of sample here with
+uh the low draw down. Here it is. So,
+I've I've relaunched it just just wanted
+to get the accurate calman. So, here are
+the parameters that it found. This was
+the winning formula. you know performed
+the best in the training data and we
+have some testing data. So this is the
+first out of sample data and I have
+multiple out of sample pieces of data
+that I will show it. So this is the out
+of sample data that Claude can see and
+it wants. So there's here here's here's
+a general structure. This is how I got
+it locked down to make sure that it's
+robust. So I have insample data. This is
+the the data that my engine sees. This
+first chart here and these are the
+candlesticks from 2020 all the way to
+2023 in February. So that's the uh
+claude and my engine can see this and
+then the the engine can't see this data.
+This is the out of sample data and it's
+not selecting you know these parameters
+this parameter set based off this. So
+it's going in blind but my claude can
+see this data. So claude can rank this
+and and say okay we have you know a win
+rate of 49% the sharp ratio is 0.3
+sortino ratio is 0.75.
+What do we think about this? And this
+was, you know, out of all 25 strategies,
+this one came in around third. And then
+there's one last uh out of sample data
+point. And these are for all of the
+strategies that I've built, by the way.
+Just the whole process for how I ensure
+that it's building strategies that are
+robust. I have true out of sample data.
+And this is data that neither my engine
+or Claude can see. Which means that if
+you know Claude approved the strategy, I
+go in and I verify okay well you
+approved the other numbers from these
+two other charts but this last chart
+here is where I'm verifying and the
+sharp ratio continued to come down which
+is it is expected in out of sample that
+you're you're going to have some
+distortion between you know the win rate
+before was over 50% now we're below 50%
+so it's gotten slightly worse there was
+some decay there which is fine uh but
+this 46 47% draw down is not fine. that
+is too high, especially when you know
+there's this strategy here doesn't look
+like it's a clear up all the way through
+and yeah there's there's just there's
+just not enough consistent results. Plus
+buy and hold was you know 700% in that
+period. So I'm comparing to that you
+know 27%. Not good. So moving on and
+here is the next one. This one looked
+very promising. 14% draw down in the
+training data. This is the first one
+that both Claude and my trading engine
+can see. So it wants to make these
+numbers, it wants to make this draw
+number the lowest and it wants to make
+this sharp ratio the highest. Those are
+the two variables that I'm optimizing
+for. I'm not optimizing for net profit.
+So if the engine sees a higher net
+profit, it doesn't necessarily select
+for that. So let's say candle momentum.
+The way that this strategy works is it
+looks for candles like three green
+candles in a row or like three three
+bullish a bullish pattern or a bearish
+pattern and it enters in that direction
+once we have confirmation. So this
+strategy was a little bit better. Win
+rate 47%. Uh which is manageable as long
+as the uh risk ratio is high enough and
+you know that's a pretty good net
+profit. Now the next thing we need to
+see this is the one that we the the
+engine and claude we're looking to
+optimize the draw down trying to get
+this number low. Now the one that the
+engine can't see but Claude can is the
+second one. So this is a second data
+set. So 2020 to 2023. And now we come to
+the 2024 data all the way to 2025 in
+March. So net profit is 127. The win
+rate came down and the sharp ratio and
+certino come down a little bit as well.
+What does that mean? Well, it it means
+that out of sample it's it's having a
+little starting to have a little bit of
+trouble, but you know the true the last
+test is the the one where I actually
+determine it. So let's look at the
+metrics here in the out of sample or the
+testing uh sample and the win rate. Yep.
+40% and max draw down came up 50 53%. So
+that's you can see there's a period of
+draw down here. That's what that's
+looking at the and so the engine is not
+liking this period specifically here.
+And you know if we unpacked why we could
+probably go in and see if we could add
+anything to this to supplement the rules
+to kind of make figure out how it was
+weak in that area. It looks pretty
+strong everywhere else just in this one
+period. A little bit weak, but it's
+worth doing that or not. depends on the
+final chart the sample out of s the the
+final test which this is 2025 data from
+March all the way to the present moment
+and it I mean it's profitable it's 268%
+it's just that there's 56% draw down
+right this period here once we started
+out did not do so well so it was coming
+down having a really rough time until
+here and then one big trade that's it is
+kind of a red flag most of this net
+profit is coming from this trade which
+could have just been a fluke we don't
+want we want consist consistency. We
+want to have, you know, a a big enough
+sample size and, you know, consistent
+enough win rate as well. Sharp ratio
+should be higher. So, in here, it's hard
+to say. Look, this is the draw down
+graph here. You can kind of see this net
+profit visualized here. This is the the
+draw down graph. Really high draw down
+here. Came down there or 56. So, that is
+a little the strategy is a little bit
+stubborn. Little bit stubborn. So, let's
+go to our last strategy here and we'll
+do the exact same process. So the Q sum
+strategy it is a this is a statistical
+method that it accumulates deviations of
+returns by their name and then when the
+sum exceeds a threshold it signals a
+regime change. So the market you know
+shifted from noise to a trend. So that's
+when it will actually enter. So
+inherently to this there is a little bit
+of a flat filter and so it it man it
+manufactures its own kind of quality
+control as well as its own directional.
+So this is what claude opus found uh 51%
+draw down right away in the in this
+right. So this was the la the the last
+place uh for our trades. So I'll just
+quickly go through this one. This one
+was not. So this will be quick but yeah
+sharp ratio in a training data. Let's
+see here. Was that the out of sample?
+Yeah. Sorry sorry sorry about that. I
+showed the out of sample first but yeah
+this is the this is the Q sum strategy.
+So 24% and this graph looks pretty good
+right? 51% win rate. Now, if you were
+just trading on Trading View and you saw
+a graph like this, you know, you open up
+your Trading View or which whichever
+trading program that you use and you
+have a chart that looks this good, it's
+you might think it's tradable. You might
+you might actually consider putting real
+money on the line here. But let's go to
+the first out of sample. Now, this is
+the one again, this data, see how it
+gets way like slightly more choppy.
+There's still an uptrend. Let's go back.
+Look how smooth that first trending
+curve was. Really smooth, right? And as
+soon as the engine stops looking and
+then it just you know validates that
+this these same parameters on future
+data without adjusting these or anything
+else you know so hands off the engine
+just keeps everything constant and then
+introduces new data things get a little
+bit more choppy watch this and chop just
+appears so that's not good and I think
+this is around 60% draw down I could
+scroll down and and and see that yeah
+59% max draw down not what you want to
+see so right away this is ruled out
+right um it looks good from the training
+data and of course I already showed you
+guys the out of sample data and this is
+where claude opus and my engine claopus
+just you know proves it and doesn't even
+look at this data set only I look at
+this data set final conf to remove bias
+completely so that the AI the AI can
+introduce bias to be clear the AI will
+select things that look good in the
+training data and if you show claude all
+your data claude will be select uh with
+a bias which you want to remove so yeah
+this completely garbage once you see
+this engine run or this specifically Q
+sum strategy run on out of sample data.
+It's garbage, right? So, let's go to our
+god tier strategy. This is this is the
+one that we got and this is our winner
+of the day. I'm going to show you first.
+This is actually out of sample. So, this
+is the one that Claude did not look at
+and the engine could not look at. That's
+how I know that this is a clear winner
+with this strategy. Fractal depth 5
+decay period 24. It picked these
+parameters on the training data. So,
+let's go look at the training data. And
+to be clear, there's also bootstrapping.
+We randomize the candlesticks to make
+sure that for all of these here that it
+it'll hold up if we jumble up the
+candlesticks to make sure that there's
+no patterns that we're curve fitting for
+or anything like that. And 28% draw down
+on just the main data set which is again
+um you wouldn't think that would be
+good. And of course from here this is
+just the beginning entry of the
+strategy. You can add you know regime
+filters and to try to filter out bad
+trades from here to get that better and
+and more optimized. And then from here,
+assuming we accept this strategy, let's
+go through to the testing data. This is
+the data that Claude Opus could see, but
+our trading engine just put forward the
+parameters. And there you have it. Look
+at that. Nice really nice graph. That's
+how it should look. And the draw down
+was around 24% in the just the out of
+sample testing data. And none of all of
+all of the strategies run on the same
+coin. This is Salana 1 hour chart. And
+so why does it look so good on this
+final graph? It looks amazing. 9% draw
+down sharp ratio of 1.21. That is a
+godly sharp ratio. And we know that this
+isn't curve fitted because we've done a
+robustness checks out of sample walk
+forward. We've done bootstrapping on it.
+We've done all of these all of the
+rigorous tests and then we get a certino
+of 11. So that's really good. Now we're
+not done, right? This is promising, but
+it's not if you're really serious about
+trusting your bot with a live account,
+you would want this algorithm. I would
+ask my claude, okay, tune this on
+different time periods. This is the
+Salana 1 hour chart. Can it perform on
+the 30 minute chart? Can it perform on
+different coin pairs? That's important,
+too. Other coin pairs, making sure that
+your engine is flexible, that your
+strategy has an edge. Maybe not just
+maybe it is just good on this one coin,
+Salana, and this strategy only works on
+Salana, but you know, the chances go up
+that is it has general robustness.
+That's a key word. General robustness
+means that it can apply more broadly,
+not just to one coin. Or let's say that
+you have a strategy that only works on
+gold or only works on NQ future or only
+works on a certain forex in a certain
+time period. Well, that means that it's
+going to alpha alpha decay quicker,
+meaning that it's your strategy will be
+obsolete faster. If your strategy is
+more robust, then it will last longer.
+It'll you can put it on different assets
+and it'll work and it'll work for a
+longer period. Now, a a strategy is
+never they won't last forever. But one
+of the things that is important, one of
+the things that I hear a lot is that,
+you know, trading bots, uh, you just
+don't have a chance. It's hopeless
+because the market's already rigged or
+there's already so many algorithms in it
+and clustered. Well, guess what? If you
+make a better algorithm, your algorithm
+can overshadow other algorithms. So,
+that's what we're doing. We're looking
+at real price data all the way up until
+the current day, 2026, when I'm filming
+this video, and we are still having
+these really good results. So, this is
+promising. Now, we could take this, we
+can add more regime filters, we could
+add proper take profits, right? Dynamic
+customized profits. And I can ask my
+claw to do that tonight. I'll I'll be
+doing that later this week for sure. And
+so, follow along and subscribe if you
+want to see updates how I how I build
+this if I ever release a strategy. But
+this is the process. This is how uh I'm
+just showing you guys transparently how
+I operate. And this is this is how it's
+done. So, from here, yeah, it's in it
+right now. It's in Python. I can add to
+it. And then if I really like it, I can
+take it, customize it. I could trade
+with it directly in Python or convert it
+to MT5 or into Pinecript so I can trade
+it on Trading View for example. But what
+I what I probably will do if this is
+good if it pans out in real world
+trading is I you guys know I have the
+marketplace signal swap marketplace that
+I'm a I was a developer for and we have
+an amazing marketplace that uses real
+world for tested data as well as it uses
+stress testing. So this uh if this if
+this works then you'll see it on this
+one on the single swap marketplace. So,
+I'll put it up there. And if you guys
+want to list anything on the Signal Swap
+marketplace, if you have a good bot, or
+if you want to find a good bot, then
+sign up for Signal Swap. It's free to
+join, free to use, and you can, you
+know, you can list on the Signal Swap
+marketplace, and you could price it the
+way that you want and get 70% the
+revenue from the vast majority of the
+revenue from the bot that you create.
+So, going back to this other strategy
+here, the one as soon as you see the out
+assembled data looking really bad,
+that's how you know that it's
+curfeitted. This strategy was curve
+fitted to the original data. Going back
+here to the the original training data.
+Looks looks promising, right? Really
+good. But it's curve fitted. And this is
+a tool that you should use. Everyone has
+to use this. Whether you're trying to
+tune your strategy in Trading View or
+not, you have to test if it's fitted.
+Otherwise, you're you're going to lose
+money and nobody teaches you this. So,
+thank you for following along on this
+video. And if you're looking for good
+strategy ideas, you can always join, you
+know, the free Discord. There's tons of
+strategy come out and you can test them
+for yourself for robustness. You know,
+there's this one here, 70 to 80% win
+rate on many crypto pairs, and you can
+test if you get a bit a breakthrough on
+them and and make sure that you thank
+the creators of them. They're they're
+open source. And so, I just wanted to
+thank you for watching this far in the
+video, for liking, subscribing, and if
+you have any questions, you made it this
+far, then comment down below any
+questions you have, and I'll I'll do my
+best to answer all of I'll see you in
+the
