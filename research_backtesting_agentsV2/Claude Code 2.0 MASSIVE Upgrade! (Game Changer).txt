@@ -1,0 +1,267 @@
+Enthropic has truly changed the
+trajectory of Claude Code, making it the
+best and most ideal AI coding agent that
+lives directly within your terminal.
+With incredible new updates, it has been
+completely redefined from Claude Code
+system prompts being updated that
+improves memory writing rules and
+enforces better structure to a more
+refined agent skills creator. You also
+have a new loop and by the way command,
+code review capabilities, schedule
+tasks, and so much more. So, let's just
+dive straight into it. To start off,
+let's take a look at the new by the way
+command. This is a command that lets you
+ask a quick question about your current
+work without adding it to the
+conversation history. It's extremely
+useful when you want a fast answer, but
+don't want to clutter the main context
+or derail Claude from a long running
+task. This is essentially going to keep
+the main job running in the background
+while enabling multitasking with your
+Claude Code instance. This week, we also
+saw the introduction of the new /loop
+command. This is incredibly underrated
+as a feature cuz it allows anyone to
+prompt on schedule. Basically meaning
+that you can use the sloop together with
+a cron style scheduling system, run
+prompts repeatedly based off of these
+different intervals. You can pull for
+status updates or even set up a one-time
+reminder directly inside a cloud code
+instance. You just need to simply use
+the /loop command and then add in the
+interval that you want to work on
+scheduling this task as well as your
+prompt. For example, with the loop
+command, you can essentially have Claude
+Code schedule to automatically generate
+summaries of recently merged PRs. Think
+of this like a local schedule task
+feature in Claude Code Desktop, but with
+a sloop. It is something that acts more
+like a temporary session level cron
+while the local schedule desktop task
+functions as a persistent local agent
+scheduler. If you want the best AI
+tools, workflows, and drops before
+everyone else, join my free newsletter
+with the link in the description below,
+which is completely free. This leads us
+to the new cloud desktop schedule task
+feature. This is something that recently
+released and it has even gotten further
+refined in the latest change log. This
+feature lets you create scheduled tasks
+for whatever you want to run
+automatically. As long as your computer
+is awake and the desktop app is open,
+pod can start a new local session at a
+time and frequency you choose. This
+means it's perfect for reoccurring
+workflows like daily code reviews,
+dependency updates. You also have it so
+that you can have it even provide a
+morning briefing that pulls information
+from your calendar or even inbox. Since
+these tasks run locally on your machine,
+they rely on your desktop environment
+being active. For example, you can
+connect Claude code schedule tasks with
+Telegram to automatically send updates.
+First, you can ask Claude to add a
+Telegram messaging module to your repo
+using Telegram bot builder skill. You
+can install it using the skill in the
+description below. Then, you can create
+a bot using something like Bolt Father
+on Telegram. And then you can add the
+bot credentials to your ENV file. And
+whenever you create a scheduled task now
+within Claude code, simply end the
+prompt by instructing Claude to send a
+message into Telegram using that module,
+Claude will automatically now deliver
+the task output to Telegram every time
+it runs, which is incredible. Next is a
+pretty important update that comes with
+the latest release, which introduces a
+system prompt improvement focused on
+memory handling and agent behaviors.
+This is where one major change is made
+on how automemory is actually written.
+Claud is now instructed that the
+automemory directory is already
+something that exists. So it must write
+it to directly using the right tool.
+This means that it should not run mkdir
+or check if the directory actually
+exists which reduces the unnecessary
+tool calls and prevents accidental path
+setup steps. The second big update of
+this improvement of the system prompt is
+how it improves how claude stores
+feedback and project memories. Memory
+writing rules now enforced a structured
+format. So each memory should begin with
+the rule or the fact followed by why the
+reason or motivation behind the rule is
+needed and how to actually apply it when
+or how this rule should influence
+Claude's behavior. This structured
+template makes stored memories far more
+useful and it overall helps Claude
+recall context more accurately and
+handle edge cases better in future
+sessions. Overall, I see this as a huge
+win. It is not something that a lot of
+people are talking about, but it is
+going to improve cloud code subtly,
+making your context retention better
+over sessions. Cloud code had released
+voice mode, which is where you can
+prompt any sort of generation with your
+voice. You simply just use the /v voice
+command to toggle it on and you can
+speak to your cloud code agent. It has
+now been essentially accessible for
+anyone to access as they have rolled out
+to every user of cloud code. This is a
+feature more related to co-work as well
+as the desktop app of claude which is
+where they have now made claude for
+excel and powerpoint now sync
+seamlessly. When you have multiple files
+open, Claude shares a full context of
+your conversation between them, which is
+a gamecher, and I believe this is a
+counter to Google's workspace tool. This
+means you can now pull data from
+spreadsheets, build tables, and update a
+deck without reexplaining any step.
+Skills are now available inside both
+add-ins. If your team has a standard
+workflow, like a running a variance
+analysis or building a client deck, you
+can save it as a skill. others in your
+organization can run it with a single
+click from your sidebar. And that leads
+me to agent skills creator within cloud
+code, which has been revamped to let
+authors test, measure, and refine skills
+without coding. You can essentially now
+write evolves benchmark performances, as
+well as catching regression and ensuring
+your skills trigger correctly. For
+example, take a look at this PDF skill
+previously struggling with a
+non-fillable form where Claude had to
+explore and place text at exact
+coordinates without guidance using evol
+which is a new feature a part of the
+agent skills. It is where it was able to
+isolate the failure and implement a fix
+that anchors text positioning to extract
+text coordinates and this overall
+ensured consistent output across tricky
+PDF layouts which is where it was able
+to successfully fill out all the fields
+of this form. Multi- aent support is now
+going to be allowed with agent skills
+allowing you parallel testing
+description analysis. It also improves
+skill reliability, making building and
+maintaining skills faster and more
+consistent, as well as aligned with
+evolving models. In short, this is going
+to make your skills a lot smarter within
+Cloud Code. Next is an update making
+Claude code smarter at using the Cloud
+API. Now you can just simply ask cloud
+code about the cloud API features like
+prompt caching, adapted thinking and
+efforts tools and more because it can
+now guide you on how you can integrate
+them within your workflow. This update
+basically turns cloud code into a live
+API mentor. So instead of digging
+through docs, you can get actionable
+advice on using advanced API
+capabilities directly from your terminal
+or project session. It's a huge
+timesaver for anyone building with
+Claude at a deeper level. Next is the
+effort levels now being shown when you
+start a session within Claude Code.
+Every session, Claude Code is now going
+to ask what effort level you want to
+use, low, medium, or high. Or you can
+even use the max setting. This setting
+controls how deeply Claude reasons, how
+long it works, and how much it costs.
+Being clear on your effort level is
+going to ensure predictable results and
+efficient use of your tokens. You can
+even use the ultra mode, which is
+something that we had talked about
+recently. Recently, Claude Code had
+introduced code review. This is for deep
+multi- aent code review systems that
+catches bugs even human reviewers often
+missed. It is kind of expensive though.
+It's approximately $15 to $25 per run
+and it is something that's only
+available currently for team and
+enterprise users. This is the same
+system that Enthropic actually runs on
+nearly every PR. While it doesn't
+approve PRs, it actually helps close the
+review gap. And overall, it's going to
+let developers move faster and focus on
+higher level work. Another feature,
+particularly not related with Claude
+Code itself, but through the Cloud Code
+desktop app, is the ability to now see
+and build interactive charts and
+diagrams directly in the chat. This is a
+feature now available in beta on all
+plans, including the free one, where it
+lets you visualize data and ideas
+without leaving your conversation. And I
+believe this is a pretty great feature,
+especially if it's going to be
+implemented with describing and flowing
+out different trees of your directory.
+For example, someone had requested
+Claude to build an interactive
+instrument panel from a Cessna 172
+directly in the chat, which is pretty
+cool. It's not perfect yet, but overall,
+it has a lot of potential for education,
+hands-on learning, as well as
+visualizing even your code snippets. And
+honestly, there's a lot more through the
+change log which I recommend that you
+read through. But overall, you can see
+that Claude Code has been improving
+drastically and it's becoming the ideal
+AI coding agent for everyone. I'll leave
+all these links that I use in today's
+video in the description below. But with
+that thought, guys, thank you guys so
+much for watching. Subscribe to the
+newsletter, the second channel, join the
+Discord, follow me on Twitter. Lastly,
+make sure you get subscribed, turn on
+notification bell, like this video, and
+please take a look at our previous
+videos so that you can stay up to date
+with the latest AI news. But with that
+thought, guys, have an amazing day.
+Spread positivity and I'll see you guys
+fairly shortly.
