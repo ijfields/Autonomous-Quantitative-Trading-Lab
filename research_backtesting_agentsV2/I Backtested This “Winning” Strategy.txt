@@ -1,0 +1,84 @@
+9:30 a.m. Eastern Standard Time. I just
+mark out the high and the low of the
+first 5minute candle. After that, I'm
+just going to drop the one minute chart
+and wait. What I'm waiting for is a fair
+value gap through one of these levels.
+And once I see this gap, I just enter on
+the next candle. My stop goes to the
+first candle that closed outside the
+range. And my target is a fixed 2:1
+riskreward. It's easy. It's boring, but
+it works. Let's find out if it's true.
+Looks quant here. And we also have view
+chart window open on GBP JPY. We're
+going to need two scripts. an indicator.
+Play what we're building and we're going
+to need a strategy script to back test
+it. So, we'll start with the indicator.
+I want
+an indicator. Our entire prompt. It's a
+lot, but it's just being very detailed.
+Pretty much just describing this 5
+minute candle within that market open.
+All right, we now have our code. We'll
+just go ahead and copy that. Head over
+to Trading View. Open Pine Editor. Paste
+that. Go back here. And you can see so
+we have that five minute projection. Now
+the next major part of the strategy
+we're waiting for a breakout fair value
+gap to form for price to come back into
+that fair value gap the high or low
+breakout candle as a stop loss and two
+times stop loss for the take profit.
+Back into the chart I now need you to so
+we have our updated indicator and now we
+can see that the first candle breakout
+of this range is now being highlighted.
+We have the fair value gap that's being
+detected within the range also being
+highlighted which is exactly what we
+want. So now we just need to set up our
+entries. So here's our third prompt.
+We're going to make sure that we're only
+seeing fair value gaps that form during
+or after the breakout and plots the
+risk-to-reward using the initial
+breakout candle as the stop-loss level
+and two times stop loss for the takerit.
+I'm also going to add in a filter
+determine how long we should wait before
+the setup happens. We'll send that off
+to the build.
+&gt;&gt; All right, we have our update the code.
+We'll just copy this. head back up
+trading view.
+&gt;&gt; So, we're going to wait a maximum of 20
+bars after the breakout. We have a risk
+reward control here. Here we have the
+breakout fair value gap that formed.
+Retested it right here. Use the low of
+the breakout candle for a stop-loss
+and that was a losing trade. Now, I'm
+not going to go ahead and scroll the
+entire chart trying to manually back
+test all of this. Convert this into a
+strategy script. And we're just going to
+do a a back test over a full year. vert
+strategy script. Going to copy this
+code. Head back over here and I'm not
+going to update this code. What I'm
+actually going to do is I'm going to
+create a new strategy script. Paste this
+and add the strategy script. So, as you
+can see, we took that exact same entry.
+I'm just going to go ahead and run this
+back test over the last 365 days.
+And as you can see, this strategy does
+not work. Just to be clear, this the
+setup is fine. It's just a matter that
+the setup will not work in isolation.
+Maybe I missed something. You want to
+try this yourself? Comment the word
+quant and we'll send you a link.

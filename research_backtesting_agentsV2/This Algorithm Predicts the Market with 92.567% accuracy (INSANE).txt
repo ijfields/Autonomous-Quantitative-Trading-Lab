@@ -1,0 +1,458 @@
+I'm going to show you guys how to find
+and vet really good trading strategies.
+This strategy has an 80% win rate and an
+8% drawdown. And this is a free strategy
+available in the trade tactics discord
+which the link is down in the
+description if you want to come and find
+this. It's just in the working scripts
+tab. And once you're here, this is the
+first. There are people thinking the
+creator posting real results as well.
+Tons of different trades here. Plus 33%
+plus 66% plus 76%. And I've converted
+the strategy itself to Pinescript
+version 6. So if you don't have Trading
+View yet, just go to tradingview.com and
+click on supercharts to access the
+charts. And then we're going to open up
+the Pinescript tab, which is in the
+right hand corner here down on the
+bottom right corner. There's a tree and
+it says pine. You want to click that.
+Then once you're in here, you're going
+to want to just click create new. If
+this isn't already empty, click just
+create new indicator or strategy. And
+then whatever's in here, you just want
+to delete that so it's completely blank.
+Then once you have the full open source
+script here, this is the one on Discord.
+You want to download the entire code.
+You don't want to just expand the lines
+here because it cuts off and you won't
+be able to copy everything. So you want
+to click the dots and click the download
+button. Once it's downloaded, you can
+open it up and you just want to copy the
+entire uh code. So you can just select
+all and then hit copy or C. Now we can
+just paste all of that. Make sure this
+is completely blank into trading view.
+So I've hit the paste button. Now I'm
+going to add it to the chart. Next up,
+we are going to just pick. There's so
+many different settings and
+configurations that people have posted.
+I'm just scrolling down to this one.
+Again, this is actually a little bit
+better than before. So, we're going to
+use it has 82% win rate with only a 6%
+draw down. And they're saying they're
+using the Bitcoin 1 hour chart. So, now
+that I'm on the Bitcoin 1 hour chart, I
+just have the default settings here,
+sensitive and decay period. And they've
+copied all of these themselves. So,
+they've screenshot what the settings
+should be. So, I'm just going to map
+these on and enter them all in. Okay,
+all my settings here are correct. The
+last thing that I had to do was change
+it from I to go to the properties tab
+and change it from quantity to percent
+of equity. It wasn't that by default,
+but I just 100 for each. And then boom,
+we got the exact same results as
+screenshot 82% win rate and a 6% draw
+down. So, what would be good to have? It
+looks like there are very few trades in
+here, only 39. So on a deep back test,
+we would it would remain to be seen
+doing some out of sample testing as well
+and maybe even Monte Carlo simulations
+as well. Like I've shown you in previous
+videos on the channel, always be
+prudent, right, with these strategies.
+Never just yolo into them. Make sure
+that you're really stress testing them
+properly. This is just showing you guys
+how I will find strategies. This is the
+very first step, but we would take it
+into those other subsequent tests, which
+I will do in other videos. So on Trading
+View, that might look like splicing up
+your back test. This one's January 1st
+to August 1st. So we would do different
+windows of time or we could walk forward
+with putting the signals out and then
+paper trading it to test performs in
+real time on a test account. We could do
+various things. We could do this in
+Python where we randomize the
+candlesticks do some more stress. How
+does it respond to price pattern for the
+next indicator for the next strategy we
+are going through this is an 84.62%
+win rate with a 3.65%
+net draw down. What we have to know
+we're going to test it out. We're going
+to have to obviously do the same stress
+test as well. We're going to check this
+and put it on our trading view to map it
+out. And this is a pretty impressive
+graph. It's pretty line linearly up.
+Total closed trades is 65. I would, you
+know, like to see that be a little bit
+higher so we have a bigger sample size.
+But again, with stress tests, you never
+know. So, you know, we could always find
+some good parameter sets that are
+actually robust in every single uh
+situation. You never really know, but
+you have to check. This one is the Lance
+Algo strategy in the trade tactics
+discord. So I'm clicking this one here
+and the indicator is right here. So just
+scrolling to the top and we're going to
+download this script from here and
+copying it directly into trading view.
+Now again in Trading View to open the
+Pine Script tab. It's just in the bottom
+right hand corner here. This little pine
+tree once it's added to chart. We are
+going to tune the parameters as well.
+And the settings are posted right in the
+discord as well. So I'm going to enter
+these right now. So this was the
+configuration that they gave and over
+the last 30 days it has formed you know
+82% win rate 6% draw down and you know
+it's made in 1 month it's made 22%
+profit so not too shabby you know the
+graph looks pretty good again we need to
+do more tests this right here you know
+you want to find a configuration that's
+generalized we don't want the parameters
+hyper specific parameters that will
+break if there's a challenging market
+but overall you know it has a dashboard
+showing the profit up top corner and
+also projections as well the stop-loss
+and personal profit. Really cool. The
+other thing that we can do if we want to
+understand how what's under the hood
+here and just we can ask AI. So I can
+copy the strategy and we can just go
+into our Gemini and just ask how the
+pine script works in general terms. So
+there's my prompt in general terms. How
+does it work under the hood? And here's
+the explanation. It basically just
+checks if the Fibonacci level is crossed
+as well. It's a trade a trend following
+strategy. So, pretty handy to
+understand, you know, how it all works.
+If you can't just interpret the code
+yourself just by looking at it, it can
+summarize it very quickly. Now, the last
+one we're actually looking at here is a
+multiple EMA reverse scalper right here
+in the disc. Now, we're going to test
+this, put it to the test. This one here
+looks fairly promising. There's settings
+for multiple different coins, which is
+good. So, uh for Salana or R&amp;DR, uh
+Madic as well and AGIX. So, we're that
+is always a green flag if it's more
+generalized to different coins. So,
+let's put it on our chart and test it
+again. Stress testing is essential when
+vetting whether these are good enough to
+put any money in or to b possibly build
+off an ad. So now I'm downloading the
+script and once it's on your chart, you
+always want to make sure that the
+capital, the default order size, all of
+this uh fixed. So you just want to make
+sure that that's So here we are on the
+Salana 5minut chart and you know this is
+this is not half bad. Obviously we got
+to test for curve fitting. We got to
+make sure we test other data not just
+this one window that we have. But it
+does have a 73% win rate on the 5-minute
+chart and 30% net draw on which 5minute
+chart is very choppy. So you never uh
+fully know uh how it's going to work
+out. And what it says it does it has
+five EMAs, Ballinger bands and elastic
+RSI. So all of the EMAs must be in the
+same direction. So they're all aligned
+and the is an overextension. So it is a
+mean reversion meaning it counter trend.
+So it's scalping a reverse. So, when the
+price exits the Ballinger band, it tries
+to find quick reversal. All right. Now,
+you might be thinking, "Well, that's
+cool. I mean, I like a strategy. I have
+it all figured out. Now, I want to trade
+live with it. I just have it on Trading
+View. What can I do?" Well, you can go
+up to the alert button and now it has
+condition. What you're going to want is
+to select your strategy that you want to
+trade on. So, let's say that we want to
+trade on this one. This is the IMBA Algo
+Street. We're on the 15-minute rosed
+chart. So, we will just select that from
+here. Make sure our strategy is selected
+with the correct settings that we like
+and with the interval same as the chart.
+Now, for the message, um you're going to
+want to just click on the message here
+to pop it out and just type in an alert
+name and delete this. Now, for the
+message to connect it up to your real
+exchange account, you're going to have
+to sign up for a quick Signal Swap
+account. Signal Swap executes trades in
+milliseconds. I'm a developer for it and
+it's free to use. So you can sign up for
+buy bit, Apex or Pinex and get trading.
+So Apex for example, if you click create
+account through the signal swap
+platform, it will take you with a
+referral link. You need the referral to
+be able to get free access on Signal. So
+once you click that and sign up with the
+referral link, head over to the API
+section. So API management, click the
+top right, the drop-own API management,
+and you want to generate an API key. So,
+select a name, click trade for it, and
+you just want it in uh unrestricted for
+now cuz signal swap doesn't have any uh
+specific IPs. And once you have done
+that, click confirm. And these are all
+the keys you need for trading. So,
+you're going to want to copy these and
+input them into the signal swap form.
+So, on Signal Swap, once you log into
+your account and go over to the
+dashboard, the first thing you're going
+to want to do is scroll down on the
+dashboard and find the ad exchange
+button right here. And you can select
+whichever exchange you want. So once you
+select that, Pinex, you need to have a
+paid signal swap account because they
+don't have a referral system that works
+with with this, but Bybit works. And
+Apex doesn't have KYC. They're more
+decentralized. So I'm just going with
+Apex Pro. And then if you actually have
+an account, then just click you have the
+referred account. Or if you have not
+done that, click sign up. It'll take you
+back to Apex. So once you have that,
+here are the inputs that you can see.
+There are all the instructions here. So
+if you want to follow along through the
+video or just follow along step by step,
+you can do that. So just copying all of
+these in. And then for the omni key,
+that is the last one. So on Apex, once
+you've selected all of these and filled
+them out, click done. And it will create
+your new API key. I'm just deleting it
+for now cuz I've shown the keys on
+screen. But for this, you want to click
+omni and then click the check box for I
+understand and click next to reveal it.
+Then once you have that, head back and
+paste it in here for the omni. Then you
+can click link Apex account. Now, if you
+get the free account restriction
+message, so this will pop up if you
+haven't used the Apex referral link. So,
+just click use referral link and it'll
+actually sign up for Apex referral, but
+it will give you a confirmation message
+that it's seated if you've used the
+proper signup link and it will appear
+here in your connected exchanges as
+well. So, you can create a bot. Now,
+this is where we're going to bind
+Trading View to. So, click the create
+bot and then just click any any bot
+name. So I'm going to do Apex test bot
+and we're going to select the exchange
+with that we just linked. And now for
+the trending pair we want it to match
+the actual chart we have here. So we're
+on rose USD T chart. Now uh Bybit has
+the Rose USDT. Uh Apex does not. So you
+know you could use either or reconfigure
+for a different coin but I'm just
+selecting this one here on Bybit for a
+Bybit demo account. need a premium
+account, but you can use the regular
+accounts as well for free using. So, I'm
+going to put in $1,000 per trade and
+then position size a,000. And I can
+either choose flat order size, meaning
+every trade is the same, or it could do
+profit reinvest, meaning percent of. So,
+it would start with a position size
+a,000, and if I make a percent, that's
+$100. Each order will be $1,100. Once
+I'm happy with the other settings here,
+market or limit order, cross margin,
+dialing in the leverage. I can also
+enable uh takeprofit or stop loss just
+for safety. I can click the next button
+which it will generate our trading view
+web hook and alert message. So this is
+where we want to go back trading view.
+Want to copy these hit that copy button
+and then on the alert panel here you can
+pop up the message and the notification
+right here. So message pop this up and
+paste the full alert message here. Once
+you click out of it it'll be green
+meaning that succeeded. Then click back
+and then we want to go to the web hook
+box. paste the web hook we got from
+Signal Swap right here. I'm going to
+copy and paste that in right to the web
+hook right there. And you don't want to
+share that with anyone because that'll
+give people access to opening trade that
+secret. Once I click apply and create,
+it will show up and it'll take all of
+the settings that I've configured right
+here. And those are the settings that
+are going to use to trade live. So once
+a signal pops up here, there will be a
+little alert in your alerts panel. It'll
+show up in your alerts history as well.
+And that is going to trade live. So in
+order to actually enable that, you just
+got firm with the bot. Uh deploy the bot
+on. So it's creating now. Going to
+actually reserve all of these settings
+for you on signals. Once it's done, the
+page will reload and you should see it
+highlighted right here. This is the bot.
+So we have it created. It's live and
+armed. So real signals will will
+execute. As long as you have funds in
+the account, it will trade. If there's
+not enough funds, then the signal will
+fail. And you'll be able to see whether
+it succeeded or failed. I'm going to
+here in the trade history tab. Popped it
+out. You can see all the open trades
+here. No active positions right now. And
+then the trade history tab right here.
+This is where all the trade will be.
+You'll be able to loss. You can see all
+the charts and everything you need. And
+if it's profitable over a two-month
+period, then the publishing requirements
+will be met to publish it to the
+marketplace. And then you can make 70%
+of the revenue on it. You could set any
+price you want and when people
+subscribe, you'll get paid out for this.
+But it genuinely has to be profitable.
+And you can even bind back testing
+reports to it as well. So you can do
+back testing on Signal Swap. On the back
+testing tab, the back testing server is
+down right now, but hopefully very soon
+by the time maybe you watch the video,
+the back testing will be back up. But
+you click and drag your Pine Script in
+and it will automatically do all of the
+testing and tuning for you. Meaning when
+you go on Trading View and you tinker
+around with the settings here. So for
+example, if I change all the all of
+these numbers, Signal Swap does that all
+for you. And it also randomizes the
+candlesticks, tests over different time
+periods to see if there's any parameter
+combination in existence that can hold
+up to true stress tests because some of
+them don't. Let's say if you go out of
+sync in a in a new window or there's new
+candlesticks, maybe the the trading bot
+collapses, but signal swap takes care of
+all of that for you. So it runs th
+hundreds thousands of sim simulations
+and then it gives you the best uh result
+and whether it passed or failed. So you
+can see here I did a test here in the
+history. This was a simple EMA and it
+did in sample, out of sample, Monte
+Carlo. And here we have the results. So
+it says not robust. There was no setting
+that passed the robust, but you can, you
+know, you could check the full report
+and it tells you how many combinations
+you tested as well. I just did 100 EMA
+combinations, but you could do hundreds
+of thousands if not millions and it
+happens all automatically, hands off and
+hyper fast. So there are other tools for
+Trading View that will do deep tests for
+you automatically um but those are very
+slow. Trading View servers are extremely
+slow. We're talking the difference
+between one back test every 10 seconds,
+thousands of back tests every second.
+That's why I'm so hyped to present this
+to you guys. So hopefully this will very
+shortly. So I'm just showing this out
+really cuz this one of the coolest
+features that I've ever developed uh and
+had a hand in developing. Very, very
+proud of it. Now what's left now that we
+have our bot live, all we'd have to do
+is wait to see how it performs. Usually
+with these trading bots, there will be a
+handful of bots that really perform well
+and some of them just don't perform well
+in real time. So I usually will turn it
+off if it hits, you know, minus 20 25%.
+And I have a whole bot army going where
+the trading bots that are doing well, I
+increase the order sizes and so on and
+so so I just build trust with my bots
+and my arsenal. Not all of them are
+going to work in every market. There is
+draw down in every single bot. There's
+not perfect bot out there. They're all
+going to have loss streaks. There's
+going to be periods where the market
+just accepts choppy or flat or it's
+going to be low volume and the signals
+get very confusing. So that is why you
+just remain open and you remain
+optimistic and you manage your bots
+properly. You don't just set them and
+walk away. This is a whole process of
+tuning, learning, and configuring. So if
+you have any questions, comment down
+below and I'll do my best to answer any
+question that you have. If you haven't
+subscribed to the channel yet, now is a
+great time to do it. if you like the
+bell notification icon to get notified
+when I do fresh uploads as well as I
+might do giveaways for signal swap in
+the future for trading bots on the
+marketplace that I've posted on there. I
+will see you in the next

@@ -1,0 +1,332 @@
+Okay, here we are. I think we are about
+to be live. We are either live or about
+to be live. My name is Mike Russell and
+thank you for watching this live stream
+update on Creator Magic. So, it's very
+exciting. There's been so much going on
+and I thought I'd throw out a live
+stream on the channel today because it's
+been a busy week. There's been a lot
+going on and I think the best way rather
+than putting out a recorded YouTube
+video is to actually update you in real
+time. And the best thing is it means in
+the next 8 minutes if you join this live
+stream you can ask me questions live.
+Now if you are a member of my premium
+community which is at mrc.fm/premium
+that's the link mrc.fm/premium.
+I will be doing a special membersonly
+stream right after this one. In fact, in
+9 minutes, as you can see right there,
+I'll be doing this stream and it'll be
+really exciting and I'll lift the
+curtain on some of the stuff that I
+can't mention right here on the channel
+on the wider YouTubes as to what exactly
+is happening. So many of you joining in
+right now. We've got Sahi 97 saying,
+"Yo, we got Tusha saying, "Hi, been
+waiting for your video uh since two." Oh
+my goodness, your time. Okay, nice to
+see you. Hello, Gen Twins as well. So,
+please ask questions right now in the
+chat. That is what I'm here for.
+Meantime, I'm going to get straight to
+it. Uh, hey Rayvot as well and show you
+some of the update on what's been going
+on, how this is functioning, and what
+exactly is occurring because even I am
+getting outside of the loop. So, first
+of all, let's go up and look at the
+Clawita challenge landing page, which
+actually my treasurer who is running all
+of these AI agents is running. You can
+see we've got 77 days left on the
+challenge and combined portfolio of
+$3,11,
+which I've got to say is not bad
+considering we started with $3,000
+between the agents. It was a little bit
+more last week, but you can see here
+that ClaS is being very cautious, has
+only made about five bucks. Uh, Cauculus
+is calculating the crypto market and
+seems to be doing really well. And your
+lobster, I'm a little bit disappointed
+with your lobster, but I'll get into
+that in a minute. Um, now a little
+update really for those of you who've
+just joined in now and you're like,
+"What is this? What is this all about?"
+Sorry, I realize I got my drink can in
+the way.
+Let's get that out the way. This is an
+experiment using Open Claw. I've set up
+three separate instances of OpenClaw uh
+to do things with a crypto wallet. One
+is very conservative, one is middle of
+the road calculated, and the other is
+outrageous and can spend up to $200 a
+transaction. So far, the calculated
+middle- of the road one is doing really
+well. Let's answer some of your
+questions. I'm wondering the strategy
+you're using for making money. My bot is
+trading. Well, excellent. I'm going to
+answer that question right now. Uh,
+please teach how we can make money with
+it. That's what everyone wants to know.
+Can you make loads of money? It's up and
+down at the moment. That's what I think.
+Um, I've built a hub. With the hub, I
+make open claw work and I can't. Um,
+what should be the brain? Not sure I
+understand your question, but um please
+feel free to enhance on that. Uh love
+the chat. It's because of your vids. I
+was inspired to launch an app on the App
+Store and Google Play last year. So,
+thank you. That means a lot to me,
+Wisher. So, thank you, Wisher, for
+letting me know that. Right, let's get
+into it. Rather than me tell you things,
+I'm going to ask and find things out. Uh
+so, okay, this is my health AI telling
+me to go to bed at uh 8:30 in the
+evening. It's it's quite a wild thing
+that I'm doing. That's a that's a topic
+for another video though. I chat with my
+health AI. I've got my AI mic who's
+checking my LinkedIn inbox and stuff
+like that. I've got loads of open claw
+instances. But this is about the three
+agents making money. Um should I set it
+to trade on poly market? Maybe. I don't
+know. The problem I am having is crypto
+is very niche, very small space and a
+lot of stuff, a lot of money,
+transactions and stuff is all done uh in
+the real world with credit cards and
+fiat. So dealing with crypto on the base
+network or a lot of you have said go to
+Salana as well that's really difficult
+because most people don't use that kind
+of currency in day-to-day. It's only the
+the the crypto minds the people who are
+already in that space that you are using
+it. So my agents are hitting blockers
+there. But let's ask them and find out.
+So first of all let's talk to the
+treasurer and telling me all about
+what's been happening here. They've been
+setting up x42 proxies and stuff like
+that. But I'll just say uh give a high
+level what have the three
+agents done this week. No indepth
+just overviews.
+Okay. So we'll get the treasurer to
+write back to me and hopefully we can
+see that the treasurer will write back
+soon. Usually it says the treasurer is
+typing. It worries me that the treasurer
+is not. I'll talk to Cauculus. This is
+the one that's winning. Now, notice
+every day Cauculus and the other agents
+are running security checks on their
+VPS's. And you can see a lot of people
+are trying to hack it. 13,700 people. I
+don't think that's targeted at me. I
+think it's the fact that if you leave
+your VPS open, it can get hacked. So,
+basically, I said every day without fail
+to my three AI agents, you must do an
+audit and see if anything is insecure or
+open. So you can see here it's checking
+like fail to ban firewall. It's checking
+if the ports are clean, SSH key only, so
+no root login, no failed password
+attempts and 14% of the disc used. It's
+even updating its own kernel. That's the
+uh the brains if you like of the system
+itself. Uh needs a reboot on the VPS.
+Interesting. Okay, I'll just say oh and
+an open claw update is available. Yes,
+I've seen that on X today. Actually,
+they're updating every day. How do I
+keep up with this? Anyway, I'll just go
+back to Oh, I think the treasurer is in
+touch. I'll just say, uh, yo, uh, what
+you been doing?
+You're in the lead. So, that would be
+nice for Cauculus to know. Let's just
+have a look and see if the treasurer is
+in touch. Oh, okay. Right. Let's get rid
+of this. Uh, here's this week at a
+glance. Okay. Claious, mostly
+infrastructure work. Got the X42 API
+endpoints listed on Bazar. That's good.
+continued stacking AR deposits, $20 a
+day. So, basically the cautious one is
+just throwing 20 bucks a day into Ave. I
+don't know if that's a strategy or not.
+Uh only agent with actual service
+revenue though. Tiny though, 50 cents
+per transaction. But you know what?
+That's not nothing. So, I'm just going
+to leave it going away at this. Okay,
+this is awesome. Uh why did I choose
+crypto instead of stock on forex? Um
+because basically, um if you watch the
+story, good question by the way. Um I
+essentially launched Claw Waitera uh
+about two or three weeks ago that ran an
+autonomous X account. In fact, it's
+running this Autonomous X account right
+here. So we look at the profile and this
+is automated by me. See automated by
+Mike Russell. You can follow this. I've
+linked up in the description and uh it's
+like totally on automation. Actually,
+let's go ahead and pin that for it
+because it can't that's the only thing
+it can't do is pin posts. So I'll pin
+its latest post. You can see every few
+hours it's posting and it's actually
+posting about relevant stuff as well,
+which is pretty exciting. Now, I
+recognize I've got a minute left until
+my premium members live stream. That
+doesn't start in 9 minutes. That's
+literally starting in a minute. So, I'm
+just going to do a few more updates and
+answer a few more questions. Uh, so
+let's see. Cauculus has been NFT
+flipping. I think that's how Cauculus
+has made most of its money. Warlets
+today it bought chunks. By the way, I
+have no idea what these things are. It's
+just trading them. I didn't tell it to
+do that. And then your lobster got 200
+bucks into Ave. Did a $100 USDC to
+wrapped ether swap for trading
+flexibility. Tried to push for a $400 if
+deposit uh but denied. So that's my
+treasurer. That's like the air gap
+that's making the decisions like is this
+sensible or silly? And the treasurer
+runs on the frontier opus 4.6. So like
+my little workers can say I want to do
+this with money and then the treasurer
+can say actually no or actually okay. So
+there's like a lot of and also that
+protects someone everything is
+airgapped. So the uh agent the openclaw
+instance that I'm exposing here on X has
+no direct wallet access. So you can't
+get people uh sort of messaging it and
+saying hey send me 50 bucks on uh on
+base. It it it couldn't physically do
+it. So I've put a lot of protections in
+place. What else have we got? Let's
+answer some of your questions. Then I'm
+going to hop into my community and
+stream for the members there. Um hard to
+create something in the background with
+no followers. Yes, it is absolutely
+agree with you there. Uh Adrian, yes. Um
+having the YouTube channel and promoting
+that I've got an autonomous open claw on
+X has definitely helped, but it's kind
+of gone viral. Kind of got legs beyond
+just the YouTube channel. Now I think X
+is organically showing up. The posts are
+getting 1,000 to 2,000 minimum views.
+Some of them have had tens of thousands
+of views. This is not me posting. This
+is Open Claw. That um X account is
+growing faster than I have in a decade
+on X. I've got like something like just
+over 10,000 followers on X. This uh
+account has amassed a quarter of that in
+three weeks and I've taken 10 years to
+get 10,000 followers. So, shows you
+what's possible, doesn't it? Right.
+Couple more questions here. Uh what else
+have we got? Uh you have all open claw
+balances running on Docker. Yeah. So,
+um, I did a bit of experimentation. I'm
+going to take this over into the
+community in just a moment, but, um,
+essentially I thought I'd try setting
+open claw up in different ways. So, claw
+waiter, the one that runs, uh, this X
+account here, uh, that actually is
+running on uh, just the vanilla install
+where you do the the command line
+install. So, I literally spun up a VPS,
+installed it that way. the treasurer I
+used uh let me remember the name of it I
+can't remember uh Anible the anible
+playbook uh just because I thought that
+was cool and it does security by default
+and I needed the treasurer to be the
+most hardened instance of openclaw and
+then yes my three workers are working in
+docker containers but they all have
+access they have root access I've been
+really courageous here uh to their own
+vps instances which I'm uh running on
+hetner by the way European company based
+in Germany and um No affiliation by the
+way and they seem to be having fun.
+Anyway, um yes, the standings just to
+bring you up to date again with the
+Clawa challenge right now. You can
+follow this online. Uh all of it will be
+linked down below, but this is the
+website. We've made over a hundred bucks
+this week. Uh they're all doing okay. Uh
+Cauculus is in the lead. Cautious
+Cautious the cautious one down. And uh
+we can see that your lobster they're all
+posting. They're doing like a live feed
+as well. you want to follow it, I'll
+link the X account down below. So, go
+and check that out. It's nearly at 3,000
+followers, which I think is pretty cool.
+And now I'm going to click to join my
+live room in this community. So, if you
+are a premium member of mine, let's just
+uh give access to my uh microphone and
+webcam and we'll hop in and we'll do the
+live stream over here. So, I'm going to
+start this room. Oh, that's working
+incredibly well, isn't it? Uh and then
+if you're a premium member,
+mrc.fm/premium, fm/premium.
+You can join me over there. I'll post
+this. I know many of you have been
+absolutely fantastic to join the premium
+community. And you can see some of my
+premium members are popping in. Uh now,
+I did make this actually a um a live
+room. So, anyone who wants to in the
+premium like Wayne here, by the way,
+you're still on YouTube, guys. So, if
+you don't want to be on YouTube, just
+blank your camera off. Uh just as I'm
+just finishing up my YouTube live stream
+here. Uh, so this is like an ask me
+anything I'm going to do for the next
+half hour or so in the community to give
+my premium members uh even further
+behindthe-scenes look at exactly what is
+going on. So, thank you so much for
+watching this week's update. Hopefully,
+see you in the premium community. If
+not, there'll be another update next
+week and lots of automated updates going
+out on X as well. Thank you so much,
+YouTube, and have a great weekend and
+goodbye. Thank you.

@@ -1,0 +1,592 @@
+So, this is Zeus, my $8,500 supercomput.
+And right now, it's generating me over
+$48,000 a month and growing quickly.
+See, while everyone's out there buying
+Mac minis and paying hundreds a month
+for cloud servers, the founders who are
+going to dominate in 2026 and definitely
+beyond need to build machines like this.
+And I'm talking about running your
+entire business infrastructure. Email
+verification, AI models, automation
+hosting, millions of rows and lead
+databases, all hosted on a single
+machine, sitting in your office with no
+monthly expenses. Now, by the end of
+this video, you're going to be ordering
+parts on Amazon, sitting there waiting
+for them to arrive like a kid on
+Christmas. Now, let me tell you how I
+got here. About two years ago, I was
+running pretty much everything on cloud
+servers, Digital Ocean droplets, AWS,
+and it worked pretty well for a while.
+Was running NET on there, hosting my
+websites on there. But then we started
+scaling, and AI got a whole lot more
+useful. I went from verifying, you know,
+a few thousand emails a day to now we're
+verifying hundreds of thousands of
+emails per day. I went from running two
+or three NADN instances with a few
+different automations on them to now
+we're running tens of N8 instances with
+my main ones doing millions of
+executions per month. And every time I
+scaled, my cloud costs went up every
+single month. At one point, I remember
+paying $1,200 in a single month just to
+host my website. Now, some of you are
+probably thinking, just get a Mac Mini
+or a Mac Studio. After all, those videos
+have millions of views. But here's the
+thing that most people don't think
+about. Even a Mac Mini M4 Pro, you get
+24 gigs of RAM, 100 gigs of storage for
+1,500 bucks. And that's great for
+personal use. It's great for
+development. It's great for running your
+Cloudbot. But when you're running an
+entire enterprise level software, you're
+verifying hundreds of thousands of
+emails per day. You're using NADN
+[music] to execute autonomously
+throughout the day to do really heavy
+lifts. You're running it for clients.
+You're running it for colleagues. or
+you're hosting your own robust software
+with millions of data points that it has
+to go through and you want to save money
+on AI costs. Maybe you're paying OpenAI
+or Anthropic tons of money every month
+and you want to run your own AI locally.
+You need different hardware. There's not
+a Mac model in the world that can match
+what Zeus, my supercomput, does. And
+stitching together systems just adds
+complexity. You want a system that's all
+integrated into one that you can upgrade
+as needed. So, here's why you need to do
+what I did. You need to build a single
+machine, a single operating system, one
+network configuration, 128 gigs of RAM,
+14 terabytes of storage, 16 cores, 32
+threads, and everything in one place.
+So, here I'm going to show you exactly
+what Zeus is running right now because
+this isn't theoretical. This machine is
+generating revenue for me 24 hours a
+day, 7 days a week. And I'm going to
+show you exactly how to build it and the
+real use cases that you're going to hear
+and be like, "Holy poop, if I were to
+have this in my business, what would
+that unlock? How could I make money with
+this thing? How much money could I save
+with this thing?" You're going to learn
+all of that right here in this video.
+Now, if you're new to the channel, my
+name is Le Jen J. I run the biggest
+[music] community online for B2B lead
+generation and AI automation. And
+between my companies, we have over a 100
+employees and we do well over 10 million
+a year. Now, let's talk about Zeus.
+probably the most valuable thing that
+Zeus, my supercomputer, does is running
+open-source software. So, what is
+open-source software? I had no idea
+about because I'm not that technical.
+I'm not a developer. I was introduced to
+this world by my colleague Michael,
+who's been building systems with me for
+over a year now. He's been building
+computers since he was a kid. He's the
+one who actually put me on to this idea.
+He came over, helped me order the parts,
+helped me assemble this thing and get it
+working. I had no idea that a lot of the
+applications that you probably pay for,
+I'm talking about Google map scrapers,
+email verification tools, there's
+open-source versions of all of these
+things. And if you learned about what
+else you could just download and start
+running without having to pay for it,
+your mind would be blown. In fact, you
+could just go on the Docker marketplace
+right now and see what other open-source
+tools are out there that you can just
+download and start using without paying.
+I'm talking about a bunch of different
+AI models. Crunchbased scrapers, YouTube
+scrapers. There's scrapers for just
+about everything and open source tools
+for just about everything. If you use
+Versell like I do to bring your Claude
+code applications to life and to the
+internet, you don't need to pay them.
+Kulio is a replacement for Versell. So,
+whatever's in your current tech stack
+softwares that you're paying for,
+there's probably a pretty good
+open-source version for it. And you can
+run all of those things on your home
+server and you can use cloud code,
+install it on your home server and now
+you can configure the entire thing, have
+it access that server, download
+applications, launch applications. It's
+absolutely incredible. So let me just
+kind of share this is the the back end
+of Zeus. Now it's not pretty like an
+Apple computer, but I'm going to show
+you around a little bit. We've got all
+of these applications in the middle.
+These are Docker containers. These are
+these open- source applications that are
+running. Whole bunch of different
+WordPress sites, NADN instances, and
+things that you probably haven't heard
+of before, but are basically free
+applications, free software that you can
+download and run. Coolify, GMAP
+scrapers, lots of different unbelievable
+things on here. And we're running this
+on something called Unrade, which is
+something that you load on to your
+server. And this is like your user
+interface. This is your like Mac OS, but
+for the server. Now, the great thing is
+you're never going to actually be logged
+into this. My server right now is
+sitting in my living room right now
+plugged into a surge protector with no
+monitor, no keyboard, nothing. It just
+runs 247. And if I ever want to access
+it, I just do it in my browser. I just
+connect to Zeus.local and because I'm on
+the same network, I can just remote into
+Zeus anytime. Uh I can also SSH into
+Zeus. So if I ever want to access it
+from say cla code, I can just tell
+Claude to SSH into Zeus and control it,
+do whatever I want in there. My
+Claudebot is also connected to Zeus. So,
+if I tell Bob, hey, go into Zeus and do
+this, it will do it without me asking.
+Now, it's got a ton of power and I can
+assign different power to different
+apps, different Dockers, and just take a
+look at this. If I want to come and uh
+add new applications, I can just come
+into apps. There's an app store where
+you can download things and see what's
+available, what's open source. And if
+you're ever wondering, cuz this isn't
+that pretty, literally just download
+Cloudbot or install Cloud Code on this
+thing and ask it to do research [music]
+and download it for you. It will
+configure it. It will get it working.
+The reason this was so inaccessible
+before is cuz it's ugly. It's hard to
+use. This isn't Mac. So, if you are
+non-technical like me and you want to
+build something like this, now is the
+best time because you don't need to be
+technical. You have cloud code. It'll do
+everything for you. Now let me just show
+you some examples of applications that
+we have running on Zeus right now that
+are making me tons of money. Let me show
+you this. So this is my NAD instance.
+Now the NADN also running on Zeus. It's
+running a ton of executions every day.
+Really heavy powerful executions. So
+let's come into my Google map scraper.
+Now this is being coordinated
+orchestrated as you can see here by
+Naden. So every 15 minutes I think it
+runs this orchestrator. And check this
+out. Yeah, it's running right now. Takes
+about 3 to four minutes per run. And
+this is running on Zeus. So, it's
+checking if it's already running. But
+here, start scrape job. It's connecting
+directly to Zeus's IP address, starting
+the scraper on Zeus, and then checks if
+it's done, grabs the scrape results, and
+adds them into Zeus's Postgress. This is
+running non-stop for free. I've got a
+free Google Maps scraper running 24/7,
+scraping all of the Google Maps data.
+this step here. After we've scraped all
+of Google Maps, we have to find the
+owner of that Google Maps company. If I
+were to do this and pay Open AI to to
+run each record through AI to get
+results, that's that's like 15 million
+local businesses. It would cost me a
+fortune. We've got AI models, O Lama
+running directly on Zeus. So, because I
+host my own AI models now, I can do AI
+image generation, AI image analysis, I
+can do uh text AI, and I'm it's it's all
+running locally on that system, and it
+is unbelievably good. Usually, it's the
+version right before OpenAI's uh now on
+like 5.3 or something like that. A lot
+of times they're like 5.0 is going to be
+available open source. So, you can
+download this and never have to pay AI
+companies again for really simple stuff.
+A lot of it is is now running on Zeus.
+So I don't have to spend money there
+anymore. Consulty AI, we have an email
+verification system running on Zeus. So
+we installed an open- source tool called
+Reacher. And now every twice a day, this
+automation is going to run and it's
+going to verify hundreds of thousands of
+email addresses in Zeus. I think this
+one did 200,000 emails in this run. Just
+absolutely incredible. Super heavy
+automations, super powerful. And all of
+that verification, all of that computing
+[music] power is only possible because
+this reacher API is open- source and
+downloaded in Zeus. If I were to pay for
+this, if I were to pay million verifier
+or another company for this, it would
+cost me thousands of dollars a day just
+to run this thing. So these are just
+some examples of how we're using Zeus to
+to make tons of money. And just to show
+you, here are some of the Docker
+containers that are running. And you'll
+see Koolifi, this is the replacement for
+Versel. Here's the Google map scraper.
+Here's my AI uh local model. Open web.
+Actually, I think I can actually come in
+here and access the web version of it,
+too. So, let's see. Web UI. Yeah, here
+we go. Sign into the web UI. I never use
+it like this. Uh I'm always API
+requesting in it, but I can access it on
+the web, too. Just like you talk to chat
+GPT, although you probably never need
+to. I've got instantly Oh, cold email
+automations in here. I've got lots of
+different WordPress sites in here. I've
+got lots of different scrapers in here.
+Postgress database, these are the ones
+that can hold millions of leads. And
+because of how powerful this system is,
+it's fast. It's lightning fast. So, if
+you were to try and do any of this stuff
+with a virtual server, it would just
+crash with the level of compute power
+that's required for some of these
+things. Now, by the way, guys, if you
+want to learn how I set up some of this
+stuff, how I built my own email
+verification server, installed it, I
+actually have a video that I did
+recently on it. Uh, I don't even
+gatekeep that information. It's totally
+free. It's going to be on the screen or
+down in the description somewhere so
+that you can learn how I set up Reacher
+and built my own free email verification
+system. Now, why this is so exciting now
+and probably the reason that you're
+already the most excited is the local AI
+models. We're running Olama plus open
+web UI on Zeus and I kind of just showed
+you that but that gives me and my team a
+completely free chat GPT claw
+alternative and it can run Deepseek
+Llama Mistral lots of different really
+powerful models with zero subscriptions
+and no API costs and if you're worried
+about security now you're not sharing
+data with other networks with OpenAI
+it's all contained in your server and
+with 128 gigs of RAM which we have on
+Zeus and 16 cores these models run
+insanely fast. Now, am I saying that you
+can just build the server and you don't
+need Claude or Chat GBT anymore? No. For
+cutting edge high reasoning tasks, you
+still want the the best models. I'm not
+building full apps using O Lama. I'm
+using Cloud Code and I pay them a lot of
+money for it. However, 80% of my daily
+AI tasks that are running in N8 really
+don't need the latest and greatest
+model. the ones that are summarizing
+things or doing some cold email
+personalization. Do you really need Opus
+4.6 for that? Not really. You can use
+the local models and never have to pay
+those AI costs. I was literally paying
+probably $800 to $1,500 per month across
+all the different AI models. Once I
+implemented this, it cut my cost like
+80%. So, what about NADM? A lot of times
+you're doing some pretty heavy
+automations. At least I know I was. And
+I was paying this virtual server. I kept
+upgrading and upgrading and upgrading
+because it was getting slower and slower
+the more automations I built and the
+more workflows and executions that it
+was doing. Eventually, I transitioned
+everything in it to Zeus and I gave it
+all of the power that it could possibly
+handle and I actually asked Cloud Code
+to speed up my Anodan in every way
+possible and it did. It auto updates
+every every day with the latest models.
+It backs it up every day all from Zeus.
+And as part of my high ticket AI
+automation offer, we actually run NAND
+for our clients. So it actually helps me
+make money getting people onto my high
+ticket offer because I'm able to offer
+that unbelievable additional service.
+Now, I'm sure all of this is sounding
+really impressive, but we really were
+just scratching the surface. We're
+running a Have you seen built with the
+things that scrape different websites
+and see what tech stacks they're using?
+We're running an open- source version of
+that. We're running an opensource cyber
+security audit system that will do uh
+penetration testing on your website so
+that we can have an unbelievable lead
+magnet for our cyber security clients.
+Literally, I I can't even stress this
+enough. You'll be shocked at what is
+open source and what you can run and
+turn into an offer or turn into a SAS
+product. Now, another really cool use
+case for Zeus, I don't know how many of
+you pay extra storage for Google Drive
+or for Dropbox, but Zeus has tens of
+terabytes of hard drive space. And you
+can literally just add more space by
+sliding in a disc. It's not like a Mac
+where you have to change your whole Mac
+to get more hard drive space. All of my
+storage space is on Zeus and it's
+accessible from anywhere in the house.
+If you're used to uploading content to
+Dropbox or to Google Drive or some other
+cloud service provider, I don't need any
+of that anymore. Anytime I want to
+access Zeus or upload things to Zeus, I
+can access it from anywhere in my home
+network. Let me show you how how easy
+this is. So, this is my finder window.
+If I come into my network, here's Zeus.
+He's accessible anywhere. Data, this is
+all folders that I can access from any
+computer in my house. All of it is
+stored on Zeus. And if I want to put a
+video in there, if I want to put an
+entire application on there, this GitHub
+folder, this is where I store all of my
+applications. It's a lot, it's a lot of
+space and I can access them anytime. No
+more cloud. Literally, no more cloud. No
+more cloud cost. Dropbox, Google Drive.
+All of the files gets backed up to Zeus.
+You drag it in there and it's way faster
+than it would be uploading it to a
+Google Drive or a Dropbox. And probably
+worth mentioning as somebody who has
+lots of businesses and I've been
+collecting websites over the years, you
+end up paying like WordPress and all of
+these different cloud providers, you
+know, 50 to 100 bucks a month to host
+your websites. None of that anymore. You
+host WordPress on your server. You have
+Coolify on your server to host your
+applications. And now you have no more
+hosting costs, full control. You have
+your Cloudbot and your Cloud Code to
+help configure everything, make sure
+it's all working correctly, and then you
+never have to worry again. But let me
+talk about why this matters so much
+beyond just what I showed you and what
+I'm doing today. Because the real
+argument for building your own server
+isn't just about saving money on cloud
+cost. It's about preparing for the
+future and getting ready for a world
+where AI dominates everything. AI models
+are getting bigger. They're getting more
+powerful, more capable. And the trend is
+clearly moving towards local inference.
+Every major company, Apple, Meta,
+Google, they're all pushing to run
+models on their hardware. Why? It's
+faster. It's private. And it's cheaper
+at scale. See, right now, I can run 70
+billion parameter models on Zeus. A year
+from now, the models that are
+state-of-the-art today are all going to
+be running on hardware like this. 2
+years from now, you're going to need
+local compute just to keep up with what
+everybody else is doing. You won't run
+the latest open-source models on some
+VPS with 8 gigs of RAM. You're not going
+to be able to run them on a Mac Mini
+with 24 gigs. You need serious hardware.
+And if you want to do things at scale
+like I'm doing, like scraping all of
+Google Maps or scraping every podcaster
+and enriching all of it, then there's
+really only one way to do it, and that's
+building your own athome supercomput.
+Now, the fun part. I'm going to show you
+exactly what to build, what to install,
+and how to put it all together. So, I
+have to thank Michael for helping me
+with this product list, but I've got a
+nice Amazon storefront with everything
+that I bought that goes into Zeus. It's
+going to be for free down below. Just go
+ahead and click to access this Amazon
+storefront link. This is literally
+imported from my orders. Uh, and if you
+total the price, it should add up to
+around 850 or 8,500. Now, there's some
+things on here that may have changed in
+price or might not be available. So, you
+might just need to find some
+alternatives. The most important and
+expensive piece, as expected, is this
+Nvidia GPU. Uh, I think they've gotten
+more expensive. As you can see, I
+actually purchased this thing. Um, but
+you you will need this to run the latest
+AI models. So, I I would really
+emphasize don't cheap out on this cuz if
+you cheap out, you're not going to get
+the product that you need. So, this is
+going to be your parts list. Now, I also
+put together a installation guide on
+exactly how to set it all up. And this
+is going to have like images and guides
+on how to put every piece together as
+well. So, make sure that you check this
+out. It's going to be in the
+description. Now, just kind of running
+through what's on Zeus. We've got the
+CPU. This is the AMD Ryzen 9. This is
+what's going to give you all of the
+cores. We've got 128 gigs of RAM in
+here. We've got 14 terabytes of storage.
+We've got this Nvidia GPU, the 5090.
+This is one of the latest models. And
+putting it together does become a little
+bit complicated, especially if you're
+doing it yourself and for the first
+time. So, uh, I definitely emphasize
+that you want to go here and download
+this parts list and the step-by-step
+instructions on how to put it all
+together. Now, if you were to buy a
+pre-built server, cuz that's your
+alternative, right? instead of like a
+Mac studio. What if you were to just get
+like someone to pre-build this for you
+and customize it for you? If you're
+really rich, you can think about doing
+that. I wanted the challenge and I
+wanted to do this with Michael who's
+been building these for a long time on
+my team, but you might be able to find
+one of these like pre-built for you that
+has all of the specs that you're going
+to need. You're probably going to end up
+paying around $20,000 for something of
+this power that's pre-built. Uh, but it
+was a lot of fun building it yourself
+and trying to get it online. Uh, so I
+definitely recommend trying this. I
+think it's going to be a really cool
+skill and something that you have for
+the rest of your life and it's something
+that you built. So once it's running,
+it's like, "Oh my god, I put all these
+pieces together and it's actually
+working." And it actually wasn't that
+hard to do. It took less than a day. Uh
+it was kind of like solving a puzzle and
+it was a lot of fun. Now, here's what I
+want you to do next. I put together the
+Amazon storefront with the exact parts
+that I used to build Zeus. Same CPU,
+same RAM, same drive, same case,
+everything. It will work. The link is in
+the description. You can literally order
+the same build today. Uh, second, uh,
+you're going to want the step-by-step
+guide on how to put this all together.
+So, all of the applications that you're
+going to need, all of the assemblies,
+make sure that you grab that guide as
+well. It's going to be in the
+description. And I am going to work on
+putting together like a step-by-step
+video module on how to assemble and set
+up your own Zeus. And don't call it
+Zeus, that's my name. So, make sure to
+join the AI Automation Insiders to
+always get the latest on stuff like
+that. Uh, and as well as the other
+cutting edge stuff that I'm doing that I
+don't put on YouTube. And believe me,
+there's plenty of it. Inside of that
+community, we've got over 3,000 members.
+Now, you can join it for free right now,
+too. It's going to be down in the
+description. It's a school community, AI
+Automation Insiders, done for you NADN
+templates, Claude Code workflows.
+Definitely recommend joining. It is the
+place to be to be on the cutting edge of
+AI automation, cloud code, and doing
+stuff like this. Now, I do want to hear
+from you. Drop a comment. Let me know.
+Is this helpful? Are you planning on
+building your own supercomput? Have you
+already done it? Maybe I made a mistake
+or you did something better. I'd love to
+know about it. Drop a comment. Let me
+know. Let me know what you're running on
+yours. Let me know what you want to
+install. Maybe it's something I didn't
+didn't even mention and I want to know
+about. Let me know in the comments. I
+read everyone and I will tell you if uh
+your use case makes sense and we can
+talk about it and have some fun. Now, if
+you haven't already seen my video on
+setting up your own email verification
+server with Reacher for free. It's
+probably the next best thing you should
+watch. It goes handinhand with this. So,
+make sure to click somewhere on this
+video to watch it and join the AIA
+insiders down below. Hit subscribe if
+this was helpful. Hit the like button if
+you if you like what you see.

@@ -1,0 +1,887 @@
+So over the last month, basically
+everyone in the world of AI has either
+experimented with OpenClaw or is
+actively running an OpenClaw instance.
+It's this AI agentic framework that
+allows an agent to go off and do all the
+things that you want. It can do the work
+for you. It can buy your groceries for
+you. It can book you tickets and flights
+to go on vacations. It can do seemingly
+everything. But on the back side of that
+is a lot of complexity and a lot of risk
+in terms of security that I'm not sure a
+lot of people are really taking into
+account. What's happened since then is
+that a lot of other companies have
+gotten involved. They've wanted to take
+the market share away from OpenClaw,
+which is this open source wild west
+version. And just this week, Nvidia and
+Jensen seem to have the alternative
+figured out. This is coming from an
+unlikely suspect because we have Claude,
+we have OpenAI. Both of those are
+clearly working on OpenClaw competitors.
+We're seeing feature shipped every week.
+But to see Jensen get in the ring and
+announce something called Nemo Claw,
+which is the new open source
+alternative, it seems like there's going
+to be a new player in town and maybe
+even more with Perplexi, too. Like a lot
+is going on in this OpenClaw world. So,
+if you are an OpenClaw user, you're
+going to want to tune in for this one.
+This is a really underrated moment for
+Nvidia in my opinion. Um, it is their
+Apple moment. Now, Apple uh is are
+geniuses in two things. Both the
+hardware and the software for all
+cellular phones. They own the app layer
+and they nail the hardware layer, right?
+Best phones in the industry. Nvidia is
+now making its foray into consumer
+hardware or consumer software rather,
+right? So they announced this week that
+they're going to invest $26 billion over
+the next 5 years into opensource uh
+agents. Uh and Nemo Claw, which is their
+open core competitor, is going to be one
+of their major steps in this. So what
+Neimoclaw is is, as the name suggests, a
+direct competitor to open core. It's
+going to be an agentic platform where
+you are able to design, create, and spin
+up AI agents and have them interact with
+each other. Um, now this hasn't been
+officially announced yet. We're breaking
+the news right now, but rumors state
+that these agents will be able to do
+very similar things to OpenClaw. So,
+you'll be able to get them to do your 9
+toive job potentially, or you're going
+to get them to be able to do the
+shopping for you like you mentioned
+earlier, but with one or two different
+twists. Number one, it's going to be way
+more secure. Now the number one bit of
+feedback uh around openclaw is that
+there's huge amounts of security
+exposes. People have lost money,
+personal data, credit card information
+has been exposed. You won't get any of
+that with Nemo claw. Number two, the
+user experience is going to be way
+better. And Jensen Huang has reportedly
+stated that he's designing this first
+and foremost for enterprises. So
+businesses that want to take their kind
+of work seriously, but also to the
+consumer layer as well. And the number
+one signal that he's demonstrated doing
+that is making the entire thing open-
+source. The instant thing that I thought
+of Josh is Nvidia produces the GPUs to
+power the AI models who power AI agents
+and now Jensen is creating the AI agents
+which is going to lead to more demand
+for GPUs. So Nvidia just keeps on
+winning $5 trillion probably$10 trillion
+$15 trillion if this actually hits.
+&gt;&gt; Everyone's making their way up and down
+this AI layer cake which starts in chips
+and goes all the way up to the
+application layer. A lot of people have
+started at the application layer or the
+model layer. Nvidia is one of the rare
+ones that started at the bottom and is
+working its way up. I mean, we have the
+the what is it? The GTX Spark. Nvidia's
+like small household thing desktop
+computer sits on your desk and I assume
+we'll be getting a lot of updates at
+their GTC conference on Monday. So, this
+hasn't been confirmed. This will be
+confirmed on Monday. I strongly suspect
+it will be called Nemo Claw. They will
+have their own version of an open source
+OpenClaw instance. And this is a
+seemingly pretty opportune time because
+a lot of people have been having issues
+that we have reported with OpenClaw.
+When you run OpenClaw, it's the wild
+west. You're building these systems.
+You're putting things in place. You're
+building your own checks, but you're
+ultimately responsible for managing and
+orchestrating this huge AI network that
+begins to grow over time. And Matthew
+Berman here, he has another great
+podcast in the AI space. He was talking
+about how his open claw had a similar
+issue. And I've seen this a lot around
+the internet where the open clause get
+into a bad state and you start to use it
+and it starts to get worse in terms of
+output and then it just totally breaks.
+And then he followed this up with anyone
+else having their tokens keys secrets
+reappearing in plain text after moving
+them to keychain. Openclaw really wants
+keys in plain text. So he's been having
+these issues. There was another one
+where the openclaw outputs were causing
+these like duplicate mentions. So open
+claw has been good for some, great for
+others, and incredibly challenging for
+most because a lot of this requires
+upkeep. I'm hoping that what we're going
+to see is this trend of more rails
+around this open claw. We had it with um
+Nvidia hopefully this week. We're going
+to see cloud has been working on this
+and also perplexity had something fairly
+interesting, right?
+&gt;&gt; Yeah. Yeah. They announced personal
+computer which is basically their
+version of open claw. Now perplexity
+doesn't actually have their own AI
+model. They use bunch of the leading
+frontier uh models from uh the likes of
+Claude and Chat GPT, but they package it
+into what they're calling the personal
+computer which uh can toggle your
+desktop for you, move your mouse around
+and perform a bunch of actions. You can
+spin up a bunch of agents in parallel
+and they can go off and do different
+things. They can code for you, do your
+shopping, whatever that might be. Again,
+an openclaw direct competitor. Now, the
+silver lining across all of these uh all
+of this news is that um there's a huge
+amount of demand for these AI agents. In
+fact, people are paying $6,000.
+&gt;&gt; This is so crazy.
+&gt;&gt; To have someone come to their place or
+of of office or work in person and set
+up Open Claw from scratch. Now, bear in
+mind this is something that you can ask
+Claude to literally guide you through
+and instead people are paying $6,000.
+Now, the perks that you get for this is
+that um you are getting an unofficial
+but official guarantee that there's not
+going to be any kind of security
+exploits and you can have someone just
+manage the entire thing whilst you can
+focus on the core business. But to go
+back to my earlier point, the silver
+lining is there is insatiable amounts of
+demand for AI agents. And two, they're
+actually becoming quite useful and the
+likes of OpenAI saw that when they
+decided to acquire the official Open
+Core open source project. Um, and Nvidia
+is now seeing it as well. Perplex is
+seeing it as well. So, it's kind of like
+this whole surge. I think even China
+this week was trending because they were
+hosting community meetups with 50 to 75
+year olds that were all spinning up open
+course. God knows what they are using
+open calls for, but like there's an
+insatable amount of appetite for this
+right now and it's exciting to see where
+this goes.
+&gt;&gt; Feels like a cultlike following. It's
+unbelievable how many people use it,
+love it, adore it. The community events
+that are spawning up around it. It's
+become this cultural movement that's
+global now. It's totally around the
+world. So 2026 is undeniably the year of
+agents, which I think is really
+exciting. And on the topic of agents, we
+have some news on Elon Musk's XAI's
+Tesla collab project around agents. And
+this is an update on macro hard. Now
+macro hard for those not familiar is the
+inverse of Microsoft. And it is XAI's
+plan to replace software companies
+through the use of these large language
+models. Basically, the idea is that
+Microsoft Office, it's a series of
+software that creates an output that you
+interact with. And if you clearly define
+your outputs that you want, if you
+clearly define the outcomes that you're
+looking for in the software, then Grock
+and the XAI team can go off and they can
+build your own custom software for
+yourself, for your enterprise, for your
+company. This update is pretty cool.
+This describes a two-step approach,
+right? Yeah. So, he's launching
+something incredibly ambitious called
+Digital Optimus. Now, Optimus is known
+well globally as the physical
+manifestation of Tesla's robots. It's a
+humanoid robot that's hopefully going to
+be releasing later this year. We don't
+know. It's an Elon guesstimate there. Um
+digital Optimus is going to be the
+digital version of that robot. So what
+the hell does that mean? Well, if you
+imagine um the current market for humans
+doing computer-based tasks is estimated
+to be around 30 to 40 trillion worth of
+the global economy. It's a huge amount.
+Like think about people that use Slack
+or send messages or like need to use a
+computer for their day-to-day job.
+That's computer-based tasks. Now,
+Digital Optimus is aiming to replace or
+automate a bunch of those tasks. So, if
+you imagine when you're talking to
+someone on the other end of Slack,
+right? How do you know that that's
+actually a human being? You assume it,
+right? But it doesn't necessarily have
+to be. Digital Optimus is basically
+going to be the arms and limbs to gro
+the AI brain. It's going to be able to
+move your mouse around. It's going to be
+able to intuitively know which file to
+select. It's going to be able to read
+things, browse the internet just like
+you can, but it's going to be a digital
+human that lives on a computer. Now,
+this is a pretty ambitious but also
+vague kind of goal that needs to be
+done. Now, it's it's basically uh
+similar to a human emulation or
+emulator. I don't really know how this
+is going to manifest. Some of the
+products that we just spoke about just
+now, Perplexity Computer, kind of sound
+like the foundations of this, but again,
+we haven't seen a release from XAI for a
+while now. So, I'm curious to see like
+how Grock upgrades first before we see a
+product like this come out.
+&gt;&gt; Yeah. Well, the idea is that it's going
+to read, understand your inputs,
+outputs, and then be able to emulate
+your job better than you can.
+&gt;&gt; And it uses this interesting
+architecture which has been around for a
+while as it relates to how humans think.
+If anyone's read the book Thinking Fast
+or Slow, there's like the the two
+components, the two brain architecture.
+One is your fast system, which is system
+one, one is the slow, which is system
+two. So in this collaboration between
+Tesla and XAI, this is the first time
+they're actually working together on a
+formal instance. Tesla becomes that
+system one which is the reflexes. It's
+constantly watching the screen for 5
+seconds at a time and it's executing
+those actions in real time. And then
+Grock is that system too. It's the big
+brain that understands has a real clear
+concept of the world around it and it
+applies this like highle knowledge and
+reasoning to the task at hand. And
+what's interesting that I don't think we
+mentioned yet is the cost of what this
+takes to run. Um Tesla claims that
+they're able to run this on their AI4
+chip, which is $650.
+So that is a very cheap chip for
+inference relative to what other data
+centers are using with Blackwell and
+$30,000 GPUs. So the cost to actually
+run this software is going to be very
+low. And these AI4 chips are chips that
+currently exist. They're out there in
+vehicles in the millions. So they have
+the scale to produce these. They have
+seemingly the software. And now they
+have the collaboration between Tesla and
+XAI. I have to wonder is this going to
+translate to another
+merger between Tesla and XAI and SpaceX?
+Like is this the thing that's going to
+bring them together or will they
+continue to exist separately? I don't
+know. But really cool updates coming out
+of the Elon corner. I hope we see more
+from Grock and XI soon. They have been
+moving
+&gt;&gt; slow in terms of what they've been
+releasing, but it seems like they're
+moving pretty quick behind the scenes.
+&gt;&gt; I think it I think they're going to
+emerge. And also the running through
+line between this story and the Nvidia
+story is like both companies are trying
+to be Apple at this point. They're
+having their Apple moments, right?
+Software and hardware stack being
+combined. Vertical integration in
+general the name of the game.
+&gt;&gt; It's really being pushed. But listen,
+let's move away from the software
+digital robots. Those aren't as cool as
+the the real ones. Um Brett Adcock, CEO
+and founder of Figure, which is a
+leading US robotics startup. Reese's
+cool demo um a useful demo rather of
+their Helix 2 robot cleaning a living
+room fully autonomously. Now um listen,
+I'm not going to be the biggest advocate
+of having creepy looking robots moving
+around. Maybe if we slapped a few
+clothes on this thing, I'd be more
+immunable to it. But we saw a demo of
+this robot, I think about a month ago,
+um unloading and reloading a dishwasher,
+handling glassware. So the point is
+these robots are becoming very precise.
+uh they're not just these kind of clunky
+metallic metallic objects that are just
+doing a bunch of random stuff. It's
+going to be actually useful to you. Now,
+whether consumers are actually going to
+be kind of positive towards spending $30
+to $40,000 or whatever the price tag of
+these things are is definitely going to
+be quite expensive and putting them in
+their home, I don't think we're quite
+there yet as this demo kind of
+insinuates. But I'm curious to see what
+these things are going to be like in
+actual manual factories. I think that's
+where they're going to be um more
+proliferent.
+&gt;&gt; Yeah. Yeah, the novel breakthrough here
+is that this was fully autonomous. A lot
+of these tasks that they have, they've
+kind of pre-trained it for a specific
+task. So, it's doing the dishes and it's
+trained on doing the dishes. Uh, this is
+a fully autonomous system. The robot is
+going around without any commands,
+without any specific training, and it's
+just doing the maintenance on the room,
+which I think is pretty cool. It's a fun
+use case. It seems useful. Elon has been
+dunking on everyone recently, saying
+Optimus 3 is going to be far superior
+even than this. Um, so I'm looking
+forward to seeing that. And I was
+actually looking before recording when
+we can expect to get our hands on
+Optimus because Helix has been doing a
+lot of these demos. They haven't started
+shipping them quite yet. And it seems
+like Tesla is not really going to be
+front running them by any means. Perhaps
+in terms of technicality, but in terms
+of when they're going to release,
+according to the Poly Market, it looks
+like there's a very slim chance they're
+going to release this year at all. Um,
+so 18% chance it releases by December
+31st, 5% chance it releases by June
+30th. So, we're probably not going to be
+getting these available anywhere anytime
+soon, but that's not to say we're not
+going to see the new version of Optimus
+fairly soon. It seems like they're
+teasing it for a midyear announcement.
+So, at least have an idea of what it's
+going to look like. We'll get a demo
+that's figureesque. Um, but yeah, it
+seems according to Poly Market, we will
+not be getting this. And thank you very
+much to Poly Market for sponsoring the
+segment of the episode.
+&gt;&gt; Now, moving on to probably what is the
+craziest story of the week. Um, our
+friends at Meta, who uh are definitely
+not leading the AI race right now. They
+haven't released a model in almost a
+year at this point, made one of their
+Wilder acquisitions, and that's saying
+something because they spent $15 billion
+to acquire one guy last year. They
+acquired Maltbook, uh, which is the
+viral AI agent social media platform,
+which is rumored to have around 1.6
+million AI agents all autonomously
+posting, talking to each other. And the
+stick behind this entire platform is you
+you need to be an AI agent to basically
+post and interact on there. No humans
+allowed. And it went viral around the
+time that OpenClaw did because if you're
+spinning up these agents, how do you get
+them to really benefit society? Well,
+get them to talk to each other, get them
+to share skills, get them to interact
+with each other, get them to transact
+with each other. And all of that was
+happening on Maltber. So this
+acquisition in theory makes sense.
+You've got the biggest social media
+company acquiring the biggest AI agent
+media company social media company.
+Except I don't think this makes sense in
+my head because a lot of these agents I
+think are spoofed. Humans found a way to
+spin up multiple agents and get them to
+do certain things which meant that they
+weren't really autonomous. Also, I heard
+that this platform was vibe coded in
+about a week. So, this kind of adds to
+my uh perception of meta, which is they
+are just wildly out of touch and they
+don't really know what they're doing.
+Now, if I were to put my uh my smart
+glasses on and try and envision what
+they're thinking about here, I think
+that Zuck is making a really big bet on
+the future of social media, not having
+many or if any humans involved. I think
+he thinks it's all going to be AI
+personalities, AI content. That's why
+he's delivering meta vibes, their video
+reels, app, their Tik Tok competitor. He
+thinks that people are only going to
+consume AI content and so he wants the
+producers of that to also be AIS, AI
+agents. Um, it sounds pretty dystopian
+to me. I don't really like that future,
+but it seems to be the direction that
+we're heading. It doesn't make sense
+that they would spend money on like an
+old thing. We recorded the MP episode
+like a month ago. No one's talked about
+it since. No one used it. There's been a
+lot of instances where people have
+clearly created tens of thousands of
+fake agents on the site that aren't even
+real. I mean, yeah, this guy registered
+a million fake agents. Um, that's crazy.
+Um, it's just not really based on
+anything real. It's not a hot topic.
+It's not anything noteworthy or
+interesting. The network effects are
+probably not real. So, I would love to
+ask Zuck what he thinks the value
+proposition in that acquisition is.
+&gt;&gt; Yeah. Yeah. And it's not like his
+investments have been doing very well.
+Um, the guy that I mentioned, he spent
+15 or 14 billion to acquire Alexander
+Wang is rumored to be, you know, in uh
+kind of treacherous territory with Meta
+right now. They might be parting ways,
+may not be agreeing on things. I've seen
+kind of both sides of this story. Some
+saying that it's all just kind of like
+fearongering, but it might be true. So,
+um, I don't know how well things are
+going for Meta right now.
+&gt;&gt; No, I I have some context on this story
+in particular. This is fake news. The
+post that we're showing not true. And
+the reason I know that is because Zuck
+posted a picture with Alexander Wang um
+proving the fact that they're still on
+good terms and there's not an issue. The
+problem is that he only posted that
+photo on threads. So I'm sure you never
+saw it because nobody actually uses
+threads. So this was disproved, but it
+was disproved on the Meta platform.
+Well, I I was on Instagram and I saw it
+via like the suggestion thing um because
+I don't use threads either. But yeah,
+this is totally fake news. But it's just
+a testament again to how poor Met has
+been performing where Zuck disproved
+this rumor, but it hasn't quite made it
+out of the escape velocity because no
+one is using their products. No one's on
+thread. So, I don't know. I wish Meta
+all the best. Speaking of Meta though,
+one of the old really deeply entrenched
+people at Meta, Yan Lun, he departed
+from Meta and now it seems like we
+finally know what he's working on next.
+&gt;&gt; Yeah. Um, a former and also disgruntled
+Meta employee. Um, so he left. Uh, he
+was formerly the head of meta super
+intelligence or whatever the AI
+intelligence lab was at the time. Then
+Zach acquired Alexander Wang and he was
+kind of ousted out. Yan Lun was gone and
+he's like one of the godfathers of AI
+although I hate to say it. He's been a
+hater of LLMs and he's been saying uh
+he's been calling the demise of LLMs for
+a while now even as LLMs have gotten
+much much better and way more
+intelligent and power all of our
+favorite AI products today. uh and he's
+put his money where his mouth is. He
+launched um advanced machine
+intelligence or AMI labs which is
+focused on building a world model. Now
+world models are different from LLM in
+the sense that they're more sensory.
+They take in video inputs, image inputs,
+uh audio inputs, and the idea is it's
+meant to understand the physical reality
+that humans engage with. Now LLMs, they
+only work on text and character. So they
+kind of understand what uh the outside
+world looks like through descriptive
+context, but they don't actually know.
+They can't actually see world models
+actually help AI see. And that's what
+he's going to be building at AMI Labs.
+Now, in order to do this, he raised
+Europe's largest seed round, $1 billion.
+It's not euros, $1 billion. It was less
+in euros. Um but it's a strong signal
+that world models are going to be a huge
+thing. He's not the only one that's
+saying that. Um, Demisabis, the CEO of
+Google AI, has also said the same thing.
+It's going to be a core focus of Google.
+They released a banger of a model, which
+we made an episode about, called Genie
+3. What you're looking at on the screen
+here is completely AI generated. You can
+walk around this cat that's on a vacuum
+right now. You can interact with the
+world. It's super cool. Feels like a
+game, but it's actually simulated
+reality. Um, I I wish him the best of
+luck. I don't know what his angle is
+going to be. I don't know how he can
+catch up to the labs that are spending
+what what tens of billions of dollars,
+hundreds of hundreds of billions of
+dollars, but it's a good start, I guess.
+&gt;&gt; Yeah. And I mean, it's it's another
+testament to the fact that a lot of
+people are really interested in world
+models and understanding the physics and
+understanding multimodality. And the
+basis of these world models is that
+natively multimodal world where you're
+able to understand text, audio, imagery,
+videos, and then therefore represent
+physics and understand why certain
+things do the things that they do. And
+Google actually made some serious
+progress in this front this week with
+their new embedding 2 model which is the
+first natively multimodal embedding
+model which means it maps text, images,
+video, audio and documents all into a
+single unified space in its native form.
+So this is different because previously
+you had to translate each one of these
+modalities into the other. This one they
+all exist in the same plane which
+unlocks a lot of really interesting use
+cases. I mean, one of the ones that I
+like in particular I saw is that if
+you're training for sports or if you're
+training for anything physical, if
+you're in the gym working out, you point
+the camera at you and it understands the
+video. So, it can actually ingest the
+video, understand what you're doing, and
+then give you productive output or give
+you help to improve either your form or
+to improve your your weightlifting or
+whatever it is that you're doing. And
+there's a lot of other unique use cases,
+right? You were just telling me about a
+couple earlier.
+&gt;&gt; Yeah. Um, kind of sticking on the sports
+theme. Um, do you know when uh you're
+having a conversation with a friend and
+you remember a moment in a video or like
+in a movie and you're like, "Oh yeah,
+what movie was that?" or like what scene
+was that and maybe you need to scroll
+through a video to find the same thing.
+You can now ask Google embedding um you
+know, hey, can you find me that sports
+moment where Kobe shot this particular
+shot and it trolls through the entire
+YouTube blog or uh whatever the NBA log
+and it finds that excerpt and can drag
+that clip to you. And this is what
+technology like this or the new
+embedding model unlocks. You now um not
+only can query different types of media
+like images, photos, whatever that might
+be, but it also understands what you're
+asking it for. Previously, it would just
+be like, "Oh, okay. He's kind of
+referencing a photo or a video. I'm
+going to try and figure out which one
+that is." Now, it intuitively
+understands what you mean when you say,
+"Oh, yeah. It's it's it's during this
+time during the autumn. Uh could you
+find this picture of my mom and I?" And
+it'll be able to do that for you. Um,
+secondly, it's also kind of cool. You
+can um connect this model to say your
+photos. And this is in theory, by the
+way. Uh, developers actually have to
+build this app that I'm about to
+describe. You can connect it to your
+photos or videos. And you could say, can
+you find the last time that I was like
+super motivated? Show me a clip, uh,
+show me a photo of when that was, and
+it'll be able to troll through your
+entire library and understand and know
+when that is and pick it out for you.
+So, I'm excited for the new apps that
+are going to be enabled by this model.
+Yeah, the context is great. It's like um
+if you think of a universal library,
+traditionally it's just books. Well, now
+it's like books, photos, podcasts,
+videos, music, and it all is processed
+in the same way. So, if you want to, you
+know, explain to me quantum computing,
+it will not only surface the books, but
+it'll also surface the videos and the
+custom essays and whatever, whatever it
+may be. It's an amazing model. I'm
+looking forward to the people who are
+building those apps. Um, but we also
+have more news out of the Google front,
+right? The Google Maps biggest upgrade
+ever. And Google Maps is noteworthy
+because how many billions of people use
+Google Maps every day?
+&gt;&gt; Two billion every month. Two billion
+every month.
+&gt;&gt; So now two billion people just got a
+pretty serious upgrade.
+&gt;&gt; Yeah. Yeah. So uh it's called Ask Maps.
+It basically integrates Gemini, so
+Google's AI model into Google Maps, but
+in a really unique way. So um you can
+now ask it, hey, um I want to play
+tennis tonight, but I need the court to
+have lights and I want it to be kind of
+like on my way home. uh can you find me
+a few places? And it's able to query
+search using this multimodality that we
+just described with embedding 2 and kind
+of intuitively figure out where you want
+to go. Now, it instantly reminded me of
+the experience that you've described,
+Josh, when you use uh Grock in your
+autonomous car and in your Tesla. Um
+this is now Google's version for that.
+What I love about this is it's not just
+based on kind of AI knowledge. It's
+based on 500 million reviews from 300
+million real people. And it takes you
+from like having to scroll through a
+bunch of reviews, reading comments to to
+this experience where you're having an
+LLM whilst you figure out where you want
+to go or what you want to do with your
+day. And it changes the way that people
+plan their itineraries or choose where
+they want to go. Now, what's most
+exciting for this uh for Google in
+particular is can you imagine if they
+switch on ads for this type of thing?
+like they will now own the entire funnel
+from deciding what people want to do
+because they're going to suggest what
+you want to do and then monetizing that
+on the back end. So, it's just a crazy
+world that we're headed into. I thought
+this is cool. Yeah, Google Maps is
+great. They're crushing it. Okay, this
+final story of the week. I I had to like
+confirm with you that this was real and
+I had to watch the videos a couple times
+and even after watching it the first
+time, it took me a moment to understand
+what was actually happening here. There
+are this is the a combination the
+convergence of cockroach and computer
+has finally happened. We've reached the
+cockroach singularity in which they've
+converged into one super roach. And for
+some people this is an absolute
+nightmare and for others this is this
+&gt;&gt; cool kind of futuristic sci-fi world
+that we're living in. But there are now
+robotic cockroaches walking around the
+planet. Ez
+what is going on here? This video is
+outrageous.
+&gt;&gt; So these aren't robotic cockroaches
+Josh. These are real cockroaches, live
+cockroaches that have been fitted with a
+few things. Cameras, microphones, and a
+locally run AI model. It's slapped on
+the back of these cockroaches. This is
+like the big helmet thing that you can
+see them wearing in this video. You
+might be asking why. Well, the idea was
+birthed from NATO. And by the way, this
+these things have been alive for like
+almost a year at this point, but the
+news broke yesterday. NATO issues these
+things to military. So right now the
+German military has deployed a bunch of
+these cockroaches to scout out certain
+military locations or places that
+they're targeting their enemies,
+sleuththing things like that. These
+cockroaches can um maneuver through
+rubble, uh creep into certain cracks to
+check out certain areas, pick up audio
+feeds, spying on different people
+basically. Um now the reason why this is
+wild is the tech alone. So the tech to
+be able to compile a microscopic AI chip
+onto a cockroach is a feat in itself.
+But they also steer these cockroaches,
+Josh, using electrical pulses. So if if
+they want the cockroach to go left or go
+in a certain direction, they're
+constantly sending these electrical
+pulses to maneuver them just like you
+would like an RV car or remote control
+car. Just a insane uh bit of technology
+for you to round up.
+&gt;&gt; The theme for this week seems to be
+sci-fi and all of these terms are kind
+of all these themes are kind of
+disturbing, right? So earlier this week,
+we did the Doom episode where we kind of
+sliced hum or we took human brain cells,
+we trained them to play Doom, and then
+we sliced uh the brain of a fly, a
+fruitly, and then you can like put that
+fruitfly into a computer and clone them.
+And now we've we've augmented
+cockroaches to have these physical
+augmentations that allow them to be
+controlled and merged with AI. And it
+feels like this is all early versions of
+where it's headed towards in terms of
+like human augmentation. like, okay, we
+could cut a fly brain to copy and put it
+in digital world. How long until it
+becomes a human brain? Like, oh, now
+we're augmenting cockroaches. How long
+before we start augmenting humans? And
+you start to map this out and it's like,
+okay, we're we're making progress far
+quicker than we ever have before. The
+world is seemingly very sci-fi and AI is
+accelerating the rate at all of this
+scientific progress happens. So, it's
+it's a weird future. Like, imagine
+you're in the war zone and there's a
+million of these cockroaches coming
+towards you. Cockroaches never die.
+They're invincible, too. So, this is
+like a clearly a very dominant form. I
+hope they keep these out of Manhattan
+and New York City because I think the
+cockroach problem is already enough
+without like these AI machines
+controlling them. Um, but yeah, this is
+like weird dystopian sci-fi craziness
+that we're seemingly getting an
+increasing amount of every single week.
+So, cool story to end the week on. This
+is pretty fascinating, pretty weird,
+pretty wild. Um, don't know if I like
+it. Like I I respect more disgusted by
+such a cool piece of tech, dude.
+&gt;&gt; Yeah. Yeah. So, um, shout out to
+whoever's working on that. Good for you.
+I'm happy for you. I hope you keep that
+in a lab. Don't Don't let it Don't let
+it out. Please don't let it get up,
+please. Please. Um, so that rounds up,
+uh, our weekly roundup. Uh, we had three
+banger episodes put out this week. Um,
+we talked about, uh, uploading a fruit
+flies brain and human brain cells
+playing Doom on episode 1. Episode two,
+we talked about uh, Starlink Mobile and
+the upcoming Starlink V3 satellite
+launch. You definitely want to catch
+that. Um, and then the third episode we
+released yesterday was is AI coding
+reaching its peak or has it hit a
+massive wall? The dark side of AI
+coding. We released that this morning or
+yesterday morning if you're listening to
+this right now. Definitely go check that
+out. Um, I actually had a question for
+the audience. Um, Josh, for those of you
+who are still listening, I keep seeing
+this fossil of an AI model keep popping
+up on my screen. It's called Copilot.
+It's from this little known company
+called Microsoft. And I'm curious
+whether any of you listening to this
+actually use it. Now, the reason why I'm
+saying this is I've kind of been
+skeptical of it because I have never
+known anyone in my circle at least that
+uses it, but apparently a bunch of
+Fortune 500 companies pay Microsoft tens
+of billions of dollars a year to access
+it. So, if you are one of those people,
+can you let let us know in the comments?
+Like, I really want to hear from you.
+Hey, if you've made it this far and
+you've listened to all of our episodes,
+congratulations. You are totally caught
+up. Go enjoy your weekend. Go touch some
+grass. The weather's been pretty great,
+at least on the East Coast, so I hope
+you have some time to enjoy that. Thank
+you so much again for sharing with your
+friends, rating five stars on the
+podcast apps if you haven't, and just uh
+being generally supportive. We read, we
+try to read all the comments. We've been
+getting through just about all of them
+&gt;&gt; and really appreciate all the support as
+always. So, thank you for another
+amazing week of four episodes, and we
+will see you guys next week with all the
+new AI news.

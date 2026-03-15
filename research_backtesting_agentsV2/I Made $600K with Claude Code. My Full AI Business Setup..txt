@@ -1,0 +1,1612 @@
+Claude code is not a chatbot. It's the
+AI that does the work for you. You're
+still copy pasting outputs into your
+project. You're still the one doing the
+actual work that stops today. This thing
+reads your files, writes the code, and
+ships it. In this video, we go from zero
+to full deployment. No coding
+experience. Every command included. I'm
+Chris, founder of Execution Squad. I
+built an AI consulting business to
+$600,000 in one year. Then I shut it
+down because I watched what it was doing
+to people. Let's start. Beginner track
+sections 1 through 5. If you're new to
+Claude Code, start here and stop at the
+split moment. [music] Before we start,
+two things. You need a Claude Pro plan.
+Free plan doesn't include Claude Code.
+Check current pricing at claude.ai.
+Second, go to code.claude.com/doccks.
+That's your documentation home.
+Everything we cover lives there. Done.
+Let's install. You're looking at the
+official Claude Code documentation. Find
+the install command here. Scroll down
+until you see a curl command. It starts
+with curl. Copy it. Open your terminal.
+Mac command plus space search terminal
+Windows open cmd. Paste the command and
+hit enter. Watch it run. Done. Type
+claude and hit enter. You're in. Look at
+the welcome screen. Bottom of the box
+shows your model, your plan, and your
+working directory. That's your session
+info. Opus 4.6 your plan and the folder
+you're working in. All right, there. If
+you don't have an Anthropic account yet,
+go to anthropic.com and sign up. Then
+type /loin include code and follow the
+prompt. Browser opens. Login. Come back
+when it's done. You're in. Installed and
+authenticated. Quick note, you can also
+run claude code inside a visual editor.
+Two options worth knowing. First, Visual
+Studio Code. Install the Claude Code
+extension from the extensions panel.
+Look for the anthropic verified version
+with a check mark. Second, anti-gravity.
+Google's AI coding platform built agent
+first from the ground up. Same clawed
+code capabilities in both, just a visual
+interface instead of a plain terminal.
+And terminal is better for advanced use.
+Start with whatever feels natural.
+Everything in this tutorial works in
+both. I'll be using Antiggravity for the
+demos in this video. Download
+Antigravity at anti-gravity.google and
+sign in with your personal Gmail
+account. Once you're in, open the
+extensions panel on the left sidebar.
+Search Claude Code. Find the anthropic
+verified version with the check mark and
+install it. That's it. Claude Code is
+now running inside Anti-Gravity. Once
+it's installed, look at the top right
+corner. You'll see the Claude Code icon.
+Click it. That opens the chat panel
+where you start your conversation.
+That's where everything happens. Section
+two, claude.md, your project brain. This
+is the most important concept in the
+video. Pay attention. Claude.md is a
+file that gets injected into every
+conversation before your first message.
+You never see it in chat. Claude reads
+it before you say a single word. Think
+of a ship leaving a harbor. A one-deree
+error at departure means missing your
+destination by thousands of kilome.
+Claude.m MD sets that angle before
+anything else runs. Here's why it
+matters practically. Without it, Claude
+starts from zero every session. With it,
+Claude already knows your project, your
+rules, your preferences. It also cuts
+your token spend because Claude doesn't
+reread all your project files every
+time. Claude MD loads every session and
+it's always billable. So, keep it tight.
+Let me put it another way. Imagine
+hiring a contractor every single
+morning. Every morning they show up and
+they don't remember anything from
+yesterday. They don't know your project.
+They don't know your standards. They
+don't know what you've already tried
+that didn't work. So you spend the first
+30 minutes of every session just
+catching them up. That's what working
+without claude.md feels like. You're
+reexplaining context every single time.
+Claude
+MD is the briefing document that's
+already on their desk when they walk in.
+They read it. They know the rules and
+they start working immediately. One
+naming rule. The file must be called
+claude.md capital letters. Case matters.
+Place it in your project root or
+inside.claude/cloud.md.
+There are three layers. Global at
+tilda/.claude/claude.md
+applies to every workspace you open.
+Local at.claude/claude.md
+applies to the current project only.
+Enterprise is system level. Ignore it.
+You won't need it. Global beats local.
+In practice, you control the global
+rules and team members manage their own
+local ones. Think about when this
+matters. Your global claude.md
+might say always use TypeScript, never
+use JavaScript, and always respond in
+Spanish. That applies everywhere. Your
+local one might say, "This project uses
+superbase for the database." And the API
+roots live in /src/api/
+global handles your identity. Local
+handles the project. They work together.
+If they ever conflict, global wins. That
+hierarchy is important to understand
+because if you put a project specific
+rule in your global file, it leaks into
+every other project. Keep them clean.
+Every serious clawed code project has a
+clawed folder. The dot at the front
+hides it from file explorers. That's
+standard [music] convention. Inside it
+lives everything. For now, our setup is
+simple. Just the claw.md file. As your
+project grows, you can add more files
+inside this folder for agents, skills,
+rules, and MCP configuration. The local
+rule is worth knowing even now. Any file
+with local in the name is get ignored.
+It never leaves your machine. API keys,
+tokens, personal overrides all go here.
+And instead of one huge cloud MD, you
+can split it into focused files inside a
+rules folder. Code-style MD, testing.m
+MD, security MD, frontend MD. To do it,
+just tell claude splitclaude.m MD into
+its component rules using the claude
+code rule specification. It handles the
+rest. Here's why splitting matters. When
+your claude.m MD hits 300, 400, 500
+lines, it becomes hard to maintain. You
+change [music] one thing in the testing
+section and accidentally break a rule in
+the security section. Splitting it into
+focused files means each file has one
+job. Your code style rules live in one
+place. Your testing rules live in
+another. You can update one without
+touching the others. And when you
+onboard a new team member, they can read
+just the file that's relevant to them
+instead of a 500 line wall of text. But
+don't split too early. Start with a
+single clawed MD. When it gets messy and
+hard to maintain, that's when you split.
+Premature splitting creates the opposite
+problem. Too many small files that are
+hard to find and easy to forget about.
+Here's what a bad claude MD looks like.
+2,000 words reads like a document, not a
+rule set. Most important instructions
+buried in the middle. Claude will mostly
+ignore it. I've seen people paste entire
+API documentation into their Claude MD.
+Hundreds of lines of endpoint
+descriptions, parameter lists, response
+formats. Claude doesn't [music] need
+that. Claude can read the actual API
+docs from your project files at runtime.
+What it needs include MD is the rule.
+Always use the V3 endpoint, never the
+V2, not the documentation of what the
+endpoint does. There's a massive
+difference between telling Claude how to
+behave and giving Claude reference
+material. Claude MD is for behavior.
+Reference material lives in your project
+files. Another common mistake. People
+write their Claude MD like they're
+writing an essay. Full paragraphs,
+transitional sentences, context setting,
+introductions. Claude doesn't need a
+story. It needs instructions. Use
+tailwind for all styling. No inline CSS,
+no CSS modules. That's three rules in
+three lines. Compare that to when
+working on the front end of this
+project, please make sure to use
+tailwind CSS for styling purposes. We
+prefer not to use inline styles or CSS
+modules as they don't align with our
+team's conventions. Same information,
+four times the tokens, zero additional
+value. Good claude.md is the opposite.
+First line is your most important rule.
+Always if there's one thing Claude must
+never do, it goes at line one. Below
+that, bullet points. Short, dense, each
+one actionable. 200 lines maximum.
+Longer than that, and it's carrying dead
+weight. This is primacy bias. Claude
+remembers the top best, the middle,
+least, the end, second best. Write your
+Claude MD accordingly. This changes how
+you structure everything. Your most
+critical rules go at the very top. Line
+one, line two, line three. Things that
+would break your project if violated.
+than your general coding standards in
+the middle. Then your less critical
+preferences at the bottom because the
+bottom is the second strongest recall
+position. The middle is the dead zone.
+If you have a rule in line 150 of a
+300line file, Claude might miss it. Move
+it up or move it down. Never leave
+important things in the middle. And
+here's a practical tip. When Claude
+makes the same mistake twice, that's
+your signal. Don't just fix it in the
+chat. Go add a rule to your Claude MD.
+Never use relative imports in the / API
+folder. Always add error handling to
+database queries. Test files go in
+tests, not next to the source file.
+Every repeated mistake becomes a
+permanent rule over time. Your claw.md
+becomes a perfect reflection of how you
+want your project built. It's not
+something you write once, it's something
+that grows with you. Run /init first in
+any new project folder. Use bullet
+points and short headings. High
+information density. Put critical rules
+at the very top. Treat it like technical
+debt. Review and prune it regularly. Add
+a rule. Every time Claude makes the same
+mistake two or three times, keep it to
+200 to 500 lines maximum. Don't dump
+entire style guides or API docs. It
+wastes tokens and degrades quality.
+Don't write vague rules like be smart or
+make no mistakes. Claude ignores them.
+That last point deserves emphasis. Vague
+rules are invisible to Claude. Be
+careful with the database means nothing.
+Always use transactions for multi-table
+writes. Never delete rows. Use soft
+deletes with a deleted underscore
+timestamp. That means something. Every
+rule should be specific enough that you
+could check whether Claude followed it
+or not. If you can't verify it, it's not
+a rule. It's a wish. One more thing.
+Claude also has a memory MD file. Say
+remember that X and it saves across
+sessions. Useful for personal
+preferences that don't belong in your
+rules. You don't need to manage it.
+Claude handles it automatically.
+The difference between memory and
+claude.md is simple. Claude.md is
+project rules shared, deliberate,
+maintained by you. Memory is personal
+context. Things like I prefer dark mode
+examples or I'm working on the billing
+feature this week. Memory is convenient,
+but it's not reliable for critical
+rules. If something matters to your
+project's quality, put it in claude.md.
+If it's a personal preference, that
+would be nice, but not critical. Let me
+handle it. Section three, build a
+website. the screenshot loop. This is
+the method you'll use most. It's the one
+that actually works. Go to goalie.e
+website. Browse the designs. Pick one
+you want to replicate. Right click on
+the page and select inspect or press
+command plus shift plus i on Mac.
+Control + shift plus i on Windows. Dev
+tools opens. Click the device toolbar
+icon and set width to 1,920,
+height to 180. That captures the full
+desktop layout. Now open the command
+pallet with command plus shift + p on
+Mac or control plus shift + p on
+windows. Type screenshot and select
+capture full-size screenshot. Browser
+downloads the image. Head to
+resizepng.com.
+Upload it. Bring it under 5 mgabytes.
+Download it. Open claude code. Paste the
+screenshot directly into the chat. Then
+go back to dev tools. Find the body tag
+in the elements panel. Rightclick it.
+Select copy styles and paste that into
+the same message. Now type your
+instruction. Uh recreate this website
+design exactly. Match the layout fonts,
+colors, and spacing. Output uh clean
+HTML and CSS. Hit enter. First pass.
+Open it in the browser. Maybe 80% there.
+Colors. Close. Layout. Right. Some
+spacing off. Take a screenshot of the
+current version. Paste it back into claw
+code alongside the original and [music]
+tell it here is the current version next
+to the original. Close the gap. Focus on
+the spacing, font weight, and card
+alignment. Second pass significantly
+closer. That's the loop. Task do verify.
+Every iteration tightens it. Keep going
+until you're satisfied. There's no limit
+on how many rounds you run. Each pass
+gets closer. The rule underneath all of
+this. Without a verification step,
+screenshot comparison, automated tests,
+anything. You lose most of the value. AI
+isn't valuable because it's precise.
+It's valuable because it iterates fast.
+Build the loop. Don't skip it. Two other
+approaches worth knowing. Hold the Fn
+key and voice dump your requirements.
+You speak much faster than you type and
+Claude extracts what matters. Or browse
+21st. For pre-built component prompts
+best for specific UI elements like
+buttons and cards. If you're building
+seriously, listen up. Every Friday, I
+run a free live training where I break
+down the five numbers that explain why
+you have zero clients and the system
+that fixes it. One student made $30,000
+in 70 days. Another got his first client
+in seven days. Show up live. You get the
+diagnostic template my paid clients use.
+No replay. iChristley.com/training.
+Link in the description. That covers
+website building. Now, let's talk about
+how you control what Claude is allowed
+to do. Section four, permissions and
+plan mode. Four permission modes. Toggle
+between them with shift plus tab. Ask
+before edits is the default. Asks before
+any file change. Use when learning or
+doing highstakes edits. Edit
+automatically auto accepts edits but
+still asks before new file creation. Use
+for most intermediate work. Plan mode is
+read only. No changes. Use for complex
+task planning. Bypass permissions has no
+restrictions whatsoever. Power users
+only with caution. Right now you're in
+ask before edits mode. That's the
+default. Claude asks permission before
+changing anything. Hit shift plus tab.
+You move to edit automatically. Shift
+plus tab again, plan mode, read only.
+Claude can think and research but won't
+touch any files. Let me explain why
+these modes exist and when you'd
+actually switch between them. Ask before
+edits is training wheels. It's there so
+you can see exactly what Claude is about
+to do before it does it. Every file
+change, every new file, Claude stops and
+asks. When you're new, this is valuable.
+You learn what Claude is doing. You
+understand the changes. You build trust.
+But once you've been using Claude code
+for a week or two, this mode becomes a
+bottleneck. You're clicking yes 50 times
+in a row because you already know what
+Claude is doing. That's when you switch.
+Edit automatically is where most people
+should live dayto-day. Claude makes file
+changes without asking. It just does it.
+But it still asks before creating brand
+new files. That's an important safety
+net. Claude can edit your existing code
+freely, but it can't suddenly create 15
+new files you didn't expect without
+checking with you first. This is the
+sweet spot between speed and control.
+You're fast, but you're not reckless.
+There's also a fourth mode called bypass
+permissions. No restrictions, no asking.
+Claude acts immediately on every
+instruction. It requires enabling
+separately in settings. Use it only when
+you're confident in the [music] task.
+And periodically ask Claude to clean up
+the workspace. Temp files and unused
+libraries accumulate fast. A word of
+caution on bypass. I've seen people turn
+it on and forget about it. Claude starts
+creating files, installing packages,
+modifying configs, all without asking.
+If you're running a well-defined task
+with a clear scope, that's fine. But if
+you give a vague prompt in bypass mode,
+Claude will make decisions for you that
+you might not agree with, and you won't
+know until you look at the damage. My
+rule, use bypass for tasks you've done
+before and fully understand. Never for
+something new or experimental. And when
+you're done with the task, switch back.
+Don't leave it on. Here's a pattern that
+works well in practice. Start every new
+project in ask before edits. Get
+comfortable with what Claude is doing.
+After the first session, switch to edit
+automatically for the rest of the build.
+If you hit a complex decision point like
+choosing between two different database
+architectures, switch to plan mode
+temporarily. Think it through then
+switch back. Bypass only for repetitive
+well understood bulk tasks like rename
+every instance of X to Y across the
+codebase. Match the mode to the risk
+level of what you're doing right now,
+not what you were doing 10 minutes ago.
+Plan mode. Use it more than you think.
+It's read only. Claude browses the web,
+reads your files, reasons through the
+problem, and outputs a plan document.
+Zero changes made. Think about what
+happens without it. You build the wrong
+thing, test it, rebuild it, test again.
+You're burning an hour without realizing
+it. Plus the token cost of all that back
+and forth. Plan first. Catch the problem
+before a line of code is written.
+Blueprint changes cost nothing.
+Construction changes cost everything. I
+cannot stress this enough. Plan mode is
+the single biggest moneysaver in Claude
+code. Not because planning is free, it
+costs tokens, too. But because building
+the wrong thing costs 10 times more
+every time you let Claude start coding
+without a plan. You're gambling that it
+guesses your intent correctly on the
+first try. Sometimes it does. Often it
+doesn't. And when it doesn't, you're not
+just fixing one thing. You're unwinding
+decisions that are now baked into your
+file structure, your database schema,
+your component hierarchy. One wrong
+assumption at the start cascades into 20
+fixes later. Think about it from a token
+perspective. A plan costs you maybe a
+few thousand tokens. Building the wrong
+thing and rebuilding it cost you tens of
+thousands. I've watched people burn
+through their entire daily token budget
+because they skipped the planning step
+and spent the whole session going back
+and forth with Claude trying to fix an
+architecture that was wrong from the
+beginning. 5 minutes of planning would
+have saved them an hour of building
+[music]
+and rebuilding. Here's when you should
+always use plan mode first. Anytime
+you're starting a new project from
+scratch, always plan first. Second,
+anytime you're adding a major feature
+that touches multiple files. Third,
+anytime you're not sure how something
+should work, if there's any ambiguity in
+your head about what you want, plan mode
+forces you to resolve it before code
+exists. Fourth, anytime you're about to
+integrate a third-party service, Stripe,
+Superbase, an external API. The
+integration points are where the most
+mistakes happen, and a plan catches them
+early. And here's a habit that separates
+beginners from people who actually ship
+fast. Read the plan. Don't just glance
+at it and say, "Looks good." Actually
+read it. Check the file structure. Check
+the tech stack decisions. Check the user
+flow. If something feels off, tell
+Claude to revise the plan. Revising a
+plan takes seconds. Revising build code
+takes the entire session. The plan is
+your last chance to catch mistakes for
+free. Switch to plan mode with shift
+plus tab. type. I want to build a client
+onboarding system for my coaching
+business. It needs a form where new
+clients fill out their goals and
+background. A way to automatically send
+them a welcome email with next steps and
+a dashboard where I can track all active
+clients and their progress. What's the
+best approach? Claude researches and
+reasons, not touching a single file.
+Then it outputs a structured plan,
+overview, text stack, user flow, file
+structure, stepby-step build order. Read
+through it. Notice what it caught before
+a line of code was written. It already
+made a significant architecture decision
+for you. Public intake form for clients.
+Separate password protected dashboard
+for admin only. Two completely different
+access levels. If you'd started building
+without a plan, you might have built
+everything behind a login and locked out
+your own clients from submitting their
+form. Fix it now, not midbu. Switch out
+of plan mode and build [music] from a
+blueprint, not from guesswork. That
+example right there is worth the entire
+section. A public form versus a
+protected dashboard is a fundamental
+architecture split. It affects your
+routting, your authentication logic,
+your database permissions, everything.
+If you'd caught that mistake midbu,
+you'd be ripping out half your code and
+starting over. In plan mode, it cost you
+nothing. Claude flagged it in 30
+seconds. That's the whole point. One
+more thing about plan mode that people
+don't realize, the plan itself becomes a
+reference document. After Claude builds
+the project, you can always go back to
+the plan and check whether the build
+matches what was agreed. It's your
+blueprint. If Claude drifted from the
+plan during building, you can point to
+it and say, "This isn't what we planned.
+Fix it." Without a plan, you have
+nothing to compare against. You're just
+guessing whether the output matches your
+original intent. The plan makes intent
+explicit. That's powerful. Section five,
+full stack app built. This is the most
+complex section in the beginner track.
+You don't need to understand everything
+happening under the hood. Follow the
+steps in order. Claude handles the
+technical details. This is the whole
+beginner workflow in one go. We're
+building a proposal generator. Login,
+proposal creation, e signatures,
+payments, templates. Let's build it.
+Start with a fresh folder. No files,
+just clude code open. Step one, switch
+to plan mode first. Then type your
+requirements directly into claude code.
+Say something like, I want to build a
+tool where I can create business
+proposals for clients. Clients should be
+able to log in, view their proposal,
+sign it digitally, and pay a deposit. I
+want to be able to set the price and
+create templates for different service
+types. Hit enter. Step two. Claude will
+ask a few clarifying questions.
+Framework, preference, database,
+signature style, payment type. Answer
+them. No preference on framework.
+Superbase for the database. Proper drawn
+signature one-time deposit. Claude
+outputs a full plan. Read through it
+enough to feel confident. You're just
+checking it described your product
+correctly. Step three, switch to edit
+automatically. Tell Claude to start
+building. Step four, while Claude
+builds, open Superbase in another tab.
+Create a new project. Name it anything.
+Go to project settings, then API. Copy
+the project URL and the anon/public key.
+When Claude asks for them, paste them
+in. Step five, open Stripe in another
+tab. Create a sandbox account if you
+don't have one. Go to developers, then
+API keys. Copy the publishable key and
+secret key from the test environment.
+When Claude asks, paste them in. Step
+six. Claude will output a SQL
+migration script. Open the Superbase SQL
+editor. Paste the migration. Click run.
+Tables created. Done. Step seven. Claude
+finishes building. Open your terminal.
+Navigate to the project folder and run
+npm rundev. Open the local host URL in
+your browser. Log in with your admin
+account. You're in. The app is live with
+orth and database fully connected. From
+here, you'd wire up Stripe for payments.
+Add e- signatures. Build out email
+notifications. All single prompts. Each
+one follows the same pattern. Tell
+Claude what you want. Let it build.
+Verify the result. Takes a few minutes
+each. When you're ready to go live, one
+prompt pushes it to GitHub and deploys
+to Netlfy. Environment variables. Build
+config. Domain setup. Claude handles all
+of it. You get a live URL at the end. Or
+connected, database running, payments
+wired up, the whole thing maybe 15 to 20
+minutes start to finish. That's the
+beginner track. Every step from here
+follows the same workflow you just
+learned. One tip. When Claude tells you
+to do something on an external service,
+just ask, can you do all these for me?
+Claude handles more than you'd expect.
+Beginner track ends here. Come back to
+the advanced track when you've used the
+basics for a while. What follows is
+context management, token economics,
+skills, MCPs, and sub aents. These are
+the systems that separate someone who
+uses claude code from someone who runs
+it. We go deeper. Claude code advanced
+track sections 6 through 9. If you have
+used the basics, start here. Section
+six, context management and token
+economics. Context management is
+handling tokens in a prompt as
+effectively as possible. master this
+section and everything else in the
+advanced track costs you less to run.
+Most people treat Claude code like an
+unlimited resource. They type Claude
+response. They type more. They don't
+think about what's happening under the
+hood. Then they hit a wall. Claude
+starts forgetting things they said 20
+minutes ago. Responses get worse. The
+session feels sluggish. They think
+Claude is broken. It's not broken. The
+context window is full. Everything
+they've been saying, every file Claude
+read, every response Claude gave, it's
+all sitting in memory. and there's a
+hard ceiling. When you hit it, Claude
+starts dropping the oldest information
+to make room for new information. That's
+when quality collapses. Context
+management is how you prevent that from
+ever happening. And there's a cost
+dimension, too. Every token that loads
+into your context window is billable.
+Your Claude MD, your MCP tools, your
+conversation history, all of it costs
+money every time Claude processes a
+message. The bigger your context, the
+more you pay per interaction. So context
+management isn't just about quality.
+It's about your wallet. The people who
+understand this section spend a fraction
+of what everyone else spends and get
+better results. Your primary diagnostic
+tool is /context. Run it any time to see
+exactly where you stand. First, the
+definition. A context window is the
+total tokens a model can process in one
+session. Your window size depends on
+your model and plan. Run / context to
+see yours. And one thing worth knowing,
+context window size is not the same as
+model intelligence. Separate dimensions
+entirely. That distinction trips people
+up. They think a bigger context window
+means a smarter model. It doesn't.
+Context window is memory capacity. How
+much information the model can hold at
+once. Intelligence is reasoning ability.
+How well the model thinks through
+problems. You can have a massive context
+window and mediocre reasoning or a
+smaller context window and brilliant
+reasoning. They're independent. Opus has
+strong reasoning. That's why it's the
+parent agent. Sonnet and Haiku have
+large context windows and are cheaper.
+That's why they're sub agents. You match
+the tool to the job. Not every job needs
+the smartest model. Most jobs need
+enough memory and decent reasoning.
+Here's what loads before your first
+message even sends. System prompt your
+claud
+and rules. Variable cost. You control
+this. System tools about 17,000 tokens
+every session. Cannot remove. MCP tools
+variable. You control this. Memory MD
+small typically under 100 tokens
+automanaged skills front matter only
+about 60 to 65 tokens per skill you
+control this messages grow with
+conversation unavoidable free space is
+the majority of window in a fresh basic
+setup open a fresh claude code session
+don't type anything yet type /context
+and ask it to display the breakdown hit
+enter look at this you haven't typed a
+single real message and you've already
+used a chunk of your context text
+window. That big number is system tools.
+Around 17,000 tokens, built-in cloud
+code capabilities, bash, web search,
+file reading, file writing. Every
+session can't remove them. Next, your
+claw.md. Whatever's in it, it's loaded
+right now. And MCP tools, if you have
+any installed, they're loading here.
+This is where costs spike fast.
+Everything in this breakdown is
+billable. Every session, before you say
+a word, here's a mental model that
+helps. Think of your context window as a
+room. The system tools are the furniture
+that came with the room. You can't move
+it out. Your clawed MD is a bookshelf
+you brought in. You control how big it
+is. Your MCP tools are extra equipment.
+Each [music] one takes floor space. And
+your conversation is people walking into
+the room. The more people, the more
+crowded it gets. At some point, people
+start getting pushed out [music] the
+door. That's auto compaction. Your job
+is to keep the room as open as possible
+so the conversation has space to
+breathe. Seven strategies to keep your
+token spend low. These are the ones that
+actually move the needle. Strategy one,
+check your spend any time. Type /cost
+and you get your running total for the
+session. Make this a habit. Check/cost
+every 15 to 20 minutes during a session.
+Not because you need to panic about
+spending, but because it gives you
+awareness. You start to develop an
+intuition for what's expensive and
+what's cheap. You'll notice that a
+single vague prompt that triggers Claude
+to read 10 files costs more than five
+specific prompts combined. That
+awareness changes how you work. You stop
+being wasteful without even thinking
+about it. Strategy two, type/clear when
+switching tasks. Context nearly zeroed.
+Use this every time you move to a
+completely different task. This is the
+most underused command in clude code.
+People finish building a feature then
+start working on a completely different
+feature in the same session. All that
+history from the first feature is still
+sitting in context. Claude is carrying
+the memory of every file it read, every
+change it made, every conversation you
+had, none of which is relevant to the
+new task. That dead weight makes Claude
+slower and dumber on the new task/clear
+wipes it clean. Fresh start. It takes
+one second and it immediately improves
+the quality of everything that follows.
+Clean slate clear focus. One thing to
+watch out for though, slashclear is
+aggressive. It wipes almost everything.
+If there's something from the previous
+task that's relevant to the next task,
+either put it in your claw.md first or
+use /compact instead. /clear is for
+clean brakes. /compact is for selective
+memory. Strategy three, custom
+compaction. type/compact followed by
+what you want to keep. Something like
+focus on the AI agent workflow and the
+API integration. Discard the debugging
+conversation. Claude compresses the
+history and prioritizes what you told it
+to keep. Autocompaction triggers
+automatically when your context gets
+full, but manual compaction lets you
+control what survives. The difference
+between autoco compaction and manual
+compaction is control. When claude
+autocompacts, it decides what to keep
+and what to drop. Usually it does a
+decent job, but sometimes it drops
+something important because it didn't
+know that detail mattered to you. Manual
+compaction puts you in charge. You tell
+Claude exactly what's important. Keep
+the database schema decisions and the
+API endpoint structure. Everything else
+can go. Now Claude compresses
+intelligently, preserving the things you
+care about and discarding the noise.
+Here's when to manually compact. You're
+mid session, maybe 30 to 40 minutes in.
+You've had a productive conversation,
+built some things, debugged some issues,
+but you can feel the context getting
+heavy. Responses are slightly slower.
+Claude is occasionally forgetting
+something you said earlier. That's your
+signal. Don't wait for autoco compaction
+to kick in. Manually compact now while
+you still control what survives. If you
+wait until the context is completely
+full, autocompaction makes the choice
+for you, and it might not choose what
+you'd choose. Strategy four, add a
+conciseness instruction near the top of
+your claw. MD. Write as succinctly as
+possible. Give me barebones information
+unless I ask for more. Every response
+tightens. Fewer tokens per exchange.
+This one is subtle, but it compounds
+massively. Every clawed response is
+tokens. A verbose response might be 500
+tokens. A concise response might be 100
+tokens. Over a 50 message session.
+That's the difference between 25,000
+tokens of responses and 5,000 tokens of
+responses. Same information, five times
+the cost difference. And here's the
+thing. Verbose responses aren't just
+expensive, they're worse. They fill your
+context with fluff. Claude starts
+processing its own verbose explanations
+as part of the conversation history,
+which makes future responses even more
+bloated. Conciseness isn't just a style
+preference, it's a performance
+optimization. Strategy five, write model
+for the task. Use set or haiku for sub
+aents. Cheaper, larger context windows.
+Reserve opus for the parent agent doing
+synthesis. [music] Most tasks don't need
+opus. That's hard for people to hear
+because they want the best model for
+everything. But think about what a sub
+agent actually does. It runs a web
+search and summarizes the results. It
+reviews code for obvious issues. It
+generates test files. These are
+well-defined focused tasks. Sonnet
+handles them perfectly. Haiku handles
+most of them, too. The parent agent, the
+one that's making architecture
+decisions, coordinating between sub
+agents, synthesizing multiple sources of
+information. That's where Opus earns its
+cost. Using Opus for a simple code
+review is like hiring a CEO to do data
+entry. It works, but you're wasting
+money. Strategy six, audit your MCPs. If
+your MCP tools are eating a significant
+portion of context, Claude can search
+tools dynamically instead of loading all
+of them up front. Run/context to see
+exactly what's loading. This catches
+people off guard. They install three or
+four MCPS because they sounded cool,
+then wonder why their context is half
+full before they start working. Each MCP
+loads its tool definitions into context.
+Some MCPs register dozens of tools. Each
+tool has a name, description, parameter
+list. It adds up fast. I've seen setups
+where MCPS alone consume 30 to 40% of
+the total context window. That's almost
+half your working memory gone before you
+type a single word. Run/context. Look at
+the MCP line and ask yourself, am I
+actually using all of these right now?
+If the answer is no, disconnect the ones
+you don't need for this session. You can
+always reconnect them later. Strategy
+seven, write specific prompts. Fix this
+one feature in this file beats improve
+this codebase every time. Specific
+prompts cut token waste dramatically and
+frontload your research in plan mode
+before building. Web requests and API
+calls made mid session load large
+amounts of tokens. Do the research phase
+first then build. When you say improve
+this codebase, Claude has to read every
+file to understand what you might mean.
+It scans your entire project, loads
+dozens of files into context, reasons
+about what improve could mean, then
+makes changes that may or may not match
+your intent. That one vague prompt just
+consumed thousands of tokens in file
+reads alone. Compare that to fix the
+error handling in /
+src/appi/payments.ts.
+Add try catch around the Stripe API
+calls. Claude reads one file, makes one
+targeted change. Done. A fraction of the
+tokens and the result is exactly what
+you wanted. The research point is
+equally important. When Claude browses
+the web or calls an API midsession, the
+responses get loaded into context. A
+single web page can be thousands of
+tokens. Three or four web searches
+during a build session and your context
+is suddenly packed with research data
+that's no longer relevant. The fix is
+simple. Do all your research in plan
+mode first. Read the docs, check the
+APIs, figure out the approach, then
+slash clear and start building with a
+clean context. The plan lives in your
+head or in a file, not eating your
+context window. All seven strategies
+boil down to one principle. Respect the
+context window. It's not infinite. It's
+not free. The less junk you put in it,
+the better Claude performs and the less
+you pay. Every optimization here
+compounds over time. A 10% improvement
+in context efficiency across hundreds of
+sessions saves you real money in real
+time. Section seven, skills. Now we get
+to the real leverage. Everything up to
+this point has been about using Claude
+code session by session. You type a
+prompt. Claude does the work. Session
+ends. Next time you start over. Skills
+change that completely. Skills turn
+one-time work into permanent capability.
+You build it once. And from that point
+forward, Claude can do that task
+instantly every time you ask. It's the
+difference between cooking a meal from
+scratch every night and having a recipe
+that someone else follows perfectly
+while you do something else. A skill is
+a reusable checklist you give Claude for
+something you do repeatedly. Scraping
+leads, qualifying prospects, updating
+CRM, generating reports. In this demo,
+lead scraping that previously took 30
+minutes manually completed in 87 seconds
+with a skill. Without a skill, here's
+what happens. You tell Claude to scrape
+leads. Claude asks clarifying questions.
+What kind of leads? What data do you
+need? Where should the results go? You
+answer. Claude writes a script from
+scratch. Runs it. Hits an error. Debugs
+it. Runs it again. Maybe hits another
+error. Fixes that. Finally gets results.
+30 minutes gone. With a skill, all of
+those decisions are already made. The
+checklist exists. The scripts exist.
+Claude reads the skill, matches your
+request to it, and executes immediately.
+No questions, no writing from scratch,
+no debugging cycle. The skill already
+solved every problem the first time
+around. And here's what makes skills
+fundamentally different from just saving
+a prompt or a template. A skill isn't a
+static script. It's a combination of
+instructions and executable code held
+together by Claude's intelligence. When
+something unexpected happens, an API
+changes, a website restructures, a rate
+limit kicks in, Claude doesn't crash and
+stop. It reads the checklist,
+understands the goal, and finds a way
+around the problem in real time. A
+static script breaks. A skill adapts.
+Here's the file structure
+inside.Cloud/skills/youcreate
+a folder for each skill. Inside that
+folder is skill.md and a scripts
+subfolder with the actual code files.
+Two parts. skill.md is the conductor. It
+contains the goal inputs, process
+checklist, and reference information. It
+tells Claude what to do and in what
+order. Claude uses its own intelligence
+to handle failures and branch around
+errors in real time. The scripts folder
+is the musicians actual executable
+Python code, deterministic, repeatable,
+called by skill.md exactly like tools.
+You don't need to write or understand
+the Python. Claude generates it. This is
+the part that trips people up. They
+think they need to be a developer to
+build skills. You don't. You describe
+what you want in plain language. Claude
+writes the code. Claude writes the
+checklist. Claude connects them
+together. Your job is to describe the
+task clearly and test the result. If the
+result isn't right, you tell Claude
+what's wrong and it fixes both the code
+and the checklist. You're the director.
+Claude is the entire production team.
+This is genuinely one of the most
+underappreciated features. Let's say
+your lead scraping skill runs and hits a
+rate limit on Google search. Claude
+detects the error, adds a delay between
+requests, and completes the task. But it
+doesn't stop there. It goes back to
+skill.md and adds a new note. Rate limit
+detected. Wait 2 seconds between search
+requests. Next time you run the skill,
+that problem never happens again. The
+skill learn from its own failure. Over
+weeks and months of use, your skills
+accumulate these fixes. They become
+incredibly robust without you ever
+touching them. Every run makes them
+smarter. Think about what that means at
+scale. If you have 20 skills running
+regularly, each one is silently
+improving itself every time it
+encounters a problem. After a month,
+those skills are dramatically more
+reliable than they were on day one.
+That's compounding reliability, and it
+costs you nothing. You didn't write the
+fix. You didn't even know about the
+problem. Claude handled it end to end,
+and they're extremely token efficient.
+Only the top section of skill.md loads
+by default. Name, description, allowed
+tools. The full skill loads only when
+Claude decides it's needed or you
+explicitly invoke it. Dozens of skills
+combined cost almost nothing. A single
+MCP tool often costs more than your
+entire skill library. An MCP tool loads
+its entire definition into your context
+window every session. Tool name,
+description, parameters, response
+format, all of it. A single MCP with 20
+tools might cost you 10 to 20,000 tokens
+every session. whether you use those
+tools or not. A skill, the front matter
+loads, name, description, maybe a list
+of allowed tools. That's it. Under 100
+tokens, the full checklist and scripts
+only load when you actually invoke the
+skill. So, you can have 50 skills
+installed and they barely register in
+your context. That's a fundamentally
+different cost model. MCPS pay rent
+whether they work or not. Skills only
+cost you when they're actually doing
+something. This is why the skill first
+mindset matters. Every recurring task in
+your workflow should eventually become a
+skill. Not because skills are fun to
+build, but because every skill you
+create permanently reduces the time and
+cost of that task. The first time takes
+30 minutes to build the skill. Every
+time after that takes seconds. If you do
+that task twice a week, you've paid back
+the build cost in the first week.
+Everything after that is pure profit in
+time and in tokens. Part one, build the
+skill. Type out what do you want the
+skill to do. Something like, I want a
+skill that automates client outreach. I
+give it an industry and a target region.
+It finds potential clients matching that
+description. Grabs their name, website,
+phone number, and email where possible.
+Scores them as high, medium, or low
+priority based on relevance. [music] and
+exports the results to a Google sheet.
+Paste that transcript into claude code
+and type build this as a skill
+include/skills/scrape
+slash. One tip on describing skills, be
+specific about inputs and outputs. I
+give it an industry and a target region.
+That's clear. Claude knows exactly what
+parameters to expect. It exports the
+results to a Google sheet. That's a
+clear output. The more specific you are
+about what goes in and what comes out,
+the better the skill will be. Vague
+descriptions like it finds leads and
+does stuff with them produce vague
+skills. Precise descriptions produce
+precise skills. Claude generates
+skill.md and the Python scripts. Watch
+the file explorer. Open skill.md and
+look at the structure. The front matter
+at the top is all that loads by default.
+Name description allowed tools. The full
+checklist loads only when you invoke it.
+That's why dozens of skills can exist
+with almost no token cost. Skill is
+built. Now let's run it. Part two,
+invoke the skill type. Scrape me 10,000
+cleaning services across Canada. Claude
+matches the request to the skill. Watch
+the execution. It starts with a small
+test scrape to verify quality before
+scaling up. Once it passes, it runs the
+full scrape, classifies every lead by
+priority, and uploads the results to a
+Google sheet. Notice what just happened.
+You didn't say use the scrape leads
+skill. You just described what you
+wanted. Claude matched your request to
+the right skill automatically based on
+the description in the front matter.
+That's why the name and description in
+skill.md matter. If your description is
+clear and specific, Claude finds the
+right skill every time. If it's vague,
+Claude might miss the match and try to
+do the task from scratch. Good
+descriptions are like good file names.
+They make everything findable. Done.
+1,000 cleaning service leads name,
+website, phone, email, classified under
+2 minutes. Now, imagine this. You have
+10 skills like this. One scrapes leads.
+One qualifies them. One drafts outreach
+emails. One schedules follow-ups. One
+generates weekly reports. Each one takes
+seconds to run. Each one improves itself
+over time. Each one costs almost nothing
+in tokens. That's not a tool. That's a
+system and it runs while you do other
+things. That's the leverage I was
+talking about at the start of this
+section. Skills turn claw code from an
+assistant into an operation. Section 8,
+model context protocol, MCP. MCPS are
+skills except someone else builds and
+maintains them. Developer teams package
+integrations, Gmail, ClickUp, Slack,
+Chrome browser control, and you install
+them into Cloud Code with a JSo N
+snippet. Cloud gets access to that
+software the same way it has bash and
+web search natively. Where to find MCPS?
+MCPservers.org,
+github.com/modelcontext
+protocol/servers and mcp.market.
+Security note. These are thirdparty
+libraries. Not all are safe or vetted.
+Verify before installing into any
+production workspace. Browse
+mcpservers.org.
+Find the ClickUp MCP. Every MCP has a JS
+snippet on its page. Copy it. Paste it
+into claude code and type install this
+in my local workspace. Claude finds the
+config file and installs it. Now open a
+new Claude code instance. Required step.
+The MCP won't load in the current
+session. [music] type/context in the new
+instance. Look at that. Check the token
+cost. Now, compare that to what your
+skills cost. You already saw the
+numbers. That's the trade-off. MCPS are
+fast to install. They're expensive to
+run. Here's the move that saves you
+money long-term. Install the MCP, test
+the task, confirm it works, then tell
+Claude, "Take what you just did, convert
+it to a skill, use the API endpoints
+directly, and check my other skills for
+formatting reference." The new skill has
+a tiny token footprint compared to the
+MCP. same outcome, fraction of the cost.
+In real tests, tasks that took minutes
+and thousands of tokens via MCP finished
+in seconds with a skill. One exception
+worth keeping permanently, the Chrome
+Dev Tools MCP. It lets Claude control
+and inspect a live Chrome browser.
+Significantly higher quality and faster
+than built-in browser tools. Verify the
+install location before recording. Use
+cases, browse sites, take screenshots,
+click elements, fill forms, extract page
+text, scrape without an API. Section
+nine, sub aents. Sub aents are not a
+cure all. Get that straight first. The
+hype around agents is massive right now.
+Everyone's talking about multi- aent
+systems, autonomous AI fleets, agents,
+managing agents. It sounds incredible,
+and some of it is real. But most people
+who jump into sub agents too early end
+up spending more money, getting worse
+results, and debugging coordination
+problems that didn't need to exist. Sub
+agents are powerful when used correctly.
+They're expensive disasters when used
+carelessly. This section teaches you the
+difference. Most things you can do with
+sub agents, you can do with a single
+parent agent. Their actual value is
+speed through parallelization and cost
+savings through cheaper models. Let me
+be specific about what parallelization
+actually means here. Without sub agents,
+Claude does everything sequentially.
+Write code, then review it, then test
+it, then fix issues, then test again.
+One thing at a time. With sub agents,
+the parent writes code and immediately
+spawns a reviewer and a tester running
+at the same time. Two tasks happening
+simultaneously instead of backto back.
+For a single small task, that
+parallelization doesn't matter much. For
+a large project with dozens of files and
+hundreds of tests, it cuts your build
+time dramatically. The cost savings
+angle is equally important. Opus is
+expensive. It's the most capable model,
+but you're paying premium for that
+capability. Most sub agent tasks don't
+need premium capability. A code reviewer
+doesn't need OPUS level intelligence to
+spot a missing error handler. A test
+generator doesn't need OPUS to write
+unit tests. Sonnet handles these tasks
+perfectly at a fraction of the cost. So
+instead of one expensive Opus agent
+doing everything, you have one Opus
+agent making the hard decisions and
+three cheap Sonnet agents doing the
+execution work. Same output, lower bill.
+Here's how they work. Each sub agent
+lives in the do.claude/ aents/folder.
+Each one has its own self-contained
+ephemeral context window. Results always
+return to the parent agent that called
+them. Context is temporary. If a sub
+agent fails, recovery requires a rerun.
+That temporary part is critical. A sub
+agent's context window is born when the
+parent spawns it and dies when the task
+is complete. It doesn't carry memory
+from previous runs. It doesn't know what
+happened in the last session. It doesn't
+know what other sub aents are doing. It
+receives a task, does the task, returns
+the result, and disappears. That's it.
+This is by design. Ephemeral context
+means sub aents are cheap. They don't
+carry baggage. But it also means they're
+isolated. [music]
+If a sub aent needs information from
+another sub aent, the parent has to pass
+it explicitly. They can't talk to each
+other. The parent is the only bridge.
+And the failure model is important to
+understand. If a sub aent crashes
+halfway through a task, there's no
+resume. There's no pick up where you
+left off. The sub aents context is gone.
+You rerun the entire task from scratch.
+That's why keeping tasks small matters
+so much. A sub agent that's supposed to
+review five files and crashes on file
+three. You rerun the entire five file
+review. a sub agent that reviews one
+file. If it crashes, you rerun one file.
+Small tasks mean small failure costs.
+Now, the most important concept in this
+section, the reliability math. 10 agents
+with a 95% individual success rate means
+a coin flip that all 10 finish
+correctly. That's not a theoretical edge
+case. That's what happens in practice.
+Let that sink in. 95% sounds great for a
+single agent. You'd take those odds any
+day. But probability compounds
+multiplicatively when you need all
+agents to succeed. It's not 95% * 10.
+It's 0.95
+to the power of 10. That's 59.9%.
+Roughly a coin flip. And at 50 agents,
+7.7%, you're almost guaranteed at least
+one failure. This isn't a theoretical
+math exercise. This is what happens when
+people spin up ambitious multi-agent
+workflows without thinking about
+reliability. Here's what that looks like
+in practice. You spawn 10 sub agents to
+process 10 different sections of your
+codebase. Nine finish perfectly. One
+fails silently. It returns a result, but
+the result is wrong. Maybe it misread a
+file. Maybe it made a bad judgment call.
+Now you have nine good results and one
+bad result mixed together. The parent
+agent doesn't know which one is bad. It
+synthesizes all 10 results into the
+final output. and that one bad result
+corrupts the whole thing. You don't
+notice until you're testing the final
+product and something doesn't work. Now
+you're debugging across 10 agent outputs
+trying to find the one that went wrong.
+That scenario is real. I'm not
+exaggerating. It happens constantly when
+people scale agents without thinking
+about reliability. The implication is
+simple. Keep every sub aents task as
+simple and focused as possible. Never
+compound tasks. Every added complexity
+multiplies failure risk. across the
+fleet. What does simple and focused
+actually look like? Here's the rule. A
+sub agent should do exactly one thing,
+not review the code and run the tests.
+That's two things. Review the code is
+one agent. Run the tests is another
+agent. If one fails, the other still
+succeeded. You isolate failures. You can
+rerun just the part that broke. The
+moment you combine two tasks into one
+agent, you've doubled the failure
+surface and made debugging twice as
+hard. Another way to think about it, if
+you can't describe the sub agents task
+in one sentence, it's too complex.
+Review this file for error handling
+issues. One sentence, good. Review this
+file for error handling issues. Then
+check the test coverage. Then suggest
+improvements based on best practices.
+Then generate a report. That's four
+tasks pretending to be one. Split them.
+Each one becomes its own agent. Yes,
+it's more agents, but each one is
+simple, reliable, and independently
+restartable. type create three sub aents
+and save them to claude/ aents/code
+reviewer that receives finished code,
+reviews it with fresh eyes and returns
+specific issues. A QA agent that
+generates tests, runs them, and fixes
+failures. A research agent that runs
+parallel web searches and returns a
+compressed summary. Claude builds the
+three agent definition files. Watch them
+appear in the agents folder, then open a
+new Claude code instance to load them.
+Required step, same rule as MCPS. Notice
+the design of these three agents. Each
+one does exactly one thing. The code
+reviewer reviews. It doesn't fix. It
+returns issues. The parent decides what
+to fix. The QA agent tests. It generates
+tests, runs them, and handles failures
+within the testing domain. It doesn't
+touch the source code directly. The
+research agent searches and summarizes.
+It doesn't make decisions based on what
+it finds. It returns compressed
+information for the parent to act on.
+Every agent has a single responsibility
+and a clear handoff point. That's the
+pattern. When you design your own
+agents, follow it. Add this workflow to
+your claude.m MD. Write parent agent
+writes code. Code review. Spawn the code
+reviewer. Fix blocking issues. QA. Spawn
+the QA agent. Generate and run tests.
+Fix failures. Ship. Adding this workflow
+to your collord. MD is important because
+it makes the pattern permanent. Without
+it, the parent agent has to figure out
+when to spawn sub agents every time.
+With it, the workflow is automatic.
+Parent writes code, spawns the reviewer,
+fixes issues, spawns QA, handles test
+failures, ships same sequence every
+time, consistent, reliable, and because
+it's in claude.md, every session starts
+with this workflow already loaded. You
+don't have to explain it again. A few
+best practices before you start spinning
+up agents. Use Sonnet or Haiku for sub
+agents. Reserve opus for the parent.
+Keep spawn tasks simple and single
+focused. Never compound. Don't return
+large outputs to the parent. Have sub
+agents apply results directly. Always
+open a new clawed code instance after
+generating agents. Use sub aents with
+skills for pre-existing workflows, not
+for simple one-off queries. And one
+thing people learn the hard way.
+Spinning up a sub aent for a simple task
+can take just as long as having the
+parent do it. save them for work that
+actually benefits from parallelization.
+Spawning a sub agent has overhead.
+Claude needs to create the agent, load
+its context, send it the task, wait for
+the result, and process the return. For
+a complex task that takes 5 minutes of
+actual work, that overhead is
+negligible. For a simple task that takes
+10 seconds, the overhead might be longer
+than the task itself. You spent more
+time setting up the agent than the agent
+spent working. That's negative value.
+The break even point is roughly this. If
+the task takes less than 30 seconds for
+the parent to do directly, don't spawn a
+sub agent. Just let the parent handle
+it. Sub agents earn their cost on tasks
+that are either timeintensive,
+parallelizable, or both. The don't
+return large outputs to the parent point
+deserves more explanation, too. When a
+sub agent finishes, it sends results
+back to the parent agent. Those results
+land in the parents context window. If a
+sub aent returns a 2,000 line code
+review, that's thousands of tokens
+suddenly dumped into the parents
+context. Multiply that by five sub aents
+and the parents context is flooded with
+sub aent output. The fix is simple.
+Instead of returning large results, have
+the sub agent apply changes directly.
+The code reviewer writes its findings to
+a file. The QA agent fixes the test
+failures itself. The parent just gets a
+short status message. Review complete.
+Three issues found and documented in
+review.md.
+Tiny context footprint, same outcome.
+One level up agent teams, they exist.
+They're experimental, disabled by
+default, and roughly seven times the
+token cost of a single thread. Instead
+of reporting to a parent, team members
+are fully independent clawed instances
+that can message each other and
+self-coordinate through a shared task
+list. This is a fundamentally different
+model from sub aents. With sub agents,
+there's a clear hierarchy. Parent at the
+top, sub aents below. Results flow
+upward. With agent teams, there's no
+hierarchy. Every agent is equal. They
+share a task list. They pick up tasks,
+complete them, and post results that
+other agents can see. They coordinate
+among themselves without a parent
+telling them what to do. It's closer to
+how a real team works. And like a real
+team, it can be incredibly productive or
+incredibly chaotic, depending on how you
+set it up. The use cases are real.
+Design exploration spawn three agents
+and each builds a different website
+variant. Adversarial analysis debate
+agents argue whether a security finding
+is real. Large scale codebase audits the
+cost is also real. Careless agent team
+use can run $10,000 plus per day. That
+$10,000 number isn't hypothetical. Each
+agent in a team is a full clawed
+instance running independently. Every
+message between agents costs tokens.
+Every task pickup costs tokens. Every
+coordination step costs tokens. And
+because there is no parent controlling
+the flow, agents can get into loops. One
+agent posts a result. Another agent
+questions it. The first agent defends
+it. The second agent re-examines back
+and forth. Burning tokens on a debate
+that might not even matter. Without
+guard rails, agent teams will happily
+spend your entire budget arguing with
+each other. That's why they're
+experimental. That's why they're
+disabled by default. So when do agent
+teams actually make sense? when the task
+genuinely requires independent
+perspectives that can't be achieved
+sequentially. Design exploration is the
+perfect example. You want three
+completely different website designs. If
+you use sub agents, the parents taste
+influences all three because it's
+directing them with a team. Each agent
+works independently, brings its own
+perspective, and the results are
+genuinely different. That diversity of
+output is what you're paying for. If you
+don't need diverse perspectives, if you
+just need the same task done three times
+in parallel, use sub agents. They're
+cheaper and more predictable. Enable
+them with this include/ settings.json.
+Set claude_code_experimental_agent
+teams to one in your env configuration.
+Start small. Watch the token counter.
+And if you're running multiple agents on
+the same codebase, look into git workre.
+They give each agent an isolated folder.
+So they can't override [music]
+each other's work. Git work trees solve
+a real problem. When two agents edit the
+same file at the same time, one
+overwrites the other. That's not a bug.
+It's a fundamental conflict. Git work
+trees create separate copies of your
+codebase, one for each agent. Agent A
+works in its copy. Agent B works in its
+copy. When they're done, you merge the
+results. No conflicts during execution.
+Conflicts only happen at merge time
+where you can handle them deliberately.
+If you're running agent teams, work
+trees are practically required. Without
+them, agents will corrupt each other's
+work and you'll spend more time fixing
+conflicts than you saved through
+parallelization. Here's my honest
+recommendation on agent teams. Don't use
+them yet unless you've already mastered
+sub agents. Sub agents teach you how
+agents work, how they fail, how to keep
+tasks simple, and how to manage token
+costs. Agent teams amplify all of those
+lessons by seven times. If you haven't
+learned to manage three sub agents
+efficiently, five team agents will eat
+your budget alive. Master sub agents
+first. When you're comfortable, when
+managing agents feels routine, then
+experiment with teams on a small task
+with the token counter open. That's the
+responsible way in close what you can
+build now. Here's where you are after
+both tracks. You can build and deploy
+websites using the screenshot loop in
+minutes. You can build full stack web
+apps with authentication, database, and
+payments using plan mode, superbase, and
+stripe. You can create reusable skills
+for any recurring task. Install and
+prototype with MCPs. Then convert to
+skills for production. Run sub aents for
+parallelizing bulk work with automatic
+testing and code review. Manage token
+costs proactively using
+/context/compact/clear
+and smart architectural choices and
+build automated systems combining
+scraping site generation email and
+direct API skills. That's the system. AI
+is your hands. You supply the direction.
+Plan before you build, verify after you
+build. Every Friday, I run a free live
+training. The five numbers that explain
+why you have zero clients. I show you
+which number is broken and what to fix
+this week. Show up live. You get the
+diagnostic template. No replay.
+icle.com/training.
+Link in the description.
