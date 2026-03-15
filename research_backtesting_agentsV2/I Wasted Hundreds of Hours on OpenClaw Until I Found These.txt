@@ -1,0 +1,287 @@
+You set up OpenClaw on Telegram. You
+talk to one agent and that's cool. You
+move it over to Discord and still the
+same thing, one agent. But Discord can
+do so much more than that. Here is how
+you actually set it up to manage a full
+agent team. Look at my Discord channel
+which is connected to my open claw. Here
+you see the icon is my HQ mission
+control and you will see here I have a
+lot of channels working. Here you see my
+agents and I have a direct channel to
+each of my agent Ivy, Nexus, Mr. X and
+Nox. This is how I can manage a multi-
+aent AI team.
+What's up everyone? I'm Nino and welcome
+back to Vibe with AI. Before I get into
+it, a quick thank you. Last week I had
+160 subscribers. I'm now at 560. That
+openclaw video hit over 11,000 views. I
+didn't expect that at all. And
+generally, thank you for all the support
+and comments and subscribers. If you
+have been following along the series,
+you know that I have a team of five
+agents running 24/7 on my Mac Mini,
+Henry, my chief of staff, Nexus, my CTO,
+Ivy, my researcher, and Nox, my security
+officer, and Mr. X on social media. A
+lot of you have asked about the Discord
+setup. How do I actually get five
+separate agents into one server, each
+looking and acting like a different team
+member? That's today's episode. To dive
+into my Discord setup, you quickly also
+have to understand my current setup with
+my agents. I am the founder and CEO.
+Henry is my chief of staff. Henry is my
+main bot or AI agent that was set up
+with Open Clown. I talked directly to
+him all the time through Telegram, also
+through Discord. He was the first bot I
+invited to Discord and he created my sub
+agent Nexus, Ivy, Nox and Mistakes. Each
+of them are department heads and they
+push their own department forward.
+Important here, those are also
+persistent agents. So if you don't want
+to set up a sub agent that only gets
+called when executing a task, but you
+want to create agents that are awake
+24/7, that have a heartbeat, they wake
+up continuously. think proactively and
+push your project forward. You need to
+tell your main bot, your main agent to
+set up persistent agents. That's a setup
+OpenClaw supports. And every agent that
+is listed under this persistent tag
+would be an agent that can wake up or
+can run 24/7. What you want to instill
+in each of those agents is a heartbeat
+MD. Tell it to wake up every half an
+hour, every 45 minutes, every hour,
+whatever you want. You can make them
+check the taskboard if there is any task
+that have been added to the taskboard
+that they could do. You could tell them
+to think proactively about the next
+project or execute tasks three four
+times a day that pushes your project
+forward. I think those are the most
+important tips to install productivity,
+install persistent agent that lead a
+department and look they have already
+sub agents here to do certain tasks. But
+those four agent they think about it
+multiple times a day how they can push
+me forward. They have meetings with
+Henry chief of staff and they lead
+actively their department. So now in
+Telegram I could only talk to Henry.
+Hence I moved the conversation over to
+Discord. When you connect OpenCloud to
+discord the first thing what happens is
+that you would only talk to Henry and
+you wouldn't be able to talk to all of
+your different agents. So now let's look
+how I set this up precisely. You can see
+here when I go to mission control and go
+to server settings and I go to members,
+you will see that Mr. X, Nox, Ivy,
+Nexus, Henry, OpenClaw, and myself are
+all basically invited to my server
+individually. And how you do that, you
+go to a URL that is
+discord.com/developers
+and you will get to a page that looks
+like this. You can see here I created
+five different applications which is
+Henry, Nexus, Ivy, Nox, and Mr. Eggs.
+And I set them all up as separate
+application and then added them to my
+Discord. How this works? You go to new
+application. I call the app example
+agent
+and you can obviously add the name your
+agent has by clicking here. You agree to
+the Discord developer terms and you
+click create.
+You confirm that you're human and then
+you get to the setting. Here again you
+can change the name but that is not
+important for now. What you will have to
+do is you have to go to the bot settings
+and here you have to go down to the
+privileges gateway intent and you need
+to toggle on the server member intent so
+it can see all the members that your
+application or your bot and message
+content intent so it can actually read
+and write messages. So that's step
+number one. Go to bot privileges gateway
+and toggle those two on. You click on
+save changes.
+There you go. Step number two, you go to
+OOTH 2. So in the O section, O2 section,
+you will create a URL with your
+settings. And then when you open the
+URL, you'll be able to invite that
+particular bot or application to your
+discord server. So here we scopes, we're
+clicking on bot. When you click on bot,
+you will get bot permissions. And then
+the general permissions that you want to
+give your bot are few channel,
+send message,
+and read message history.
+This would be the three permissions you
+would give to all your department heads
+in a way persistent sub agents if you
+want to call it that only for your main
+agent which in my case is chief of staff
+that you talk to telegram and all of
+that you want to give one additional
+permission which is manage channels. If
+you toggle that, you can simply just
+tell Henry or your main agent, create a
+bunch of channels on Discord, create all
+the channels to invite my other agents
+and so on. So you don't have to set up
+manually anything on Discord. Your main
+agent will handle everything for you.
+Right? So this is it. And now that we
+have chosen the permissions, let's say
+it would be one of your main agents. You
+get here a generated URL on the bottom
+that you can copy and you open a new
+tab. And when you
+paste this URL, it will open your
+Discord channel that you want to have
+created before
+and it will pop up here. By the way, if
+you want to create a Discord channel,
+just click the plus button here. You
+click add a server, create my own. You
+would say for me and my friends and then
+you would give it a name whatever you
+want to do and you click create. That's
+the first step obviously and then you
+can add all your agent to that channel.
+Example agent add bot to server create
+commands add to server HQ mission
+control and you want to press continue.
+I'm not going to do that at this stage
+because I don't want to invite this
+agent to my application. But basically,
+that's the process. And you just have to
+repeat that four or five times or
+however many agents you might have in
+your orga team. And that will do. Then
+you have created access to all of your
+different agents. Now, the last step
+that you need to do is you go to your
+bot tab again. And here where it says
+token, you press reset token. Yes, do
+it. You need to enter your password of
+your discord
+and then you would get a token here.
+This token you copy and you paste it
+into telegram or you give it to your
+main agent. With the agent being a
+member of your discord channel and the
+token, your main agent can set it all
+up. You would start with your main
+agent, give him the manage channel
+permission, then you would add him to
+your discord. That way he can create
+different channels. Then you would add
+the next agent with the name. Give them
+the three permissions that we discussed.
+You would give the main agent his token.
+You invite him and authorize him to
+Discord. And then your main agent
+creates one channel precisely for you to
+talk only to him. So now I will show you
+how that looks in my setup. You will see
+here my discord channel and I have the
+general channels, the briefing channels,
+the work channels, content and all those
+channels Henry has access to and Henry
+can read. Now I set up agents channel
+which are four direct communication
+channels to my other persistent agents
+that Henry does not have access to. The
+problem is with open claw and discord,
+you can only set up one channel per
+agent. You cannot give multiple agents
+access to multiple channels. As far as I
+understood, that is not supported. So I
+can talk to Nexus.
+Hey, what's next on development?
+And I would get an answer. Nexus is
+typing
+Very nice. I can talk to my Mr. X, head
+of social media. What is next on your
+agenda?
+And Mr. X is typing. And the same way
+for Ivy and Nox, my other department
+heads. There you go. Mr. X replied,
+checking my taskboard and what's on the
+radar. Honestly, my pretty open right
+now. Here's what I have on my plate
+based on your morning session
+immediately today. You mentioned
+recording on Discord sent a video today.
+So he knows he's informed. What are my
+tasks for today that I'm recording? The
+point is I can talk to my social media
+agent directly. The same way I can talk
+to Nexus, my CTO directly. Merge PR2 add
+workflow. There you go. So there's our
+open PR that I need to merge into my
+project and review it. So, how do I make
+sure that Henry, my chief of staff, who
+has to know everything constantly,
+knows about what's going on with the
+conversations and with the actions with
+my agents that I'm talking directly.
+I've set up in the configuration that if
+five minutes pass after my last message,
+they automatically have to assume the
+conversation is over for now and they
+have to post a detailed summary of our
+conversation into their specific work
+channel. So Nexus would be posting in
+dev channel, Mr. X would be posting in
+social media, Nox in security, and Ivy
+in research. On top of that, they also
+post a oneliner in the status channel.
+Here you see an example of Ivy chatted
+with Nino confirmed 5 minute update rule
+details in research. Mr. X YouTube video
+analysis complete. Henry video
+confirmed. Well, you get the idea. a
+quick oneliner like a team update that
+Henry can read and if Henry wants to
+know more details he can then go into
+the channel of dev for example and he
+will get a detailed summary of
+conversations and actions that have been
+taken like that I ensure that nothing
+gets lost what is communicated or talked
+about with my department heads and Henry
+is always up to date that's my current
+setup and I think it's working pretty
+well and I hope you can take something
+away from that. That's it. A full multi-
+aent Discord server. Next episode, I'll
+show you how to give your agent a secure
+email and GitHub account the right way
+with scope tokens and one click to
+revoke. If you build this or you're
+going to build this, drop your Discord
+setup in the comments below and
+subscribe. We're turning I agent into a
+real team, one episode at a time. Hope
+to see you in the next one. This.

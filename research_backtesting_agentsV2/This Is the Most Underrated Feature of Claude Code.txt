@@ -1,0 +1,514 @@
+Hi, it's Matt with Equity Predict
+Analytics. In this video, we're going to
+be building upon the 5, 11, and 18 EMA
+crossover trading strategy by adding uh
+RSI divergence to help create a stronger
+signal uh and help uh us build more
+confidence in uh taking a trigger to get
+into or to get out of a position in QQQ,
+QLD, or TQQQ. Now, we're going to be
+starting in uh 2024. Uh just picked a
+random particular point in time. We all
+know how it turned out 2024 as well as
+the memorable 2025 so far. Uh but in
+this particular case, we're going to go
+be going bar by bar for a few uh a few
+weeks here in 2024 uh to show you how
+this trading strategy works. Just
+briefly, if you're enjoying uh some of
+the content we're providing, please do
+subscribe to the channel. You can also
+head over to our website
+equipppredict.com.
+Uh we've got a lot of information over
+there regarding market forecasting.
+[music]
+Uh you can sign up for our free uh
+quarterly alert. We uh forecast rather.
+You can read some articles that are open
+to some readers. Uh and then we also
+have our uh subscription model you can
+read about as well as our proprietary
+forecasting model. So it's over at
+So up on the screen here uh we have the
+daily chart of QQQ. Uh and I'll go
+through each of the components so you
+know how to set up your own chart uh on
+your end with just about any software
+you've got whether it's a free you know
+Yahoo or Trading View software or
+proprietary uh software platform. They
+all have these standard uh technical
+indicators. [music]
+Uh so the hot pink line is the 5 EMA.
+The red line is the 11 EMA and the blue
+line is the 18 EMA. So again, fastest uh
+medium speed and then you've got your
+slowest um exponential moving average
+here, which the blue and that's the 18.
+On the bottom here, we got an RSI uh
+which uh let me just kind of zoom out a
+little bit. It's got an overbought and
+oversold area. Above 70 is uh personally
+I believe above 80 would be in this
+particular environment. Uh obviously
+given the the volatility [music] we've
+seen over the past five, six, seven
+years. uh above 80 would be overbought.
+Um and below 25 or so um would be
+oversold. But nonetheless, um we do have
+the RSI setting of 11. Most standard
+platforms have an RSI setting of 14. Uh
+some like to use a 12. Um in this
+particular example, we're going to be
+using an RSI 11 just to catch the faster
+turns uh a bit as we as [music] we move
+forward. And so what we're going to do
+is we're just going to start right here.
+Uh again, we I understand and how 2024
+was a bullish year, but I I don't recall
+exactly every twist and turn uh and I've
+hidden everything uh going forward. Uh
+so I don't exactly know what's going to
+play out uh day by day, week by week
+here. [music] So one of the things I
+just want to point out a few things that
+you should note beforehand uh if you're
+sort of new to trading, one one of the
+things you want to kind of uh be
+cognizant cognizant of is when the price
+action gets above uh stretched away from
+an 18 [music] like this, that creates an
+air gap. So, uh, ignore the the five and
+the 11 for just a moment. You're going
+to see the price action is up here. The
+18, although it is pointed in the
+northeasterly direction, which is
+bullish. All right, you've got a big air
+gap between the price action uh and the
+18. Okay, so the risk is high at this
+particular point that there could be a
+pullback uh or some sort of sell-off.
+Um, this in itself, the fact that you've
+got a divergence, a bearish divergence
+between the RSI. Okay. So, you've got a
+uh a peak here and a peak here and then
+you've got a lower high here and a high
+and a um higher high just before that.
+So, that's a obviously a bearish
+divergence. That's a sell signal, not
+necessarily a sell trigger. Okay? Uh I'd
+recommend you go through some channels
+and uh uh some other uh trading channels
+and do some homework on uh the
+difference between a sell signal and a
+sell trigger just briefly. They're not
+the same. A sell trigger is when say for
+example uh price action breaks this
+uptrend line. Okay, this is a very
+short-term uptrend line, but
+nonetheless, it is an uptrend. Okay, if
+price action breaks below that and you
+also have the divergence that preceded
+it, that's going to be your sell signal.
+You want to liquidate a position if it
+lands here. All right, so sorry for the
+drawings. I'll just kind of clear these
+out so you can get uh back to the
+charts. So, what we're going to do is
+we're going to move bar by bar forward
+and just watch carefully. What we're
+doing is at this particular point in
+time, we may be in a position. Okay,
+we'll pretend we're in a position and
+we're looking to liquidate our positions
+uh if there's a sell trigger. All right,
+so okay, right away I hit the first bar
+moving forward and we have a sell
+trigger because this uptrend and price
+action is broken. We have the
+divergence, the bearish divergence here
+between RSI and price action and we have
+the five and the 11 curling downwards.
+Um for me, that's good enough to be a
+sell trigger. Okay, because we have the
+signal back here, trigger here. So we
+would be in cash at this particular
+point. So, let's move forward bar by bar
+and see what's going to happen. Ideally,
+we would love to see uh maybe a
+potential uh bullish divergence, the
+RSI, which I hope we get to uh in the
+next few bars. Let's just see how it
+pans out. So, let's move forward.
+So, we have a five that has now crossed
+below uh the the 11 and they both downs
+sloping. The 18 is still uh pointing
+northwards, which is bullish. Okay, so
+in a longer term pattern, let me zoom
+out a little bit. From a longerterm
+perspective, obviously the price action
+is in an uptrend. The 18 uh didn't even
+flatten out here. Stayed bullish and the
+18 is still pointing in a northeasterly
+direction even though the five and 11
+have curled downwards which is bearish.
+So we still have one bullish signal but
+too bearish. So for me that's uh
+definitely just st still standing aside
+waiting for a long entry. So let's move
+forward another bar and see what
+happens. Okay, so the five and 11 have
+crossed below and the RSI has moved into
+oversold territory. So, we should at
+least expect some type of bounce. Uh, it
+could bounce up just a bit and curl
+downwards or it could bounce up with a
+crossover and head to the northeast for
+a long entry. Let's just see how it
+plays out. Okay, so the five and 11 are
+still pointing downwards. Uh RSI down
+here starting to curl upwards.
+Okay, so it's pretty strong uh buy
+candle, but we don't have any crossover
+yet. But the five and 11 are pointing
+upwards and they're threatening to cross
+back up above the 18. RSI really isn't
+telling us much at this particular point
+in time. Whenever you have an indicator
+really of any kind that's floating
+around the middle areas, uh if it's a
+bound indicator like here, the RSI for
+example, um indicators really work best
+at their extremes. So whenever you're
+getting these readings up here or
+readings down here, that's when they're
+most helpful. when they're sort of
+meandering in this middle area here, uh
+it really uh isn't so helpful. So, let's
+just keep moving forward and see if we
+can find a long entry.
+All right, so we're starting to curl
+upwards. The uh still a second uh day of
+strong buying and we don't have a
+crossover yet of the five above the 11.
+Okay, so the five has crossed above the
+11. Okay. Uh RSI really isn't giving us
+a whole lot of information in this
+limited kind of uh small little area
+here. If we zoom out, maybe it'll tell
+us more, but we're we're kind of trying
+to stick into we're trying to stay in a
+in a micro environment here uh to help
+us on a day-to-day trading uh strategy.
+So, let's uh see if it in my in my
+opinion, if it does cross over, that
+would be a buy. the five starts to cross
+over the the uh the 18 which is still uh
+sloping upwards.
+All right. So you can take a long
+position here. Now if I zoom in you're
+going to see that the five is now curled
+upwards. It has crossed above the 18 uh
+the 11 which is the red and the 18 which
+is the blue. So this would be an entry.
+It's not uncommon for in this particular
+case for price action to do something
+like this that some folks uh and some uh
+teachers out there call it the one two
+three. You have price action that goes
+does this, comes up, comes back down to
+kind of test this area, and then off the
+races. Sometimes folks will advise
+entering here on that pullback after you
+get a nice strong uh signal to buy right
+here in a potential uh first trigger
+that you may not take, but you want to
+take that second trigger here. Um, this
+may not do that. I don't know if it's
+going to do that, but again, we're still
+kind of watching RSI, which didn't tell
+us much about uh you know, this was just
+too too quick of a dip to get any kind
+of uh bullish divergence to happen here.
+Let me just clear these off.
+All right. So, what we'll do is we'll
+consider taking a long position here and
+see what happens. And again, we want to
+set our stops down here. Uh in this
+particular case, this would have been a
+long entry at FA 409. We could set our
+stops just below here, maybe at 390,
+392,
+and we're going to keep moving forward.
+All right, these are b relatively
+bullish candles. Whenever you have a
+candle like this that um where where the
+uh price action is repelled off the
+bottom and pushed upwards to a hammer
+candle. If you're in a long ent
+bullish candle. All right, these are
+flattening out, potentially threatening
+to drop down. Uh but let's just keep
+watching. Okay, so here we are. We're
+off to the races.
+And there we go. So, at this particular
+point in time, you're starting to get
+that air gap that developed. Again, if
+remember, I talked about that earlier.
+Uh you're going to see that price action
+is all the way up here. And here's the
+18. Okay, which is likely going to start
+curling up. So, this is already an air
+gap by itself. So at this particular
+point in time, if you're not in the
+position, it would be a little bit too
+risky to take on a position just
+technically speaking uh in this
+particular case because you have such a
+a an extension of price action away from
+that 18 moving average.
+So let's keep moving forward. You might
+want to consider taking profits at this
+time or raising your stops uh just
+slightly higher to maybe just below this
+candle right here, which would be 403.
+All right, there's that air gap. Very
+extended. Okay, air price action up here
+at 423 and the moving average of 18 is
+down at 408 now. So, you want to be
+moving your stops up as you go along.
+And we're still watching RSI. Not
+telling us anything. This is actually uh
+this is a um I I consider it a a
+confirmation. If you look here, you're
+going to see the RSI is actually moving
+upwards
+in the same direction as the price
+action. So, that's bullish, okay?
+because you're getting sort of that
+confirmation telling you that the price
+action to the north to the upside is
+genuine.
+So, let's move forward.
+Okay, some profit taking or potential
+selling coming in, but the moving
+averages are still pointed to the
+northeast. RSI is still looking strong.
+Just because it's overbought does not
+mean uh that you're going to have a
+sell-off, okay? Uh it can be there can
+be some profit taking, but this is a
+good sign. It's a bullish sign. I think
+everyone gets sort of confused that just
+because you're in the RSI area of what's
+considered overbought means that you're
+going to have a sell-off. No, it means
+it's bullish. So, that's a good thing.
+So, let's keep moving forward and we'll
+just do a couple more examples and then
+we'll call it and head out to the uh to
+today, November 7th, 2025 to see where
+we're at.
+All right, so a little bit of a
+divergence right there potentially. You
+could argue maybe not. Uh price action
+is also confirming uh that RSI is
+getting weak. But again, this is just
+likely a uh a profit taking selloff
+right here. So, let's keep moving
+forward. The five is starting to turn
+downwards. Uh again, you have another
+one of those uh trend line breaks here.
+Okay, so this could be a sell uh
+trigger. This is your sell signal that
+you're so extended and this is your
+trigger. So, you might want to go into
+cash this particular point in time.
+We'll see how it works out.
+So, again, it's bullish. So, let me kind
+of move forward and see if we can't get
+a signal that talks to us here that I
+can talk I can walk through. So, you do
+have divergence already. So, the price
+is starting to rise here.
+Let me just make a line and I'll point
+it out and then we'll zip forward. So,
+you've got sort of price action that's a
+little bit higher over here, a little
+bit higher peak. And this is your RSI
+that is now diverging again. So, again,
+bearish sell signal.
+Okay.
+So, here you go.
+So, what we're doing is we are watching
+the price action starting to lose some
+momentum. You can see the RSI all the
+way back here from January 25th to
+today. That's a long sort of price
+action is climbing, but momentum is
+slowing. So, let's see what's going to
+happen. The EMAs are not crossing over.
+One thing to note uh what I look for
+also uh is if the um if the RSI jumps
+above the the recent peaks it also
+indicates that bullish uh momentum is
+still alive and well. I'll show what I
+mean. So what happens is if you have
+price action that is climbing like this
+and you have RSI that is diverging.
+Okay, you can see that this peak right
+here overcame this one. So that again
+that is bull that is bullish. Okay,
+because it just broke the downtrend.
+It's a uh another uh entry long entry
+signal u because price action has been
+going up. RSI was d was bearish diverg
+had bearish divergence in the RSI there
+but RSI has popped above that and giving
+you a buy signal. So at this particular
+point in time you could be looking for a
+new long entry.
+All right. So, let's just move ahead
+few more.
+All right. So, what we're doing now is
+we're going to be looking for a new uh
+long entry. Hopefully, some divergence
+here, bullish divergence in the RSI.
+All right. So, price is falling, albeit
+very slowly. Uh it's it's actually not
+uh dropping off severely. uh like as for
+example in in the in the recent uh weeks
+here in 20 late 2025 here in March of
+2024 it was sort of drifting uh to the
+downside which uh is a good thing. It
+means it's it's um it is bullish uh in
+in the larger picture obviously bearish
+in the short term.
+So it's consolidating. All right. So
+price action is consolidating. The the
+uh moving averages are still all really
+pointing to the northeast.
+Okay,
+that's a strong sellout. So that's that
+in itself, this candle right here, tells
+you that's a whole day of selling right
+there. So that right there is a is a
+bearish uh signal um at this particular
+point in time. If I was long somewhere,
+I don't know, back here, maybe I'd be
+probably be selling for break even uh or
+here for a small profit, whatever it
+might be. That kind of candle uh would
+tell me personally as well as you have
+some of the EMAs crossing over that it's
+time to get out of the positions because
+more selling is likely ahead. Let's see.
+There it is. Okay,
+so now at this particular point in time,
+all of our moving averages have crossed
+over. Now they're all pointing
+downwards, the five, the 11, and the 18.
+Now, we're waiting for uh one last
+example, which will look for hopefully a
+nice bullish divergence in the RSI to to
+uh try and find our next long entry. So,
+let's keep moving forward.
+And again, I'm watching this live just
+like you. I don't recall exactly what's
+going to happen.
+All right, so the five is now
+threatening to cross over the 11. The 18
+is still pointing downwards, which is
+bearish. Uh we didn't have any kind of
+divergence. We had sort of a Vbottom
+here. RSI just bounced off. It still
+hasn't gotten to an overbought
+territory. If the RSI overcomes 60 or 65
+here, which is this uh recent high peak
+right here, that would be bullish. Okay?
+So, we'd be looking for maybe a pullback
+in the price action before we go long,
+but it hasn't done that yet. So, we're
+watching the RSI to see if it pops above
+these recent peaks. That will be a
+bullish buy signal, and then we're going
+to be looking for a trigger for entry at
+that point. Okay. So there we go. All
+right. So here we are. We have reached
+just barely above those peaks. We have a
+crossover. So this is a great example of
+a particular point in time where you
+could either a take a long entry here or
+wait for a pullback because you have a
+buy signal. All right. And essentially a
+buy trigger allin one. The five and the
+11 have uh the five has crossed over the
+11. The five and 11 have sloped upwards.
+18 is just barely starting to flatten
+out, which I'll try to zoom in on.
+And uh the RSI has gotten above these
+peaks just barely. These were at uh 60
+61 62 and uh at the pop here, this has
+gotten to about just 64 65. So real
+granular here. Uh but uh granularity is
+important if you're going to be trading
+uh day overday. So you can either take
+on a position here long or wait for a
+pullback. Let's see how it works out.
+Maybe you set your stops down here. Now
+start to raise them because if you are
+long, you're going higher.
+Excellent. Awesome. Okay, so you get the
+point. Uh I hope. And let's uh hop all
+the way out to where we are today.
+so this is November 6th, Thursday. I
+don't have the updated price action. It
+is another selling day here on November
+7th, Friday. Uh but this uh price action
+is updated right now until uh the uh the
+6th November. What you can see here is
+that um right off the bat um momentum
+loss uh if we're going to be examining
+this sort of uh on a more granular uh
+basis, let me just kind of pull up the
+drawing tool here. And you can see that
+price action was climbing. Okay, we had
+uh a pretty bearish divergence momentum.
+So momentum loss as price got up here.
+There's going to be folks who are left
+uh holding the bag. But look how
+extended the price action. Price action
+was up here on like 20 October 28th,
+29th, but look how far that price action
+is extended from the 18th. So again,
+you've got uh bearish momentum on the
+RSI plus you've got um the price action
+making a higher high than here. Uh that
+would tell you that risk is very high
+for some type of pullback or selloff
+right here on October 29th. And that's
+exactly what's been happening.
+All right. So, let me just erase these
+and we will wrap it up. Let me zoom in a
+little bit.
+Okay. So, the five has now crossed over
+just barely. The 11, which is now
+they're both pointing downwards. The 18
+as of yesterday, the 6th of November, is
+still pointing upwards. So, that is
+bullish on a larger time frame. That's a
+good thing. Uh, but if that starts to
+flatten out or curl over, that's going
+to be very bearish. So, at this
+particular point in time, we're going to
+be looking for some type of
+consolidation uh going into November and
+likely a small rally sometime in mid to
+late November into early December uh
+with uh the QQQ and TKQ QLD uh coming
+back upwards uh threatening to try and
+take out that high of around $632 per
+share. So, I hope that helps in your
+trading strategy. Uh good luck and do be
+careful out there.

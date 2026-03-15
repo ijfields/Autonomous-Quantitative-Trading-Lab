@@ -1,0 +1,60 @@
+If you use cloud code, then here are
+five GitHub repos you need to check out
+before starting your next project. So
+number one is the UIUX Promax GitHub.
+Think of this as the front-end design
+skill on steroids. So the nice thing
+about it is it has intelligent design
+system generation. So it has essentially
+different systems based on what it is
+you're trying to build. So we get away
+from the generic AI slop that's
+plastered all over the internet no
+matter what you're actually creating.
+Now, number two is GSD, the get
+done framework. You've probably heard me
+talk about this one a lot. It's
+essentially a specd driven development
+framework that lives on top of cloud
+code, and it's perfect if you're trying
+to build a new project from scratch and
+want something that's going to handle
+things like sub agents and context
+window rot all automatically. Now,
+number three is one of my personal
+favorites, and that's the NAN MCP
+server. Now, Cloud Code is really good
+at creating NAND workflows from scratch.
+But if you combine it with this MCP
+server, it actually is even better. And
+that's because this MCP server gives it
+access to over a thousand nodes, their
+properties, their operations, their
+documentation, and almost 3,000 real
+examples. Now, this MCP server is kind
+of heavy, so there's only specific use
+cases when it makes sense. But if you're
+specifically driving towards an endgame
+that includes a rather complex NAD
+solution, then you definitely want to
+try this one. Number four is Obsidian
+Skills. And this repo is all about
+combining the powers of Claude Code and
+Obsidian. And if you don't know what
+Obsidian is, it's essentially one of the
+best tools out there for creating a
+second brain for Claude Code. So if you
+just want something that's going to
+remember everything, then you definitely
+need to try this one. And last but not
+least is Awesome Claude Code. Now, this
+is a repo that essentially just has a
+bunch of skills, workflows, toolings,
+commands. It's like a one-stop shop for
+everything you need for supercharging
+your Claude Code workflows. Now, if you
+want to learn more about Cloud Code and
+how to actually build things and sell
+them, make sure to check out my
+community. There's a link to it in my
+bio.
