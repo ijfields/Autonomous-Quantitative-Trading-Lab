@@ -1,0 +1,3352 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.080 --> 00:00:01.990 align:start position:0%
+ 
+This<00:00:00.240><c> is</c><00:00:00.400><c> the</c><00:00:00.560><c> ultimate</c><00:00:00.960><c> OpenClaw</c><00:00:01.600><c> cost</c>
+
+00:00:01.990 --> 00:00:02.000 align:start position:0%
+This is the ultimate OpenClaw cost
+ 
+
+00:00:02.000 --> 00:00:03.669 align:start position:0%
+This is the ultimate OpenClaw cost
+optimization<00:00:02.639><c> guide.</c><00:00:03.040><c> If</c><00:00:03.200><c> you're</c><00:00:03.360><c> setting</c><00:00:03.520><c> up</c>
+
+00:00:03.669 --> 00:00:03.679 align:start position:0%
+optimization guide. If you're setting up
+ 
+
+00:00:03.679 --> 00:00:05.430 align:start position:0%
+optimization guide. If you're setting up
+OpenClaw<00:00:04.240><c> incorrectly,</c><00:00:04.880><c> you</c><00:00:05.120><c> might</c><00:00:05.279><c> be</c>
+
+00:00:05.430 --> 00:00:05.440 align:start position:0%
+OpenClaw incorrectly, you might be
+ 
+
+00:00:05.440 --> 00:00:07.110 align:start position:0%
+OpenClaw incorrectly, you might be
+burning<00:00:05.759><c> through</c><00:00:06.080><c> hundreds</c><00:00:06.480><c> of</c><00:00:06.640><c> dollars</c><00:00:06.960><c> of</c>
+
+00:00:07.110 --> 00:00:07.120 align:start position:0%
+burning through hundreds of dollars of
+ 
+
+00:00:07.120 --> 00:00:09.030 align:start position:0%
+burning through hundreds of dollars of
+API<00:00:07.600><c> credits,</c><00:00:08.000><c> and</c><00:00:08.160><c> I</c><00:00:08.320><c> was</c><00:00:08.480><c> running</c><00:00:08.639><c> into</c><00:00:08.880><c> the</c>
+
+00:00:09.030 --> 00:00:09.040 align:start position:0%
+API credits, and I was running into the
+ 
+
+00:00:09.040 --> 00:00:10.709 align:start position:0%
+API credits, and I was running into the
+same<00:00:09.200><c> issue.</c><00:00:09.519><c> However,</c><00:00:09.840><c> I</c><00:00:10.000><c> did</c><00:00:10.160><c> some</c><00:00:10.320><c> in-depth</c>
+
+00:00:10.709 --> 00:00:10.719 align:start position:0%
+same issue. However, I did some in-depth
+ 
+
+00:00:10.719 --> 00:00:13.190 align:start position:0%
+same issue. However, I did some in-depth
+research<00:00:11.040><c> on</c><00:00:11.280><c> how</c><00:00:11.440><c> to</c><00:00:11.599><c> cut</c><00:00:11.759><c> your</c><00:00:12.000><c> OpenClaw</c><00:00:12.639><c> API</c>
+
+00:00:13.190 --> 00:00:13.200 align:start position:0%
+research on how to cut your OpenClaw API
+ 
+
+00:00:13.200 --> 00:00:16.150 align:start position:0%
+research on how to cut your OpenClaw API
+bill<00:00:13.440><c> costs</c><00:00:13.759><c> by</c><00:00:14.000><c> 70</c><00:00:14.320><c> to</c><00:00:14.639><c> 97%.</c><00:00:15.679><c> Check</c><00:00:15.839><c> this</c><00:00:16.000><c> out.</c>
+
+00:00:16.150 --> 00:00:16.160 align:start position:0%
+bill costs by 70 to 97%. Check this out.
+ 
+
+00:00:16.160 --> 00:00:18.390 align:start position:0%
+bill costs by 70 to 97%. Check this out.
+I<00:00:16.480><c> was</c><00:00:16.560><c> able</c><00:00:16.720><c> to</c><00:00:16.880><c> lower</c><00:00:17.199><c> it</c><00:00:17.440><c> to</c><00:00:17.680><c> less</c><00:00:17.920><c> than</c><00:00:18.240><c> 30</c>
+
+00:00:18.390 --> 00:00:18.400 align:start position:0%
+I was able to lower it to less than 30
+ 
+
+00:00:18.400 --> 00:00:20.070 align:start position:0%
+I was able to lower it to less than 30
+cents<00:00:18.720><c> a</c><00:00:18.880><c> day.</c><00:00:19.279><c> And</c><00:00:19.359><c> I'm</c><00:00:19.600><c> using</c><00:00:19.760><c> different</c>
+
+00:00:20.070 --> 00:00:20.080 align:start position:0%
+cents a day. And I'm using different
+ 
+
+00:00:20.080 --> 00:00:21.830 align:start position:0%
+cents a day. And I'm using different
+models<00:00:20.400><c> for</c><00:00:20.640><c> different</c><00:00:20.880><c> use</c><00:00:21.039><c> cases</c><00:00:21.439><c> and</c><00:00:21.680><c> I'm</c>
+
+00:00:21.830 --> 00:00:21.840 align:start position:0%
+models for different use cases and I'm
+ 
+
+00:00:21.840 --> 00:00:23.590 align:start position:0%
+models for different use cases and I'm
+currently<00:00:22.160><c> running</c><00:00:22.320><c> on</c><00:00:22.560><c> less</c><00:00:22.800><c> than</c><00:00:23.039><c> 10</c><00:00:23.279><c> cents</c>
+
+00:00:23.590 --> 00:00:23.600 align:start position:0%
+currently running on less than 10 cents
+ 
+
+00:00:23.600 --> 00:00:26.310 align:start position:0%
+currently running on less than 10 cents
+a<00:00:23.840><c> day</c><00:00:24.080><c> and</c><00:00:24.320><c> I</c><00:00:24.480><c> only</c><00:00:24.720><c> spent</c><00:00:25.039><c> $2</c><00:00:25.600><c> this</c><00:00:25.840><c> month</c><00:00:26.080><c> so</c>
+
+00:00:26.310 --> 00:00:26.320 align:start position:0%
+a day and I only spent $2 this month so
+ 
+
+00:00:26.320 --> 00:00:28.550 align:start position:0%
+a day and I only spent $2 this month so
+far<00:00:26.640><c> while</c><00:00:26.880><c> I</c><00:00:27.119><c> have</c><00:00:27.199><c> AI</c><00:00:27.599><c> agents</c><00:00:28.080><c> running</c><00:00:28.320><c> all</c>
+
+00:00:28.550 --> 00:00:28.560 align:start position:0%
+far while I have AI agents running all
+ 
+
+00:00:28.560 --> 00:00:30.630 align:start position:0%
+far while I have AI agents running all
+of<00:00:28.720><c> these</c><00:00:28.960><c> processes</c><00:00:29.519><c> for</c><00:00:29.760><c> me.</c><00:00:30.000><c> My</c><00:00:30.160><c> agent</c><00:00:30.480><c> team</c>
+
+00:00:30.630 --> 00:00:30.640 align:start position:0%
+of these processes for me. My agent team
+ 
+
+00:00:30.640 --> 00:00:32.630 align:start position:0%
+of these processes for me. My agent team
+is<00:00:30.880><c> really</c><00:00:31.119><c> large.</c><00:00:31.760><c> So</c><00:00:31.920><c> bringing</c><00:00:32.239><c> the</c><00:00:32.399><c> cost</c>
+
+00:00:32.630 --> 00:00:32.640 align:start position:0%
+is really large. So bringing the cost
+ 
+
+00:00:32.640 --> 00:00:34.389 align:start position:0%
+is really large. So bringing the cost
+down<00:00:32.960><c> on</c><00:00:33.120><c> a</c><00:00:33.280><c> day-to-day</c><00:00:33.405><c> [music]</c><00:00:33.680><c> basis</c><00:00:34.079><c> is</c>
+
+00:00:34.389 --> 00:00:34.399 align:start position:0%
+down on a day-to-day [music] basis is
+ 
+
+00:00:34.399 --> 00:00:35.910 align:start position:0%
+down on a day-to-day [music] basis is
+super<00:00:34.719><c> important.</c><00:00:35.280><c> You</c><00:00:35.440><c> might</c><00:00:35.600><c> consider</c>
+
+00:00:35.910 --> 00:00:35.920 align:start position:0%
+super important. You might consider
+ 
+
+00:00:35.920 --> 00:00:37.670 align:start position:0%
+super important. You might consider
+running<00:00:36.160><c> Mac</c><00:00:36.480><c> Mini</c><00:00:36.800><c> on</c><00:00:36.960><c> your</c><00:00:37.200><c> own</c><00:00:37.360><c> local</c>
+
+00:00:37.670 --> 00:00:37.680 align:start position:0%
+running Mac Mini on your own local
+ 
+
+00:00:37.680 --> 00:00:39.030 align:start position:0%
+running Mac Mini on your own local
+machine,<00:00:38.079><c> but</c><00:00:38.239><c> you</c><00:00:38.399><c> need</c><00:00:38.480><c> to</c><00:00:38.640><c> be</c><00:00:38.800><c> super</c>
+
+00:00:39.030 --> 00:00:39.040 align:start position:0%
+machine, but you need to be super
+ 
+
+00:00:39.040 --> 00:00:40.630 align:start position:0%
+machine, but you need to be super
+careful<00:00:39.440><c> because</c><00:00:39.680><c> this</c><00:00:39.920><c> can</c><00:00:40.079><c> be</c><00:00:40.239><c> dangerous</c>
+
+00:00:40.630 --> 00:00:40.640 align:start position:0%
+careful because this can be dangerous
+ 
+
+00:00:40.640 --> 00:00:42.869 align:start position:0%
+careful because this can be dangerous
+and<00:00:40.960><c> have</c><00:00:41.200><c> serious</c><00:00:41.680><c> security</c><00:00:42.160><c> implications.</c>
+
+00:00:42.869 --> 00:00:42.879 align:start position:0%
+and have serious security implications.
+ 
+
+00:00:42.879 --> 00:00:44.630 align:start position:0%
+and have serious security implications.
+Because<00:00:43.040><c> of</c><00:00:43.200><c> this,</c><00:00:43.360><c> I'm</c><00:00:43.520><c> running</c><00:00:43.680><c> it</c><00:00:43.840><c> on</c><00:00:44.000><c> a</c><00:00:44.160><c> VPS</c>
+
+00:00:44.630 --> 00:00:44.640 align:start position:0%
+Because of this, I'm running it on a VPS
+ 
+
+00:00:44.640 --> 00:00:46.310 align:start position:0%
+Because of this, I'm running it on a VPS
+called<00:00:44.800><c> Hostinger</c><00:00:45.440><c> that</c><00:00:45.600><c> allows</c><00:00:45.840><c> me</c><00:00:46.000><c> to</c><00:00:46.160><c> run</c>
+
+00:00:46.310 --> 00:00:46.320 align:start position:0%
+called Hostinger that allows me to run
+ 
+
+00:00:46.320 --> 00:00:49.510 align:start position:0%
+called Hostinger that allows me to run
+this<00:00:46.480><c> entire</c><00:00:46.879><c> setup</c><00:00:47.200><c> for</c><00:00:47.360><c> around</c><00:00:47.840><c> $6.29</c><00:00:49.280><c> a</c>
+
+00:00:49.510 --> 00:00:49.520 align:start position:0%
+this entire setup for around $6.29 a
+ 
+
+00:00:49.520 --> 00:00:51.190 align:start position:0%
+this entire setup for around $6.29 a
+month.<00:00:49.920><c> I'll</c><00:00:50.160><c> not</c><00:00:50.320><c> only</c><00:00:50.480><c> show</c><00:00:50.640><c> you</c><00:00:50.879><c> exactly</c>
+
+00:00:51.190 --> 00:00:51.200 align:start position:0%
+month. I'll not only show you exactly
+ 
+
+00:00:51.200 --> 00:00:53.430 align:start position:0%
+month. I'll not only show you exactly
+how<00:00:51.360><c> to</c><00:00:51.520><c> set</c><00:00:51.680><c> up</c><00:00:51.920><c> OpenClaw</c><00:00:52.480><c> on</c><00:00:52.640><c> Hostinger</c><00:00:53.199><c> with</c>
+
+00:00:53.430 --> 00:00:53.440 align:start position:0%
+how to set up OpenClaw on Hostinger with
+ 
+
+00:00:53.440 --> 00:00:54.790 align:start position:0%
+how to set up OpenClaw on Hostinger with
+just<00:00:53.600><c> a</c><00:00:53.760><c> few</c><00:00:53.920><c> clicks,</c><00:00:54.239><c> but</c><00:00:54.399><c> then</c><00:00:54.559><c> I'll</c><00:00:54.719><c> show</c>
+
+00:00:54.790 --> 00:00:54.800 align:start position:0%
+just a few clicks, but then I'll show
+ 
+
+00:00:54.800 --> 00:00:56.709 align:start position:0%
+just a few clicks, but then I'll show
+you<00:00:55.039><c> a</c><00:00:55.199><c> few</c><00:00:55.360><c> models</c><00:00:55.680><c> you</c><00:00:55.920><c> can</c><00:00:56.000><c> use,</c><00:00:56.320><c> how</c><00:00:56.480><c> to</c><00:00:56.640><c> set</c>
+
+00:00:56.709 --> 00:00:56.719 align:start position:0%
+you a few models you can use, how to set
+ 
+
+00:00:56.719 --> 00:00:58.790 align:start position:0%
+you a few models you can use, how to set
+up<00:00:56.960><c> cost</c><00:00:57.280><c> optimization,</c><00:00:58.000><c> how</c><00:00:58.160><c> to</c><00:00:58.320><c> optimize</c>
+
+00:00:58.790 --> 00:00:58.800 align:start position:0%
+up cost optimization, how to optimize
+ 
+
+00:00:58.800 --> 00:01:00.709 align:start position:0%
+up cost optimization, how to optimize
+your<00:00:58.960><c> memory</c><00:00:59.280><c> and</c><00:00:59.440><c> your</c><00:00:59.600><c> agents,</c><00:01:00.239><c> compact</c>
+
+00:01:00.709 --> 00:01:00.719 align:start position:0%
+your memory and your agents, compact
+ 
+
+00:01:00.719 --> 00:01:02.630 align:start position:0%
+your memory and your agents, compact
+your<00:01:00.879><c> chats,</c><00:01:01.359><c> and</c><00:01:01.600><c> keep</c><00:01:01.760><c> your</c><00:01:01.920><c> entire</c><00:01:02.160><c> API</c>
+
+00:01:02.630 --> 00:01:02.640 align:start position:0%
+your chats, and keep your entire API
+ 
+
+00:01:02.640 --> 00:01:04.229 align:start position:0%
+your chats, and keep your entire API
+cost<00:01:02.879><c> very</c><00:01:03.199><c> low.</c><00:01:03.359><c> Your</c><00:01:03.520><c> time</c><00:01:03.680><c> is</c><00:01:03.840><c> valuable,</c><00:01:04.080><c> so</c>
+
+00:01:04.229 --> 00:01:04.239 align:start position:0%
+cost very low. Your time is valuable, so
+ 
+
+00:01:04.239 --> 00:01:05.830 align:start position:0%
+cost very low. Your time is valuable, so
+let's<00:01:04.400><c> get</c><00:01:04.559><c> right</c><00:01:04.640><c> to</c><00:01:04.799><c> it.</c><00:01:05.280><c> And</c><00:01:05.439><c> before</c><00:01:05.600><c> we</c><00:01:05.760><c> get</c>
+
+00:01:05.830 --> 00:01:05.840 align:start position:0%
+let's get right to it. And before we get
+ 
+
+00:01:05.840 --> 00:01:07.030 align:start position:0%
+let's get right to it. And before we get
+into<00:01:06.080><c> how</c><00:01:06.240><c> to</c><00:01:06.400><c> set</c><00:01:06.560><c> up</c><00:01:06.640><c> the</c><00:01:06.799><c> cost</c>
+
+00:01:07.030 --> 00:01:07.040 align:start position:0%
+into how to set up the cost
+ 
+
+00:01:07.040 --> 00:01:08.630 align:start position:0%
+into how to set up the cost
+optimization,<00:01:07.760><c> let</c><00:01:07.920><c> me</c><00:01:08.000><c> show</c><00:01:08.159><c> you</c><00:01:08.240><c> why</c><00:01:08.479><c> this</c>
+
+00:01:08.630 --> 00:01:08.640 align:start position:0%
+optimization, let me show you why this
+ 
+
+00:01:08.640 --> 00:01:10.310 align:start position:0%
+optimization, let me show you why this
+matters<00:01:08.960><c> in</c><00:01:09.119><c> the</c><00:01:09.280><c> first</c><00:01:09.439><c> place.</c><00:01:09.680><c> In</c><00:01:09.920><c> my</c><00:01:10.080><c> open</c>
+
+00:01:10.310 --> 00:01:10.320 align:start position:0%
+matters in the first place. In my open
+ 
+
+00:01:10.320 --> 00:01:11.990 align:start position:0%
+matters in the first place. In my open
+claw,<00:01:10.640><c> I</c><00:01:10.799><c> currently</c><00:01:11.040><c> have</c><00:01:11.200><c> an</c><00:01:11.360><c> agent</c><00:01:11.680><c> fleet</c>
+
+00:01:11.990 --> 00:01:12.000 align:start position:0%
+claw, I currently have an agent fleet
+ 
+
+00:01:12.000 --> 00:01:14.230 align:start position:0%
+claw, I currently have an agent fleet
+setup<00:01:12.400><c> of</c><00:01:12.640><c> more</c><00:01:12.799><c> than</c><00:01:13.040><c> 19</c><00:01:13.360><c> agents</c><00:01:13.840><c> that</c>
+
+00:01:14.230 --> 00:01:14.240 align:start position:0%
+setup of more than 19 agents that
+ 
+
+00:01:14.240 --> 00:01:15.970 align:start position:0%
+setup of more than 19 agents that
+continuously<00:01:14.960><c> build</c><00:01:15.360><c> different</c><00:01:15.680><c> things</c><00:01:15.840><c> for</c>
+
+00:01:15.970 --> 00:01:15.980 align:start position:0%
+continuously build different things for
+ 
+
+00:01:15.980 --> 00:01:17.749 align:start position:0%
+continuously build different things for
+[music]<00:01:16.080><c> me</c><00:01:16.240><c> or</c><00:01:16.479><c> finish</c><00:01:16.799><c> tasks.</c><00:01:17.360><c> For</c><00:01:17.439><c> example,</c>
+
+00:01:17.749 --> 00:01:17.759 align:start position:0%
+[music] me or finish tasks. For example,
+ 
+
+00:01:17.759 --> 00:01:19.670 align:start position:0%
+[music] me or finish tasks. For example,
+I<00:01:17.920><c> have</c><00:01:18.000><c> a</c><00:01:18.159><c> content</c><00:01:18.400><c> agent,</c><00:01:18.799><c> a</c><00:01:19.040><c> product</c><00:01:19.280><c> agent,</c>
+
+00:01:19.670 --> 00:01:19.680 align:start position:0%
+I have a content agent, a product agent,
+ 
+
+00:01:19.680 --> 00:01:21.030 align:start position:0%
+I have a content agent, a product agent,
+research<00:01:20.000><c> agent,</c><00:01:20.479><c> I</c><00:01:20.560><c> have</c><00:01:20.579><c> [music]</c><00:01:20.640><c> a</c><00:01:20.799><c> deaf</c>
+
+00:01:21.030 --> 00:01:21.040 align:start position:0%
+research agent, I have [music] a deaf
+ 
+
+00:01:21.040 --> 00:01:22.950 align:start position:0%
+research agent, I have [music] a deaf
+agent<00:01:21.360><c> that</c><00:01:21.680><c> continues</c><00:01:22.080><c> to</c><00:01:22.240><c> build</c><00:01:22.560><c> cool</c>
+
+00:01:22.950 --> 00:01:22.960 align:start position:0%
+agent that continues to build cool
+ 
+
+00:01:22.960 --> 00:01:24.789 align:start position:0%
+agent that continues to build cool
+projects<00:01:23.280><c> for</c><00:01:23.439><c> me.</c><00:01:23.759><c> All</c><00:01:23.920><c> of</c><00:01:24.000><c> these</c><00:01:24.240><c> projects</c>
+
+00:01:24.789 --> 00:01:24.799 align:start position:0%
+projects for me. All of these projects
+ 
+
+00:01:24.799 --> 00:01:27.429 align:start position:0%
+projects for me. All of these projects
+were<00:01:25.040><c> built</c><00:01:25.360><c> autonomously</c><00:01:26.159><c> by</c><00:01:26.400><c> my</c><00:01:26.720><c> AI</c><00:01:27.119><c> agent</c>
+
+00:01:27.429 --> 00:01:27.439 align:start position:0%
+were built autonomously by my AI agent
+ 
+
+00:01:27.439 --> 00:01:29.350 align:start position:0%
+were built autonomously by my AI agent
+and<00:01:27.600><c> it</c><00:01:27.840><c> did</c><00:01:28.000><c> all</c><00:01:28.080><c> of</c><00:01:28.159><c> that</c><00:01:28.400><c> while</c><00:01:28.640><c> I</c><00:01:28.799><c> sleep.</c><00:01:29.200><c> It</c>
+
+00:01:29.350 --> 00:01:29.360 align:start position:0%
+and it did all of that while I sleep. It
+ 
+
+00:01:29.360 --> 00:01:31.590 align:start position:0%
+and it did all of that while I sleep. It
+has<00:01:29.520><c> simple</c><00:01:29.840><c> apps</c><00:01:30.080><c> like</c><00:01:30.159><c> a</c><00:01:30.400><c> Pomodoro</c><00:01:31.040><c> timer.</c><00:01:31.439><c> I</c>
+
+00:01:31.590 --> 00:01:31.600 align:start position:0%
+has simple apps like a Pomodoro timer. I
+ 
+
+00:01:31.600 --> 00:01:33.270 align:start position:0%
+has simple apps like a Pomodoro timer. I
+have<00:01:31.680><c> AI</c><00:01:32.079><c> prompt</c><00:01:32.400><c> managers</c><00:01:32.799><c> that</c><00:01:32.960><c> help</c><00:01:33.119><c> me</c>
+
+00:01:33.270 --> 00:01:33.280 align:start position:0%
+have AI prompt managers that help me
+ 
+
+00:01:33.280 --> 00:01:34.870 align:start position:0%
+have AI prompt managers that help me
+come<00:01:33.439><c> up</c><00:01:33.600><c> with</c><00:01:33.759><c> better</c><00:01:34.000><c> prompts.</c><00:01:34.479><c> It</c><00:01:34.720><c> even</c>
+
+00:01:34.870 --> 00:01:34.880 align:start position:0%
+come up with better prompts. It even
+ 
+
+00:01:34.880 --> 00:01:36.789 align:start position:0%
+come up with better prompts. It even
+came<00:01:35.040><c> up</c><00:01:35.119><c> with</c><00:01:35.280><c> a</c><00:01:35.520><c> thumbnail</c><00:01:35.920><c> analyzer</c><00:01:36.479><c> for</c><00:01:36.720><c> me</c>
+
+00:01:36.789 --> 00:01:36.799 align:start position:0%
+came up with a thumbnail analyzer for me
+ 
+
+00:01:36.799 --> 00:01:39.030 align:start position:0%
+came up with a thumbnail analyzer for me
+and<00:01:37.040><c> I</c><00:01:37.200><c> just</c><00:01:37.360><c> have</c><00:01:37.439><c> to</c><00:01:37.600><c> paste</c><00:01:37.840><c> in</c><00:01:38.000><c> my</c><00:01:38.159><c> image</c><00:01:38.720><c> and</c>
+
+00:01:39.030 --> 00:01:39.040 align:start position:0%
+and I just have to paste in my image and
+ 
+
+00:01:39.040 --> 00:01:41.190 align:start position:0%
+and I just have to paste in my image and
+it<00:01:39.200><c> analyzes</c><00:01:39.680><c> if</c><00:01:39.840><c> it's</c><00:01:40.079><c> clickworthy</c><00:01:40.720><c> and</c><00:01:40.960><c> what</c>
+
+00:01:41.190 --> 00:01:41.200 align:start position:0%
+it analyzes if it's clickworthy and what
+ 
+
+00:01:41.200 --> 00:01:43.109 align:start position:0%
+it analyzes if it's clickworthy and what
+elements<00:01:41.520><c> I</c><00:01:41.759><c> can</c><00:01:41.920><c> improve.</c><00:01:42.479><c> I</c><00:01:42.640><c> have</c><00:01:42.720><c> a</c><00:01:42.880><c> mission</c>
+
+00:01:43.109 --> 00:01:43.119 align:start position:0%
+elements I can improve. I have a mission
+ 
+
+00:01:43.119 --> 00:01:44.950 align:start position:0%
+elements I can improve. I have a mission
+control<00:01:43.439><c> setup</c><00:01:43.759><c> that</c><00:01:43.920><c> shows</c><00:01:44.159><c> me</c><00:01:44.320><c> exactly</c><00:01:44.720><c> how</c>
+
+00:01:44.950 --> 00:01:44.960 align:start position:0%
+control setup that shows me exactly how
+ 
+
+00:01:44.960 --> 00:01:46.710 align:start position:0%
+control setup that shows me exactly how
+many<00:01:45.119><c> tokens</c><00:01:45.520><c> I</c><00:01:45.680><c> use</c><00:01:45.840><c> and</c><00:01:46.079><c> how</c><00:01:46.240><c> much</c><00:01:46.320><c> I</c><00:01:46.479><c> spent</c>
+
+00:01:46.710 --> 00:01:46.720 align:start position:0%
+many tokens I use and how much I spent
+ 
+
+00:01:46.720 --> 00:01:48.389 align:start position:0%
+many tokens I use and how much I spent
+this<00:01:46.960><c> month</c><00:01:47.200><c> as</c><00:01:47.439><c> well</c><00:01:47.520><c> as</c><00:01:47.680><c> recent</c><00:01:48.000><c> sessions.</c>
+
+00:01:48.389 --> 00:01:48.399 align:start position:0%
+this month as well as recent sessions.
+ 
+
+00:01:48.399 --> 00:01:50.310 align:start position:0%
+this month as well as recent sessions.
+And<00:01:48.560><c> these</c><00:01:48.880><c> are</c><00:01:48.960><c> just</c><00:01:49.119><c> my</c><00:01:49.360><c> web</c><00:01:49.600><c> agents.</c><00:01:50.000><c> I</c><00:01:50.159><c> also</c>
+
+00:01:50.310 --> 00:01:50.320 align:start position:0%
+And these are just my web agents. I also
+ 
+
+00:01:50.320 --> 00:01:51.510 align:start position:0%
+And these are just my web agents. I also
+have<00:01:50.479><c> other</c><00:01:50.640><c> agents</c><00:01:50.960><c> that</c><00:01:51.119><c> help</c><00:01:51.280><c> me</c><00:01:51.360><c> with</c>
+
+00:01:51.510 --> 00:01:51.520 align:start position:0%
+have other agents that help me with
+ 
+
+00:01:51.520 --> 00:01:52.630 align:start position:0%
+have other agents that help me with
+different<00:01:51.759><c> tasks.</c><00:01:52.079><c> So,</c><00:01:52.240><c> if</c><00:01:52.320><c> you</c><00:01:52.399><c> want</c><00:01:52.479><c> to</c>
+
+00:01:52.630 --> 00:01:52.640 align:start position:0%
+different tasks. So, if you want to
+ 
+
+00:01:52.640 --> 00:01:53.749 align:start position:0%
+different tasks. So, if you want to
+learn<00:01:52.720><c> more</c><00:01:52.960><c> how</c><00:01:53.119><c> I</c><00:01:53.280><c> set</c><00:01:53.316><c> [music]</c><00:01:53.439><c> up</c><00:01:53.520><c> these</c>
+
+00:01:53.749 --> 00:01:53.759 align:start position:0%
+learn more how I set [music] up these
+ 
+
+00:01:53.759 --> 00:01:55.109 align:start position:0%
+learn more how I set [music] up these
+agents,<00:01:54.079><c> let</c><00:01:54.240><c> me</c><00:01:54.320><c> know</c><00:01:54.479><c> down</c><00:01:54.640><c> in</c><00:01:54.799><c> the</c><00:01:54.880><c> comments</c>
+
+00:01:55.109 --> 00:01:55.119 align:start position:0%
+agents, let me know down in the comments
+ 
+
+00:01:55.119 --> 00:01:56.710 align:start position:0%
+agents, let me know down in the comments
+and<00:01:55.280><c> I'll</c><00:01:55.439><c> make</c><00:01:55.600><c> another</c><00:01:55.920><c> video</c><00:01:56.159><c> on</c><00:01:56.320><c> that.</c><00:01:56.560><c> But</c>
+
+00:01:56.710 --> 00:01:56.720 align:start position:0%
+and I'll make another video on that. But
+ 
+
+00:01:56.720 --> 00:01:58.389 align:start position:0%
+and I'll make another video on that. But
+now<00:01:56.799><c> that</c><00:01:56.960><c> you</c><00:01:57.119><c> see</c><00:01:57.200><c> that</c><00:01:57.360><c> I</c><00:01:57.600><c> have</c><00:01:57.759><c> many</c><00:01:58.000><c> agents</c>
+
+00:01:58.389 --> 00:01:58.399 align:start position:0%
+now that you see that I have many agents
+ 
+
+00:01:58.399 --> 00:02:00.389 align:start position:0%
+now that you see that I have many agents
+working<00:01:58.560><c> for</c><00:01:58.799><c> me</c><00:01:58.960><c> non-stop.</c><00:01:59.680><c> It</c><00:01:59.840><c> is</c><00:02:00.079><c> super</c>
+
+00:02:00.389 --> 00:02:00.399 align:start position:0%
+working for me non-stop. It is super
+ 
+
+00:02:00.399 --> 00:02:02.389 align:start position:0%
+working for me non-stop. It is super
+important<00:02:00.640><c> to</c><00:02:00.880><c> manage</c><00:02:01.119><c> my</c><00:02:01.280><c> API</c><00:02:01.759><c> costs.</c><00:02:02.159><c> I</c>
+
+00:02:02.389 --> 00:02:02.399 align:start position:0%
+important to manage my API costs. I
+ 
+
+00:02:02.399 --> 00:02:04.310 align:start position:0%
+important to manage my API costs. I
+already<00:02:02.640><c> have</c><00:02:02.799><c> multiple</c><00:02:03.200><c> VPSs</c><00:02:03.759><c> set</c><00:02:03.920><c> up.</c><00:02:04.240><c> As</c>
+
+00:02:04.310 --> 00:02:04.320 align:start position:0%
+already have multiple VPSs set up. As
+ 
+
+00:02:04.320 --> 00:02:06.230 align:start position:0%
+already have multiple VPSs set up. As
+you<00:02:04.479><c> can</c><00:02:04.560><c> see</c><00:02:04.719><c> here,</c><00:02:04.960><c> I</c><00:02:05.200><c> have</c><00:02:05.360><c> two</c><00:02:05.600><c> VPSs</c>
+
+00:02:06.230 --> 00:02:06.240 align:start position:0%
+you can see here, I have two VPSs
+ 
+
+00:02:06.240 --> 00:02:07.830 align:start position:0%
+you can see here, I have two VPSs
+running<00:02:06.479><c> in</c><00:02:06.719><c> parallel.</c><00:02:07.280><c> And</c><00:02:07.360><c> I'll</c><00:02:07.600><c> show</c><00:02:07.680><c> you</c>
+
+00:02:07.830 --> 00:02:07.840 align:start position:0%
+running in parallel. And I'll show you
+ 
+
+00:02:07.840 --> 00:02:09.510 align:start position:0%
+running in parallel. And I'll show you
+exactly<00:02:08.239><c> step</c><00:02:08.399><c> by</c><00:02:08.640><c> step</c><00:02:08.800><c> how</c><00:02:09.039><c> you</c><00:02:09.200><c> can</c><00:02:09.280><c> set</c><00:02:09.440><c> up</c>
+
+00:02:09.510 --> 00:02:09.520 align:start position:0%
+exactly step by step how you can set up
+ 
+
+00:02:09.520 --> 00:02:11.830 align:start position:0%
+exactly step by step how you can set up
+a<00:02:09.679><c> VPS</c><00:02:10.160><c> on</c><00:02:10.319><c> Hostinger</c><00:02:11.039><c> with</c><00:02:11.200><c> a</c><00:02:11.360><c> one-click</c>
+
+00:02:11.830 --> 00:02:11.840 align:start position:0%
+a VPS on Hostinger with a one-click
+ 
+
+00:02:11.840 --> 00:02:13.190 align:start position:0%
+a VPS on Hostinger with a one-click
+deployment.<00:02:12.400><c> And</c><00:02:12.560><c> this</c><00:02:12.640><c> is</c><00:02:12.720><c> the</c><00:02:12.879><c> easiest</c>
+
+00:02:13.190 --> 00:02:13.200 align:start position:0%
+deployment. And this is the easiest
+ 
+
+00:02:13.200 --> 00:02:15.030 align:start position:0%
+deployment. And this is the easiest
+method<00:02:13.440><c> in</c><00:02:13.680><c> my</c><00:02:13.920><c> experience</c><00:02:14.239><c> on</c><00:02:14.480><c> how</c><00:02:14.640><c> to</c><00:02:14.720><c> set</c><00:02:14.879><c> up</c>
+
+00:02:15.030 --> 00:02:15.040 align:start position:0%
+method in my experience on how to set up
+ 
+
+00:02:15.040 --> 00:02:16.390 align:start position:0%
+method in my experience on how to set up
+OpenClaw<00:02:15.599><c> in</c><00:02:15.680><c> the</c><00:02:15.760><c> first</c><00:02:15.920><c> place.</c><00:02:16.160><c> If</c><00:02:16.319><c> you</c>
+
+00:02:16.390 --> 00:02:16.400 align:start position:0%
+OpenClaw in the first place. If you
+ 
+
+00:02:16.400 --> 00:02:17.750 align:start position:0%
+OpenClaw in the first place. If you
+already<00:02:16.560><c> have</c><00:02:16.720><c> OpenClaw</c><00:02:17.200><c> installed</c><00:02:17.520><c> and</c><00:02:17.680><c> you</c>
+
+00:02:17.750 --> 00:02:17.760 align:start position:0%
+already have OpenClaw installed and you
+ 
+
+00:02:17.760 --> 00:02:19.030 align:start position:0%
+already have OpenClaw installed and you
+want<00:02:17.920><c> to</c><00:02:18.000><c> skip</c><00:02:18.160><c> ahead</c><00:02:18.480><c> to</c><00:02:18.640><c> the</c><00:02:18.800><c> cost</c>
+
+00:02:19.030 --> 00:02:19.040 align:start position:0%
+want to skip ahead to the cost
+ 
+
+00:02:19.040 --> 00:02:20.550 align:start position:0%
+want to skip ahead to the cost
+optimization,<00:02:19.680><c> go</c><00:02:19.760><c> ahead.</c><00:02:20.080><c> But</c><00:02:20.239><c> let's</c><00:02:20.400><c> set</c>
+
+00:02:20.550 --> 00:02:20.560 align:start position:0%
+optimization, go ahead. But let's set
+ 
+
+00:02:20.560 --> 00:02:22.229 align:start position:0%
+optimization, go ahead. But let's set
+this<00:02:20.800><c> whole</c><00:02:20.879><c> thing</c><00:02:21.040><c> up</c><00:02:21.200><c> from</c><00:02:21.440><c> scratch.</c><00:02:22.000><c> I</c><00:02:22.160><c> have</c>
+
+00:02:22.229 --> 00:02:22.239 align:start position:0%
+this whole thing up from scratch. I have
+ 
+
+00:02:22.239 --> 00:02:24.150 align:start position:0%
+this whole thing up from scratch. I have
+this<00:02:22.480><c> entire</c><00:02:22.800><c> OpenClaw</c><00:02:23.440><c> playbook</c><00:02:23.840><c> where</c><00:02:24.000><c> I</c>
+
+00:02:24.150 --> 00:02:24.160 align:start position:0%
+this entire OpenClaw playbook where I
+ 
+
+00:02:24.160 --> 00:02:25.430 align:start position:0%
+this entire OpenClaw playbook where I
+cover<00:02:24.400><c> so</c><00:02:24.560><c> much</c><00:02:24.720><c> more</c><00:02:24.879><c> than</c><00:02:25.040><c> what</c><00:02:25.280><c> we're</c>
+
+00:02:25.430 --> 00:02:25.440 align:start position:0%
+cover so much more than what we're
+ 
+
+00:02:25.440 --> 00:02:27.110 align:start position:0%
+cover so much more than what we're
+covering<00:02:25.680><c> in</c><00:02:25.920><c> this</c><00:02:26.080><c> video.</c><00:02:26.560><c> everything</c><00:02:26.879><c> from</c>
+
+00:02:27.110 --> 00:02:27.120 align:start position:0%
+covering in this video. everything from
+ 
+
+00:02:27.120 --> 00:02:28.869 align:start position:0%
+covering in this video. everything from
+the<00:02:27.360><c> first</c><00:02:27.599><c> 15</c><00:02:27.920><c> messages</c><00:02:28.031><c> [music]</c><00:02:28.400><c> that</c><00:02:28.640><c> I</c>
+
+00:02:28.869 --> 00:02:28.879 align:start position:0%
+the first 15 messages [music] that I
+ 
+
+00:02:28.879 --> 00:02:30.790 align:start position:0%
+the first 15 messages [music] that I
+send<00:02:29.200><c> all</c><00:02:29.440><c> the</c><00:02:29.599><c> way</c><00:02:29.680><c> down</c><00:02:29.920><c> to</c><00:02:30.080><c> the</c><00:02:30.319><c> strategic</c>
+
+00:02:30.790 --> 00:02:30.800 align:start position:0%
+send all the way down to the strategic
+ 
+
+00:02:30.800 --> 00:02:32.550 align:start position:0%
+send all the way down to the strategic
+thinking<00:02:31.040><c> and</c><00:02:31.280><c> decision</c><00:02:31.680><c> frameworks</c><00:02:32.160><c> and</c><00:02:32.400><c> how</c>
+
+00:02:32.550 --> 00:02:32.560 align:start position:0%
+thinking and decision frameworks and how
+ 
+
+00:02:32.560 --> 00:02:33.750 align:start position:0%
+thinking and decision frameworks and how
+to<00:02:32.720><c> train</c><00:02:32.879><c> your</c><00:02:33.120><c> agents</c><00:02:33.440><c> to</c><00:02:33.599><c> be</c>
+
+00:02:33.750 --> 00:02:33.760 align:start position:0%
+to train your agents to be
+ 
+
+00:02:33.760 --> 00:02:35.270 align:start position:0%
+to train your agents to be
+self-improving.<00:02:34.560><c> If</c><00:02:34.720><c> you</c><00:02:34.800><c> want</c><00:02:34.959><c> access</c><00:02:35.120><c> to</c>
+
+00:02:35.270 --> 00:02:35.280 align:start position:0%
+self-improving. If you want access to
+ 
+
+00:02:35.280 --> 00:02:36.309 align:start position:0%
+self-improving. If you want access to
+that,<00:02:35.519><c> check</c><00:02:35.599><c> out</c><00:02:35.680><c> the</c><00:02:35.840><c> link</c><00:02:36.000><c> in</c><00:02:36.160><c> the</c>
+
+00:02:36.309 --> 00:02:36.319 align:start position:0%
+that, check out the link in the
+ 
+
+00:02:36.319 --> 00:02:38.150 align:start position:0%
+that, check out the link in the
+description.<00:02:36.800><c> But</c><00:02:36.959><c> we</c><00:02:37.120><c> will</c><00:02:37.280><c> mainly</c><00:02:37.680><c> focus</c><00:02:37.920><c> on</c>
+
+00:02:38.150 --> 00:02:38.160 align:start position:0%
+description. But we will mainly focus on
+ 
+
+00:02:38.160 --> 00:02:39.830 align:start position:0%
+description. But we will mainly focus on
+this<00:02:38.400><c> subsection</c><00:02:38.959><c> which</c><00:02:39.200><c> is</c><00:02:39.360><c> part</c><00:02:39.519><c> of</c><00:02:39.680><c> the</c>
+
+00:02:39.830 --> 00:02:39.840 align:start position:0%
+this subsection which is part of the
+ 
+
+00:02:39.840 --> 00:02:41.509 align:start position:0%
+this subsection which is part of the
+guide<00:02:40.080><c> which</c><00:02:40.239><c> I'm</c><00:02:40.480><c> leaving</c><00:02:40.720><c> down</c><00:02:40.959><c> below</c><00:02:41.200><c> for</c>
+
+00:02:41.509 --> 00:02:41.519 align:start position:0%
+guide which I'm leaving down below for
+ 
+
+00:02:41.519 --> 00:02:43.270 align:start position:0%
+guide which I'm leaving down below for
+free<00:02:41.680><c> as</c><00:02:41.920><c> well</c><00:02:42.080><c> so</c><00:02:42.239><c> you</c><00:02:42.400><c> can</c><00:02:42.560><c> follow</c><00:02:42.720><c> along.</c><00:02:43.120><c> To</c>
+
+00:02:43.270 --> 00:02:43.280 align:start position:0%
+free as well so you can follow along. To
+ 
+
+00:02:43.280 --> 00:02:44.630 align:start position:0%
+free as well so you can follow along. To
+get<00:02:43.440><c> started,</c><00:02:43.760><c> click</c><00:02:43.920><c> on</c><00:02:44.080><c> the</c><00:02:44.160><c> link</c><00:02:44.319><c> in</c><00:02:44.560><c> the</c>
+
+00:02:44.630 --> 00:02:44.640 align:start position:0%
+get started, click on the link in the
+ 
+
+00:02:44.640 --> 00:02:46.309 align:start position:0%
+get started, click on the link in the
+description<00:02:44.959><c> as</c><00:02:45.200><c> well</c><00:02:45.519><c> or</c><00:02:45.760><c> click</c><00:02:46.000><c> on</c><00:02:46.160><c> this</c>
+
+00:02:46.309 --> 00:02:46.319 align:start position:0%
+description as well or click on this
+ 
+
+00:02:46.319 --> 00:02:47.670 align:start position:0%
+description as well or click on this
+link<00:02:46.480><c> that</c><00:02:46.640><c> I</c><00:02:46.879><c> have</c><00:02:46.959><c> in</c><00:02:47.120><c> the</c><00:02:47.280><c> free</c><00:02:47.440><c> guide</c>
+
+00:02:47.670 --> 00:02:47.680 align:start position:0%
+link that I have in the free guide
+ 
+
+00:02:47.680 --> 00:02:49.110 align:start position:0%
+link that I have in the free guide
+below.<00:02:47.700><c> [music]</c><00:02:48.160><c> This</c><00:02:48.319><c> brings</c><00:02:48.560><c> you</c><00:02:48.720><c> to</c><00:02:48.879><c> the</c>
+
+00:02:49.110 --> 00:02:49.120 align:start position:0%
+below. [music] This brings you to the
+ 
+
+00:02:49.120 --> 00:02:51.430 align:start position:0%
+below. [music] This brings you to the
+one-click<00:02:49.680><c> openclaw</c><00:02:50.319><c> deployment</c><00:02:50.800><c> page</c><00:02:51.200><c> and</c>
+
+00:02:51.430 --> 00:02:51.440 align:start position:0%
+one-click openclaw deployment page and
+ 
+
+00:02:51.440 --> 00:02:52.949 align:start position:0%
+one-click openclaw deployment page and
+it's<00:02:51.680><c> so</c><00:02:51.840><c> easy</c><00:02:52.080><c> to</c><00:02:52.239><c> set</c><00:02:52.400><c> up.</c><00:02:52.640><c> Watch</c><00:02:52.879><c> that.</c>
+
+00:02:52.949 --> 00:02:52.959 align:start position:0%
+it's so easy to set up. Watch that.
+ 
+
+00:02:52.959 --> 00:02:54.630 align:start position:0%
+it's so easy to set up. Watch that.
+Simply<00:02:53.360><c> click</c><00:02:53.519><c> on</c><00:02:53.680><c> choose</c><00:02:54.000><c> plan</c><00:02:54.239><c> and</c><00:02:54.480><c> I</c>
+
+00:02:54.630 --> 00:02:54.640 align:start position:0%
+Simply click on choose plan and I
+ 
+
+00:02:54.640 --> 00:02:56.550 align:start position:0%
+Simply click on choose plan and I
+recommend<00:02:54.879><c> anyone</c><00:02:54.900><c> [music]</c><00:02:55.200><c> to</c><00:02:55.360><c> use</c><00:02:55.599><c> KVM2</c><00:02:56.319><c> or</c>
+
+00:02:56.550 --> 00:02:56.560 align:start position:0%
+recommend anyone [music] to use KVM2 or
+ 
+
+00:02:56.560 --> 00:02:59.110 align:start position:0%
+recommend anyone [music] to use KVM2 or
+KVM4<00:02:57.280><c> which</c><00:02:57.519><c> gives</c><00:02:57.680><c> you</c><00:02:57.840><c> 16</c><00:02:58.160><c> GB</c><00:02:58.560><c> of</c><00:02:58.640><c> RAM</c><00:02:58.959><c> which</c>
+
+00:02:59.110 --> 00:02:59.120 align:start position:0%
+KVM4 which gives you 16 GB of RAM which
+ 
+
+00:02:59.120 --> 00:03:01.110 align:start position:0%
+KVM4 which gives you 16 GB of RAM which
+is<00:02:59.280><c> even</c><00:02:59.519><c> enough</c><00:02:59.680><c> to</c><00:02:59.920><c> run</c><00:03:00.080><c> some</c><00:03:00.319><c> local</c><00:03:00.640><c> models.</c>
+
+00:03:01.110 --> 00:03:01.120 align:start position:0%
+is even enough to run some local models.
+ 
+
+00:03:01.120 --> 00:03:02.710 align:start position:0%
+is even enough to run some local models.
+Click<00:03:01.280><c> on</c><00:03:01.440><c> choose</c><00:03:01.760><c> plan</c><00:03:02.080><c> and</c><00:03:02.239><c> this</c><00:03:02.400><c> normally</c>
+
+00:03:02.710 --> 00:03:02.720 align:start position:0%
+Click on choose plan and this normally
+ 
+
+00:03:02.720 --> 00:03:05.030 align:start position:0%
+Click on choose plan and this normally
+costs<00:03:03.120><c> $29</c><00:03:03.680><c> a</c><00:03:03.920><c> month</c><00:03:04.080><c> but</c><00:03:04.239><c> if</c><00:03:04.400><c> you</c><00:03:04.560><c> select</c><00:03:04.800><c> the</c>
+
+00:03:05.030 --> 00:03:05.040 align:start position:0%
+costs $29 a month but if you select the
+ 
+
+00:03:05.040 --> 00:03:07.270 align:start position:0%
+costs $29 a month but if you select the
+24<00:03:05.440><c> or</c><00:03:05.760><c> 12</c><00:03:06.000><c> month</c><00:03:06.319><c> period</c><00:03:06.720><c> you</c><00:03:06.879><c> get</c><00:03:06.959><c> a</c><00:03:07.120><c> good</c>
+
+00:03:07.270 --> 00:03:07.280 align:start position:0%
+24 or 12 month period you get a good
+ 
+
+00:03:07.280 --> 00:03:08.949 align:start position:0%
+24 or 12 month period you get a good
+discount<00:03:07.599><c> on</c><00:03:07.840><c> this</c><00:03:08.080><c> as</c><00:03:08.239><c> well.</c><00:03:08.560><c> And</c><00:03:08.640><c> I</c><00:03:08.800><c> reached</c>
+
+00:03:08.949 --> 00:03:08.959 align:start position:0%
+discount on this as well. And I reached
+ 
+
+00:03:08.959 --> 00:03:10.470 align:start position:0%
+discount on this as well. And I reached
+out<00:03:09.040><c> to</c><00:03:09.200><c> Hostinger</c><00:03:09.680><c> and</c><00:03:09.840><c> they</c><00:03:10.000><c> even</c><00:03:10.159><c> give</c><00:03:10.319><c> us</c>
+
+00:03:10.470 --> 00:03:10.480 align:start position:0%
+out to Hostinger and they even give us
+ 
+
+00:03:10.480 --> 00:03:12.550 align:start position:0%
+out to Hostinger and they even give us
+an<00:03:10.720><c> additional</c><00:03:11.040><c> 10%</c><00:03:11.519><c> off</c><00:03:11.840><c> if</c><00:03:12.080><c> you</c><00:03:12.159><c> use</c><00:03:12.319><c> the</c>
+
+00:03:12.550 --> 00:03:12.560 align:start position:0%
+an additional 10% off if you use the
+ 
+
+00:03:12.560 --> 00:03:14.710 align:start position:0%
+an additional 10% off if you use the
+coupon<00:03:12.879><c> code</c><00:03:13.120><c> mooler.</c><00:03:13.920><c> So</c><00:03:14.080><c> with</c><00:03:14.239><c> this</c><00:03:14.480><c> it's</c>
+
+00:03:14.710 --> 00:03:14.720 align:start position:0%
+coupon code mooler. So with this it's
+ 
+
+00:03:14.720 --> 00:03:15.750 align:start position:0%
+coupon code mooler. So with this it's
+only<00:03:15.040><c> $1.69</c><00:03:15.192><c> [music]</c>
+
+00:03:15.750 --> 00:03:15.760 align:start position:0%
+only $1.69 [music]
+ 
+
+00:03:15.760 --> 00:03:18.390 align:start position:0%
+only $1.69 [music]
+a<00:03:16.000><c> month</c><00:03:16.159><c> for</c><00:03:16.319><c> the</c><00:03:16.480><c> 12-month</c><00:03:16.959><c> plan</c><00:03:17.200><c> or</c><00:03:17.519><c> $8.99</c><00:03:18.159><c> a</c>
+
+00:03:18.390 --> 00:03:18.400 align:start position:0%
+a month for the 12-month plan or $8.99 a
+ 
+
+00:03:18.400 --> 00:03:20.390 align:start position:0%
+a month for the 12-month plan or $8.99 a
+month<00:03:18.560><c> for</c><00:03:18.800><c> the</c><00:03:19.120><c> 24-month</c><00:03:19.840><c> plan.</c><00:03:20.159><c> You</c><00:03:20.319><c> can</c>
+
+00:03:20.390 --> 00:03:20.400 align:start position:0%
+month for the 24-month plan. You can
+ 
+
+00:03:20.400 --> 00:03:21.910 align:start position:0%
+month for the 24-month plan. You can
+unselect<00:03:20.879><c> this</c><00:03:21.040><c> plan</c><00:03:21.280><c> if</c><00:03:21.519><c> you</c><00:03:21.599><c> want</c><00:03:21.680><c> to</c>
+
+00:03:21.910 --> 00:03:21.920 align:start position:0%
+unselect this plan if you want to
+ 
+
+00:03:21.920 --> 00:03:23.750 align:start position:0%
+unselect this plan if you want to
+because<00:03:22.159><c> we</c><00:03:22.400><c> will</c><00:03:22.560><c> be</c><00:03:22.640><c> using</c><00:03:22.879><c> our</c><00:03:23.120><c> own</c><00:03:23.280><c> API</c>
+
+00:03:23.750 --> 00:03:23.760 align:start position:0%
+because we will be using our own API
+ 
+
+00:03:23.760 --> 00:03:25.509 align:start position:0%
+because we will be using our own API
+keys<00:03:24.080><c> and</c><00:03:24.319><c> choose</c><00:03:24.560><c> the</c><00:03:24.720><c> server</c><00:03:25.040><c> location,</c>
+
+00:03:25.509 --> 00:03:25.519 align:start position:0%
+keys and choose the server location,
+ 
+
+00:03:25.519 --> 00:03:27.830 align:start position:0%
+keys and choose the server location,
+United<00:03:25.920><c> States.</c><00:03:26.560><c> Click</c><00:03:26.720><c> on</c><00:03:26.959><c> continue.</c><00:03:27.440><c> Login</c>
+
+00:03:27.830 --> 00:03:27.840 align:start position:0%
+United States. Click on continue. Login
+ 
+
+00:03:27.840 --> 00:03:29.190 align:start position:0%
+United States. Click on continue. Login
+with<00:03:27.920><c> your</c><00:03:28.080><c> Google</c><00:03:28.319><c> account</c><00:03:28.640><c> and</c><00:03:28.879><c> go</c><00:03:29.040><c> ahead</c>
+
+00:03:29.190 --> 00:03:29.200 align:start position:0%
+with your Google account and go ahead
+ 
+
+00:03:29.200 --> 00:03:30.710 align:start position:0%
+with your Google account and go ahead
+and<00:03:29.360><c> fill</c><00:03:29.519><c> out</c><00:03:29.680><c> the</c><00:03:29.840><c> payment</c><00:03:30.159><c> information.</c>
+
+00:03:30.710 --> 00:03:30.720 align:start position:0%
+and fill out the payment information.
+ 
+
+00:03:30.720 --> 00:03:32.229 align:start position:0%
+and fill out the payment information.
+Hit<00:03:30.879><c> submit</c><00:03:31.200><c> payment</c><00:03:31.519><c> and</c><00:03:31.680><c> it</c><00:03:31.840><c> will</c><00:03:32.000><c> set</c><00:03:32.080><c> up</c>
+
+00:03:32.229 --> 00:03:32.239 align:start position:0%
+Hit submit payment and it will set up
+ 
+
+00:03:32.239 --> 00:03:33.750 align:start position:0%
+Hit submit payment and it will set up
+your<00:03:32.400><c> open</c><00:03:32.640><c> claw</c><00:03:32.959><c> for</c><00:03:33.040><c> you.</c><00:03:33.280><c> And</c><00:03:33.440><c> while</c><00:03:33.599><c> this</c>
+
+00:03:33.750 --> 00:03:33.760 align:start position:0%
+your open claw for you. And while this
+ 
+
+00:03:33.760 --> 00:03:35.509 align:start position:0%
+your open claw for you. And while this
+is<00:03:33.840><c> setting</c><00:03:34.000><c> up</c><00:03:34.159><c> the</c><00:03:34.319><c> VPS,</c><00:03:34.720><c> we</c><00:03:34.959><c> can</c><00:03:35.040><c> already</c><00:03:35.280><c> go</c>
+
+00:03:35.509 --> 00:03:35.519 align:start position:0%
+is setting up the VPS, we can already go
+ 
+
+00:03:35.519 --> 00:03:37.190 align:start position:0%
+is setting up the VPS, we can already go
+ahead<00:03:35.760><c> and</c><00:03:35.920><c> create</c><00:03:36.159><c> a</c><00:03:36.319><c> new</c><00:03:36.480><c> API</c><00:03:36.879><c> key</c><00:03:37.040><c> for</c>
+
+00:03:37.190 --> 00:03:37.200 align:start position:0%
+ahead and create a new API key for
+ 
+
+00:03:37.200 --> 00:03:39.190 align:start position:0%
+ahead and create a new API key for
+OpenAI<00:03:37.840><c> and</c><00:03:38.000><c> copy</c><00:03:38.239><c> this</c><00:03:38.400><c> for</c><00:03:38.560><c> later.</c><00:03:38.959><c> And</c><00:03:39.040><c> you</c>
+
+00:03:39.190 --> 00:03:39.200 align:start position:0%
+OpenAI and copy this for later. And you
+ 
+
+00:03:39.200 --> 00:03:41.270 align:start position:0%
+OpenAI and copy this for later. And you
+can<00:03:39.280><c> do</c><00:03:39.360><c> the</c><00:03:39.599><c> same</c><00:03:39.760><c> for</c><00:03:39.920><c> any</c><00:03:40.159><c> API</c><00:03:40.720><c> provider</c><00:03:41.120><c> you</c>
+
+00:03:41.270 --> 00:03:41.280 align:start position:0%
+can do the same for any API provider you
+ 
+
+00:03:41.280 --> 00:03:42.550 align:start position:0%
+can do the same for any API provider you
+want.<00:03:41.680><c> But</c><00:03:41.760><c> what</c><00:03:41.920><c> I'll</c><00:03:42.080><c> show</c><00:03:42.159><c> you</c><00:03:42.239><c> in</c><00:03:42.400><c> this</c>
+
+00:03:42.550 --> 00:03:42.560 align:start position:0%
+want. But what I'll show you in this
+ 
+
+00:03:42.560 --> 00:03:44.390 align:start position:0%
+want. But what I'll show you in this
+video<00:03:42.720><c> is</c><00:03:42.879><c> how</c><00:03:43.040><c> you</c><00:03:43.200><c> can</c><00:03:43.280><c> set</c><00:03:43.440><c> up</c><00:03:43.680><c> Open</c><00:03:44.000><c> Router</c>
+
+00:03:44.390 --> 00:03:44.400 align:start position:0%
+video is how you can set up Open Router
+ 
+
+00:03:44.400 --> 00:03:45.589 align:start position:0%
+video is how you can set up Open Router
+so<00:03:44.560><c> that</c><00:03:44.720><c> you</c><00:03:44.879><c> just</c><00:03:45.040><c> need</c><00:03:45.120><c> to</c><00:03:45.280><c> set</c><00:03:45.322><c> [music]</c><00:03:45.440><c> up</c>
+
+00:03:45.589 --> 00:03:45.599 align:start position:0%
+so that you just need to set [music] up
+ 
+
+00:03:45.599 --> 00:03:47.670 align:start position:0%
+so that you just need to set [music] up
+one<00:03:45.840><c> API</c><00:03:46.239><c> key</c><00:03:46.400><c> in</c><00:03:46.640><c> order</c><00:03:46.799><c> to</c><00:03:46.959><c> route</c><00:03:47.200><c> to</c><00:03:47.440><c> any</c><00:03:47.599><c> of</c>
+
+00:03:47.670 --> 00:03:47.680 align:start position:0%
+one API key in order to route to any of
+ 
+
+00:03:47.680 --> 00:03:49.430 align:start position:0%
+one API key in order to route to any of
+the<00:03:47.840><c> models.</c><00:03:48.239><c> To</c><00:03:48.480><c> do</c><00:03:48.560><c> that,</c><00:03:48.799><c> go</c><00:03:48.959><c> to</c><00:03:49.120><c> open</c>
+
+00:03:49.430 --> 00:03:49.440 align:start position:0%
+the models. To do that, go to open
+ 
+
+00:03:49.440 --> 00:03:51.190 align:start position:0%
+the models. To do that, go to open
+router.ai.<00:03:50.400><c> But</c><00:03:50.560><c> if</c><00:03:50.720><c> you're</c><00:03:50.799><c> following</c><00:03:51.040><c> along</c>
+
+00:03:51.190 --> 00:03:51.200 align:start position:0%
+router.ai. But if you're following along
+ 
+
+00:03:51.200 --> 00:03:52.630 align:start position:0%
+router.ai. But if you're following along
+in<00:03:51.360><c> the</c><00:03:51.519><c> guide</c><00:03:51.680><c> below,</c><00:03:52.000><c> I</c><00:03:52.159><c> also</c><00:03:52.319><c> have</c><00:03:52.400><c> a</c>
+
+00:03:52.630 --> 00:03:52.640 align:start position:0%
+in the guide below, I also have a
+ 
+
+00:03:52.640 --> 00:03:54.229 align:start position:0%
+in the guide below, I also have a
+special<00:03:52.879><c> setup</c><00:03:53.200><c> guide</c><00:03:53.519><c> here</c><00:03:53.680><c> that</c><00:03:53.920><c> you</c><00:03:54.080><c> can</c>
+
+00:03:54.229 --> 00:03:54.239 align:start position:0%
+special setup guide here that you can
+ 
+
+00:03:54.239 --> 00:03:56.229 align:start position:0%
+special setup guide here that you can
+follow<00:03:54.480><c> along</c><00:03:54.799><c> as</c><00:03:55.040><c> well.</c><00:03:55.360><c> Sign</c><00:03:55.599><c> up</c><00:03:55.760><c> to</c><00:03:55.920><c> a</c><00:03:56.080><c> new</c>
+
+00:03:56.229 --> 00:03:56.239 align:start position:0%
+follow along as well. Sign up to a new
+ 
+
+00:03:56.239 --> 00:03:59.030 align:start position:0%
+follow along as well. Sign up to a new
+account,<00:03:56.640><c> click</c><00:03:56.879><c> on</c><00:03:57.120><c> settings,</c><00:03:57.840><c> API</c><00:03:58.319><c> keys,</c>
+
+00:03:59.030 --> 00:03:59.040 align:start position:0%
+account, click on settings, API keys,
+ 
+
+00:03:59.040 --> 00:04:01.030 align:start position:0%
+account, click on settings, API keys,
+and<00:03:59.360><c> create</c><00:03:59.519><c> a</c><00:03:59.760><c> new</c><00:03:59.840><c> API</c><00:04:00.319><c> key.</c><00:04:00.640><c> And</c><00:04:00.799><c> I'm</c><00:04:00.959><c> going</c>
+
+00:04:01.030 --> 00:04:01.040 align:start position:0%
+and create a new API key. And I'm going
+ 
+
+00:04:01.040 --> 00:04:03.509 align:start position:0%
+and create a new API key. And I'm going
+to<00:04:01.120><c> give</c><00:04:01.200><c> this</c><00:04:01.360><c> a</c><00:04:01.599><c> credit</c><00:04:01.840><c> limit</c><00:04:02.080><c> of</c><00:04:02.400><c> $10,</c>
+
+00:04:03.509 --> 00:04:03.519 align:start position:0%
+to give this a credit limit of $10,
+ 
+
+00:04:03.519 --> 00:04:05.750 align:start position:0%
+to give this a credit limit of $10,
+which<00:04:03.760><c> resets</c><00:04:04.239><c> every</c><00:04:04.480><c> week.</c><00:04:04.799><c> Copy</c><00:04:05.120><c> this</c><00:04:05.280><c> API</c>
+
+00:04:05.750 --> 00:04:05.760 align:start position:0%
+which resets every week. Copy this API
+ 
+
+00:04:05.760 --> 00:04:07.670 align:start position:0%
+which resets every week. Copy this API
+key<00:04:06.000><c> as</c><00:04:06.159><c> well.</c><00:04:06.400><c> This</c><00:04:06.640><c> is</c><00:04:06.720><c> needed</c><00:04:07.040><c> for</c><00:04:07.280><c> later.</c>
+
+00:04:07.670 --> 00:04:07.680 align:start position:0%
+key as well. This is needed for later.
+ 
+
+00:04:07.680 --> 00:04:09.350 align:start position:0%
+key as well. This is needed for later.
+Now<00:04:07.840><c> that</c><00:04:08.000><c> we're</c><00:04:08.159><c> back</c><00:04:08.239><c> at</c><00:04:08.400><c> the</c><00:04:08.560><c> VPS,</c><00:04:09.040><c> you</c><00:04:09.200><c> can</c>
+
+00:04:09.350 --> 00:04:09.360 align:start position:0%
+Now that we're back at the VPS, you can
+ 
+
+00:04:09.360 --> 00:04:10.949 align:start position:0%
+Now that we're back at the VPS, you can
+set<00:04:09.439><c> up</c><00:04:09.599><c> your</c><00:04:09.920><c> open</c><00:04:10.159><c> claw</c><00:04:10.480><c> with</c><00:04:10.640><c> a</c><00:04:10.799><c> few</c>
+
+00:04:10.949 --> 00:04:10.959 align:start position:0%
+set up your open claw with a few
+ 
+
+00:04:10.959 --> 00:04:12.550 align:start position:0%
+set up your open claw with a few
+configurations.<00:04:11.760><c> The</c><00:04:11.920><c> first</c><00:04:12.080><c> thing</c><00:04:12.239><c> that</c><00:04:12.400><c> you</c>
+
+00:04:12.550 --> 00:04:12.560 align:start position:0%
+configurations. The first thing that you
+ 
+
+00:04:12.560 --> 00:04:14.229 align:start position:0%
+configurations. The first thing that you
+see<00:04:12.720><c> here</c><00:04:12.879><c> is</c><00:04:13.120><c> your</c><00:04:13.360><c> gateway</c><00:04:13.487><c> [music]</c><00:04:13.840><c> token.</c>
+
+00:04:14.229 --> 00:04:14.239 align:start position:0%
+see here is your gateway [music] token.
+ 
+
+00:04:14.239 --> 00:04:15.670 align:start position:0%
+see here is your gateway [music] token.
+And<00:04:14.400><c> this</c><00:04:14.560><c> is</c><00:04:14.640><c> another</c><00:04:14.879><c> key</c><00:04:15.120><c> that</c><00:04:15.280><c> we</c><00:04:15.439><c> need</c><00:04:15.599><c> to</c>
+
+00:04:15.670 --> 00:04:15.680 align:start position:0%
+And this is another key that we need to
+ 
+
+00:04:15.680 --> 00:04:17.349 align:start position:0%
+And this is another key that we need to
+copy,<00:04:16.079><c> and</c><00:04:16.239><c> we'll</c><00:04:16.479><c> get</c><00:04:16.560><c> back</c><00:04:16.720><c> to</c><00:04:16.880><c> that</c><00:04:17.040><c> in</c><00:04:17.199><c> just</c>
+
+00:04:17.349 --> 00:04:17.359 align:start position:0%
+copy, and we'll get back to that in just
+ 
+
+00:04:17.359 --> 00:04:19.270 align:start position:0%
+copy, and we'll get back to that in just
+a<00:04:17.519><c> second.</c><00:04:17.840><c> So,</c><00:04:18.000><c> copy</c><00:04:18.320><c> this</c><00:04:18.479><c> somewhere</c><00:04:18.799><c> safe.</c>
+
+00:04:19.270 --> 00:04:19.280 align:start position:0%
+a second. So, copy this somewhere safe.
+ 
+
+00:04:19.280 --> 00:04:21.189 align:start position:0%
+a second. So, copy this somewhere safe.
+And<00:04:19.440><c> this</c><00:04:19.600><c> is</c><00:04:19.759><c> now</c><00:04:19.919><c> where</c><00:04:20.160><c> we</c><00:04:20.320><c> set</c><00:04:20.400><c> up</c><00:04:20.560><c> our</c><00:04:20.880><c> Open</c>
+
+00:04:21.189 --> 00:04:21.199 align:start position:0%
+And this is now where we set up our Open
+ 
+
+00:04:21.199 --> 00:04:22.950 align:start position:0%
+And this is now where we set up our Open
+AI<00:04:21.347><c> [music]</c><00:04:21.519><c> API</c><00:04:21.919><c> key.</c><00:04:22.240><c> Paste</c><00:04:22.479><c> that</c><00:04:22.639><c> in</c><00:04:22.800><c> right</c>
+
+00:04:22.950 --> 00:04:22.960 align:start position:0%
+AI [music] API key. Paste that in right
+ 
+
+00:04:22.960 --> 00:04:24.070 align:start position:0%
+AI [music] API key. Paste that in right
+here.<00:04:23.199><c> And</c><00:04:23.360><c> we're</c><00:04:23.440><c> going</c><00:04:23.520><c> to</c><00:04:23.600><c> skip</c><00:04:23.759><c> the</c><00:04:24.000><c> other</c>
+
+00:04:24.070 --> 00:04:24.080 align:start position:0%
+here. And we're going to skip the other
+ 
+
+00:04:24.080 --> 00:04:25.749 align:start position:0%
+here. And we're going to skip the other
+ones<00:04:24.320><c> for</c><00:04:24.560><c> now</c><00:04:24.720><c> because</c><00:04:24.960><c> we</c><00:04:25.199><c> will</c><00:04:25.360><c> set</c><00:04:25.520><c> all</c><00:04:25.680><c> of</c>
+
+00:04:25.749 --> 00:04:25.759 align:start position:0%
+ones for now because we will set all of
+ 
+
+00:04:25.759 --> 00:04:27.749 align:start position:0%
+ones for now because we will set all of
+this<00:04:25.919><c> up</c><00:04:26.160><c> with</c><00:04:26.320><c> the</c><00:04:26.479><c> Open</c><00:04:26.800><c> Router</c><00:04:27.120><c> key</c><00:04:27.360><c> in</c><00:04:27.600><c> just</c>
+
+00:04:27.749 --> 00:04:27.759 align:start position:0%
+this up with the Open Router key in just
+ 
+
+00:04:27.759 --> 00:04:29.749 align:start position:0%
+this up with the Open Router key in just
+a<00:04:27.898><c> [music]</c><00:04:28.000><c> second.</c><00:04:28.320><c> Click</c><00:04:28.560><c> deploy.</c><00:04:29.440><c> Now</c><00:04:29.600><c> that</c>
+
+00:04:29.749 --> 00:04:29.759 align:start position:0%
+a [music] second. Click deploy. Now that
+ 
+
+00:04:29.759 --> 00:04:31.749 align:start position:0%
+a [music] second. Click deploy. Now that
+OpenClaw<00:04:30.400><c> is</c><00:04:30.560><c> configured,</c><00:04:31.120><c> let's</c><00:04:31.360><c> start</c><00:04:31.600><c> it</c>
+
+00:04:31.749 --> 00:04:31.759 align:start position:0%
+OpenClaw is configured, let's start it
+ 
+
+00:04:31.759 --> 00:04:33.350 align:start position:0%
+OpenClaw is configured, let's start it
+up<00:04:31.919><c> and</c><00:04:32.080><c> implement</c><00:04:32.479><c> our</c><00:04:32.720><c> cost</c><00:04:32.960><c> savings</c>
+
+00:04:33.350 --> 00:04:33.360 align:start position:0%
+up and implement our cost savings
+ 
+
+00:04:33.360 --> 00:04:34.950 align:start position:0%
+up and implement our cost savings
+techniques.<00:04:33.919><c> You</c><00:04:34.160><c> should</c><00:04:34.400><c> see</c><00:04:34.639><c> something</c>
+
+00:04:34.950 --> 00:04:34.960 align:start position:0%
+techniques. You should see something
+ 
+
+00:04:34.960 --> 00:04:37.430 align:start position:0%
+techniques. You should see something
+like<00:04:35.103><c> [music]</c><00:04:35.280><c> this.</c><00:04:36.080><c> Click</c><00:04:36.320><c> on</c><00:04:36.560><c> open</c><00:04:37.199><c> and</c>
+
+00:04:37.430 --> 00:04:37.440 align:start position:0%
+like [music] this. Click on open and
+ 
+
+00:04:37.440 --> 00:04:39.749 align:start position:0%
+like [music] this. Click on open and
+paste<00:04:37.759><c> your</c><00:04:37.919><c> gateway</c><00:04:38.400><c> token</c><00:04:38.800><c> right</c><00:04:39.040><c> here.</c>
+
+00:04:39.749 --> 00:04:39.759 align:start position:0%
+paste your gateway token right here.
+ 
+
+00:04:39.759 --> 00:04:41.670 align:start position:0%
+paste your gateway token right here.
+Click<00:04:40.080><c> login.</c><00:04:40.479><c> And</c><00:04:40.720><c> our</c><00:04:40.880><c> Open</c><00:04:41.120><c> Claw</c><00:04:41.360><c> is</c><00:04:41.520><c> ready</c>
+
+00:04:41.670 --> 00:04:41.680 align:start position:0%
+Click login. And our Open Claw is ready
+ 
+
+00:04:41.680 --> 00:04:43.110 align:start position:0%
+Click login. And our Open Claw is ready
+to<00:04:41.840><c> get</c><00:04:41.919><c> started.</c><00:04:42.240><c> And</c><00:04:42.400><c> it's</c><00:04:42.560><c> prompting</c><00:04:42.880><c> us,</c>
+
+00:04:43.110 --> 00:04:43.120 align:start position:0%
+to get started. And it's prompting us,
+ 
+
+00:04:43.120 --> 00:04:44.950 align:start position:0%
+to get started. And it's prompting us,
+hey,<00:04:43.360><c> I'm</c><00:04:43.520><c> online</c><00:04:43.840><c> and</c><00:04:44.080><c> ready.</c><00:04:44.560><c> What</c><00:04:44.720><c> do</c><00:04:44.800><c> you</c>
+
+00:04:44.950 --> 00:04:44.960 align:start position:0%
+hey, I'm online and ready. What do you
+ 
+
+00:04:44.960 --> 00:04:46.870 align:start position:0%
+hey, I'm online and ready. What do you
+want<00:04:45.040><c> me</c><00:04:45.199><c> to</c><00:04:45.360><c> do?</c><00:04:45.680><c> set</c><00:04:45.919><c> up</c><00:04:46.080><c> and</c><00:04:46.320><c> tackle</c><00:04:46.560><c> tasks</c>
+
+00:04:46.870 --> 00:04:46.880 align:start position:0%
+want me to do? set up and tackle tasks
+ 
+
+00:04:46.880 --> 00:04:48.629 align:start position:0%
+want me to do? set up and tackle tasks
+or<00:04:47.199><c> just</c><00:04:47.520><c> ask</c><00:04:47.759><c> something.</c><00:04:48.160><c> And</c><00:04:48.320><c> we</c><00:04:48.560><c> can</c>
+
+00:04:48.629 --> 00:04:48.639 align:start position:0%
+or just ask something. And we can
+ 
+
+00:04:48.639 --> 00:04:50.310 align:start position:0%
+or just ask something. And we can
+respond<00:04:48.960><c> in</c><00:04:49.199><c> simple</c><00:04:49.520><c> English.</c><00:04:49.919><c> It's</c><00:04:50.160><c> now</c>
+
+00:04:50.310 --> 00:04:50.320 align:start position:0%
+respond in simple English. It's now
+ 
+
+00:04:50.320 --> 00:04:52.123 align:start position:0%
+respond in simple English. It's now
+asking<00:04:50.639><c> me</c><00:04:50.800><c> for</c><00:04:51.040><c> a</c><00:04:51.280><c> few</c><00:04:51.440><c> things</c><00:04:51.759><c> here.</c><00:04:52.080><c> And</c>
+
+00:04:52.123 --> 00:04:52.133 align:start position:0%
+asking me for a few things here. And
+ 
+
+00:04:52.133 --> 00:04:53.430 align:start position:0%
+asking me for a few things here. And
+[music]<00:04:52.240><c> I'll</c><00:04:52.479><c> just</c><00:04:52.639><c> answer</c><00:04:52.880><c> them</c><00:04:53.120><c> really</c>
+
+00:04:53.430 --> 00:04:53.440 align:start position:0%
+[music] I'll just answer them really
+ 
+
+00:04:53.440 --> 00:04:57.909 align:start position:0%
+[music] I'll just answer them really
+quickly.
+
+00:04:57.909 --> 00:04:57.919 align:start position:0%
+ 
+ 
+
+00:04:57.919 --> 00:04:59.430 align:start position:0%
+ 
+And<00:04:58.160><c> now</c><00:04:58.240><c> that</c><00:04:58.400><c> I</c><00:04:58.560><c> gave</c><00:04:58.639><c> it</c><00:04:58.880><c> some</c><00:04:59.040><c> information,</c>
+
+00:04:59.430 --> 00:04:59.440 align:start position:0%
+And now that I gave it some information,
+ 
+
+00:04:59.440 --> 00:05:00.870 align:start position:0%
+And now that I gave it some information,
+it<00:04:59.600><c> is</c><00:04:59.759><c> saving</c><00:05:00.000><c> that</c><00:05:00.160><c> to</c><00:05:00.479><c> memory.</c><00:05:00.648><c> [music]</c><00:05:00.800><c> If</c>
+
+00:05:00.870 --> 00:05:00.880 align:start position:0%
+it is saving that to memory. [music] If
+ 
+
+00:05:00.880 --> 00:05:02.230 align:start position:0%
+it is saving that to memory. [music] If
+we<00:05:00.960><c> want</c><00:05:01.120><c> to</c><00:05:01.199><c> check</c><00:05:01.360><c> what</c><00:05:01.520><c> model</c><00:05:01.840><c> we're</c><00:05:02.000><c> using,</c>
+
+00:05:02.230 --> 00:05:02.240 align:start position:0%
+we want to check what model we're using,
+ 
+
+00:05:02.240 --> 00:05:03.909 align:start position:0%
+we want to check what model we're using,
+we<00:05:02.400><c> can</c><00:05:02.560><c> simply</c><00:05:02.800><c> ask</c><00:05:03.040><c> OpenClaw,</c><00:05:03.600><c> what</c><00:05:03.759><c> model</c>
+
+00:05:03.909 --> 00:05:03.919 align:start position:0%
+we can simply ask OpenClaw, what model
+ 
+
+00:05:03.919 --> 00:05:05.430 align:start position:0%
+we can simply ask OpenClaw, what model
+are<00:05:04.080><c> you</c><00:05:04.160><c> using?</c><00:05:04.400><c> And</c><00:05:04.560><c> we</c><00:05:04.720><c> can</c><00:05:04.800><c> see</c><00:05:04.960><c> here</c><00:05:05.199><c> by</c>
+
+00:05:05.430 --> 00:05:05.440 align:start position:0%
+are you using? And we can see here by
+ 
+
+00:05:05.440 --> 00:05:07.830 align:start position:0%
+are you using? And we can see here by
+default,<00:05:05.680><c> it's</c><00:05:05.919><c> currently</c><00:05:06.240><c> using</c><00:05:06.560><c> OpenAI</c><00:05:07.199><c> GPT</c>
+
+00:05:07.830 --> 00:05:07.840 align:start position:0%
+default, it's currently using OpenAI GPT
+ 
+
+00:05:07.840 --> 00:05:09.430 align:start position:0%
+default, it's currently using OpenAI GPT
+5.2.<00:05:08.560><c> But</c><00:05:08.720><c> this</c><00:05:08.800><c> one</c><00:05:08.960><c> is</c><00:05:09.163><c> [music]</c><00:05:09.199><c> kind</c><00:05:09.360><c> of</c>
+
+00:05:09.430 --> 00:05:09.440 align:start position:0%
+5.2. But this one is [music] kind of
+ 
+
+00:05:09.440 --> 00:05:10.790 align:start position:0%
+5.2. But this one is [music] kind of
+expensive.<00:05:10.000><c> As</c><00:05:10.080><c> we</c><00:05:10.240><c> can</c><00:05:10.320><c> see</c><00:05:10.400><c> here</c><00:05:10.560><c> in</c><00:05:10.720><c> the</c>
+
+00:05:10.790 --> 00:05:10.800 align:start position:0%
+expensive. As we can see here in the
+ 
+
+00:05:10.800 --> 00:05:12.870 align:start position:0%
+expensive. As we can see here in the
+cost<00:05:10.960><c> optimization</c><00:05:11.520><c> guide,</c><00:05:11.840><c> GPT5</c><00:05:12.639><c> runs</c>
+
+00:05:12.870 --> 00:05:12.880 align:start position:0%
+cost optimization guide, GPT5 runs
+ 
+
+00:05:12.880 --> 00:05:15.830 align:start position:0%
+cost optimization guide, GPT5 runs
+around<00:05:13.360><c> $1.25</c><00:05:13.759><c> to</c><00:05:13.919><c> $25</c><00:05:14.639><c> per</c><00:05:14.800><c> input</c><00:05:15.199><c> tokens</c><00:05:15.520><c> and</c>
+
+00:05:15.830 --> 00:05:15.840 align:start position:0%
+around $1.25 to $25 per input tokens and
+ 
+
+00:05:15.840 --> 00:05:17.670 align:start position:0%
+around $1.25 to $25 per input tokens and
+$10<00:05:16.240><c> per</c><00:05:16.479><c> output</c><00:05:16.800><c> tokens.</c><00:05:17.199><c> But</c><00:05:17.360><c> there</c><00:05:17.520><c> are</c>
+
+00:05:17.670 --> 00:05:17.680 align:start position:0%
+$10 per output tokens. But there are
+ 
+
+00:05:17.680 --> 00:05:19.430 align:start position:0%
+$10 per output tokens. But there are
+other<00:05:18.000><c> models</c><00:05:18.240><c> that</c><00:05:18.479><c> we</c><00:05:18.639><c> can</c><00:05:18.720><c> use</c><00:05:18.960><c> that</c><00:05:19.199><c> get</c>
+
+00:05:19.430 --> 00:05:19.440 align:start position:0%
+other models that we can use that get
+ 
+
+00:05:19.440 --> 00:05:21.189 align:start position:0%
+other models that we can use that get
+similar<00:05:19.840><c> results.</c><00:05:20.400><c> So</c><00:05:20.560><c> here's</c><00:05:20.720><c> a</c><00:05:20.880><c> summary</c><00:05:21.120><c> of</c>
+
+00:05:21.189 --> 00:05:21.199 align:start position:0%
+similar results. So here's a summary of
+ 
+
+00:05:21.199 --> 00:05:22.710 align:start position:0%
+similar results. So here's a summary of
+the<00:05:21.360><c> budget</c><00:05:21.680><c> tiers.</c><00:05:22.080><c> Here's</c><00:05:22.240><c> a</c><00:05:22.400><c> summary</c><00:05:22.639><c> of</c>
+
+00:05:22.710 --> 00:05:22.720 align:start position:0%
+the budget tiers. Here's a summary of
+ 
+
+00:05:22.720 --> 00:05:24.550 align:start position:0%
+the budget tiers. Here's a summary of
+the<00:05:22.880><c> mid</c><00:05:23.120><c> tiers.</c><00:05:23.520><c> And</c><00:05:23.680><c> here's</c><00:05:23.919><c> a</c><00:05:24.080><c> summary</c><00:05:24.400><c> of</c>
+
+00:05:24.550 --> 00:05:24.560 align:start position:0%
+the mid tiers. And here's a summary of
+ 
+
+00:05:24.560 --> 00:05:26.310 align:start position:0%
+the mid tiers. And here's a summary of
+the<00:05:24.720><c> premium</c><00:05:25.120><c> tiers.</c><00:05:25.520><c> If</c><00:05:25.680><c> you're</c><00:05:25.840><c> unsure</c><00:05:26.160><c> on</c>
+
+00:05:26.310 --> 00:05:26.320 align:start position:0%
+the premium tiers. If you're unsure on
+ 
+
+00:05:26.320 --> 00:05:27.990 align:start position:0%
+the premium tiers. If you're unsure on
+what<00:05:26.479><c> to</c><00:05:26.639><c> use,</c><00:05:26.880><c> I</c><00:05:27.039><c> made</c><00:05:27.120><c> a</c><00:05:27.280><c> flowchart</c><00:05:27.680><c> in</c><00:05:27.919><c> this</c>
+
+00:05:27.990 --> 00:05:28.000 align:start position:0%
+what to use, I made a flowchart in this
+ 
+
+00:05:28.000 --> 00:05:29.350 align:start position:0%
+what to use, I made a flowchart in this
+guide<00:05:28.158><c> [music]</c><00:05:28.320><c> as</c><00:05:28.479><c> well.</c><00:05:28.800><c> We'll</c><00:05:29.039><c> set</c><00:05:29.120><c> up</c><00:05:29.199><c> the</c>
+
+00:05:29.350 --> 00:05:29.360 align:start position:0%
+guide [music] as well. We'll set up the
+ 
+
+00:05:29.360 --> 00:05:30.870 align:start position:0%
+guide [music] as well. We'll set up the
+heartbeat<00:05:29.759><c> in</c><00:05:29.919><c> just</c><00:05:30.080><c> a</c><00:05:30.240><c> second.</c><00:05:30.479><c> We'll</c><00:05:30.639><c> either</c>
+
+00:05:30.870 --> 00:05:30.880 align:start position:0%
+heartbeat in just a second. We'll either
+ 
+
+00:05:30.880 --> 00:05:33.029 align:start position:0%
+heartbeat in just a second. We'll either
+use<00:05:31.039><c> Gemini</c><00:05:31.520><c> Flash,</c><00:05:32.160><c> but</c><00:05:32.320><c> then</c><00:05:32.479><c> for</c><00:05:32.720><c> general</c>
+
+00:05:33.029 --> 00:05:33.039 align:start position:0%
+use Gemini Flash, but then for general
+ 
+
+00:05:33.039 --> 00:05:34.550 align:start position:0%
+use Gemini Flash, but then for general
+questions<00:05:33.360><c> and</c><00:05:33.600><c> brainstorms,</c><00:05:34.053><c> [music]</c><00:05:34.320><c> we're</c>
+
+00:05:34.550 --> 00:05:34.560 align:start position:0%
+questions and brainstorms, [music] we're
+ 
+
+00:05:34.560 --> 00:05:36.550 align:start position:0%
+questions and brainstorms, [music] we're
+actually<00:05:34.720><c> going</c><00:05:34.800><c> to</c><00:05:34.880><c> set</c><00:05:35.039><c> up</c><00:05:35.199><c> Minimax</c><00:05:35.840><c> 2.5</c>
+
+00:05:36.550 --> 00:05:36.560 align:start position:0%
+actually going to set up Minimax 2.5
+ 
+
+00:05:36.560 --> 00:05:38.150 align:start position:0%
+actually going to set up Minimax 2.5
+because<00:05:36.800><c> this</c><00:05:36.960><c> is</c><00:05:37.120><c> very</c><00:05:37.360><c> cheap</c><00:05:37.600><c> and</c><00:05:37.840><c> really</c>
+
+00:05:38.150 --> 00:05:38.160 align:start position:0%
+because this is very cheap and really
+ 
+
+00:05:38.160 --> 00:05:39.909 align:start position:0%
+because this is very cheap and really
+powerful.<00:05:38.639><c> For</c><00:05:38.880><c> coding</c><00:05:39.120><c> tasks</c><00:05:39.360><c> and</c><00:05:39.600><c> technical</c>
+
+00:05:39.909 --> 00:05:39.919 align:start position:0%
+powerful. For coding tasks and technical
+ 
+
+00:05:39.919 --> 00:05:41.670 align:start position:0%
+powerful. For coding tasks and technical
+work,<00:05:40.240><c> you</c><00:05:40.479><c> can</c><00:05:40.639><c> use</c><00:05:40.800><c> a</c><00:05:40.960><c> cheap</c><00:05:41.280><c> model</c><00:05:41.520><c> like</c>
+
+00:05:41.670 --> 00:05:41.680 align:start position:0%
+work, you can use a cheap model like
+ 
+
+00:05:41.680 --> 00:05:43.213 align:start position:0%
+work, you can use a cheap model like
+Deepseek<00:05:42.400><c> V3.2.</c>
+
+00:05:43.213 --> 00:05:43.223 align:start position:0%
+Deepseek V3.2.
+ 
+
+00:05:43.223 --> 00:05:43.270 align:start position:0%
+Deepseek V3.2.
+&gt;&gt; [music]
+
+00:05:43.270 --> 00:05:43.280 align:start position:0%
+&gt;&gt; [music]
+ 
+
+00:05:43.280 --> 00:05:46.870 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; 2<00:05:43.680><c> or</c><00:05:44.000><c> GLM5</c><00:05:45.120><c> or</c><00:05:45.360><c> for</c><00:05:45.680><c> really</c><00:05:46.000><c> complex</c><00:05:46.400><c> models</c>
+
+00:05:46.870 --> 00:05:46.880 align:start position:0%
+&gt;&gt; 2 or GLM5 or for really complex models
+ 
+
+00:05:46.880 --> 00:05:48.950 align:start position:0%
+&gt;&gt; 2 or GLM5 or for really complex models
+use<00:05:47.120><c> claude</c><00:05:47.440><c> opus</c><00:05:47.840><c> 4.6</c><00:05:48.240><c> six,</c><00:05:48.479><c> but</c><00:05:48.720><c> this</c><00:05:48.880><c> is</c>
+
+00:05:48.950 --> 00:05:48.960 align:start position:0%
+use claude opus 4.6 six, but this is
+ 
+
+00:05:48.960 --> 00:05:50.230 align:start position:0%
+use claude opus 4.6 six, but this is
+also<00:05:49.120><c> the</c><00:05:49.360><c> most</c><00:05:49.520><c> expensive</c><00:05:49.773><c> [music]</c><00:05:49.919><c> model.</c>
+
+00:05:50.230 --> 00:05:50.240 align:start position:0%
+also the most expensive [music] model.
+ 
+
+00:05:50.240 --> 00:05:51.510 align:start position:0%
+also the most expensive [music] model.
+And<00:05:50.400><c> for</c><00:05:50.560><c> other</c><00:05:50.800><c> decisions,</c><00:05:51.120><c> you</c><00:05:51.280><c> can</c><00:05:51.440><c> see</c>
+
+00:05:51.510 --> 00:05:51.520 align:start position:0%
+And for other decisions, you can see
+ 
+
+00:05:51.520 --> 00:05:53.110 align:start position:0%
+And for other decisions, you can see
+here<00:05:51.759><c> for</c><00:05:51.919><c> writing,</c><00:05:52.320><c> for</c><00:05:52.320><c> example,</c><00:05:52.639><c> I</c><00:05:52.880><c> choose</c>
+
+00:05:53.110 --> 00:05:53.120 align:start position:0%
+here for writing, for example, I choose
+ 
+
+00:05:53.120 --> 00:05:55.350 align:start position:0%
+here for writing, for example, I choose
+clouds<00:05:53.520><c> on</c><00:05:53.840><c> 4.5.</c><00:05:54.479><c> And</c><00:05:54.639><c> for</c><00:05:54.800><c> everything</c><00:05:55.039><c> else,</c>
+
+00:05:55.350 --> 00:05:55.360 align:start position:0%
+clouds on 4.5. And for everything else,
+ 
+
+00:05:55.360 --> 00:05:57.749 align:start position:0%
+clouds on 4.5. And for everything else,
+I'm<00:05:55.600><c> using</c><00:05:55.759><c> minimax</c><00:05:56.400><c> 2.5.</c><00:05:57.199><c> Now,</c><00:05:57.360><c> to</c><00:05:57.520><c> set</c><00:05:57.600><c> this</c>
+
+00:05:57.749 --> 00:05:57.759 align:start position:0%
+I'm using minimax 2.5. Now, to set this
+ 
+
+00:05:57.759 --> 00:05:59.270 align:start position:0%
+I'm using minimax 2.5. Now, to set this
+up,<00:05:57.919><c> I'm</c><00:05:58.160><c> using</c><00:05:58.320><c> Open</c><00:05:58.639><c> Router.</c><00:05:58.960><c> The</c><00:05:59.039><c> easiest</c>
+
+00:05:59.270 --> 00:05:59.280 align:start position:0%
+up, I'm using Open Router. The easiest
+ 
+
+00:05:59.280 --> 00:06:01.029 align:start position:0%
+up, I'm using Open Router. The easiest
+way<00:05:59.360><c> to</c><00:05:59.520><c> set</c><00:05:59.680><c> this</c><00:05:59.840><c> up</c><00:05:59.919><c> is</c><00:06:00.080><c> to</c><00:06:00.240><c> ask</c><00:06:00.400><c> Open</c><00:06:00.720><c> Router</c>
+
+00:06:01.029 --> 00:06:01.039 align:start position:0%
+way to set this up is to ask Open Router
+ 
+
+00:06:01.039 --> 00:06:03.270 align:start position:0%
+way to set this up is to ask Open Router
+itself<00:06:01.520><c> to</c><00:06:01.759><c> configure</c><00:06:02.160><c> Open</c><00:06:02.479><c> Route</c><00:06:02.880><c> as</c><00:06:03.120><c> the</c>
+
+00:06:03.270 --> 00:06:03.280 align:start position:0%
+itself to configure Open Route as the
+ 
+
+00:06:03.280 --> 00:06:04.870 align:start position:0%
+itself to configure Open Route as the
+default<00:06:03.680><c> model</c><00:06:04.080><c> provider.</c><00:06:04.184><c> [music]</c><00:06:04.560><c> And</c><00:06:04.720><c> you</c>
+
+00:06:04.870 --> 00:06:04.880 align:start position:0%
+default model provider. [music] And you
+ 
+
+00:06:04.880 --> 00:06:06.790 align:start position:0%
+default model provider. [music] And you
+give<00:06:04.960><c> it</c><00:06:05.120><c> the</c><00:06:05.280><c> API</c><00:06:05.680><c> key.</c><00:06:06.080><c> And</c><00:06:06.240><c> after</c><00:06:06.400><c> that,</c><00:06:06.639><c> you</c>
+
+00:06:06.790 --> 00:06:06.800 align:start position:0%
+give it the API key. And after that, you
+ 
+
+00:06:06.800 --> 00:06:08.759 align:start position:0%
+give it the API key. And after that, you
+can<00:06:06.880><c> copy</c><00:06:07.199><c> in</c><00:06:07.520><c> this</c><00:06:07.919><c> long</c><00:06:08.240><c> prompt</c><00:06:08.639><c> right</c>
+
+00:06:08.759 --> 00:06:08.769 align:start position:0%
+can copy in this long prompt right
+ 
+
+00:06:08.769 --> 00:06:10.390 align:start position:0%
+can copy in this long prompt right
+[music]<00:06:08.800><c> here</c><00:06:09.199><c> in</c><00:06:09.440><c> order</c><00:06:09.600><c> to</c><00:06:09.840><c> know</c><00:06:10.000><c> what</c><00:06:10.319><c> kind</c>
+
+00:06:10.390 --> 00:06:10.400 align:start position:0%
+[music] here in order to know what kind
+ 
+
+00:06:10.400 --> 00:06:12.710 align:start position:0%
+[music] here in order to know what kind
+of<00:06:10.560><c> models</c><00:06:10.960><c> are</c><00:06:11.199><c> available</c><00:06:11.680><c> on</c><00:06:12.000><c> Open</c><00:06:12.319><c> Router.</c>
+
+00:06:12.710 --> 00:06:12.720 align:start position:0%
+of models are available on Open Router.
+ 
+
+00:06:12.720 --> 00:06:14.390 align:start position:0%
+of models are available on Open Router.
+But<00:06:12.880><c> this</c><00:06:13.039><c> is</c><00:06:13.199><c> actually</c><00:06:13.360><c> not</c><00:06:13.600><c> the</c><00:06:13.840><c> most</c><00:06:14.000><c> secure</c>
+
+00:06:14.390 --> 00:06:14.400 align:start position:0%
+But this is actually not the most secure
+ 
+
+00:06:14.400 --> 00:06:15.909 align:start position:0%
+But this is actually not the most secure
+way<00:06:14.560><c> of</c><00:06:14.720><c> doing</c><00:06:14.880><c> it</c><00:06:15.120><c> because</c><00:06:15.360><c> it</c><00:06:15.520><c> will</c><00:06:15.680><c> save</c>
+
+00:06:15.909 --> 00:06:15.919 align:start position:0%
+way of doing it because it will save
+ 
+
+00:06:15.919 --> 00:06:17.929 align:start position:0%
+way of doing it because it will save
+your<00:06:16.160><c> open</c><00:06:16.479><c> router</c><00:06:16.800><c> API</c><00:06:17.199><c> key</c><00:06:17.440><c> in</c><00:06:17.600><c> the</c><00:06:17.759><c> config</c>
+
+00:06:17.929 --> 00:06:17.939 align:start position:0%
+your open router API key in the config
+ 
+
+00:06:17.939 --> 00:06:19.749 align:start position:0%
+your open router API key in the config
+[music]<00:06:18.160><c> file.</c><00:06:18.479><c> So</c><00:06:18.560><c> to</c><00:06:18.800><c> make</c><00:06:18.880><c> it</c><00:06:19.039><c> more</c><00:06:19.280><c> secure,</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+[music] file. So to make it more secure,
+ 
+
+00:06:19.759 --> 00:06:21.510 align:start position:0%
+[music] file. So to make it more secure,
+go<00:06:19.919><c> back</c><00:06:20.000><c> to</c><00:06:20.160><c> your</c><00:06:20.240><c> hostinger</c><00:06:20.880><c> dashboard</c><00:06:21.280><c> and</c>
+
+00:06:21.510 --> 00:06:21.520 align:start position:0%
+go back to your hostinger dashboard and
+ 
+
+00:06:21.520 --> 00:06:24.070 align:start position:0%
+go back to your hostinger dashboard and
+simply<00:06:21.919><c> look</c><00:06:22.080><c> for</c><00:06:22.400><c> docker</c><00:06:22.800><c> manager</c><00:06:23.440><c> projects</c>
+
+00:06:24.070 --> 00:06:24.080 align:start position:0%
+simply look for docker manager projects
+ 
+
+00:06:24.080 --> 00:06:25.749 align:start position:0%
+simply look for docker manager projects
+and<00:06:24.319><c> click</c><00:06:24.479><c> on</c><00:06:24.499><c> [music]</c><00:06:24.720><c> settings.</c><00:06:25.360><c> Click</c><00:06:25.520><c> on</c>
+
+00:06:25.749 --> 00:06:25.759 align:start position:0%
+and click on [music] settings. Click on
+ 
+
+00:06:25.759 --> 00:06:28.070 align:start position:0%
+and click on [music] settings. Click on
+projects.<00:06:26.479><c> Click</c><00:06:26.720><c> on</c><00:06:26.960><c> manage.</c><00:06:27.520><c> And</c><00:06:27.680><c> now</c><00:06:27.919><c> in</c>
+
+00:06:28.070 --> 00:06:28.080 align:start position:0%
+projects. Click on manage. And now in
+ 
+
+00:06:28.080 --> 00:06:29.749 align:start position:0%
+projects. Click on manage. And now in
+the<00:06:28.240><c> bottom</c><00:06:28.479><c> here</c><00:06:28.720><c> we</c><00:06:28.960><c> see</c><00:06:29.120><c> something</c><00:06:29.440><c> called</c>
+
+00:06:29.749 --> 00:06:29.759 align:start position:0%
+the bottom here we see something called
+ 
+
+00:06:29.759 --> 00:06:31.029 align:start position:0%
+the bottom here we see something called
+environment.<00:06:30.400><c> Once</c><00:06:30.639><c> you</c><00:06:30.720><c> click</c><00:06:30.880><c> on</c>
+
+00:06:31.029 --> 00:06:31.039 align:start position:0%
+environment. Once you click on
+ 
+
+00:06:31.039 --> 00:06:32.550 align:start position:0%
+environment. Once you click on
+environment,<00:06:31.600><c> you</c><00:06:31.759><c> can</c><00:06:31.840><c> see</c><00:06:32.000><c> that</c><00:06:32.160><c> you</c><00:06:32.400><c> can</c>
+
+00:06:32.550 --> 00:06:32.560 align:start position:0%
+environment, you can see that you can
+ 
+
+00:06:32.560 --> 00:06:35.029 align:start position:0%
+environment, you can see that you can
+import<00:06:32.960><c> your</c><00:06:33.280><c> API</c><00:06:33.759><c> keys</c><00:06:34.080><c> right</c><00:06:34.319><c> here.</c><00:06:34.639><c> Simply</c>
+
+00:06:35.029 --> 00:06:35.039 align:start position:0%
+import your API keys right here. Simply
+ 
+
+00:06:35.039 --> 00:06:37.189 align:start position:0%
+import your API keys right here. Simply
+click<00:06:35.199><c> on</c><00:06:35.600><c> new</c><00:06:35.919><c> environment</c><00:06:36.560><c> and</c><00:06:36.800><c> add</c><00:06:37.039><c> your</c>
+
+00:06:37.189 --> 00:06:37.199 align:start position:0%
+click on new environment and add your
+ 
+
+00:06:37.199 --> 00:06:39.510 align:start position:0%
+click on new environment and add your
+open<00:06:37.440><c> router</c><00:06:37.840><c> API</c><00:06:38.240><c> key</c><00:06:38.560><c> and</c><00:06:38.880><c> paste</c><00:06:39.120><c> it</c><00:06:39.280><c> in</c>
+
+00:06:39.510 --> 00:06:39.520 align:start position:0%
+open router API key and paste it in
+ 
+
+00:06:39.520 --> 00:06:41.350 align:start position:0%
+open router API key and paste it in
+right<00:06:39.680><c> here</c><00:06:39.840><c> from</c><00:06:40.080><c> the</c><00:06:40.240><c> open</c><00:06:40.479><c> router</c><00:06:40.800><c> API</c><00:06:41.199><c> key</c>
+
+00:06:41.350 --> 00:06:41.360 align:start position:0%
+right here from the open router API key
+ 
+
+00:06:41.360 --> 00:06:43.430 align:start position:0%
+right here from the open router API key
+that<00:06:41.520><c> we</c><00:06:41.680><c> set</c><00:06:41.840><c> up</c><00:06:42.000><c> earlier.</c><00:06:42.479><c> Hit</c><00:06:42.720><c> save.</c><00:06:43.039><c> And</c><00:06:43.280><c> we</c>
+
+00:06:43.430 --> 00:06:43.440 align:start position:0%
+that we set up earlier. Hit save. And we
+ 
+
+00:06:43.440 --> 00:06:45.270 align:start position:0%
+that we set up earlier. Hit save. And we
+already<00:06:43.680><c> have</c><00:06:43.840><c> that</c><00:06:44.080><c> set</c><00:06:44.240><c> up</c><00:06:44.560><c> right</c><00:06:44.800><c> here.</c><00:06:45.120><c> And</c>
+
+00:06:45.270 --> 00:06:45.280 align:start position:0%
+already have that set up right here. And
+ 
+
+00:06:45.280 --> 00:06:46.950 align:start position:0%
+already have that set up right here. And
+this<00:06:45.440><c> is</c><00:06:45.600><c> probably</c><00:06:45.759><c> the</c><00:06:46.000><c> hardest</c><00:06:46.319><c> part</c><00:06:46.479><c> of</c><00:06:46.720><c> all</c>
+
+00:06:46.950 --> 00:06:46.960 align:start position:0%
+this is probably the hardest part of all
+ 
+
+00:06:46.960 --> 00:06:48.390 align:start position:0%
+this is probably the hardest part of all
+of<00:06:47.039><c> this.</c><00:06:47.440><c> Now</c><00:06:47.600><c> that</c><00:06:47.759><c> our</c><00:06:48.000><c> environment</c>
+
+00:06:48.390 --> 00:06:48.400 align:start position:0%
+of this. Now that our environment
+ 
+
+00:06:48.400 --> 00:06:50.309 align:start position:0%
+of this. Now that our environment
+variable<00:06:48.800><c> is</c><00:06:49.039><c> set</c><00:06:49.199><c> up,</c><00:06:49.520><c> you</c><00:06:49.759><c> can</c><00:06:49.840><c> go</c><00:06:50.000><c> back</c><00:06:50.160><c> to</c>
+
+00:06:50.309 --> 00:06:50.319 align:start position:0%
+variable is set up, you can go back to
+ 
+
+00:06:50.319 --> 00:06:51.909 align:start position:0%
+variable is set up, you can go back to
+this<00:06:50.560><c> text</c><00:06:50.800><c> that</c><00:06:50.960><c> we</c><00:06:51.120><c> have</c><00:06:51.280><c> right</c><00:06:51.520><c> here.</c><00:06:51.759><c> And</c>
+
+00:06:51.909 --> 00:06:51.919 align:start position:0%
+this text that we have right here. And
+ 
+
+00:06:51.919 --> 00:06:53.990 align:start position:0%
+this text that we have right here. And
+we<00:06:52.160><c> can</c><00:06:52.240><c> copy</c><00:06:52.560><c> this</c><00:06:52.800><c> exact</c><00:06:53.120><c> prompt.</c><00:06:53.600><c> And</c><00:06:53.759><c> let's</c>
+
+00:06:53.990 --> 00:06:54.000 align:start position:0%
+we can copy this exact prompt. And let's
+ 
+
+00:06:54.000 --> 00:06:55.110 align:start position:0%
+we can copy this exact prompt. And let's
+paste<00:06:54.160><c> in</c><00:06:54.319><c> the</c><00:06:54.479><c> prompt</c><00:06:54.619><c> [music]</c><00:06:54.720><c> right</c><00:06:54.880><c> into</c>
+
+00:06:55.110 --> 00:06:55.120 align:start position:0%
+paste in the prompt [music] right into
+ 
+
+00:06:55.120 --> 00:06:57.110 align:start position:0%
+paste in the prompt [music] right into
+this<00:06:55.280><c> chat</c><00:06:55.600><c> window.</c><00:06:56.160><c> Hit</c><00:06:56.400><c> send.</c><00:06:56.720><c> And</c><00:06:56.880><c> we</c><00:06:57.039><c> can</c>
+
+00:06:57.110 --> 00:06:57.120 align:start position:0%
+this chat window. Hit send. And we can
+ 
+
+00:06:57.120 --> 00:06:58.629 align:start position:0%
+this chat window. Hit send. And we can
+see<00:06:57.360><c> now</c><00:06:57.520><c> that</c><00:06:57.759><c> we</c><00:06:57.919><c> have</c><00:06:58.080><c> selected</c><00:06:58.400><c> the</c>
+
+00:06:58.629 --> 00:06:58.639 align:start position:0%
+see now that we have selected the
+ 
+
+00:06:58.639 --> 00:07:00.390 align:start position:0%
+see now that we have selected the
+primary<00:06:58.960><c> model</c><00:06:59.199><c> which</c><00:06:59.440><c> is</c><00:06:59.520><c> Minax.</c><00:07:00.160><c> And</c><00:07:00.319><c> we</c>
+
+00:07:00.390 --> 00:07:00.400 align:start position:0%
+primary model which is Minax. And we
+ 
+
+00:07:00.400 --> 00:07:02.230 align:start position:0%
+primary model which is Minax. And we
+have<00:07:00.560><c> fallback</c><00:07:01.039><c> options</c><00:07:01.440><c> right</c><00:07:01.680><c> here.</c><00:07:02.000><c> If</c><00:07:02.160><c> you</c>
+
+00:07:02.230 --> 00:07:02.240 align:start position:0%
+have fallback options right here. If you
+ 
+
+00:07:02.240 --> 00:07:03.749 align:start position:0%
+have fallback options right here. If you
+get<00:07:02.400><c> any</c><00:07:02.639><c> error</c><00:07:02.720><c> at</c><00:07:02.880><c> this</c><00:07:03.039><c> point,</c><00:07:03.280><c> simply</c><00:07:03.520><c> copy</c>
+
+00:07:03.749 --> 00:07:03.759 align:start position:0%
+get any error at this point, simply copy
+ 
+
+00:07:03.759 --> 00:07:05.589 align:start position:0%
+get any error at this point, simply copy
+and<00:07:03.919><c> paste</c><00:07:04.160><c> that</c><00:07:04.444><c> [music]</c><00:07:04.479><c> error</c><00:07:04.639><c> into</c><00:07:04.800><c> CGPT</c>
+
+00:07:05.589 --> 00:07:05.599 align:start position:0%
+and paste that [music] error into CGPT
+ 
+
+00:07:05.599 --> 00:07:07.110 align:start position:0%
+and paste that [music] error into CGPT
+and<00:07:05.759><c> have</c><00:07:05.919><c> it</c><00:07:06.080><c> help</c><00:07:06.240><c> you</c><00:07:06.400><c> with</c><00:07:06.560><c> the</c><00:07:06.800><c> setup.</c>
+
+00:07:07.110 --> 00:07:07.120 align:start position:0%
+and have it help you with the setup.
+ 
+
+00:07:07.120 --> 00:07:09.189 align:start position:0%
+and have it help you with the setup.
+What<00:07:07.360><c> might</c><00:07:07.520><c> also</c><00:07:07.840><c> help</c><00:07:08.080><c> is</c><00:07:08.319><c> to</c><00:07:08.639><c> go</c><00:07:08.800><c> over</c><00:07:09.039><c> to</c>
+
+00:07:09.189 --> 00:07:09.199 align:start position:0%
+What might also help is to go over to
+ 
+
+00:07:09.199 --> 00:07:11.270 align:start position:0%
+What might also help is to go over to
+your<00:07:09.440><c> config</c><00:07:09.759><c> file</c><00:07:10.080><c> right</c><00:07:10.319><c> here</c><00:07:10.720><c> and</c><00:07:10.960><c> click</c><00:07:11.120><c> on</c>
+
+00:07:11.270 --> 00:07:11.280 align:start position:0%
+your config file right here and click on
+ 
+
+00:07:11.280 --> 00:07:13.430 align:start position:0%
+your config file right here and click on
+raw<00:07:11.680><c> and</c><00:07:11.840><c> you</c><00:07:11.919><c> can</c><00:07:12.080><c> paste</c><00:07:12.240><c> in</c><00:07:12.479><c> the</c><00:07:12.720><c> exact</c><00:07:13.039><c> raw</c>
+
+00:07:13.430 --> 00:07:13.440 align:start position:0%
+raw and you can paste in the exact raw
+ 
+
+00:07:13.440 --> 00:07:15.909 align:start position:0%
+raw and you can paste in the exact raw
+JSON<00:07:13.840><c> file</c><00:07:14.080><c> into</c><00:07:14.319><c> CGPT</c><00:07:15.280><c> to</c><00:07:15.599><c> help</c><00:07:15.680><c> you</c>
+
+00:07:15.909 --> 00:07:15.919 align:start position:0%
+JSON file into CGPT to help you
+ 
+
+00:07:15.919 --> 00:07:17.430 align:start position:0%
+JSON file into CGPT to help you
+troubleshoot<00:07:16.400><c> it.</c><00:07:16.639><c> But</c><00:07:16.800><c> in</c><00:07:16.960><c> the</c><00:07:17.039><c> end,</c><00:07:17.199><c> you</c>
+
+00:07:17.430 --> 00:07:17.440 align:start position:0%
+troubleshoot it. But in the end, you
+ 
+
+00:07:17.440 --> 00:07:18.844 align:start position:0%
+troubleshoot it. But in the end, you
+should<00:07:17.680><c> look</c><00:07:17.840><c> something</c><00:07:18.160><c> like</c><00:07:18.400><c> this.</c><00:07:18.800><c> You</c>
+
+00:07:18.844 --> 00:07:18.854 align:start position:0%
+should look something like this. You
+ 
+
+00:07:18.854 --> 00:07:20.230 align:start position:0%
+should look something like this. You
+[music]<00:07:19.039><c> should</c><00:07:19.120><c> have</c><00:07:19.280><c> the</c><00:07:19.520><c> models</c><00:07:20.000><c> with</c>
+
+00:07:20.230 --> 00:07:20.240 align:start position:0%
+[music] should have the models with
+ 
+
+00:07:20.240 --> 00:07:22.390 align:start position:0%
+[music] should have the models with
+merge.<00:07:20.800><c> You</c><00:07:20.960><c> should</c><00:07:21.120><c> have</c><00:07:21.280><c> a</c><00:07:21.599><c> base</c><00:07:21.840><c> URL</c><00:07:22.240><c> with</c>
+
+00:07:22.390 --> 00:07:22.400 align:start position:0%
+merge. You should have a base URL with
+ 
+
+00:07:22.400 --> 00:07:24.710 align:start position:0%
+merge. You should have a base URL with
+the<00:07:22.560><c> open</c><00:07:22.880><c> router</c><00:07:23.199><c> API.</c><00:07:24.080><c> And</c><00:07:24.240><c> then</c><00:07:24.400><c> you</c><00:07:24.560><c> should</c>
+
+00:07:24.710 --> 00:07:24.720 align:start position:0%
+the open router API. And then you should
+ 
+
+00:07:24.720 --> 00:07:26.230 align:start position:0%
+the open router API. And then you should
+see<00:07:24.880><c> the</c><00:07:25.039><c> different</c><00:07:25.280><c> models</c><00:07:25.599><c> that</c><00:07:25.759><c> we</c><00:07:25.919><c> set</c><00:07:26.080><c> up</c>
+
+00:07:26.230 --> 00:07:26.240 align:start position:0%
+see the different models that we set up
+ 
+
+00:07:26.240 --> 00:07:28.950 align:start position:0%
+see the different models that we set up
+here.<00:07:26.479><c> We</c><00:07:26.720><c> see</c><00:07:26.800><c> Minimax,</c><00:07:27.599><c> we</c><00:07:27.759><c> see</c><00:07:28.000><c> GLM5,</c>
+
+00:07:28.950 --> 00:07:28.960 align:start position:0%
+here. We see Minimax, we see GLM5,
+ 
+
+00:07:28.960 --> 00:07:31.350 align:start position:0%
+here. We see Minimax, we see GLM5,
+Gemini<00:07:29.520><c> 2.5</c><00:07:30.080><c> Flash,</c><00:07:30.560><c> and</c><00:07:30.645><c> [music]</c><00:07:30.720><c> so</c><00:07:30.880><c> on</c><00:07:31.199><c> and</c>
+
+00:07:31.350 --> 00:07:31.360 align:start position:0%
+Gemini 2.5 Flash, and [music] so on and
+ 
+
+00:07:31.360 --> 00:07:33.270 align:start position:0%
+Gemini 2.5 Flash, and [music] so on and
+so<00:07:31.520><c> forth.</c><00:07:31.919><c> And</c><00:07:32.000><c> I</c><00:07:32.160><c> pasted</c><00:07:32.479><c> how</c><00:07:32.639><c> this</c><00:07:32.800><c> raw</c><00:07:33.039><c> file</c>
+
+00:07:33.270 --> 00:07:33.280 align:start position:0%
+so forth. And I pasted how this raw file
+ 
+
+00:07:33.280 --> 00:07:34.790 align:start position:0%
+so forth. And I pasted how this raw file
+should<00:07:33.440><c> look</c><00:07:33.599><c> like</c><00:07:33.840><c> right</c><00:07:34.080><c> here.</c><00:07:34.400><c> And</c><00:07:34.560><c> if</c><00:07:34.720><c> you</c>
+
+00:07:34.790 --> 00:07:34.800 align:start position:0%
+should look like right here. And if you
+ 
+
+00:07:34.800 --> 00:07:36.390 align:start position:0%
+should look like right here. And if you
+want<00:07:34.960><c> to</c><00:07:35.120><c> switch</c><00:07:35.360><c> models</c><00:07:35.680><c> along</c><00:07:36.000><c> the</c><00:07:36.080><c> way,</c><00:07:36.400><c> for</c>
+
+00:07:36.390 --> 00:07:36.400 align:start position:0%
+want to switch models along the way, for
+ 
+
+00:07:36.400 --> 00:07:37.909 align:start position:0%
+want to switch models along the way, for
+example,<00:07:36.720><c> if</c><00:07:36.880><c> we</c><00:07:37.039><c> want</c><00:07:37.120><c> to</c><00:07:37.199><c> use</c><00:07:37.360><c> sonnet</c><00:07:37.759><c> for</c>
+
+00:07:37.909 --> 00:07:37.919 align:start position:0%
+example, if we want to use sonnet for
+ 
+
+00:07:37.919 --> 00:07:39.749 align:start position:0%
+example, if we want to use sonnet for
+creative<00:07:38.240><c> writing,</c><00:07:38.800><c> simply</c><00:07:39.039><c> use</c><00:07:39.199><c> the</c><00:07:39.440><c> command</c>
+
+00:07:39.749 --> 00:07:39.759 align:start position:0%
+creative writing, simply use the command
+ 
+
+00:07:39.759 --> 00:07:41.749 align:start position:0%
+creative writing, simply use the command
+forward/model<00:07:40.720><c> and</c><00:07:40.960><c> sonnet.</c><00:07:41.125><c> [music]</c><00:07:41.440><c> And</c><00:07:41.599><c> we</c>
+
+00:07:41.749 --> 00:07:41.759 align:start position:0%
+forward/model and sonnet. [music] And we
+ 
+
+00:07:41.759 --> 00:07:43.270 align:start position:0%
+forward/model and sonnet. [music] And we
+can<00:07:41.840><c> see</c><00:07:41.919><c> that</c><00:07:42.160><c> it</c><00:07:42.319><c> easily</c><00:07:42.720><c> switches</c><00:07:43.039><c> the</c>
+
+00:07:43.270 --> 00:07:43.280 align:start position:0%
+can see that it easily switches the
+ 
+
+00:07:43.280 --> 00:07:45.110 align:start position:0%
+can see that it easily switches the
+models.<00:07:43.680><c> So</c><00:07:43.840><c> now</c><00:07:44.000><c> when</c><00:07:44.160><c> we</c><00:07:44.319><c> ask</c><00:07:44.639><c> what</c><00:07:44.880><c> model</c>
+
+00:07:45.110 --> 00:07:45.120 align:start position:0%
+models. So now when we ask what model
+ 
+
+00:07:45.120 --> 00:07:46.950 align:start position:0%
+models. So now when we ask what model
+are<00:07:45.280><c> you</c><00:07:45.440><c> using,</c><00:07:45.759><c> it</c><00:07:46.000><c> now</c><00:07:46.240><c> shows</c><00:07:46.400><c> us</c><00:07:46.720><c> that</c>
+
+00:07:46.950 --> 00:07:46.960 align:start position:0%
+are you using, it now shows us that
+ 
+
+00:07:46.960 --> 00:07:49.189 align:start position:0%
+are you using, it now shows us that
+we're<00:07:47.199><c> using</c><00:07:47.360><c> the</c><00:07:47.680><c> claude</c><00:07:48.000><c> sonnet</c><00:07:48.479><c> model</c><00:07:48.880><c> via</c>
+
+00:07:49.189 --> 00:07:49.199 align:start position:0%
+we're using the claude sonnet model via
+ 
+
+00:07:49.199 --> 00:07:50.950 align:start position:0%
+we're using the claude sonnet model via
+the<00:07:49.360><c> open</c><00:07:49.599><c> router</c><00:07:49.919><c> API</c><00:07:50.295><c> [music]</c><00:07:50.319><c> key.</c><00:07:50.560><c> And</c><00:07:50.800><c> you</c>
+
+00:07:50.950 --> 00:07:50.960 align:start position:0%
+the open router API [music] key. And you
+ 
+
+00:07:50.960 --> 00:07:52.629 align:start position:0%
+the open router API [music] key. And you
+can<00:07:51.039><c> start</c><00:07:51.199><c> your</c><00:07:51.440><c> creative</c><00:07:51.759><c> writing</c><00:07:52.080><c> process.</c>
+
+00:07:52.629 --> 00:07:52.639 align:start position:0%
+can start your creative writing process.
+ 
+
+00:07:52.639 --> 00:07:53.990 align:start position:0%
+can start your creative writing process.
+But<00:07:52.800><c> there</c><00:07:52.960><c> is</c><00:07:53.039><c> more.</c><00:07:53.440><c> Switching</c><00:07:53.680><c> to</c><00:07:53.840><c> a</c>
+
+00:07:53.990 --> 00:07:54.000 align:start position:0%
+But there is more. Switching to a
+ 
+
+00:07:54.000 --> 00:07:55.749 align:start position:0%
+But there is more. Switching to a
+cheaper<00:07:54.240><c> model</c><00:07:54.479><c> saves</c><00:07:54.720><c> you</c><00:07:54.879><c> between</c><00:07:55.199><c> 70</c><00:07:55.520><c> and</c>
+
+00:07:55.749 --> 00:07:55.759 align:start position:0%
+cheaper model saves you between 70 and
+ 
+
+00:07:55.759 --> 00:07:58.070 align:start position:0%
+cheaper model saves you between 70 and
+80%<00:07:56.319><c> of</c><00:07:56.479><c> token</c><00:07:56.879><c> usage</c><00:07:57.199><c> overall.</c><00:07:57.680><c> But</c><00:07:57.759><c> now</c><00:07:57.919><c> I'll</c>
+
+00:07:58.070 --> 00:07:58.080 align:start position:0%
+80% of token usage overall. But now I'll
+ 
+
+00:07:58.080 --> 00:07:59.749 align:start position:0%
+80% of token usage overall. But now I'll
+show<00:07:58.160><c> you</c><00:07:58.400><c> four</c><00:07:58.639><c> more</c><00:07:58.879><c> simple</c><00:07:59.120><c> messages</c><00:07:59.520><c> you</c>
+
+00:07:59.749 --> 00:07:59.759 align:start position:0%
+show you four more simple messages you
+ 
+
+00:07:59.759 --> 00:08:01.510 align:start position:0%
+show you four more simple messages you
+can<00:07:59.840><c> prompt</c><00:08:00.160><c> into</c><00:08:00.400><c> OpenClaw</c><00:08:01.039><c> in</c><00:08:01.199><c> order</c><00:08:01.360><c> to</c>
+
+00:08:01.510 --> 00:08:01.520 align:start position:0%
+can prompt into OpenClaw in order to
+ 
+
+00:08:01.520 --> 00:08:03.670 align:start position:0%
+can prompt into OpenClaw in order to
+save<00:08:01.759><c> even</c><00:08:02.080><c> more</c><00:08:02.240><c> on</c><00:08:02.400><c> your</c><00:08:02.560><c> API</c><00:08:03.039><c> costs.</c><00:08:03.440><c> The</c>
+
+00:08:03.670 --> 00:08:03.680 align:start position:0%
+save even more on your API costs. The
+ 
+
+00:08:03.680 --> 00:08:05.270 align:start position:0%
+save even more on your API costs. The
+second<00:08:03.919><c> thing</c><00:08:04.080><c> here</c><00:08:04.319><c> is</c><00:08:04.479><c> to</c><00:08:04.639><c> set</c><00:08:04.800><c> up</c><00:08:04.960><c> smart</c>
+
+00:08:05.270 --> 00:08:05.280 align:start position:0%
+second thing here is to set up smart
+ 
+
+00:08:05.280 --> 00:08:06.710 align:start position:0%
+second thing here is to set up smart
+heartbeats.<00:08:05.360><c> [music]</c><00:08:05.840><c> A</c><00:08:06.000><c> heartbeat</c><00:08:06.400><c> is</c><00:08:06.560><c> a</c>
+
+00:08:06.710 --> 00:08:06.720 align:start position:0%
+heartbeats. [music] A heartbeat is a
+ 
+
+00:08:06.720 --> 00:08:08.710 align:start position:0%
+heartbeats. [music] A heartbeat is a
+regular<00:08:06.960><c> interval</c><00:08:07.440><c> where</c><00:08:07.759><c> Open</c><00:08:08.080><c> Claw</c><00:08:08.479><c> checks</c>
+
+00:08:08.710 --> 00:08:08.720 align:start position:0%
+regular interval where Open Claw checks
+ 
+
+00:08:08.720 --> 00:08:10.309 align:start position:0%
+regular interval where Open Claw checks
+in<00:08:08.879><c> with</c><00:08:09.039><c> itself</c><00:08:09.440><c> and</c><00:08:09.680><c> checks</c><00:08:09.919><c> if</c><00:08:10.080><c> there's</c>
+
+00:08:10.309 --> 00:08:10.319 align:start position:0%
+in with itself and checks if there's
+ 
+
+00:08:10.319 --> 00:08:11.909 align:start position:0%
+in with itself and checks if there's
+anything<00:08:10.560><c> that</c><00:08:10.720><c> it</c><00:08:10.879><c> needs</c><00:08:11.039><c> to</c><00:08:11.199><c> do.</c><00:08:11.520><c> So</c><00:08:11.680><c> we</c><00:08:11.840><c> can</c>
+
+00:08:11.909 --> 00:08:11.919 align:start position:0%
+anything that it needs to do. So we can
+ 
+
+00:08:11.919 --> 00:08:13.909 align:start position:0%
+anything that it needs to do. So we can
+set<00:08:12.080><c> the</c><00:08:12.240><c> heartbeat</c><00:08:12.639><c> interval</c><00:08:12.960><c> to</c><00:08:13.280><c> 55</c><00:08:13.680><c> minutes</c>
+
+00:08:13.909 --> 00:08:13.919 align:start position:0%
+set the heartbeat interval to 55 minutes
+ 
+
+00:08:13.919 --> 00:08:16.309 align:start position:0%
+set the heartbeat interval to 55 minutes
+or<00:08:14.240><c> 60</c><00:08:14.560><c> minutes</c><00:08:15.039><c> instead</c><00:08:15.360><c> of</c><00:08:15.440><c> the</c><00:08:15.680><c> default</c><00:08:16.080><c> 30</c>
+
+00:08:16.309 --> 00:08:16.319 align:start position:0%
+or 60 minutes instead of the default 30
+ 
+
+00:08:16.319 --> 00:08:17.990 align:start position:0%
+or 60 minutes instead of the default 30
+minutes.<00:08:16.639><c> Or</c><00:08:16.800><c> you</c><00:08:16.960><c> can</c><00:08:17.039><c> set</c><00:08:17.120><c> it</c><00:08:17.280><c> to</c><00:08:17.440><c> shorter</c><00:08:17.759><c> if</c>
+
+00:08:17.990 --> 00:08:18.000 align:start position:0%
+minutes. Or you can set it to shorter if
+ 
+
+00:08:18.000 --> 00:08:20.230 align:start position:0%
+minutes. Or you can set it to shorter if
+you<00:08:18.080><c> want</c><00:08:18.240><c> OpenClaw</c><00:08:18.879><c> to</c><00:08:19.039><c> run</c><00:08:19.280><c> non-stop.</c><00:08:19.919><c> We'll</c>
+
+00:08:20.230 --> 00:08:20.240 align:start position:0%
+you want OpenClaw to run non-stop. We'll
+ 
+
+00:08:20.240 --> 00:08:22.230 align:start position:0%
+you want OpenClaw to run non-stop. We'll
+use<00:08:20.479><c> the</c><00:08:20.720><c> flashlight</c><00:08:21.360><c> model</c><00:08:21.680><c> which</c><00:08:21.919><c> is</c><00:08:22.000><c> the</c>
+
+00:08:22.230 --> 00:08:22.240 align:start position:0%
+use the flashlight model which is the
+ 
+
+00:08:22.240 --> 00:08:23.830 align:start position:0%
+use the flashlight model which is the
+cheapest<00:08:22.639><c> available</c><00:08:23.120><c> model</c><00:08:23.360><c> and</c><00:08:23.599><c> we'll</c><00:08:23.759><c> set</c>
+
+00:08:23.830 --> 00:08:23.840 align:start position:0%
+cheapest available model and we'll set
+ 
+
+00:08:23.840 --> 00:08:25.909 align:start position:0%
+cheapest available model and we'll set
+the<00:08:24.000><c> heartbeat</c><00:08:24.400><c> target</c><00:08:24.800><c> to</c><00:08:24.960><c> last.</c><00:08:25.599><c> Simply</c>
+
+00:08:25.909 --> 00:08:25.919 align:start position:0%
+the heartbeat target to last. Simply
+ 
+
+00:08:25.919 --> 00:08:27.909 align:start position:0%
+the heartbeat target to last. Simply
+copy<00:08:26.240><c> this,</c><00:08:26.560><c> move</c><00:08:26.800><c> this</c><00:08:26.960><c> over</c><00:08:27.120><c> to</c><00:08:27.360><c> openclaw.</c>
+
+00:08:27.909 --> 00:08:27.919 align:start position:0%
+copy this, move this over to openclaw.
+ 
+
+00:08:27.919 --> 00:08:29.110 align:start position:0%
+copy this, move this over to openclaw.
+I'm<00:08:28.080><c> going</c><00:08:28.160><c> to</c><00:08:28.319><c> start</c><00:08:28.400><c> a</c><00:08:28.639><c> new</c><00:08:28.720><c> session</c><00:08:28.940><c> [music]</c>
+
+00:08:29.110 --> 00:08:29.120 align:start position:0%
+I'm going to start a new session [music]
+ 
+
+00:08:29.120 --> 00:08:30.950 align:start position:0%
+I'm going to start a new session [music]
+and<00:08:29.280><c> I</c><00:08:29.440><c> paste</c><00:08:29.680><c> in</c><00:08:29.840><c> the</c><00:08:30.000><c> exact</c><00:08:30.240><c> prompt</c><00:08:30.560><c> here.</c><00:08:30.800><c> We</c>
+
+00:08:30.950 --> 00:08:30.960 align:start position:0%
+and I paste in the exact prompt here. We
+ 
+
+00:08:30.960 --> 00:08:32.550 align:start position:0%
+and I paste in the exact prompt here. We
+can<00:08:31.039><c> see</c><00:08:31.199><c> that</c><00:08:31.360><c> the</c><00:08:31.520><c> interval</c><00:08:31.840><c> is</c><00:08:32.000><c> at</c><00:08:32.240><c> 60</c>
+
+00:08:32.550 --> 00:08:32.560 align:start position:0%
+can see that the interval is at 60
+ 
+
+00:08:32.560 --> 00:08:33.909 align:start position:0%
+can see that the interval is at 60
+minutes.<00:08:32.880><c> The</c><00:08:33.039><c> model</c><00:08:33.279><c> is</c><00:08:33.519><c> using</c><00:08:33.760><c> the</c>
+
+00:08:33.909 --> 00:08:33.919 align:start position:0%
+minutes. The model is using the
+ 
+
+00:08:33.919 --> 00:08:35.480 align:start position:0%
+minutes. The model is using the
+flashlight<00:08:34.560><c> model</c><00:08:34.880><c> and</c><00:08:35.039><c> then</c><00:08:35.200><c> the</c><00:08:35.360><c> target</c>
+
+00:08:35.480 --> 00:08:35.490 align:start position:0%
+flashlight model and then the target
+ 
+
+00:08:35.490 --> 00:08:36.949 align:start position:0%
+flashlight model and then the target
+[music]<00:08:35.599><c> is</c><00:08:35.839><c> last.</c><00:08:36.320><c> All</c><00:08:36.320><c> right,</c><00:08:36.640><c> that</c><00:08:36.800><c> was</c>
+
+00:08:36.949 --> 00:08:36.959 align:start position:0%
+[music] is last. All right, that was
+ 
+
+00:08:36.959 --> 00:08:38.389 align:start position:0%
+[music] is last. All right, that was
+super<00:08:37.120><c> easy</c><00:08:37.360><c> already.</c><00:08:37.760><c> Let's</c><00:08:37.919><c> go</c><00:08:38.080><c> to</c><00:08:38.159><c> the</c><00:08:38.320><c> next</c>
+
+00:08:38.389 --> 00:08:38.399 align:start position:0%
+super easy already. Let's go to the next
+ 
+
+00:08:38.399 --> 00:08:39.589 align:start position:0%
+super easy already. Let's go to the next
+one.<00:08:38.719><c> Now,</c><00:08:38.880><c> we're</c><00:08:39.039><c> going</c><00:08:39.120><c> to</c><00:08:39.200><c> limit</c><00:08:39.440><c> the</c>
+
+00:08:39.589 --> 00:08:39.599 align:start position:0%
+one. Now, we're going to limit the
+ 
+
+00:08:39.599 --> 00:08:41.269 align:start position:0%
+one. Now, we're going to limit the
+context<00:08:40.000><c> window</c><00:08:40.240><c> and</c><00:08:40.399><c> this</c><00:08:40.560><c> can</c><00:08:40.719><c> save</c><00:08:40.959><c> another</c>
+
+00:08:41.269 --> 00:08:41.279 align:start position:0%
+context window and this can save another
+ 
+
+00:08:41.279 --> 00:08:43.589 align:start position:0%
+context window and this can save another
+80%<00:08:41.839><c> in</c><00:08:42.080><c> overhead</c><00:08:42.560><c> reduction.</c><00:08:43.039><c> We'll</c><00:08:43.279><c> do</c><00:08:43.360><c> that</c>
+
+00:08:43.589 --> 00:08:43.599 align:start position:0%
+80% in overhead reduction. We'll do that
+ 
+
+00:08:43.599 --> 00:08:45.430 align:start position:0%
+80% in overhead reduction. We'll do that
+with<00:08:43.839><c> two</c><00:08:44.080><c> simple</c><00:08:44.320><c> prompts.</c><00:08:44.880><c> First,</c><00:08:45.120><c> we'll</c>
+
+00:08:45.430 --> 00:08:45.440 align:start position:0%
+with two simple prompts. First, we'll
+ 
+
+00:08:45.440 --> 00:08:47.190 align:start position:0%
+with two simple prompts. First, we'll
+ask<00:08:45.600><c> it</c><00:08:45.839><c> to</c><00:08:46.080><c> add</c><00:08:46.240><c> the</c><00:08:46.480><c> session</c><00:08:46.800><c> management</c>
+
+00:08:47.190 --> 00:08:47.200 align:start position:0%
+ask it to add the session management
+ 
+
+00:08:47.200 --> 00:08:48.949 align:start position:0%
+ask it to add the session management
+rule<00:08:47.519><c> to</c><00:08:47.760><c> my</c><00:08:47.920><c> system</c><00:08:48.160><c> prompt.</c><00:08:48.560><c> And</c><00:08:48.720><c> we'll</c><00:08:48.880><c> tell</c>
+
+00:08:48.949 --> 00:08:48.959 align:start position:0%
+rule to my system prompt. And we'll tell
+ 
+
+00:08:48.959 --> 00:08:50.790 align:start position:0%
+rule to my system prompt. And we'll tell
+it<00:08:49.200><c> what</c><00:08:49.279><c> it's</c><00:08:49.519><c> doing.</c><00:08:50.080><c> You</c><00:08:50.240><c> operate</c><00:08:50.560><c> in</c>
+
+00:08:50.790 --> 00:08:50.800 align:start position:0%
+it what it's doing. You operate in
+ 
+
+00:08:50.800 --> 00:08:52.630 align:start position:0%
+it what it's doing. You operate in
+sessions<00:08:51.120><c> that</c><00:08:51.279><c> accumulate</c><00:08:51.839><c> text</c><00:08:52.080><c> over</c><00:08:52.320><c> time,</c>
+
+00:08:52.630 --> 00:08:52.640 align:start position:0%
+sessions that accumulate text over time,
+ 
+
+00:08:52.640 --> 00:08:55.030 align:start position:0%
+sessions that accumulate text over time,
+when<00:08:52.880><c> to</c><00:08:53.040><c> reset,</c><00:08:53.600><c> after</c><00:08:54.000><c> 15</c><00:08:54.240><c> exchanges</c><00:08:54.800><c> or</c>
+
+00:08:55.030 --> 00:08:55.040 align:start position:0%
+when to reset, after 15 exchanges or
+ 
+
+00:08:55.040 --> 00:08:56.550 align:start position:0%
+when to reset, after 15 exchanges or
+after<00:08:55.360><c> 30</c><00:08:55.600><c> minutes</c><00:08:55.839><c> of</c><00:08:56.080><c> continuous</c>
+
+00:08:56.550 --> 00:08:56.560 align:start position:0%
+after 30 minutes of continuous
+ 
+
+00:08:56.560 --> 00:08:58.230 align:start position:0%
+after 30 minutes of continuous
+conversation<00:08:57.200><c> before</c><00:08:57.519><c> switching</c><00:08:57.920><c> to</c><00:08:58.080><c> a</c>
+
+00:08:58.230 --> 00:08:58.240 align:start position:0%
+conversation before switching to a
+ 
+
+00:08:58.240 --> 00:08:59.990 align:start position:0%
+conversation before switching to a
+different<00:08:58.480><c> task</c><00:08:58.800><c> domain</c><00:08:59.200><c> or</c><00:08:59.440><c> when</c><00:08:59.600><c> you</c><00:08:59.760><c> notice</c>
+
+00:08:59.990 --> 00:09:00.000 align:start position:0%
+different task domain or when you notice
+ 
+
+00:09:00.000 --> 00:09:01.750 align:start position:0%
+different task domain or when you notice
+that<00:09:00.160><c> you</c><00:09:00.320><c> forgotten</c><00:09:00.800><c> early</c><00:09:01.040><c> context.</c><00:09:01.600><c> The</c>
+
+00:09:01.750 --> 00:09:01.760 align:start position:0%
+that you forgotten early context. The
+ 
+
+00:09:01.760 --> 00:09:03.509 align:start position:0%
+that you forgotten early context. The
+reset<00:09:02.080><c> instructions</c><00:09:02.720><c> use</c><00:09:02.959><c> this</c><00:09:03.120><c> command</c>
+
+00:09:03.509 --> 00:09:03.519 align:start position:0%
+reset instructions use this command
+ 
+
+00:09:03.519 --> 00:09:05.829 align:start position:0%
+reset instructions use this command
+for/reset.<00:09:04.560><c> And</c><00:09:04.720><c> the</c><00:09:04.880><c> best</c><00:09:05.040><c> practice</c><00:09:05.360><c> is</c><00:09:05.600><c> to</c>
+
+00:09:05.829 --> 00:09:05.839 align:start position:0%
+for/reset. And the best practice is to
+ 
+
+00:09:05.839 --> 00:09:07.509 align:start position:0%
+for/reset. And the best practice is to
+output<00:09:06.160><c> two</c><00:09:06.320><c> or</c><00:09:06.480><c> three</c><00:09:06.640><c> sentence</c><00:09:06.959><c> of</c><00:09:07.120><c> what</c><00:09:07.279><c> it</c>
+
+00:09:07.509 --> 00:09:07.519 align:start position:0%
+output two or three sentence of what it
+ 
+
+00:09:07.519 --> 00:09:08.710 align:start position:0%
+output two or three sentence of what it
+learned.<00:09:07.839><c> This</c><00:09:08.000><c> preserves</c><00:09:08.399><c> some</c><00:09:08.480><c> of</c><00:09:08.640><c> the</c>
+
+00:09:08.710 --> 00:09:08.720 align:start position:0%
+learned. This preserves some of the
+ 
+
+00:09:08.720 --> 00:09:10.196 align:start position:0%
+learned. This preserves some of the
+knowledge<00:09:09.040><c> while</c><00:09:09.360><c> clearing</c><00:09:09.760><c> the</c><00:09:09.920><c> context</c>
+
+00:09:10.196 --> 00:09:10.206 align:start position:0%
+knowledge while clearing the context
+ 
+
+00:09:10.206 --> 00:09:11.670 align:start position:0%
+knowledge while clearing the context
+[music]<00:09:10.399><c> weight.</c><00:09:10.800><c> If</c><00:09:11.040><c> you</c><00:09:11.120><c> do</c><00:09:11.279><c> want</c><00:09:11.360><c> a</c><00:09:11.600><c> little</c>
+
+00:09:11.670 --> 00:09:11.680 align:start position:0%
+[music] weight. If you do want a little
+ 
+
+00:09:11.680 --> 00:09:13.269 align:start position:0%
+[music] weight. If you do want a little
+bit<00:09:11.839><c> more</c><00:09:12.080><c> context,</c><00:09:12.560><c> you</c><00:09:12.720><c> can</c><00:09:12.800><c> switch</c><00:09:13.040><c> this</c>
+
+00:09:13.269 --> 00:09:13.279 align:start position:0%
+bit more context, you can switch this
+ 
+
+00:09:13.279 --> 00:09:15.590 align:start position:0%
+bit more context, you can switch this
+maybe<00:09:13.519><c> to</c><00:09:13.760><c> 30</c><00:09:14.000><c> exchanges</c><00:09:14.640><c> and</c><00:09:14.959><c> 100,000</c>
+
+00:09:15.590 --> 00:09:15.600 align:start position:0%
+maybe to 30 exchanges and 100,000
+ 
+
+00:09:15.600 --> 00:09:17.350 align:start position:0%
+maybe to 30 exchanges and 100,000
+tokens.<00:09:16.160><c> But</c><00:09:16.320><c> keep</c><00:09:16.480><c> in</c><00:09:16.640><c> mind,</c><00:09:16.880><c> the</c><00:09:17.120><c> bigger</c>
+
+00:09:17.350 --> 00:09:17.360 align:start position:0%
+tokens. But keep in mind, the bigger
+ 
+
+00:09:17.360 --> 00:09:19.350 align:start position:0%
+tokens. But keep in mind, the bigger
+this<00:09:17.600><c> number</c><00:09:17.839><c> is,</c><00:09:18.240><c> the</c><00:09:18.399><c> more</c><00:09:18.640><c> context</c><00:09:18.959><c> it</c><00:09:19.200><c> will</c>
+
+00:09:19.350 --> 00:09:19.360 align:start position:0%
+this number is, the more context it will
+ 
+
+00:09:19.360 --> 00:09:20.790 align:start position:0%
+this number is, the more context it will
+accumulate<00:09:19.839><c> over</c><00:09:20.031><c> [music]</c><00:09:20.080><c> time,</c><00:09:20.320><c> and</c><00:09:20.560><c> each</c>
+
+00:09:20.790 --> 00:09:20.800 align:start position:0%
+accumulate over [music] time, and each
+ 
+
+00:09:20.800 --> 00:09:22.630 align:start position:0%
+accumulate over [music] time, and each
+prom<00:09:21.120><c> message</c><00:09:21.360><c> will</c><00:09:21.600><c> take</c><00:09:21.839><c> more</c><00:09:22.000><c> tokens.</c><00:09:22.480><c> So,</c>
+
+00:09:22.630 --> 00:09:22.640 align:start position:0%
+prom message will take more tokens. So,
+ 
+
+00:09:22.640 --> 00:09:24.389 align:start position:0%
+prom message will take more tokens. So,
+we'll<00:09:22.880><c> copy</c><00:09:23.120><c> this</c><00:09:23.360><c> message,</c><00:09:23.760><c> and</c><00:09:24.000><c> we'll</c><00:09:24.160><c> paste</c>
+
+00:09:24.389 --> 00:09:24.399 align:start position:0%
+we'll copy this message, and we'll paste
+ 
+
+00:09:24.399 --> 00:09:25.910 align:start position:0%
+we'll copy this message, and we'll paste
+it<00:09:24.560><c> in</c><00:09:24.720><c> right</c><00:09:24.959><c> here.</c><00:09:25.200><c> And</c><00:09:25.360><c> we</c><00:09:25.519><c> can</c><00:09:25.600><c> see</c><00:09:25.760><c> here</c>
+
+00:09:25.910 --> 00:09:25.920 align:start position:0%
+it in right here. And we can see here
+ 
+
+00:09:25.920 --> 00:09:28.070 align:start position:0%
+it in right here. And we can see here
+that<00:09:26.160><c> it</c><00:09:26.320><c> updated</c><00:09:26.880><c> its</c><00:09:27.120><c> memory</c><00:09:27.440><c> and</c><00:09:27.680><c> added</c><00:09:27.920><c> a</c>
+
+00:09:28.070 --> 00:09:28.080 align:start position:0%
+that it updated its memory and added a
+ 
+
+00:09:28.080 --> 00:09:29.846 align:start position:0%
+that it updated its memory and added a
+session<00:09:28.399><c> management</c><00:09:28.800><c> cost</c><00:09:29.200><c> control</c><00:09:29.600><c> part</c>
+
+00:09:29.846 --> 00:09:29.856 align:start position:0%
+session management cost control part
+ 
+
+00:09:29.856 --> 00:09:31.670 align:start position:0%
+session management cost control part
+[music]<00:09:30.000><c> to</c><00:09:30.240><c> this</c><00:09:30.480><c> entire</c><00:09:30.880><c> chat.</c><00:09:31.279><c> And</c><00:09:31.440><c> we</c><00:09:31.600><c> can</c>
+
+00:09:31.670 --> 00:09:31.680 align:start position:0%
+[music] to this entire chat. And we can
+ 
+
+00:09:31.680 --> 00:09:33.269 align:start position:0%
+[music] to this entire chat. And we can
+see<00:09:31.839><c> now</c><00:09:32.000><c> that</c><00:09:32.240><c> the</c><00:09:32.399><c> rules</c><00:09:32.640><c> are</c><00:09:32.800><c> updated</c><00:09:33.120><c> in</c>
+
+00:09:33.269 --> 00:09:33.279 align:start position:0%
+see now that the rules are updated in
+ 
+
+00:09:33.279 --> 00:09:34.870 align:start position:0%
+see now that the rules are updated in
+the<00:09:33.440><c> agents.mmpt</c><00:09:34.320><c> file.</c><00:09:34.441><c> [music]</c><00:09:34.640><c> We</c><00:09:34.800><c> can</c>
+
+00:09:34.870 --> 00:09:34.880 align:start position:0%
+the agents.mmpt file. [music] We can
+ 
+
+00:09:34.880 --> 00:09:36.550 align:start position:0%
+the agents.mmpt file. [music] We can
+trigger<00:09:35.200><c> this</c><00:09:35.360><c> manually</c><00:09:35.839><c> by</c><00:09:36.080><c> using</c>
+
+00:09:36.550 --> 00:09:36.560 align:start position:0%
+trigger this manually by using
+ 
+
+00:09:36.560 --> 00:09:38.550 align:start position:0%
+trigger this manually by using
+forward/reset.<00:09:37.680><c> And</c><00:09:37.839><c> we</c><00:09:38.000><c> can</c><00:09:38.080><c> see</c><00:09:38.240><c> here</c><00:09:38.399><c> that</c>
+
+00:09:38.550 --> 00:09:38.560 align:start position:0%
+forward/reset. And we can see here that
+ 
+
+00:09:38.560 --> 00:09:40.870 align:start position:0%
+forward/reset. And we can see here that
+it<00:09:38.800><c> implemented</c><00:09:39.440><c> these</c><00:09:39.760><c> changes.</c><00:09:40.240><c> and</c><00:09:40.480><c> it's</c>
+
+00:09:40.870 --> 00:09:40.880 align:start position:0%
+it implemented these changes. and it's
+ 
+
+00:09:40.880 --> 00:09:41.990 align:start position:0%
+it implemented these changes. and it's
+starting<00:09:40.991><c> [music]</c><00:09:41.120><c> a</c><00:09:41.279><c> new</c><00:09:41.440><c> session.</c><00:09:41.839><c> The</c>
+
+00:09:41.990 --> 00:09:42.000 align:start position:0%
+starting [music] a new session. The
+ 
+
+00:09:42.000 --> 00:09:43.910 align:start position:0%
+starting [music] a new session. The
+follow-up<00:09:42.399><c> prompt</c><00:09:42.640><c> to</c><00:09:42.800><c> this</c><00:09:42.959><c> is</c><00:09:43.200><c> to</c><00:09:43.360><c> copy</c><00:09:43.680><c> this</c>
+
+00:09:43.910 --> 00:09:43.920 align:start position:0%
+follow-up prompt to this is to copy this
+ 
+
+00:09:43.920 --> 00:09:45.590 align:start position:0%
+follow-up prompt to this is to copy this
+text,<00:09:44.160><c> which</c><00:09:44.320><c> is</c><00:09:44.480><c> to</c><00:09:44.640><c> configure</c><00:09:44.959><c> memory</c><00:09:45.279><c> flush</c>
+
+00:09:45.590 --> 00:09:45.600 align:start position:0%
+text, which is to configure memory flush
+ 
+
+00:09:45.600 --> 00:09:47.430 align:start position:0%
+text, which is to configure memory flush
+for<00:09:45.839><c> compaction.</c><00:09:46.320><c> I'm</c><00:09:46.560><c> asking</c><00:09:46.800><c> it</c><00:09:46.959><c> to</c><00:09:47.120><c> enable</c>
+
+00:09:47.430 --> 00:09:47.440 align:start position:0%
+for compaction. I'm asking it to enable
+ 
+
+00:09:47.440 --> 00:09:49.910 align:start position:0%
+for compaction. I'm asking it to enable
+memory<00:09:47.760><c> flush</c><00:09:48.080><c> before</c><00:09:48.399><c> compacting</c><00:09:49.360><c> uh</c><00:09:49.519><c> with</c><00:09:49.680><c> a</c>
+
+00:09:49.910 --> 00:09:49.920 align:start position:0%
+memory flush before compacting uh with a
+ 
+
+00:09:49.920 --> 00:09:51.990 align:start position:0%
+memory flush before compacting uh with a
+soft<00:09:50.160><c> threshold</c><00:09:50.560><c> of</c><00:09:50.720><c> 4,000</c><00:09:51.279><c> token.</c><00:09:51.680><c> You</c><00:09:51.920><c> can</c>
+
+00:09:51.990 --> 00:09:52.000 align:start position:0%
+soft threshold of 4,000 token. You can
+ 
+
+00:09:52.000 --> 00:09:53.350 align:start position:0%
+soft threshold of 4,000 token. You can
+change<00:09:52.160><c> this</c><00:09:52.399><c> to</c><00:09:52.560><c> higher</c><00:09:52.800><c> if</c><00:09:53.040><c> you</c><00:09:53.120><c> wanted</c><00:09:53.279><c> to</c>
+
+00:09:53.350 --> 00:09:53.360 align:start position:0%
+change this to higher if you wanted to
+ 
+
+00:09:53.360 --> 00:09:54.790 align:start position:0%
+change this to higher if you wanted to
+have<00:09:53.519><c> a</c><00:09:53.600><c> little</c><00:09:53.680><c> bit</c><00:09:53.839><c> more</c><00:09:54.000><c> context.</c><00:09:54.480><c> And</c><00:09:54.640><c> this</c>
+
+00:09:54.790 --> 00:09:54.800 align:start position:0%
+have a little bit more context. And this
+ 
+
+00:09:54.800 --> 00:09:56.310 align:start position:0%
+have a little bit more context. And this
+prevents<00:09:55.200><c> important</c><00:09:55.600><c> context</c><00:09:56.000><c> from</c><00:09:56.160><c> being</c>
+
+00:09:56.310 --> 00:09:56.320 align:start position:0%
+prevents important context from being
+ 
+
+00:09:56.320 --> 00:09:57.829 align:start position:0%
+prevents important context from being
+lost<00:09:56.560><c> while</c><00:09:56.720><c> the</c><00:09:56.880><c> session</c><00:09:57.040><c> is</c><00:09:57.200><c> compacted.</c><00:09:57.680><c> And</c>
+
+00:09:57.829 --> 00:09:57.839 align:start position:0%
+lost while the session is compacted. And
+ 
+
+00:09:57.839 --> 00:09:59.030 align:start position:0%
+lost while the session is compacted. And
+we<00:09:58.000><c> wanted</c><00:09:58.021><c> [music]</c><00:09:58.240><c> to</c><00:09:58.399><c> confirm</c><00:09:58.720><c> that</c><00:09:58.880><c> the</c>
+
+00:09:59.030 --> 00:09:59.040 align:start position:0%
+we wanted [music] to confirm that the
+ 
+
+00:09:59.040 --> 00:10:00.710 align:start position:0%
+we wanted [music] to confirm that the
+changes<00:09:59.360><c> are</c><00:09:59.519><c> applied.</c><00:09:59.920><c> Just</c><00:10:00.080><c> paste</c><00:10:00.320><c> that</c><00:10:00.480><c> in.</c>
+
+00:10:00.710 --> 00:10:00.720 align:start position:0%
+changes are applied. Just paste that in.
+ 
+
+00:10:00.720 --> 00:10:02.230 align:start position:0%
+changes are applied. Just paste that in.
+And<00:10:00.880><c> it</c><00:10:01.120><c> confirmed</c><00:10:01.440><c> that</c><00:10:01.680><c> it</c><00:10:01.920><c> configured</c>
+
+00:10:02.230 --> 00:10:02.240 align:start position:0%
+And it confirmed that it configured
+ 
+
+00:10:02.240 --> 00:10:04.070 align:start position:0%
+And it confirmed that it configured
+memory<00:10:02.560><c> flush</c><00:10:02.880><c> before</c><00:10:03.120><c> compacting</c><00:10:03.760><c> is</c>
+
+00:10:04.070 --> 00:10:04.080 align:start position:0%
+memory flush before compacting is
+ 
+
+00:10:04.080 --> 00:10:06.150 align:start position:0%
+memory flush before compacting is
+already<00:10:04.399><c> enabled.</c><00:10:05.120><c> Wonderful.</c><00:10:05.600><c> Now</c><00:10:05.760><c> to</c><00:10:06.000><c> the</c>
+
+00:10:06.150 --> 00:10:06.160 align:start position:0%
+already enabled. Wonderful. Now to the
+ 
+
+00:10:06.160 --> 00:10:07.670 align:start position:0%
+already enabled. Wonderful. Now to the
+next<00:10:06.320><c> configuration.</c><00:10:07.040><c> This</c><00:10:07.200><c> one</c><00:10:07.279><c> is</c><00:10:07.440><c> to</c>
+
+00:10:07.670 --> 00:10:07.680 align:start position:0%
+next configuration. This one is to
+ 
+
+00:10:07.680 --> 00:10:09.509 align:start position:0%
+next configuration. This one is to
+enable<00:10:08.000><c> prompt</c><00:10:08.320><c> caching.</c><00:10:08.880><c> This</c><00:10:09.120><c> can</c><00:10:09.279><c> give</c><00:10:09.360><c> us</c>
+
+00:10:09.509 --> 00:10:09.519 align:start position:0%
+enable prompt caching. This can give us
+ 
+
+00:10:09.519 --> 00:10:11.829 align:start position:0%
+enable prompt caching. This can give us
+a<00:10:09.680><c> 90%</c><00:10:10.160><c> discount</c><00:10:10.480><c> on</c><00:10:10.720><c> repeat</c><00:10:11.040><c> content</c><00:10:11.519><c> that</c><00:10:11.680><c> we</c>
+
+00:10:11.829 --> 00:10:11.839 align:start position:0%
+a 90% discount on repeat content that we
+ 
+
+00:10:11.839 --> 00:10:13.750 align:start position:0%
+a 90% discount on repeat content that we
+send<00:10:12.000><c> to</c><00:10:12.160><c> the</c><00:10:12.320><c> models</c><00:10:12.720><c> consistently.</c><00:10:13.440><c> So</c><00:10:13.600><c> we</c>
+
+00:10:13.750 --> 00:10:13.760 align:start position:0%
+send to the models consistently. So we
+ 
+
+00:10:13.760 --> 00:10:15.697 align:start position:0%
+send to the models consistently. So we
+copy<00:10:14.079><c> this,</c><00:10:14.399><c> paste</c><00:10:14.640><c> it</c><00:10:14.720><c> in</c><00:10:14.880><c> here,</c><00:10:15.200><c> hit</c><00:10:15.440><c> enter,</c>
+
+00:10:15.697 --> 00:10:15.707 align:start position:0%
+copy this, paste it in here, hit enter,
+ 
+
+00:10:15.707 --> 00:10:17.190 align:start position:0%
+copy this, paste it in here, hit enter,
+[music]<00:10:15.839><c> and</c><00:10:16.079><c> it</c><00:10:16.240><c> actually</c><00:10:16.480><c> tells</c><00:10:16.720><c> us</c><00:10:16.880><c> that</c>
+
+00:10:17.190 --> 00:10:17.200 align:start position:0%
+[music] and it actually tells us that
+ 
+
+00:10:17.200 --> 00:10:19.430 align:start position:0%
+[music] and it actually tells us that
+caching<00:10:17.680><c> is</c><00:10:17.839><c> handled</c><00:10:18.160><c> automatically</c><00:10:18.880><c> by</c><00:10:19.120><c> open</c>
+
+00:10:19.430 --> 00:10:19.440 align:start position:0%
+caching is handled automatically by open
+ 
+
+00:10:19.440 --> 00:10:20.790 align:start position:0%
+caching is handled automatically by open
+router.<00:10:19.839><c> So</c><00:10:19.920><c> we</c><00:10:20.160><c> don't</c><00:10:20.240><c> have</c><00:10:20.399><c> to</c><00:10:20.480><c> deal</c><00:10:20.640><c> with</c>
+
+00:10:20.790 --> 00:10:20.800 align:start position:0%
+router. So we don't have to deal with
+ 
+
+00:10:20.800 --> 00:10:22.470 align:start position:0%
+router. So we don't have to deal with
+that<00:10:20.959><c> within</c><00:10:21.279><c> our</c><00:10:21.519><c> open</c><00:10:21.760><c> claw.</c><00:10:22.079><c> But</c><00:10:22.160><c> if</c><00:10:22.320><c> you're</c>
+
+00:10:22.470 --> 00:10:22.480 align:start position:0%
+that within our open claw. But if you're
+ 
+
+00:10:22.480 --> 00:10:24.389 align:start position:0%
+that within our open claw. But if you're
+using<00:10:22.640><c> another</c><00:10:22.959><c> API</c><00:10:23.360><c> key,</c><00:10:23.680><c> for</c><00:10:23.760><c> example,</c><00:10:24.079><c> open</c>
+
+00:10:24.389 --> 00:10:24.399 align:start position:0%
+using another API key, for example, open
+ 
+
+00:10:24.399 --> 00:10:26.310 align:start position:0%
+using another API key, for example, open
+AI<00:10:24.800><c> or</c><00:10:25.120><c> anthropic,</c><00:10:25.680><c> then</c><00:10:25.839><c> you</c><00:10:25.920><c> want</c><00:10:26.079><c> to</c><00:10:26.160><c> set</c>
+
+00:10:26.310 --> 00:10:26.320 align:start position:0%
+AI or anthropic, then you want to set
+ 
+
+00:10:26.320 --> 00:10:27.829 align:start position:0%
+AI or anthropic, then you want to set
+this<00:10:26.480><c> up.</c><00:10:26.640><c> And</c><00:10:26.800><c> now</c><00:10:26.880><c> to</c><00:10:27.040><c> the</c><00:10:27.200><c> fifth</c><00:10:27.360><c> step</c><00:10:27.680><c> that</c>
+
+00:10:27.829 --> 00:10:27.839 align:start position:0%
+this up. And now to the fifth step that
+ 
+
+00:10:27.839 --> 00:10:29.829 align:start position:0%
+this up. And now to the fifth step that
+lets<00:10:28.079><c> you</c><00:10:28.240><c> set</c><00:10:28.399><c> budgets</c><00:10:28.800><c> and</c><00:10:29.040><c> guardrails.</c><00:10:29.680><c> For</c>
+
+00:10:29.829 --> 00:10:29.839 align:start position:0%
+lets you set budgets and guardrails. For
+ 
+
+00:10:29.839 --> 00:10:31.350 align:start position:0%
+lets you set budgets and guardrails. For
+this,<00:10:30.079><c> you</c><00:10:30.240><c> can</c><00:10:30.320><c> paste</c><00:10:30.560><c> a</c><00:10:30.720><c> prompt</c><00:10:30.959><c> that</c><00:10:31.120><c> says</c>
+
+00:10:31.350 --> 00:10:31.360 align:start position:0%
+this, you can paste a prompt that says
+ 
+
+00:10:31.360 --> 00:10:32.790 align:start position:0%
+this, you can paste a prompt that says
+something<00:10:31.519><c> along</c><00:10:31.760><c> the</c><00:10:32.000><c> lines</c><00:10:32.160><c> of</c><00:10:32.320><c> this,</c><00:10:32.560><c> which</c>
+
+00:10:32.790 --> 00:10:32.800 align:start position:0%
+something along the lines of this, which
+ 
+
+00:10:32.800 --> 00:10:34.790 align:start position:0%
+something along the lines of this, which
+gives<00:10:33.040><c> it</c><00:10:33.120><c> a</c><00:10:33.279><c> hard</c><00:10:33.440><c> limit</c><00:10:33.680><c> on</c><00:10:33.920><c> how</c><00:10:34.079><c> many</c><00:10:34.320><c> API</c>
+
+00:10:34.790 --> 00:10:34.800 align:start position:0%
+gives it a hard limit on how many API
+ 
+
+00:10:34.800 --> 00:10:36.790 align:start position:0%
+gives it a hard limit on how many API
+calls<00:10:35.120><c> it</c><00:10:35.360><c> can</c><00:10:35.519><c> do.</c><00:10:35.760><c> However,</c><00:10:36.240><c> sometimes</c><00:10:36.640><c> you</c>
+
+00:10:36.790 --> 00:10:36.800 align:start position:0%
+calls it can do. However, sometimes you
+ 
+
+00:10:36.800 --> 00:10:38.230 align:start position:0%
+calls it can do. However, sometimes you
+might<00:10:36.959><c> run</c><00:10:37.120><c> into</c><00:10:37.440><c> problems</c><00:10:37.839><c> because</c><00:10:38.079><c> you're</c>
+
+00:10:38.230 --> 00:10:38.240 align:start position:0%
+might run into problems because you're
+ 
+
+00:10:38.240 --> 00:10:39.750 align:start position:0%
+might run into problems because you're
+working<00:10:38.399><c> on</c><00:10:38.560><c> longer</c><00:10:38.959><c> projects</c><00:10:39.200><c> or</c><00:10:39.440><c> you</c><00:10:39.600><c> need</c>
+
+00:10:39.750 --> 00:10:39.760 align:start position:0%
+working on longer projects or you need
+ 
+
+00:10:39.760 --> 00:10:41.590 align:start position:0%
+working on longer projects or you need
+more<00:10:40.000><c> than</c><00:10:40.160><c> the</c><00:10:40.320><c> maximum</c><00:10:40.720><c> token</c><00:10:41.040><c> output</c><00:10:41.360><c> per</c>
+
+00:10:41.590 --> 00:10:41.600 align:start position:0%
+more than the maximum token output per
+ 
+
+00:10:41.600 --> 00:10:43.110 align:start position:0%
+more than the maximum token output per
+day.<00:10:41.839><c> And</c><00:10:41.920><c> in</c><00:10:42.079><c> this</c><00:10:42.240><c> case,</c><00:10:42.399><c> I</c><00:10:42.560><c> would</c><00:10:42.720><c> set</c><00:10:42.880><c> this</c>
+
+00:10:43.110 --> 00:10:43.120 align:start position:0%
+day. And in this case, I would set this
+ 
+
+00:10:43.120 --> 00:10:44.790 align:start position:0%
+day. And in this case, I would set this
+limit<00:10:43.360><c> to</c><00:10:43.600><c> much</c><00:10:43.760><c> higher.</c><00:10:44.079><c> But</c><00:10:44.240><c> in</c><00:10:44.399><c> general,</c><00:10:44.640><c> if</c>
+
+00:10:44.790 --> 00:10:44.800 align:start position:0%
+limit to much higher. But in general, if
+ 
+
+00:10:44.800 --> 00:10:45.910 align:start position:0%
+limit to much higher. But in general, if
+you're<00:10:44.959><c> really</c><00:10:45.200><c> concerned</c><00:10:45.440><c> on</c><00:10:45.600><c> how</c><00:10:45.760><c> much</c>
+
+00:10:45.910 --> 00:10:45.920 align:start position:0%
+you're really concerned on how much
+ 
+
+00:10:45.920 --> 00:10:47.509 align:start position:0%
+you're really concerned on how much
+you're<00:10:46.079><c> spending</c><00:10:46.240><c> on</c><00:10:46.399><c> your</c><00:10:46.560><c> API</c><00:10:46.959><c> costs,</c><00:10:47.279><c> I</c>
+
+00:10:47.509 --> 00:10:47.519 align:start position:0%
+you're spending on your API costs, I
+ 
+
+00:10:47.519 --> 00:10:48.949 align:start position:0%
+you're spending on your API costs, I
+would<00:10:47.600><c> copy</c><00:10:47.802><c> [music]</c><00:10:47.920><c> and</c><00:10:48.079><c> paste</c><00:10:48.399><c> this</c><00:10:48.640><c> prompt</c>
+
+00:10:48.949 --> 00:10:48.959 align:start position:0%
+would copy [music] and paste this prompt
+ 
+
+00:10:48.959 --> 00:10:50.630 align:start position:0%
+would copy [music] and paste this prompt
+here<00:10:49.200><c> in</c><00:10:49.440><c> as</c><00:10:49.600><c> well.</c><00:10:49.920><c> But</c><00:10:50.000><c> just</c><00:10:50.160><c> keep</c><00:10:50.320><c> in</c><00:10:50.480><c> mind</c>
+
+00:10:50.630 --> 00:10:50.640 align:start position:0%
+here in as well. But just keep in mind
+ 
+
+00:10:50.640 --> 00:10:52.069 align:start position:0%
+here in as well. But just keep in mind
+when<00:10:50.800><c> you're</c><00:10:50.959><c> setting</c><00:10:51.200><c> this</c><00:10:51.360><c> up</c><00:10:51.680><c> that</c><00:10:51.920><c> you</c>
+
+00:10:52.069 --> 00:10:52.079 align:start position:0%
+when you're setting this up that you
+ 
+
+00:10:52.079 --> 00:10:53.670 align:start position:0%
+when you're setting this up that you
+implemented<00:10:52.560><c> this</c><00:10:52.800><c> because</c><00:10:53.040><c> sometimes</c><00:10:53.440><c> you</c>
+
+00:10:53.670 --> 00:10:53.680 align:start position:0%
+implemented this because sometimes you
+ 
+
+00:10:53.680 --> 00:10:55.750 align:start position:0%
+implemented this because sometimes you
+might<00:10:53.839><c> run</c><00:10:54.000><c> into</c><00:10:54.320><c> the</c><00:10:54.560><c> issue</c><00:10:54.880><c> that</c><00:10:55.279><c> it</c>
+
+00:10:55.750 --> 00:10:55.760 align:start position:0%
+might run into the issue that it
+ 
+
+00:10:55.760 --> 00:10:57.590 align:start position:0%
+might run into the issue that it
+prevents<00:10:56.079><c> you</c><00:10:56.240><c> from</c><00:10:56.480><c> doing</c><00:10:56.640><c> a</c><00:10:56.800><c> certain</c><00:10:57.040><c> task</c>
+
+00:10:57.590 --> 00:10:57.600 align:start position:0%
+prevents you from doing a certain task
+ 
+
+00:10:57.600 --> 00:10:59.190 align:start position:0%
+prevents you from doing a certain task
+because<00:10:57.839><c> you're</c><00:10:58.079><c> exceeding</c><00:10:58.560><c> these</c><00:10:58.937><c> [music]</c>
+
+00:10:59.190 --> 00:10:59.200 align:start position:0%
+because you're exceeding these [music]
+ 
+
+00:10:59.200 --> 00:11:00.550 align:start position:0%
+because you're exceeding these [music]
+uh<00:10:59.440><c> constraints</c><00:10:59.839><c> that</c><00:11:00.079><c> you're</c><00:11:00.240><c> setting</c><00:11:00.399><c> up.</c>
+
+00:11:00.550 --> 00:11:00.560 align:start position:0%
+uh constraints that you're setting up.
+ 
+
+00:11:00.560 --> 00:11:02.069 align:start position:0%
+uh constraints that you're setting up.
+And<00:11:00.720><c> that</c><00:11:00.880><c> brings</c><00:11:01.040><c> us</c><00:11:01.200><c> to</c><00:11:01.360><c> a</c><00:11:01.440><c> few</c><00:11:01.600><c> more</c><00:11:01.760><c> bonus</c>
+
+00:11:02.069 --> 00:11:02.079 align:start position:0%
+And that brings us to a few more bonus
+ 
+
+00:11:02.079 --> 00:11:03.829 align:start position:0%
+And that brings us to a few more bonus
+tips<00:11:02.320><c> that</c><00:11:02.480><c> you</c><00:11:02.640><c> can</c><00:11:02.720><c> set</c><00:11:02.880><c> up</c><00:11:03.120><c> in</c><00:11:03.279><c> order</c><00:11:03.440><c> for</c><00:11:03.600><c> it</c>
+
+00:11:03.829 --> 00:11:03.839 align:start position:0%
+tips that you can set up in order for it
+ 
+
+00:11:03.839 --> 00:11:05.590 align:start position:0%
+tips that you can set up in order for it
+to<00:11:04.000><c> be</c><00:11:04.079><c> self-optimizing</c><00:11:04.959><c> and</c><00:11:05.200><c> in</c><00:11:05.360><c> order</c><00:11:05.440><c> to</c>
+
+00:11:05.590 --> 00:11:05.600 align:start position:0%
+to be self-optimizing and in order to
+ 
+
+00:11:05.600 --> 00:11:07.350 align:start position:0%
+to be self-optimizing and in order to
+use<00:11:05.839><c> Open</c><00:11:06.079><c> Claw</c><00:11:06.399><c> the</c><00:11:06.640><c> most</c><00:11:06.720><c> efficient</c><00:11:07.040><c> way.</c>
+
+00:11:07.350 --> 00:11:07.360 align:start position:0%
+use Open Claw the most efficient way.
+ 
+
+00:11:07.360 --> 00:11:09.269 align:start position:0%
+use Open Claw the most efficient way.
+One<00:11:07.519><c> of</c><00:11:07.600><c> this</c><00:11:07.839><c> is</c><00:11:08.000><c> to</c><00:11:08.399><c> implement</c><00:11:08.800><c> a</c><00:11:08.959><c> tool</c>
+
+00:11:09.269 --> 00:11:09.279 align:start position:0%
+One of this is to implement a tool
+ 
+
+00:11:09.279 --> 00:11:10.949 align:start position:0%
+One of this is to implement a tool
+output<00:11:09.680><c> efficiency</c><00:11:10.160><c> rule</c><00:11:10.480><c> which</c><00:11:10.640><c> shows</c><00:11:10.800><c> that</c>
+
+00:11:10.949 --> 00:11:10.959 align:start position:0%
+output efficiency rule which shows that
+ 
+
+00:11:10.959 --> 00:11:12.389 align:start position:0%
+output efficiency rule which shows that
+it<00:11:11.120><c> should</c><00:11:11.279><c> filter</c><00:11:11.519><c> for</c><00:11:11.760><c> relevance,</c>
+
+00:11:12.389 --> 00:11:12.399 align:start position:0%
+it should filter for relevance,
+ 
+
+00:11:12.399 --> 00:11:15.190 align:start position:0%
+it should filter for relevance,
+summarize<00:11:12.959><c> large</c><00:11:13.279><c> JSON</c><00:11:13.760><c> responses</c><00:11:14.480><c> and</c><00:11:14.800><c> ask</c>
+
+00:11:15.190 --> 00:11:15.200 align:start position:0%
+summarize large JSON responses and ask
+ 
+
+00:11:15.200 --> 00:11:17.829 align:start position:0%
+summarize large JSON responses and ask
+does<00:11:15.440><c> the</c><00:11:15.600><c> user</c><00:11:15.920><c> need</c><00:11:16.160><c> all</c><00:11:16.320><c> of</c><00:11:16.560><c> 500</c><00:11:16.959><c> lines</c><00:11:17.600><c> or</c>
+
+00:11:17.829 --> 00:11:17.839 align:start position:0%
+does the user need all of 500 lines or
+ 
+
+00:11:17.839 --> 00:11:19.590 align:start position:0%
+does the user need all of 500 lines or
+just<00:11:18.000><c> the</c><00:11:18.320><c> error.</c><00:11:18.587><c> [music]</c><00:11:18.640><c> Another</c><00:11:19.120><c> one</c><00:11:19.279><c> is</c><00:11:19.440><c> a</c>
+
+00:11:19.590 --> 00:11:19.600 align:start position:0%
+just the error. [music] Another one is a
+ 
+
+00:11:19.600 --> 00:11:21.590 align:start position:0%
+just the error. [music] Another one is a
+self-optimization<00:11:20.480><c> rule</c><00:11:20.880><c> and</c><00:11:21.040><c> this</c><00:11:21.279><c> is</c><00:11:21.360><c> a</c>
+
+00:11:21.590 --> 00:11:21.600 align:start position:0%
+self-optimization rule and this is a
+ 
+
+00:11:21.600 --> 00:11:23.670 align:start position:0%
+self-optimization rule and this is a
+continuous<00:11:22.160><c> cost</c><00:11:22.480><c> awareness</c><00:11:23.120><c> where</c><00:11:23.172><c> [music]</c>
+
+00:11:23.670 --> 00:11:23.680 align:start position:0%
+continuous cost awareness where [music]
+ 
+
+00:11:23.680 --> 00:11:25.990 align:start position:0%
+continuous cost awareness where [music]
+it<00:11:24.000><c> tracks</c><00:11:24.320><c> my</c><00:11:24.560><c> behavior</c><00:11:25.120><c> and</c><00:11:25.360><c> it</c><00:11:25.600><c> checks</c><00:11:25.760><c> how</c>
+
+00:11:25.990 --> 00:11:26.000 align:start position:0%
+it tracks my behavior and it checks how
+ 
+
+00:11:26.000 --> 00:11:27.829 align:start position:0%
+it tracks my behavior and it checks how
+many<00:11:26.160><c> model</c><00:11:26.399><c> switches</c><00:11:26.800><c> per</c><00:11:26.959><c> day,</c><00:11:27.440><c> how</c><00:11:27.600><c> many</c>
+
+00:11:27.829 --> 00:11:27.839 align:start position:0%
+many model switches per day, how many
+ 
+
+00:11:27.839 --> 00:11:29.712 align:start position:0%
+many model switches per day, how many
+tool<00:11:28.079><c> calls</c><00:11:28.399><c> per</c><00:11:28.640><c> question,</c><00:11:29.120><c> and</c><00:11:29.360><c> when</c><00:11:29.600><c> do</c>
+
+00:11:29.712 --> 00:11:29.722 align:start position:0%
+tool calls per question, and when do
+ 
+
+00:11:29.722 --> 00:11:31.269 align:start position:0%
+tool calls per question, and when do
+[music]<00:11:29.760><c> you</c><00:11:29.839><c> hit</c><00:11:30.079><c> compaction.</c><00:11:30.800><c> Let's</c><00:11:31.040><c> also</c>
+
+00:11:31.269 --> 00:11:31.279 align:start position:0%
+[music] you hit compaction. Let's also
+ 
+
+00:11:31.279 --> 00:11:32.870 align:start position:0%
+[music] you hit compaction. Let's also
+paste<00:11:31.600><c> that</c><00:11:31.760><c> in</c><00:11:31.920><c> here.</c><00:11:32.160><c> Now</c><00:11:32.320><c> that</c><00:11:32.480><c> you've</c><00:11:32.720><c> done</c>
+
+00:11:32.870 --> 00:11:32.880 align:start position:0%
+paste that in here. Now that you've done
+ 
+
+00:11:32.880 --> 00:11:34.069 align:start position:0%
+paste that in here. Now that you've done
+all<00:11:33.040><c> of</c><00:11:33.120><c> this,</c><00:11:33.440><c> you</c><00:11:33.680><c> can</c><00:11:33.760><c> check</c><00:11:33.920><c> the</c>
+
+00:11:34.069 --> 00:11:34.079 align:start position:0%
+all of this, you can check the
+ 
+
+00:11:34.079 --> 00:11:35.509 align:start position:0%
+all of this, you can check the
+verification<00:11:34.640><c> checklist</c><00:11:35.040><c> to</c><00:11:35.279><c> see</c><00:11:35.360><c> that</c>
+
+00:11:35.509 --> 00:11:35.519 align:start position:0%
+verification checklist to see that
+ 
+
+00:11:35.519 --> 00:11:36.710 align:start position:0%
+verification checklist to see that
+you've<00:11:35.760><c> implemented</c><00:11:36.240><c> all</c><00:11:36.399><c> of</c><00:11:36.480><c> these</c>
+
+00:11:36.710 --> 00:11:36.720 align:start position:0%
+you've implemented all of these
+ 
+
+00:11:36.720 --> 00:11:37.829 align:start position:0%
+you've implemented all of these
+different<00:11:36.959><c> steps.</c><00:11:37.360><c> There</c><00:11:37.519><c> are</c><00:11:37.680><c> some</c>
+
+00:11:37.829 --> 00:11:37.839 align:start position:0%
+different steps. There are some
+ 
+
+00:11:37.839 --> 00:11:39.430 align:start position:0%
+different steps. There are some
+instructions<00:11:38.240><c> for</c><00:11:38.480><c> troubleshooting.</c><00:11:39.120><c> And</c><00:11:39.279><c> if</c>
+
+00:11:39.430 --> 00:11:39.440 align:start position:0%
+instructions for troubleshooting. And if
+ 
+
+00:11:39.440 --> 00:11:40.630 align:start position:0%
+instructions for troubleshooting. And if
+you're<00:11:39.519><c> wondering</c><00:11:39.760><c> how</c><00:11:40.000><c> much</c><00:11:40.160><c> this</c><00:11:40.399><c> really</c>
+
+00:11:40.630 --> 00:11:40.640 align:start position:0%
+you're wondering how much this really
+ 
+
+00:11:40.640 --> 00:11:42.870 align:start position:0%
+you're wondering how much this really
+saves<00:11:41.360><c> for</c><00:11:41.600><c> my</c><00:11:41.839><c> scenario</c><00:11:42.240><c> where</c><00:11:42.480><c> I'm</c><00:11:42.640><c> running</c>
+
+00:11:42.870 --> 00:11:42.880 align:start position:0%
+saves for my scenario where I'm running
+ 
+
+00:11:42.880 --> 00:11:45.350 align:start position:0%
+saves for my scenario where I'm running
+24/7<00:11:43.680><c> agents</c><00:11:44.160><c> running</c><00:11:44.560><c> idle,</c><00:11:44.800><c> if</c><00:11:45.040><c> you</c><00:11:45.120><c> go</c><00:11:45.200><c> with</c>
+
+00:11:45.350 --> 00:11:45.360 align:start position:0%
+24/7 agents running idle, if you go with
+ 
+
+00:11:45.360 --> 00:11:47.910 align:start position:0%
+24/7 agents running idle, if you go with
+the<00:11:45.519><c> Opus</c><00:11:45.920><c> 4.6</c><00:11:46.399><c> 6</c><00:11:46.720><c> defaults</c><00:11:47.279><c> or</c><00:11:47.519><c> the</c><00:11:47.680><c> best</c>
+
+00:11:47.910 --> 00:11:47.920 align:start position:0%
+the Opus 4.6 6 defaults or the best
+ 
+
+00:11:47.920 --> 00:11:49.590 align:start position:0%
+the Opus 4.6 6 defaults or the best
+model.<00:11:48.063><c> [music]</c><00:11:48.480><c> This</c><00:11:48.720><c> might</c><00:11:48.880><c> cost</c><00:11:49.120><c> you</c><00:11:49.279><c> about</c>
+
+00:11:49.590 --> 00:11:49.600 align:start position:0%
+model. [music] This might cost you about
+ 
+
+00:11:49.600 --> 00:11:51.350 align:start position:0%
+model. [music] This might cost you about
+$1,000<00:11:50.240><c> per</c><00:11:50.480><c> month.</c><00:11:50.720><c> But</c><00:11:50.880><c> with</c><00:11:50.959><c> this</c><00:11:51.200><c> new</c>
+
+00:11:51.350 --> 00:11:51.360 align:start position:0%
+$1,000 per month. But with this new
+ 
+
+00:11:51.360 --> 00:11:53.430 align:start position:0%
+$1,000 per month. But with this new
+cheap<00:11:51.680><c> model</c><00:11:52.000><c> plus</c><00:11:52.240><c> caching,</c><00:11:52.800><c> this</c><00:11:52.959><c> can</c><00:11:53.120><c> be</c><00:11:53.279><c> as</c>
+
+00:11:53.430 --> 00:11:53.440 align:start position:0%
+cheap model plus caching, this can be as
+ 
+
+00:11:53.440 --> 00:11:55.829 align:start position:0%
+cheap model plus caching, this can be as
+low<00:11:53.680><c> as</c><00:11:53.920><c> a</c><00:11:54.160><c> dollar</c><00:11:54.399><c> a</c><00:11:54.640><c> month</c><00:11:54.880><c> if</c><00:11:55.200><c> implemented</c>
+
+00:11:55.829 --> 00:11:55.839 align:start position:0%
+low as a dollar a month if implemented
+ 
+
+00:11:55.839 --> 00:11:57.269 align:start position:0%
+low as a dollar a month if implemented
+correctly.<00:11:56.399><c> If</c><00:11:56.560><c> you</c><00:11:56.640><c> have</c><00:11:56.800><c> any</c><00:11:56.959><c> questions</c>
+
+00:11:57.269 --> 00:11:57.279 align:start position:0%
+correctly. If you have any questions
+ 
+
+00:11:57.279 --> 00:11:59.030 align:start position:0%
+correctly. If you have any questions
+about<00:11:57.519><c> how</c><00:11:57.760><c> to</c><00:11:57.920><c> set</c><00:11:58.079><c> any</c><00:11:58.240><c> of</c><00:11:58.320><c> this</c><00:11:58.480><c> up,</c><00:11:58.720><c> I</c><00:11:58.880><c> would</c>
+
+00:11:59.030 --> 00:11:59.040 align:start position:0%
+about how to set any of this up, I would
+ 
+
+00:11:59.040 --> 00:12:00.949 align:start position:0%
+about how to set any of this up, I would
+first<00:11:59.279><c> recommend</c><00:11:59.519><c> to</c><00:11:59.680><c> use</c><00:11:59.839><c> Chat</c><00:12:00.079><c> GPT</c><00:12:00.640><c> or</c>
+
+00:12:00.949 --> 00:12:00.959 align:start position:0%
+first recommend to use Chat GPT or
+ 
+
+00:12:00.959 --> 00:12:02.870 align:start position:0%
+first recommend to use Chat GPT or
+Gemini<00:12:01.519><c> in</c><00:12:01.760><c> order</c><00:12:01.920><c> to</c><00:12:02.079><c> troubleshoot</c><00:12:02.560><c> it.</c><00:12:02.800><c> And</c>
+
+00:12:02.870 --> 00:12:02.880 align:start position:0%
+Gemini in order to troubleshoot it. And
+ 
+
+00:12:02.880 --> 00:12:04.310 align:start position:0%
+Gemini in order to troubleshoot it. And
+if<00:12:03.040><c> if</c><00:12:03.279><c> that</c><00:12:03.440><c> still</c><00:12:03.600><c> doesn't</c><00:12:03.839><c> work</c><00:12:04.000><c> out,</c><00:12:04.160><c> you</c>
+
+00:12:04.310 --> 00:12:04.320 align:start position:0%
+if if that still doesn't work out, you
+ 
+
+00:12:04.320 --> 00:12:05.910 align:start position:0%
+if if that still doesn't work out, you
+can<00:12:04.399><c> ask</c><00:12:04.640><c> some</c><00:12:04.800><c> questions</c><00:12:05.120><c> down</c><00:12:05.360><c> below</c><00:12:05.600><c> in</c><00:12:05.760><c> the</c>
+
+00:12:05.910 --> 00:12:05.920 align:start position:0%
+can ask some questions down below in the
+ 
+
+00:12:05.920 --> 00:12:07.350 align:start position:0%
+can ask some questions down below in the
+comments.<00:12:06.320><c> I'll</c><00:12:06.480><c> try</c><00:12:06.639><c> to</c><00:12:06.720><c> answer</c><00:12:06.959><c> all</c><00:12:07.120><c> of</c><00:12:07.200><c> them</c>
+
+00:12:07.350 --> 00:12:07.360 align:start position:0%
+comments. I'll try to answer all of them
+ 
+
+00:12:07.360 --> 00:12:08.790 align:start position:0%
+comments. I'll try to answer all of them
+for<00:12:07.519><c> the</c><00:12:07.680><c> first</c><00:12:07.839><c> few</c><00:12:08.079><c> days</c><00:12:08.240><c> of</c><00:12:08.399><c> this</c><00:12:08.560><c> video</c>
+
+00:12:08.790 --> 00:12:08.800 align:start position:0%
+for the first few days of this video
+ 
+
+00:12:08.800 --> 00:12:10.389 align:start position:0%
+for the first few days of this video
+going<00:12:08.959><c> live.</c><00:12:09.279><c> And</c><00:12:09.440><c> I</c><00:12:09.600><c> also</c><00:12:09.760><c> want</c><00:12:09.920><c> to</c><00:12:10.000><c> hear</c><00:12:10.160><c> what</c>
+
+00:12:10.389 --> 00:12:10.399 align:start position:0%
+going live. And I also want to hear what
+ 
+
+00:12:10.399 --> 00:12:11.590 align:start position:0%
+going live. And I also want to hear what
+other<00:12:10.560><c> tips</c><00:12:10.800><c> and</c><00:12:10.959><c> tricks</c><00:12:10.988><c> [music]</c><00:12:11.279><c> you</c><00:12:11.440><c> might</c>
+
+00:12:11.590 --> 00:12:11.600 align:start position:0%
+other tips and tricks [music] you might
+ 
+
+00:12:11.600 --> 00:12:13.430 align:start position:0%
+other tips and tricks [music] you might
+have<00:12:11.760><c> that</c><00:12:12.000><c> I</c><00:12:12.160><c> missed</c><00:12:12.399><c> in</c><00:12:12.639><c> this</c><00:12:12.800><c> video.</c><00:12:13.200><c> If</c><00:12:13.360><c> you</c>
+
+00:12:13.430 --> 00:12:13.440 align:start position:0%
+have that I missed in this video. If you
+ 
+
+00:12:13.440 --> 00:12:14.790 align:start position:0%
+have that I missed in this video. If you
+want<00:12:13.600><c> to</c><00:12:13.760><c> support</c><00:12:13.920><c> the</c><00:12:14.160><c> channel</c><00:12:14.320><c> and</c><00:12:14.560><c> you</c><00:12:14.720><c> want</c>
+
+00:12:14.790 --> 00:12:14.800 align:start position:0%
+want to support the channel and you want
+ 
+
+00:12:14.800 --> 00:12:16.790 align:start position:0%
+want to support the channel and you want
+to<00:12:14.880><c> get</c><00:12:15.040><c> 10%</c><00:12:15.440><c> off,</c><00:12:15.760><c> use</c><00:12:15.920><c> the</c><00:12:16.079><c> link</c><00:12:16.240><c> below</c><00:12:16.560><c> in</c>
+
+00:12:16.790 --> 00:12:16.800 align:start position:0%
+to get 10% off, use the link below in
+ 
+
+00:12:16.800 --> 00:12:18.310 align:start position:0%
+to get 10% off, use the link below in
+order<00:12:16.959><c> to</c><00:12:17.200><c> get</c><00:12:17.279><c> started</c><00:12:17.600><c> on</c><00:12:17.760><c> your</c><00:12:17.839><c> hosting</c><00:12:18.160><c> or</c>
+
+00:12:18.310 --> 00:12:18.320 align:start position:0%
+order to get started on your hosting or
+ 
+
+00:12:18.320 --> 00:12:20.389 align:start position:0%
+order to get started on your hosting or
+VPS<00:12:18.720><c> and</c><00:12:18.880><c> set</c><00:12:19.040><c> up</c><00:12:19.200><c> OpenClaw</c><00:12:19.839><c> in</c><00:12:20.000><c> just</c><00:12:20.160><c> a</c><00:12:20.240><c> few</c>
+
+00:12:20.389 --> 00:12:20.399 align:start position:0%
+VPS and set up OpenClaw in just a few
+ 
+
+00:12:20.399 --> 00:12:21.990 align:start position:0%
+VPS and set up OpenClaw in just a few
+minutes.<00:12:20.720><c> And</c><00:12:20.800><c> I</c><00:12:20.959><c> have</c><00:12:21.120><c> another</c><00:12:21.440><c> video</c><00:12:21.600><c> on</c><00:12:21.839><c> the</c>
+
+00:12:21.990 --> 00:12:22.000 align:start position:0%
+minutes. And I have another video on the
+ 
+
+00:12:22.000 --> 00:12:23.910 align:start position:0%
+minutes. And I have another video on the
+first<00:12:22.240><c> 15</c><00:12:22.560><c> prompts</c><00:12:22.880><c> after</c><00:12:23.120><c> you</c><00:12:23.279><c> set</c><00:12:23.440><c> up</c><00:12:23.600><c> cost</c>
+
+00:12:23.910 --> 00:12:23.920 align:start position:0%
+first 15 prompts after you set up cost
+ 
+
+00:12:23.920 --> 00:12:25.509 align:start position:0%
+first 15 prompts after you set up cost
+optimization<00:12:24.720><c> that</c><00:12:24.880><c> you</c><00:12:25.040><c> can</c><00:12:25.120><c> check</c><00:12:25.279><c> out</c>
+
+00:12:25.509 --> 00:12:25.519 align:start position:0%
+optimization that you can check out
+ 
+
+00:12:25.519 --> 00:12:27.030 align:start position:0%
+optimization that you can check out
+right<00:12:25.760><c> here.</c><00:12:26.079><c> And</c><00:12:26.160><c> if</c><00:12:26.320><c> you</c><00:12:26.399><c> like</c><00:12:26.560><c> the</c><00:12:26.720><c> video,</c>
+
+00:12:27.030 --> 00:12:27.040 align:start position:0%
+right here. And if you like the video,
+ 
+
+00:12:27.040 --> 00:12:28.550 align:start position:0%
+right here. And if you like the video,
+like<00:12:27.200><c> the</c><00:12:27.360><c> video.</c><00:12:27.600><c> And</c><00:12:27.839><c> if</c><00:12:27.920><c> you</c><00:12:28.079><c> subscribed,</c>
+
+00:12:28.550 --> 00:12:28.560 align:start position:0%
+like the video. And if you subscribed,
+ 
+
+00:12:28.560 --> 00:12:31.200 align:start position:0%
+like the video. And if you subscribed,
+I'll<00:12:28.720><c> see</c><00:12:28.800><c> you</c><00:12:28.880><c> in</c><00:12:29.040><c> the</c><00:12:29.120><c> next</c>
+

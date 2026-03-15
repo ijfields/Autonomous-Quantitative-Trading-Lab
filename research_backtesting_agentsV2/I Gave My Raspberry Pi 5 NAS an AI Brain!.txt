@@ -1,0 +1,380 @@
+This is a pocket-size 8 terbte NVME NAS
+that runs locally on a Raspberry Pi. But
+here's why this is different from all
+the PI NAS tutorials that you have seen
+online. [music]
+This one actually has a local Quen 3.5
+latest AI agent baked onto it, which by
+the way runs completely locally,
+allowing you to do advanced file search,
+summarize your files, organize all your
+data on the NAS and even more. And yeah,
+you can access all your data through
+your MacBook, your Windows laptop, your
+Android or iPhone from anywhere in the
+world. An average person here spends
+anywhere from 10 up to $50 a month
+behind storage, including myself where I
+used to spend money for Google Drive,
+for One Drive, for iCloud. But I'm
+ending all of that with just this. This
+has 8 TB of memory, enough for me to
+store all my images, my files, and my
+data locally, and sync it with my
+MacBook and my iPhone completely for
+free from anywhere in the world. And
+yes, you are not paying a single penny
+[music] for any of this. This completely
+runs locally on just 15 to 20 W of power
+on this Raspberry Pi. A quick note to
+actually set up your Raspberry Pi, to
+set up your micro SD card to load the
+data on, all of that is done step by
+step in this video that is flashing on
+the I button and also link below in the
+description. So, I'm not going to repeat
+that again to make this video even
+longer. Please follow that. It's super
+easy to set the setup micro SD card up.
+But once that is ready and you're
+actually ready to SSH into the Pi, let's
+continue from there. And basically to
+give you idea in this video, first we
+will learn how to initialize the NVME
+SSD on the Raspberry Pi. Then we'll
+install Nextcloud. Then we'll install
+Tail Scale. That will basically allow us
+to SSH from anywhere in the world.
+Finally, we will basically go through
+the architecture of the local AI bot
+that runs on the Pi that lets you do all
+the smart things with the NAS [music]
+and then we'll wrap this video up with
+future plans to expand this into even
+bigger project.
+All right, to build this first you would
+of course need a Raspberry Pi. In this
+case, this is a Raspberry [music] Pi 58
+GB version. It's plenty fast. Should be
+perfectly okay for the kind of stuff
+that [music] you're trying to do. So,
+that's that. Of course, to power this,
+you would need a power brick. I really,
+really recommend you to invest in a
+decent power brick. This is a 25 watt
+one. This is what I would recommend.
+Don't buy the cheap ones. Underpowering
+a Raspberry Pi does [music] not end up
+well in a lot of cases. So, invest in a
+good one. Needless to say, you need
+somewhere to store all of the data. This
+is a 8 terabte NVME M.2 SSD. You
+certainly don't need that big. I just
+had this for some other work and
+&gt;&gt; [music]
+&gt;&gt; um I just wanted to test it. So, this is
+that um this is certainly overkill, but
+it's lot it's futurep proof. 8 TB NVME
+M.2 is plenty fast. So, that's the other
+thing you would need. Then the most
+important thing that you would need is
+an adapter, a hat that sits on the Pi
+where you can stick your NVME SSD to.
+[music] For that, we're using one from
+Frenov. So, I've also used products from
+FOV before, for example, such as their
+display as being shown here. So, I
+really like their product. So, FOV, if
+you're watching, big shout out. You
+provide really this one is pretty cheap.
+It costs like $15 Canadian dollars. So,
+let's unbox it and see what it comes
+with. This, in theory, should support
+this slot. So, we'll I'm actually
+unboxing this for the first [music]
+time. So, let's see if it does. Okay, so
+it does come with uh some uh standoffs
+in the bag. Uh [music] it also comes
+with its own nice uh screwdriver, which
+is really good, although I have mine. Um
+and most importantly, it also comes with
+a ribbon [music] connector that you
+would actually need to get this working.
+So, uh, be really careful with this
+ribbon connectors. These things can tend
+to just snap and break, right? So,
+[music] handle that with care. So,
+taking out the PI NVME had. Yeah, this
+thing was just um some $18 Canadian
+dollars. Yeah, let's let's actually
+install [music] this.
+Uh, there you go. So, this is how it
+should look like. And the whole idea is
+then yeah [music] uh this thing
+basically just sits on top like that.
+All right. So the next step is to of
+course connect the connector here. Again
+just like the monitor the idea is you
+want to first pull it and then press and
+[music] pull. Right. So that basically
+uh brings out the latch. So my idea is I
+actually want to install this on the
+top. So for that of course I would need
+to basically create this um extended
+standoffs which is [music] basically by
+connecting two. So let's just do that
+part. Please be careful while installing
+this. And once you fit it, you basically
+again press both of them at the same
+time so that it like fixes, right?
+It's not quite a hat, but this is how
+you Now, bear in mind if you have a fan
+module that goes in there, you could
+totally do that. I don't have for this
+purpose. I will get one in the future.
+But by the way, links to everything you
+need will be in the description down
+below, so feel free to check it out from
+there.
+Once assembled, this is how the hardware
+should look like. So, the hat fits in
+perfectly. This is how the ribbon
+connector gets [music] connected here.
+And you still have your Ethernet port in
+case you want to connect it to your
+local router. I will not do that in this
+case. I'll just make it talk to the
+Wi-Fi. And then your SD card goes in
+here. This is where the you'll boot the
+OS for the first time. Um, again, a
+detailed video of me doing that should
+be flashing up here. Um, and I actually
+did a stepby-step instruction showing
+how to prepare the SD card and [music]
+SSH it for the first time. Please
+consider watching that video so that you
+get detailed instructions on how to set
+this up properly. Right. All right. So
+now let's connect this to the power
+adapter, turn it on, and then let's SSH
+in for the [music] first time and see
+how things go.
+So I have a full guide written on the
+site which also will be down linked in
+the description to my GitHub repo which
+gives you all of the steps to do this.
+But the first step of course is to first
+of all SSH into it. And then we want to
+change the boot order such that the
+Raspberry Pi actually boots with the
+NVME and not the SSD. So that's fairly
+simple. I'm just doing that right now.
+And just give it a while for the process
+to finish. And after it finishes, you
+need to do a complete recycle. So once
+you do the pseudo reboot from the
+Raspberry Pi config, as you saw,
+basically it'll get disconnected and
+then it'll try to reboot. But what I
+want you to do is basically [music]
+stop the reboot, take the ribbon, take
+the power cable out, wait for 10
+seconds, and then power it back in, and
+then we'll basically continue with it.
+Otherwise, this doesn't just give the OS
+a hard reboot to basically identify the
+SSD onto it. Once that's done, we can
+come in and pass the lsk command to now
+see that the Raspberry Pi actually
+detects the NVME SSDs, which is very
+important. And then once it does,
+basically, we will start to unmount uh
+the SD card um and then [music]
+completely wipe the uh SD card out. I
+[music] purposely run everything as is
+just to show you that the process will
+fail. If your NVME drive is greater than
+2 TB, this whole process will basically
+fail. [music] So the RPI clone GitHub
+repo by Jeff Curling will fail. So we
+have to come up with a different way to
+format our SD card. So for that, first
+I'll copy the boot uh all the boot
+information and the file system
+information onto the SSD first from the
+SD card. And then basically we have to
+configure it in such a way that now we
+can perfectly um unmount it and boot it.
+And then again we'll do the same step of
+waiting for 10 seconds.
+All right. So the SD card is now out of
+this. Now in theory if I should try to
+SSH in we should be able to [music]
+basically see this work. So let's go
+into the terminal again try to SSH in
+and see [music] if this thing works. Of
+course, this is the scary bit, but the
+SSH did work. All right, now we are
+officially ready to install Next Cloud
+onto your Raspberry Pi SSD such that now
+basically this SSD will be easily
+accessible from anywhere on our Mac or
+mobile or from anywhere in the world.
+This is where the magic happens. It's
+literally an open-source version of,
+let's say, iCloud or Google Drive. That
+is the main driver for this video. So,
+let's install that. Set everything up.
+install tail scale and [music] then um
+I'll show you everything on on the
+terminal step by step. So now that we
+know that the it boots out of the SSD uh
+after removing the SD card, we're ready
+to install NextCloud, which is this
+open-source software that basically lets
+us manage all of the files just like you
+know iCloud does or one drive does. Once
+that's installed with Snap, you can
+basically go into the uh um IP address
+of your Raspberry Pi with the port and
+you should see Nextcloud app. It's
+fairly easy to set it up. Now, I'm
+actually doing the same thing on my
+mobile and it's super easy to do. As you
+can see, the file just appears. Once
+next cloud is installed, we will
+basically install Tailcale, which is
+basically a VPN mesh network that allows
+you to access your device from
+everywhere. So you have to authenticate
+yourself first and add every device to
+one Gmail account. That's how you can
+manage everything. Um you [music] know
+everything is under one uh account. So
+that'll help you to basically uh sync
+all your devices across your phone.
+Needless to say you also have to install
+tail scale on your mobile just as I said
+and basically add [music] every uh add
+your mobile to the same tail scale
+account with which you add your MacBook
+and the Raspberry Pi. [music] So
+everything is under one VPN mesh. This
+allows you to, you know, access
+everything from [music] uh anywhere. So
+right now, as you can see, I'm on my uh
+device uh network, not the Wi-Fi, but I
+can still basically access files bas I'm
+just uploading a random PDF onto the
+mask just to show you know the sync is
+pretty fast.
+&gt;&gt; [music]
+&gt;&gt; So, as you can see, I recently created
+this folder called iPhone uploads and
+basically uploaded that logo PDF and
+voila, it comes up nice and clean. So,
+the sync is pretty good. Like, it's
+instantaneous almost. It just depends on
+your upload speeds. And since this is
+running on the SSD, this thing is
+blazing fast, right? Repeating the same
+process. So, I'm also installing Next
+Cloud um onto my Mac. And this will
+basically allow me to sync files
+completely out of the box just like
+[music] you would do on um you know
+Google Drive or let's say iCloud. So it
+so you can actually find the next cloud
+as a part of your files. So you just
+drag and drop and it automatically
+syncs. Uh there is an option to add
+whatever big folder you want but I just
+chose a particular folder. All right.
+Now that we have all of this working
+just fine, the next step is to basically
+deploy the local Quen 3.5 model onto the
+Pi for the smart brain. And that is what
+we're going to walk step by step in this
+section. So keep watching. So for this
+part, I'm actually going with the latest
+Quen 3.5.8
+billion parameter model. They just
+released it literally a week back. So
+this is the latest from Quen. is really
+good and fast and great at like agentic
+work. So the whole idea is of course you
+have your mobile phone and your computer
+as the you know the user devices that
+you can chat with um u with your NAS
+right so this is the mobile phone that
+you're watching this on right and then
+that basically will talk to a chat UI
+which basically we are making with you
+know static HTML very simple so it looks
+like that again everything will be down
+in the description so all you have to do
+is just clone my repo and that's it
+that's that's all um of course the NAS
+needs to have its own uh [music] you
+know brain that not only receives the
+messages but also passes it to again an
+orchestrator kind of a workflow. It's
+the exact same kind of mentality that I
+showed you guys when I built my own
+local AI agent on the Raspberry Pi.
+Please watch that video uh cuz that goes
+in even more depth. Um then of course
+there's Olama um because that's the
+local brain that's running the Quen
+model and the orchestrator then
+basically uh reroutes all your requests
+depending on what it decides to uh the
+Quen um 3.5 model and not only that it
+also needs to have its own like tool
+chest right so uh it it has bunch of
+functionalities tools that the
+orchestrator then you know gives
+delegates to different tools depending
+on what you day, right? So for the
+tools, you have search files, you have
+list file properties, you can, you know,
+read your files, you can uh list one of
+the recent files and these are like
+simple um Linux commands that you type
+anyways, but then you're just packaging
+it and giving it to your agent to do all
+of that for you. Uh and all you do is
+just talk to it in a natural language.
+You just like send a text that hey, what
+is this file about? Or you know, could
+you arrange my files and it'll do that.
+So this is exactly what I'm doing here.
+I can you know converse with it and then
+I can ask hey can you tell me about this
+particular file then it will just go
+ahead and tell me about that. Then I can
+ask it hey is do we have more storage? I
+mean the options are kind of endless.
+But bear in mind that this is still a
+teeny tiny model running locally on a
+Pi. It's not that capable enough but I'm
+just trying to show you guys what's
+possible. All right. So if you enjoyed
+watching the video please give a like
+and give a comment down below. telling
+if you have any questions. Again, all of
+the code shown below will be in the in
+my GitHub repo down below. So, feel free
+to use it, clone it. If you have any
+issues, raise a PR, raise a issue. I'll
+be happy to resolve all of them with
+time. My plans moving forward will be to
+basically integrate this with my local
+AI agent Jansky for which the video
+should also be flashing up there and
+basically giving all this ability to
+Jansky or you know an open claw or any
+of those cloud AI models but I'm also
+happy to integrate all of those here and
+I will catch you guys in the next one.
+Until then, let's keep

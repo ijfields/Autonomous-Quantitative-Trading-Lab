@@ -1,0 +1,30 @@
+I automated 100 property videos
+yesterday with open claw without even
+touching a camera and without hiring
+anyone. If you never made an AI video,
+this does it all. If you have, you know
+the pain. Prompting each and every
+frame, generating images one by one,
+waiting for each clip to process, and
+then stitching them all together
+manually. One video is fine, but 10
+videos, they're a nightmare. You end up
+becoming a prompt monkey. Copy, paste,
+wait, download, repeat. That's not
+automation, that's a job. OpenClaw
+automates the entire pipeline. It
+decides what to create, writes the
+prompts, generates the images, and sends
+them to Google's Vio 3.1 for video
+generation. It also stitches the clips
+together, and uploads the final video
+upon review. And now I wake up to finish
+videos and not a queue of manual tasks.
+Now, most people spend 8 hours and maybe
+even $500 plus per video. And most
+creators spend around 2 hours
+babysitting prompts and renders. I just
+spend less than 10 minutes setting this
+up. And now it runs on autopilot. So now
+you can generate hundreds of renovation
+videos that get millions of views.

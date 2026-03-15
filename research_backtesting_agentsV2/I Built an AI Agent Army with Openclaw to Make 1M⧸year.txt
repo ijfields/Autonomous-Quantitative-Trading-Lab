@@ -1,0 +1,395 @@
+I have 11 AI agents running 24/7
+autonomously around the clock and my
+OpenClaw agent manages all of them to
+build profitable apps while I sleep.
+Just yesterday, they built seven apps,
+tested them, added payments, and
+uploaded them to the app store, all in a
+single afternoon using less than 5% of
+my open clause context window.
+&gt;&gt; All apps go through a ninestep rigorous
+framework. things like research, idea
+validation, building the app,
+monetization strategies, designing the
+icons, and even creating promo videos.
+It took me three failed attempts to get
+here, and over 100 hours of testing, and
+I'm going to break down the exact
+blueprint I used to build this thing,
+the lessons that I learned along the
+way, and how I plan to autonomously
+market these apps to generate millions
+of views. And if we haven't met yet, I'm
+Doobie. I'm a former marketer who now
+builds AI apps live on stream. I'm
+currently documenting a challenge to
+reach 100K using AI. And in just one
+month, I've already generated $46,000
+and grown a following of over 10,000
+people. I also run a community called
+Booby Builders, where a thousand plus
+members are learning to build their own
+apps with AI. Now, before I show you
+how, let me show you why I'm going all
+in on apps and why you should, too. You
+see, the global app market hit $300
+billion last year, and it's literally
+beating the S&amp;P 500 with a 14% annual
+growth rate. So, by 2035, it's expected
+to reach a trillion. Apple alone takes
+70% of all consumer spending despite
+having less than 30% of mobile market
+share. Now, to put that in perspective
+for you, on average, Android users spend
+$140 per month on apps, which is 7 1/2
+times less than Apple users. Still not
+convinced? All right, let's play a game.
+I'm going to show you an app and you're
+going to guess how much money it makes.
+Ready? Okay. First up, we've got an app
+that claims to make you taller. How much
+we thinking? $50, $500, maybe $1,000.
+This app made $90,000
+just last month. Okay. Okay. One more.
+An app that records your snoring. 5K per
+month. 50K. Oh, no. No. No. This app is
+making $400,000
+per month. And if you zoom out a bit, it
+makes sense. There are 1.4 billion
+people who own an iPhone, but as of
+early 2026, only 2 million apps to
+service them. Meaning the app market is
+a literal gold mine. Now, obviously, 80%
+of apps on the App Store make less than
+$1,000 a month, which sounds bad until
+you flip the math. The top 20%, 400,000
+apps are making over $1,000 per month. A
+few years ago, a simple iOS app would
+cost anywhere between 20 to 40K to build
+with a development team. A slightly more
+complex app could run you up to 100K. My
+App Factory runs for just $1,000 a month
+in AI tokens and has the potential to
+build over a 100 apps. We're playing a
+numbers game here. You see, this guy,
+James, is a solo developer who built a
+portfolio of 30 apps. He went from a
+failed first app to $60,000 a month. His
+strategy was simple. Ship fast, validate
+with app store keywords, double down on
+what works, and kill what doesn't. This
+guy, David, launched 58 apps that went
+nowhere. His 59th was Widget Smmith. 131
+million downloads and $200,000 a month
+in revenue. The pattern is volume and
+iteration. Most individual apps fail,
+but if you're shipping fast enough and
+learning from each one, you will
+eventually win. That's exactly what the
+factory automates. Not one perfect app,
+a pipeline that keeps shipping with
+self-improvement loops baked in. Now,
+I'm sure you've heard of OpenCore by
+now. an AI agent framework that went
+from zero to 200,000 stars faster than
+any project in GitHub history and
+arguably the most powerful AI agent
+framework in the world right now.
+&gt;&gt; One of the biggest challenges people are
+facing is context bloat. I've literally
+reset my open claw three times because
+of this. First time I was using open
+claw for everything. Personal assistant,
+exposting, content scripts and the app
+factory. 2 days later it became
+completely useless. Context window was
+full. The apps were trash, the tweets
+were everything was so I reset it.
+Second time round, I stripped it back to
+just handling one task, building apps.
+But building an entire iOS app is a
+massive task. And by the time OpenClaw
+finished one app, there was literally no
+context left to build another. So this
+third time round, I took a completely
+different approach. I used clawed code
+to build the entire system from scratch.
+And I designed it in a way where my
+openclaw agent Sheldon just plugs into
+this pre-built system and orchestrates
+the whole thing. So now instead of
+Sheldon doing the heavy lifting, we've
+got dedicated sub agents for each phase.
+I call them project leads and they
+handle all the complex work. Sheldon
+just sits on top and directs traffic.
+For example, if research is done, the
+research agent reports back. Sheldon
+says, "Cool." Tells the validation agent
+to check the research. Once the idea is
+validated, Sheldon tells the builder
+agent to start building. And so on. Each
+sub agent handles its own context, does
+its work, and reports back. AI engineer
+Austin Alro puts it nicely when he says,
+"A single agent is powerful, but
+multiple agents, each specialized for a
+specific task and coordinated by a
+central router, can tackle problems of a
+completely different order of magnitude.
+And this is exactly how the entire
+factory runs on less than 5% of
+Sheldon's context window. So if there's
+anything you take away from this video,
+start using claude code to build systems
+that you want your OpenClaw to operate
+inside of.
+So this is the control panel where all
+the magic happens. Up top you got four
+metrics. Active projects, shipped apps,
+Q length, and what needs my attention.
+Right now it's building three apps
+simultaneously. The projects tab shows
+each app with a progress bar and a
+quality score out of 10. Pantry Power is
+in the deploy phase and Gym Snap is
+ready to be uploaded. Now, if I tap on
+my app, it extends into a one pager.
+This is actually one of my favorite
+parts. The one pager shows the AI's
+research and validation for the specific
+idea, the pain points it identified, the
+target user, what features to include,
+the monetization strategy, and more.
+Basically, every decision the AI made to
+get from idea to execution is documented
+right here. This lets me see a really
+high-level overview of why the AI chose
+the idea and whether I agree. The blue
+text is a live feed from the AI agents
+updating in real time and you can kind
+of just watch them work. I made this to
+give me peace of mind that things are
+moving in the back end because sometimes
+the agent could be stuck in the build
+phase for 10 to 20 minutes and this lets
+me know that it's still working. So, how
+do the app ideas get generated? Shan
+runs its own research process. It scans
+Reddit and X for pain points, people
+complaining about broken workflows,
+missing tools, things they wish existed.
+It checks app store categories for high
+demand and low competition, and then
+cross references all of that with what's
+technically feasible for our app factory
+to build and generates the one pager I
+showed earlier. The first time I watched
+the AI pitch me an idea, I was just in
+complete awe. And it makes total sense
+why AI should be used for research
+because it can literally scan through
+hundreds of websites before I even
+finish going through one. The idea queue
+is where research ideas get lined up.
+When there's capacity, the orchestrator
+pulls the next one and starts building.
+Now, before I get into the actual build
+framework, if you want to be one of the
+first to try out this autonomous app
+factory, you can sign up to the wait
+list in the first link below. So, I've
+got Shan running every 5 minutes on a
+cron job. It checks how many projects
+are active with a maximum of five at a
+time. For each one, it reads the project
+state file to figure out what phase it's
+in, then spawns a clawed code session
+with the right prompt for that phase.
+The session does the work, updates the
+state, and exits. No excess compute
+wasted. Don't rely on conversation
+history for important state. Always
+write it to files. This one shift has
+improved my agent workflow like a ton.
+All 11 agents used throughout the
+workflow run on four models, each with a
+specific job. Claude Opus 4.6 is the
+builder, writes all the Swift and Swift
+UI code. This is done by fitting it a
+prompt from the ideation phase with
+instructions on how to structure the
+code, how to handle permissions, and
+what every screen needs. And from that
+single prompt, Opus builds the entire
+app. Codex 5.3 is the reviewer. After
+Opus finishes, Codeex reads every file
+and independently verifies the code for
+crash risk, missing features, permission
+bugs, and code quality. Now, if you're
+wondering why use Opus and Codeex
+separately for the build, well, from
+experience, I've noticed that if you get
+the model who wrote the code to also
+review it, it'll have a bias and cut
+corners. So, that's why I let Opus build
+and Codeex review. To further assist
+with the build, we also feed it
+templates that already include payments,
+onboarding, and a Gemini Flash AI
+wrapper to power the actual AI features
+used inside the app, like the plant
+identification in plant pulse and the
+receipt scanning and warranty bolt. It's
+super cheap and actually does a really
+good job. Then we have Sonet 4.6 to
+handle fast routing, logging metadata,
+and quick decisions. Okay, next we have
+debatably the most important phase of
+the factory, quality gates. So we have
+Codex reviewing the code, but after that
+we also have six automated checks run.
+Based off these checks, each app gets a
+score out of 10. In order for an app to
+pass to the next phase, it needs an
+eight or higher. Three failures and it
+gets flagged for me to look at manually.
+I actually stole this concept off the
+Ralph Wigan plugin that went viral where
+it prompts your agent to retry, adjust,
+learn, and pass to human. The only
+difference is instead of brute forcing
+it, the factory flags it after the third
+unsuccessful attempt. You see, Apple
+rejected over a million apps last year,
+and on average, 40% of the new apps
+rejected on their first submission. So,
+these rigorous tests make sure we pass
+our submissions.
+Now, after all that, every app gets
+payments hooked up through Apple's store
+kit, which I wish I knew sooner because
+I literally spent 2 days configuring the
+Stripe API before realizing Apple has
+its own payment system built in. So,
+don't make my mistake. People also
+usually take a 30% cut, but for the
+first million in revenue, it's only 15%
+through their small business program.
+The factory analyzes the app's
+validation and research document and
+picks the right payment strategy for
+that app, which is either a free trial
+or a premium model. You can see with the
+warranty vault, an app that lets you
+track warranties, it chose a premium
+model where users could list up to three
+items before being prompted with a payw
+wall. Whereas Pantry Pal uses a free
+trial model so users can experience the
+magic of the main feature, which is the
+AI recipe generator. Now, from our
+research, we found free trials do
+convert six times better than hard payw
+walls. So, most apps are coded to get a
+7-day trial. Once an app passes quality
+and monetization, it gets packaged for
+the app store. The factory literally
+generates the app store listing,
+description, keywords, even the
+screenshots, and every app gets a unique
+icon generated through Nano Banana Pro.
+I actually had to build a system for the
+AI to open the app and press all the
+buttons so it could navigate through
+each screen and capture those
+screenshots for me because I really want
+to make sure that when everything
+uploads to Apple's developer portal,
+there is as little human involvement as
+possible, and that includes taking
+screenshots. It also generates three to
+five onboarding screens explaining the
+app to new users. I added this after
+hearing about how important they are
+from the founder of Cal AI, a macro
+tracking app printing 4 mil a month
+right now. Once all that is done, the
+only manual step left is pressing
+submit. Apple only lets you have five
+apps in review per developer account at
+a time. So, the factory cues submissions
+and I approve them in batches. So, now
+we've submitted the app, but how are we
+going to get customers? Well, remember
+how I said the entire factory runs on 5%
+of open clause context window. I
+designed it lean on purpose because the
+factory is only half the job. The other
+95% is reserved for what actually brings
+users, the marketing. Now, coming from a
+marketing background, I know better than
+anyone else that the factory is
+essentially useless unless it handles
+marketing as well. I haven't actually
+built this section yet, but I want to
+show you guys how I plan to tackle it
+because it's actually super easy to set
+up and really cool. The plan is to run
+multiple Tik Tok and Instagram accounts
+across different content categories:
+health and fitness, home and lifestyle,
+gardening, productivity, personal
+finance. Each account builds an audience
+around that category with native
+content. The AI generates this content
+autonomously, builds a following, and
+when a relevant app ships, like a
+fitness tracker from the factory, it
+gets a mention. Now, in order for me to
+run this autonomously, I'll be using the
+Larry skill. Larry is an open claw agent
+built by Oliver Henry that generated 8
+million views in a single week through
+autonomous Tik Tok slideshows. It
+literally generates the images and hooks
+and then iterates based on results and
+self-learning loops. For example, if a
+hook gets a lot of views but doesn't
+convert, it knows that it actually
+attracted the wrong audience and writes
+that into its code so it doesn't make
+that mistake again. If you want the
+Larry skill, it's completely free and
+open source. But if you want to take it
+up a notch, he also provides a paid
+subscription that comes with 50
+additional pro skills that all sync
+seamlessly together to build a literal
+god of an opencore agent. Like this web
+scraping skill or this one that
+literally lets my OpenClaw Sheldon post
+tweets seamlessly on X. I'll leave a
+link in the description below. So, for
+the marketing to be successful, we got
+to have a cool promo video, right? The
+factory handles that too. Using Votion
+inside Claude Code, it generates a demo
+video for each app. By the time Pantry
+Pal hits the app store, it already has a
+promo video ready to post. Research the
+idea, build the app, test it, add
+payments, design the icon, submit it,
+make a video, post it, all autonomously
+using Open Claw. Now you know the full
+loop. You can build it yourself. The
+best automation is the kind you forget
+you built. It just runs silently, making
+your life better while you sleep. And if
+you don't want to build it yourself, you
+can sign up for early access in the
+first link below. And if you want to see
+what these apps actually do and how
+OpenClaw agents are already making real
+money, I made a full breakdown. You can
+check it out right here.

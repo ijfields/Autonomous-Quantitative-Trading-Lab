@@ -1,0 +1,548 @@
+One month ago, I had one AI agent doing
+everything. It was writing my ex
+content, managing website requests for
+my team, monitoring my trading bots,
+handling client emails, basically
+running my entire life. But the constant
+context switching was killing
+productivity. My AI agent, Max, would be
+deep in trading analysis, then suddenly
+I'd ask him to write tweets, then jump
+to client work. This is why today I have
+four AI employees. Each one a specialist
+in their own domain. We have Max who is
+my chief of staff, Nox, who is my
+trading bot operator, Sage, which is my
+ex-content specialist, and Nova, my
+YouTube specialist. Noox alone has made
+$140 in net profit with a 92% win rate.
+[music] and Sage has helped me generate
+$355
+in the last 2 weeks in creator revenue.
+[music] Hi, I'm Charbell and in the next
+15 minutes, I'll show you exactly how
+you can go from one overloaded AI agent
+to a specialized team that does
+everything [music] that you need for
+you. So, here's what was happening when
+I just had one AI agent doing everything
+for me. At 9:00 a.m., I'd go like, "Max,
+analyze my Poly Market positions." and
+Max would start looking at my trading
+data, my trading history, the logs, what
+it has done, what it hasn't done. Then
+at 9:05, I would go like, "Actually,
+write me five tweet drafts first." And
+Max would be forced to switch gears. He
+would be losing all of his trading
+context to jump on this new request for
+me. And then at 9:10, wait, did you
+actually finish the client proposal I
+asked from you for Unfungeible? That was
+exactly what was happening every single
+day when I just had one AI agent working
+for me. Max was constantly forced to
+switch over. He wasn't gaining no deep
+expertise. He just had to start from
+scratch every single time. The
+breakthrough was specialists get better.
+Generalists stay where they are. And
+here's the thing, you wouldn't hire just
+one person to be your accountant, your
+delivery driver, your operator, and your
+chief of staff at the same time, would
+you? So, why do that with AI? That being
+said, let me introduce you to my team.
+Max is my main AI operator. He's my
+chief of staff. He handles big picture
+stuff, schedules, priorities, connecting
+the dots between other AI agents. He
+basically thinks like a business owner,
+just like me. I mean this morning Max
+told me Nox flagged unusual volatility
+in our Bitcoin position. Sage is
+drafting content about it. Nova suggests
+we turn it into a short form video. Want
+me to coordinate? I mean that's not task
+switching, that's orchestration. Then we
+have Nox, my AI trading agent operator.
+He lives and he breathes poly market
+betting markets and that's literally his
+entire focus. He checks on all of my
+trades and how the bot is performing
+every 2 hours and he makes sure that
+there are no cracks in our strategy. I
+mean, Nox caught our trading bot making
+a wrong trade last week, and he ended up
+preventing it, selling that trade before
+it was a realized loss, and he ended up
+saving us $20.
+That's the beauty of specialized AI
+agents. Sage, our lovely Sage right
+here, he's our ex content specialist.
+He's obsessed with everything that works
+on X, tracks every tweet's performance,
+and studies competitor patterns, and
+writes in my voice. You can see every
+morning he comes up with a bunch of copy
+drafts, a bunch of ideas, a bunch of
+tweets for me to look over and give him
+feedback on. I can approve, reject, I
+can give him reasoning so that he can
+learn every time. I can tweak. He
+basically takes care of all of my
+content ideas for X. And like I said,
+Sage's content idea generation helped us
+generate $355 in creator revenue in the
+last two weeks. That's the power of
+Specialized agents. And finally, we have
+Nova, my YouTube specialist. I mean,
+YouTube is a different ballgame. Nova
+understands thumbnails, titles,
+retention curves, what makes people
+click. Nova suggested the Poly Market
+bot video that hit 10,000 views.
+basically 10x my average view count on
+YouTube. You can see she's literally the
+one who suggested how to build a poly
+market trading bot with OpenClaw. And if
+we look at that video, there we go. That
+video is currently my top performing
+video on my YouTube channel. It's gained
+me over 300 subscribers. One video
+alone. 300 subscribers. I've never seen
+that on my YouTube channel. Now, let's
+talk money. Because with Nox, the first
+week he ended up basically just losing a
+bunch of money. He was still learning
+the market. He was still learning how it
+operates and what makes a good trade,
+what makes a good bet, what makes a bad
+bet. The second week was mostly about
+making up for all of his losses. And the
+third week was our money run where he
+ended up making in total uh over $140 in
+profit from an initial $100. That's
+$140%
+return on investment. That's just crazy.
+As for Sage, my ex specialist, my ex
+content engagement is literally up. You
+can see when I started using him and he
+started generating me a bunch of ideas
+for me to act upon. You can see how much
+my engagement has shot up. Same for my
+follower count. Same for my activity
+overall. I mean, Sage is pretty much the
+one who had the idea for this content
+piece. My AI agent is having a good day
+today. He said he wants to use his
+profit to buy a Mac Studio. And I mean,
+look at this. The engagement on this
+one. We're at 400,000 impressions and
+1,700 bookmarks on a tweet Sage
+suggested. Here's the thing everyone
+keeps getting wrong. They think you need
+different AI providers or complex setups
+when you don't. You just need to learn
+how to properly talk to AI. The best
+prompters, the best builders I've met
+and had the pleasure to work with all
+know how to conversate well with their
+own AI agents. I mean, this is the best
+example I can give you of talking wrong
+to your AI. Hey, Claude, help me create
+a business that makes a billion dollars
+in revenue. Make no mistakes.
+&gt;&gt; Have you heard that before?
+&gt;&gt; Now, the right way would be, "You are
+Nox, my trading bot specialist. Your
+only job is monitoring the poly market
+and catching problems before they cost
+me money." The magic is in the
+specialized prompt in being as specific
+as possible in your objectives, KPIs,
+and how you measure success. Here's the
+exact prompt I use to create new
+specialists. You can literally copy
+paste this. Here it is. I want to create
+a specialized AI sub agent for my
+business. Before we start, I need you to
+ask me these specific questions. And
+then it goes into five specific
+questions. Number one, what is the
+specialty area this agent should focus
+on? You're defining its expertise, its
+area of specialty from the get-go.
+Number two, what is the specific
+objective this agent should achieve?
+What is its goal? What is its end goal?
+What is the one purpose that it is being
+created for? Number three, what KPIs
+will this agent be rated on? How will we
+measure success? You see where we're
+going with this? Four, what should this
+agent's personality be like? You're also
+defining his personality just like you
+would with an employee. I mean,
+technically, you wouldn't define the
+employees personality. You would just be
+stuck with it. But here, you have the
+chance to define the dream personality,
+the people you want to work with. How do
+you want them to be like? Number five,
+what tools or data sources does this
+agent need access to? How is it fetching
+its data? What APIs is it using? What
+tools is it using? Where is it getting
+its numbers from, its data from?
+Based on my answers, create a detailed
+agent persona with a name, an emoji,
+specific role definition, daily
+responsibilities, success metrics, and
+communication style.
+Personally, I only like to talk to one
+agent, which is Max, my chief of staff.
+I don't I told him from the get-go, I
+don't want to talk with any other agent.
+I talk to you. If it's in another
+agent's domain, delegate to them always
+and then relay back to me what they send
+you. I never want to be talking with a
+hundred agents at once. The more agents
+there are, you can just assume the more
+chaos ensues. Then give the exact prompt
+I can use to initialize the specialist
+agent. Ask me these questions one at a
+time. Don't make assumptions about my
+business. Now, let me show you this in
+action. I'm going to create a brand new
+specialist right now. So, I've got two
+web apps. Clips.unfgeible.xyz.
+That's our clipping platform where
+creators distribute content. And I've
+got will it go viral.xyz, a tool that
+predicts if your tweet will go viral or
+not. Right now, nobody's watching these.
+No one's researching what competitors
+are doing. No one's checking for UX
+issues. No one's pitching improvements.
+I just fix stuff when it breaks or when
+team members come to me and tell me,
+"Oh, Shabelle, the website is breaking.
+This is breaking. Fix it. Please ask Max
+to fix it." So, that's exactly what
+we're going to change today. So, lucky
+enough, I asked it to generate this
+visual that I showed you earlier. Let's
+paste the prompt and let's get started
+with that. Okay, so here it is. Question
+number one. What is the specialty area
+this agent should focus on? Let me reply
+to it with a voice note. Web app product
+optimization. I basically want someone
+constantly finding ways to improve our
+web apps and tools that we have
+available. Both clips.onfundable.xyz
+and will it go viral.xyz. And just like
+that, I've sent it. I've replied to its
+first question. Now it should take that
+in and give me the second question.
+Okay, it's replied. Great. Web app
+product optimization for
+clips.unfundable.xyz.
+Got it. Question number two, what is the
+specific objective this agent should
+achieve? Research competitors, analyze
+best practices across different
+industries, and pitch me three to five
+actionable improvement ideas every
+single day.
+Let's hit send.
+And with that, we wait for it to listen
+to give us back a reply. Okay, it's
+replied again. Research competitors,
+analyze best practices across
+industries.
+Love it. Question number three, what
+KPIs will this agent be rated on? How
+will we measure success? The KPIs I'd
+like you to use to measure success are
+how many ideas I actually approve and
+actually implement. So basically,
+approval rate and whether those changes
+move the needle on user engagement and
+daily user visitors every day. Okay. So
+number four, what should this agent's
+personality be like?
+Uh productminded,
+ideally datadriven. He knows web
+development, but explain things in plain
+English. He thinks like a product
+manager basically, not just a developer.
+And now we get a response. There we go.
+Product minded, data driven, thinks like
+a PM, not just a dev. Question five.
+What tools or data sources does this
+agent need access to?
+He needs access to our codebase for both
+web apps and also competitor websites.
+So, he'll need to research what
+competitors exist that are parallel to
+our products. And he will also need
+access to our analytics dashboard. There
+you go. Here's your new specialist,
+Pixel, web app product specialist. So,
+he's already named him. Pixel Ro product
+optimization specialist. Daily
+responsibilities. Let me scroll up.
+Research competitors.
+Stream ladder. Opus clip vizard for
+clips. Tweet hunter. Typefully, hype
+fury for viral. Analyze best practices
+across industries. Pitch three to five
+actionable improvement ideas daily.
+Track which ideas get approved and
+implemented. Monitor analytics for
+impact of ship changes. Success metrics.
+Idea approval rate. User engagement.
+Daily visitor growth. Time from idea. So
+the speed of implementation,
+personality, product minded,
+communication style, concise daily
+briefs. Each idea includes what to
+change, why,
+expected impact and effort estimate.
+That being said, he gave us the prompt.
+So, literally all we have to do is give
+it to him. Actually, want me to actually
+set up Pixel as a real agent with a
+daily cron job right now. We don't even
+need to paste it. Yes, Max, please.
+And thank you.
+And just like that, we've already
+designed our fifth AI employee. And
+boom, just like that, Pixel is live.
+Craw every day at 9:00 a.m. Amsterdam
+time. model. He's going to use Sonnet
+4.6 delivery straight to your Telegram.
+What he does, researches competitors, so
+on and so forth. Tomorrow morning,
+you'll get your first pixel brief. Want
+me to run him right now so you can see
+what he comes up with? Absolutely.
+Let's see
+what he got. What he's got, but anyway,
+Max understands me. That's what matters.
+Okay, let's see what he's got. So,
+Pixel's running. He's got a 5m minute
+timeout. And right now, Max just sent me
+that pixel has finished. It took 21
+seconds. You saw it, but I don't see a
+status field. Let me check if the ideas
+were saved. Ideas were saved. Now, let
+me check what he came up with. So, there
+we go. Five ideas for clips. He
+suggested weekly Clipper performance
+digest, auto send stats to Clippers,
+medium effort, uh 20 to 30% more active
+Clippers. So, he's also uh sort of
+predicting how much this feature will
+increase activity for Clippers. Number
+two, bonus progress countdown banners,
+urgency nudge. When Clippers are close
+to a bonus milestone, it sends them a
+nudge. And number three, campaign invite
+links. Self-s serve Clipper onboarding
+via sharable links. Honestly, I love
+these ideas. I think I might just tell
+him to implement all three. And for will
+it go viral.xyz, XYZ. These are the two
+ideas he gave. Dimension scorecard.
+Break virality into four subcores with
+AI fix suggestions and niche viral tweet
+library. Show real viral tweets from
+your niche after scoring. All backed
+with competitor data. The announcement
+should have hit your Telegram, too. What
+do you think? Any of these get the green
+light. So, this is actually amazing
+because I just realized what Max, the
+genius Max just did. Not only did Pixel
+just get those ideas,
+Max sent those ideas to Sage, our ex
+content specialist, to write draft
+tweets about us announcing these
+updates. So, before we even go live with
+these updates, we have tweets to
+accompany them so that we could announce
+these updates. This right here is the
+power of having an AI specialist agent
+team. And that took what, like 5
+minutes. I just hired a product manager
+that now works 24/7 for me every single
+day. Doesn't skip a day. 9:00 a.m. sharp
+on my desk. And for no extra cost, I'm
+still on my Clawude Mac subscription. I
+don't pay more. Now I have an extra AI
+agent doing all that grunt work for me.
+That's how fast you can expand your
+team. Five questions, five minutes, and
+now I have a product specialist
+monitoring two web apps around the
+clock. But here's the real advantage
+between having one AI agent that's a
+generalist versus many AI agents that
+are specialists. Specialists get smarter
+over time. Knox knows every trading
+pattern from the last month. Sage knows
+which content angles work for my
+audience. Nova understands my YouTube
+analytics better than I do. Generalists
+restart from zero every conversation.
+Specialist built expertise over time.
+And you might ask, "But Charbell, don't
+four agents get chaotic?" That's where
+Max comes in, my chief of staff, my main
+AI agent. He's not gone, he's evolved.
+My initial AI agent is now my chief of
+staff. He coordinates between
+specialists, makes big picture
+decisions, handles stuff that crosses
+domains. I mean, this morning, Nox
+flagged Bitcoin volatility. Sage wanted
+to post about it. Nova suggested making
+it a YouTube short. And Max sent me Nox
+gave me the key data points. Sage
+drafted the tweet with Nox's insights.
+The NOVA outline the short form
+structure. I'll review everything and
+decide timing. Three specialists working
+together, one coordinator making sure it
+makes sense. Now, let's talk about the
+common mistakes I see when people are
+setting up their specialists. Mistake
+number one, they make specialists too
+narrow. The wrong way would be you only
+write tweets about crypto. The right way
+would be you specialize in Xc content
+strategy with focus on engagement and
+lead generation. You've just given it
+its clear objective and its KPIs. It
+knows what you want. Mistake number two,
+no clear handoff. If no spots a trading
+opportunity and Sage should post about
+it, how does that happen? You need to
+define the process. You need to let your
+AI team know this is the person I want
+relaying my information to me. This is
+the person I want to do the
+communication between one another AI. Or
+maybe you want them to communicate each
+individually together. Maybe you don't
+want this central orchestrator piece.
+Mistake number three, letting
+specialists overlap. If two agents both
+handle email, you'll get duplicate
+responses and just confused clients. My
+rule of thumb is each agent owns their
+own domain. When they need help from
+another specialist, they go through Max.
+Okay, here's some real talk. The first
+month of me doing this was messy. Noox
+was too conservative with trading calls.
+Sage wrote content that didn't match my
+voice. Nova suggested video topics I had
+zero expertise or interest in even
+filming. But here's what happened.
+With time, they got better. Not smarter,
+better at their own specific jobs. I
+mean, Nox learned my risk tolerance by
+watching my reactions to his
+suggestions. Sage studied my highest
+performing tweets until he nailed my
+voice. And Nova figured out which topics
+actually get views on my channel. Sage
+in week one used to say things like,
+"Here are some general crypto content
+ideas." But Sage today in week four says
+something like based on yesterday's poly
+market post performance which got 89
+bookmarks, I suggest we dive deeper into
+the prediction market psychology because
+it outperformed your other content. And
+he also bases it on competitor analysis
+and he shows angles that no one else is
+covering. It's not prompt engineering.
+That's expertise that each and every one
+of them is building over time. So use
+that starter prompt that I gave you for
+each and every role that you want to
+create. Ask yourself, what are the three
+to four core functions that your
+business relies on? And make an agent
+for each of those functions. So here's
+what I want you to do today. Number one,
+list the three to four core functions in
+your business. Number two, use my
+starter prompt to design one specialist
+agent. Number three, spend a week
+training that one agent to be excellent
+at their job. Number four, once it
+works, create the second specialist.
+Then number five, repeat until you spend
+less time in the business and more time
+on the business. I hope that makes sense
+to you in a couple of weeks.
+Start with one, master the specialist,
+then scale. Don't try to build four
+agents at once. You'll get overwhelmed
+and none of them will be good. Trust me,
+I learned it the hard way. The biggest
+change isn't technical. It's mental.
+Before I used to think I need to learn
+everything and do everything. But now
+I'm thinking I need to direct
+specialists who know their domains
+better than I do. And this is that shift
+that needs to happen with you for you to
+stop being an individual contributor and
+start being a CEO of AI talent. Nox
+knows more about my trading patterns
+than I do. Sage understands X engagement
+better than I do. Nova has studied my
+YouTube analytics deeper than I have.
+That's not threatening to me. That's
+leveraging the power of these AI agents.
+And you might ask, but what if these AI
+make mistakes? And [snorts]
+you know, Nox suggested a bad trading
+strategy to me once and I gave him
+feedback. He never made that mistake
+again. Human employees, I mean, they
+make mistakes, too. The difference is AI
+learns from every mistake immediately
+and iterates and remembers it. You might
+ask, I don't trust AI with important
+business decisions. Neither do I. That's
+why Max coordinates and I approve all
+the big decisions. I mean, the agents
+job is to suggest, I decide, they
+execute. Perfect division of labor.
+Look, one month ago, I was drowning in
+tasks. Today, I have a team that never
+sleeps, never complains, and gets
+smarter every single week. $140 in
+profit from Nox, $355 in creator revenue
+from Sage, $10,000 views on Nova's video
+suggestion. This isn't about replacing
+human creativity. It's about amplifying
+it with specialists who handle what they
+do best. That being said, if you found
+this video valuable, make sure to hit
+that subscribe button. I'm trying to hit
+10,000 subscribers by the end of 2026.
+And drop a comment. What specialist
+agent would help your business the most?
+Customer service, content creation, data
+analyst? Let me know. See you in the
+next video.

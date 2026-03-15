@@ -1,0 +1,419 @@
+This is the ultimate OpenClaw cost
+optimization guide. If you're setting up
+OpenClaw incorrectly, you might be
+burning through hundreds of dollars of
+API credits, and I was running into the
+same issue. However, I did some in-depth
+research on how to cut your OpenClaw API
+bill costs by 70 to 97%. Check this out.
+I was able to lower it to less than 30
+cents a day. And I'm using different
+models for different use cases and I'm
+currently running on less than 10 cents
+a day and I only spent $2 this month so
+far while I have AI agents running all
+of these processes for me. My agent team
+is really large. So bringing the cost
+down on a day-to-day [music] basis is
+super important. You might consider
+running Mac Mini on your own local
+machine, but you need to be super
+careful because this can be dangerous
+and have serious security implications.
+Because of this, I'm running it on a VPS
+called Hostinger that allows me to run
+this entire setup for around $6.29 a
+month. I'll not only show you exactly
+how to set up OpenClaw on Hostinger with
+just a few clicks, but then I'll show
+you a few models you can use, how to set
+up cost optimization, how to optimize
+your memory and your agents, compact
+your chats, and keep your entire API
+cost very low. Your time is valuable, so
+let's get right to it. And before we get
+into how to set up the cost
+optimization, let me show you why this
+matters in the first place. In my open
+claw, I currently have an agent fleet
+setup of more than 19 agents that
+continuously build different things for
+[music] me or finish tasks. For example,
+I have a content agent, a product agent,
+research agent, I have [music] a deaf
+agent that continues to build cool
+projects for me. All of these projects
+were built autonomously by my AI agent
+and it did all of that while I sleep. It
+has simple apps like a Pomodoro timer. I
+have AI prompt managers that help me
+come up with better prompts. It even
+came up with a thumbnail analyzer for me
+and I just have to paste in my image and
+it analyzes if it's clickworthy and what
+elements I can improve. I have a mission
+control setup that shows me exactly how
+many tokens I use and how much I spent
+this month as well as recent sessions.
+And these are just my web agents. I also
+have other agents that help me with
+different tasks. So, if you want to
+learn more how I set [music] up these
+agents, let me know down in the comments
+and I'll make another video on that. But
+now that you see that I have many agents
+working for me non-stop. It is super
+important to manage my API costs. I
+already have multiple VPSs set up. As
+you can see here, I have two VPSs
+running in parallel. And I'll show you
+exactly step by step how you can set up
+a VPS on Hostinger with a one-click
+deployment. And this is the easiest
+method in my experience on how to set up
+OpenClaw in the first place. If you
+already have OpenClaw installed and you
+want to skip ahead to the cost
+optimization, go ahead. But let's set
+this whole thing up from scratch. I have
+this entire OpenClaw playbook where I
+cover so much more than what we're
+covering in this video. everything from
+the first 15 messages [music] that I
+send all the way down to the strategic
+thinking and decision frameworks and how
+to train your agents to be
+self-improving. If you want access to
+that, check out the link in the
+description. But we will mainly focus on
+this subsection which is part of the
+guide which I'm leaving down below for
+free as well so you can follow along. To
+get started, click on the link in the
+description as well or click on this
+link that I have in the free guide
+below. [music] This brings you to the
+one-click openclaw deployment page and
+it's so easy to set up. Watch that.
+Simply click on choose plan and I
+recommend anyone [music] to use KVM2 or
+KVM4 which gives you 16 GB of RAM which
+is even enough to run some local models.
+Click on choose plan and this normally
+costs $29 a month but if you select the
+24 or 12 month period you get a good
+discount on this as well. And I reached
+out to Hostinger and they even give us
+an additional 10% off if you use the
+coupon code mooler. So with this it's
+only $1.69 [music]
+a month for the 12-month plan or $8.99 a
+month for the 24-month plan. You can
+unselect this plan if you want to
+because we will be using our own API
+keys and choose the server location,
+United States. Click on continue. Login
+with your Google account and go ahead
+and fill out the payment information.
+Hit submit payment and it will set up
+your open claw for you. And while this
+is setting up the VPS, we can already go
+ahead and create a new API key for
+OpenAI and copy this for later. And you
+can do the same for any API provider you
+want. But what I'll show you in this
+video is how you can set up Open Router
+so that you just need to set [music] up
+one API key in order to route to any of
+the models. To do that, go to open
+router.ai. But if you're following along
+in the guide below, I also have a
+special setup guide here that you can
+follow along as well. Sign up to a new
+account, click on settings, API keys,
+and create a new API key. And I'm going
+to give this a credit limit of $10,
+which resets every week. Copy this API
+key as well. This is needed for later.
+Now that we're back at the VPS, you can
+set up your open claw with a few
+configurations. The first thing that you
+see here is your gateway [music] token.
+And this is another key that we need to
+copy, and we'll get back to that in just
+a second. So, copy this somewhere safe.
+And this is now where we set up our Open
+AI [music] API key. Paste that in right
+here. And we're going to skip the other
+ones for now because we will set all of
+this up with the Open Router key in just
+a [music] second. Click deploy. Now that
+OpenClaw is configured, let's start it
+up and implement our cost savings
+techniques. You should see something
+like [music] this. Click on open and
+paste your gateway token right here.
+Click login. And our Open Claw is ready
+to get started. And it's prompting us,
+hey, I'm online and ready. What do you
+want me to do? set up and tackle tasks
+or just ask something. And we can
+respond in simple English. It's now
+asking me for a few things here. And
+[music] I'll just answer them really
+quickly.
+And now that I gave it some information,
+it is saving that to memory. [music] If
+we want to check what model we're using,
+we can simply ask OpenClaw, what model
+are you using? And we can see here by
+default, it's currently using OpenAI GPT
+5.2. But this one is [music] kind of
+expensive. As we can see here in the
+cost optimization guide, GPT5 runs
+around $1.25 to $25 per input tokens and
+$10 per output tokens. But there are
+other models that we can use that get
+similar results. So here's a summary of
+the budget tiers. Here's a summary of
+the mid tiers. And here's a summary of
+the premium tiers. If you're unsure on
+what to use, I made a flowchart in this
+guide [music] as well. We'll set up the
+heartbeat in just a second. We'll either
+use Gemini Flash, but then for general
+questions and brainstorms, [music] we're
+actually going to set up Minimax 2.5
+because this is very cheap and really
+powerful. For coding tasks and technical
+work, you can use a cheap model like
+Deepseek V3.2.
+&gt;&gt; [music]
+&gt;&gt; 2 or GLM5 or for really complex models
+use claude opus 4.6 six, but this is
+also the most expensive [music] model.
+And for other decisions, you can see
+here for writing, for example, I choose
+clouds on 4.5. And for everything else,
+I'm using minimax 2.5. Now, to set this
+up, I'm using Open Router. The easiest
+way to set this up is to ask Open Router
+itself to configure Open Route as the
+default model provider. [music] And you
+give it the API key. And after that, you
+can copy in this long prompt right
+[music] here in order to know what kind
+of models are available on Open Router.
+But this is actually not the most secure
+way of doing it because it will save
+your open router API key in the config
+[music] file. So to make it more secure,
+go back to your hostinger dashboard and
+simply look for docker manager projects
+and click on [music] settings. Click on
+projects. Click on manage. And now in
+the bottom here we see something called
+environment. Once you click on
+environment, you can see that you can
+import your API keys right here. Simply
+click on new environment and add your
+open router API key and paste it in
+right here from the open router API key
+that we set up earlier. Hit save. And we
+already have that set up right here. And
+this is probably the hardest part of all
+of this. Now that our environment
+variable is set up, you can go back to
+this text that we have right here. And
+we can copy this exact prompt. And let's
+paste in the prompt [music] right into
+this chat window. Hit send. And we can
+see now that we have selected the
+primary model which is Minax. And we
+have fallback options right here. If you
+get any error at this point, simply copy
+and paste that [music] error into CGPT
+and have it help you with the setup.
+What might also help is to go over to
+your config file right here and click on
+raw and you can paste in the exact raw
+JSON file into CGPT to help you
+troubleshoot it. But in the end, you
+should look something like this. You
+[music] should have the models with
+merge. You should have a base URL with
+the open router API. And then you should
+see the different models that we set up
+here. We see Minimax, we see GLM5,
+Gemini 2.5 Flash, and [music] so on and
+so forth. And I pasted how this raw file
+should look like right here. And if you
+want to switch models along the way, for
+example, if we want to use sonnet for
+creative writing, simply use the command
+forward/model and sonnet. [music] And we
+can see that it easily switches the
+models. So now when we ask what model
+are you using, it now shows us that
+we're using the claude sonnet model via
+the open router API [music] key. And you
+can start your creative writing process.
+But there is more. Switching to a
+cheaper model saves you between 70 and
+80% of token usage overall. But now I'll
+show you four more simple messages you
+can prompt into OpenClaw in order to
+save even more on your API costs. The
+second thing here is to set up smart
+heartbeats. [music] A heartbeat is a
+regular interval where Open Claw checks
+in with itself and checks if there's
+anything that it needs to do. So we can
+set the heartbeat interval to 55 minutes
+or 60 minutes instead of the default 30
+minutes. Or you can set it to shorter if
+you want OpenClaw to run non-stop. We'll
+use the flashlight model which is the
+cheapest available model and we'll set
+the heartbeat target to last. Simply
+copy this, move this over to openclaw.
+I'm going to start a new session [music]
+and I paste in the exact prompt here. We
+can see that the interval is at 60
+minutes. The model is using the
+flashlight model and then the target
+[music] is last. All right, that was
+super easy already. Let's go to the next
+one. Now, we're going to limit the
+context window and this can save another
+80% in overhead reduction. We'll do that
+with two simple prompts. First, we'll
+ask it to add the session management
+rule to my system prompt. And we'll tell
+it what it's doing. You operate in
+sessions that accumulate text over time,
+when to reset, after 15 exchanges or
+after 30 minutes of continuous
+conversation before switching to a
+different task domain or when you notice
+that you forgotten early context. The
+reset instructions use this command
+for/reset. And the best practice is to
+output two or three sentence of what it
+learned. This preserves some of the
+knowledge while clearing the context
+[music] weight. If you do want a little
+bit more context, you can switch this
+maybe to 30 exchanges and 100,000
+tokens. But keep in mind, the bigger
+this number is, the more context it will
+accumulate over [music] time, and each
+prom message will take more tokens. So,
+we'll copy this message, and we'll paste
+it in right here. And we can see here
+that it updated its memory and added a
+session management cost control part
+[music] to this entire chat. And we can
+see now that the rules are updated in
+the agents.mmpt file. [music] We can
+trigger this manually by using
+forward/reset. And we can see here that
+it implemented these changes. and it's
+starting [music] a new session. The
+follow-up prompt to this is to copy this
+text, which is to configure memory flush
+for compaction. I'm asking it to enable
+memory flush before compacting uh with a
+soft threshold of 4,000 token. You can
+change this to higher if you wanted to
+have a little bit more context. And this
+prevents important context from being
+lost while the session is compacted. And
+we wanted [music] to confirm that the
+changes are applied. Just paste that in.
+And it confirmed that it configured
+memory flush before compacting is
+already enabled. Wonderful. Now to the
+next configuration. This one is to
+enable prompt caching. This can give us
+a 90% discount on repeat content that we
+send to the models consistently. So we
+copy this, paste it in here, hit enter,
+[music] and it actually tells us that
+caching is handled automatically by open
+router. So we don't have to deal with
+that within our open claw. But if you're
+using another API key, for example, open
+AI or anthropic, then you want to set
+this up. And now to the fifth step that
+lets you set budgets and guardrails. For
+this, you can paste a prompt that says
+something along the lines of this, which
+gives it a hard limit on how many API
+calls it can do. However, sometimes you
+might run into problems because you're
+working on longer projects or you need
+more than the maximum token output per
+day. And in this case, I would set this
+limit to much higher. But in general, if
+you're really concerned on how much
+you're spending on your API costs, I
+would copy [music] and paste this prompt
+here in as well. But just keep in mind
+when you're setting this up that you
+implemented this because sometimes you
+might run into the issue that it
+prevents you from doing a certain task
+because you're exceeding these [music]
+uh constraints that you're setting up.
+And that brings us to a few more bonus
+tips that you can set up in order for it
+to be self-optimizing and in order to
+use Open Claw the most efficient way.
+One of this is to implement a tool
+output efficiency rule which shows that
+it should filter for relevance,
+summarize large JSON responses and ask
+does the user need all of 500 lines or
+just the error. [music] Another one is a
+self-optimization rule and this is a
+continuous cost awareness where [music]
+it tracks my behavior and it checks how
+many model switches per day, how many
+tool calls per question, and when do
+[music] you hit compaction. Let's also
+paste that in here. Now that you've done
+all of this, you can check the
+verification checklist to see that
+you've implemented all of these
+different steps. There are some
+instructions for troubleshooting. And if
+you're wondering how much this really
+saves for my scenario where I'm running
+24/7 agents running idle, if you go with
+the Opus 4.6 6 defaults or the best
+model. [music] This might cost you about
+$1,000 per month. But with this new
+cheap model plus caching, this can be as
+low as a dollar a month if implemented
+correctly. If you have any questions
+about how to set any of this up, I would
+first recommend to use Chat GPT or
+Gemini in order to troubleshoot it. And
+if if that still doesn't work out, you
+can ask some questions down below in the
+comments. I'll try to answer all of them
+for the first few days of this video
+going live. And I also want to hear what
+other tips and tricks [music] you might
+have that I missed in this video. If you
+want to support the channel and you want
+to get 10% off, use the link below in
+order to get started on your hosting or
+VPS and set up OpenClaw in just a few
+minutes. And I have another video on the
+first 15 prompts after you set up cost
+optimization that you can check out
+right here. And if you like the video,
+like the video. And if you subscribed,
+I'll see you in the next

@@ -1,0 +1,3040 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.160 --> 00:00:04.950 align:start position:0%
+ 
+This<00:00:00.560><c> is</c><00:00:00.719><c> a</c><00:00:00.960><c> pocket-size</c><00:00:02.399><c> 8</c><00:00:02.720><c> terbte</c><00:00:03.840><c> NVME</c><00:00:04.480><c> NAS</c>
+
+00:00:04.950 --> 00:00:04.960 align:start position:0%
+This is a pocket-size 8 terbte NVME NAS
+ 
+
+00:00:04.960 --> 00:00:07.829 align:start position:0%
+This is a pocket-size 8 terbte NVME NAS
+that<00:00:05.359><c> runs</c><00:00:05.759><c> locally</c><00:00:06.480><c> on</c><00:00:06.720><c> a</c><00:00:06.879><c> Raspberry</c><00:00:07.359><c> Pi.</c><00:00:07.680><c> But</c>
+
+00:00:07.829 --> 00:00:07.839 align:start position:0%
+that runs locally on a Raspberry Pi. But
+ 
+
+00:00:07.839 --> 00:00:09.990 align:start position:0%
+that runs locally on a Raspberry Pi. But
+here's<00:00:08.160><c> why</c><00:00:08.480><c> this</c><00:00:08.800><c> is</c><00:00:09.040><c> different</c><00:00:09.360><c> from</c><00:00:09.760><c> all</c>
+
+00:00:09.990 --> 00:00:10.000 align:start position:0%
+here's why this is different from all
+ 
+
+00:00:10.000 --> 00:00:12.390 align:start position:0%
+here's why this is different from all
+the<00:00:10.240><c> PI</c><00:00:10.559><c> NAS</c><00:00:10.960><c> tutorials</c><00:00:11.519><c> that</c><00:00:11.759><c> you</c><00:00:11.920><c> have</c><00:00:12.080><c> seen</c>
+
+00:00:12.390 --> 00:00:12.400 align:start position:0%
+the PI NAS tutorials that you have seen
+ 
+
+00:00:12.400 --> 00:00:13.270 align:start position:0%
+the PI NAS tutorials that you have seen
+online.<00:00:12.445><c> [music]</c>
+
+00:00:13.270 --> 00:00:13.280 align:start position:0%
+online. [music]
+ 
+
+00:00:13.280 --> 00:00:17.990 align:start position:0%
+online. [music]
+This<00:00:13.599><c> one</c><00:00:14.240><c> actually</c><00:00:14.719><c> has</c><00:00:15.360><c> a</c><00:00:15.679><c> local</c><00:00:16.320><c> Quen</c><00:00:16.880><c> 3.5</c>
+
+00:00:17.990 --> 00:00:18.000 align:start position:0%
+This one actually has a local Quen 3.5
+ 
+
+00:00:18.000 --> 00:00:21.750 align:start position:0%
+This one actually has a local Quen 3.5
+latest<00:00:18.800><c> AI</c><00:00:19.279><c> agent</c><00:00:20.000><c> baked</c><00:00:20.400><c> onto</c><00:00:20.720><c> it,</c><00:00:21.279><c> which</c><00:00:21.600><c> by</c>
+
+00:00:21.750 --> 00:00:21.760 align:start position:0%
+latest AI agent baked onto it, which by
+ 
+
+00:00:21.760 --> 00:00:24.150 align:start position:0%
+latest AI agent baked onto it, which by
+the<00:00:21.920><c> way</c><00:00:22.160><c> runs</c><00:00:22.800><c> completely</c><00:00:23.439><c> locally,</c>
+
+00:00:24.150 --> 00:00:24.160 align:start position:0%
+the way runs completely locally,
+ 
+
+00:00:24.160 --> 00:00:26.630 align:start position:0%
+the way runs completely locally,
+allowing<00:00:24.560><c> you</c><00:00:24.720><c> to</c><00:00:24.880><c> do</c><00:00:25.119><c> advanced</c><00:00:25.760><c> file</c><00:00:26.080><c> search,</c>
+
+00:00:26.630 --> 00:00:26.640 align:start position:0%
+allowing you to do advanced file search,
+ 
+
+00:00:26.640 --> 00:00:29.029 align:start position:0%
+allowing you to do advanced file search,
+summarize<00:00:27.199><c> your</c><00:00:27.519><c> files,</c><00:00:28.080><c> organize</c><00:00:28.560><c> all</c><00:00:28.800><c> your</c>
+
+00:00:29.029 --> 00:00:29.039 align:start position:0%
+summarize your files, organize all your
+ 
+
+00:00:29.039 --> 00:00:31.589 align:start position:0%
+summarize your files, organize all your
+data<00:00:29.199><c> on</c><00:00:29.439><c> the</c><00:00:29.599><c> NAS</c><00:00:30.160><c> and</c><00:00:30.480><c> even</c><00:00:30.720><c> more.</c><00:00:31.119><c> And</c><00:00:31.279><c> yeah,</c>
+
+00:00:31.589 --> 00:00:31.599 align:start position:0%
+data on the NAS and even more. And yeah,
+ 
+
+00:00:31.599 --> 00:00:34.069 align:start position:0%
+data on the NAS and even more. And yeah,
+you<00:00:31.840><c> can</c><00:00:32.000><c> access</c><00:00:32.480><c> all</c><00:00:32.719><c> your</c><00:00:33.040><c> data</c><00:00:33.760><c> through</c>
+
+00:00:34.069 --> 00:00:34.079 align:start position:0%
+you can access all your data through
+ 
+
+00:00:34.079 --> 00:00:36.950 align:start position:0%
+you can access all your data through
+your<00:00:34.800><c> MacBook,</c><00:00:35.440><c> your</c><00:00:35.680><c> Windows</c><00:00:36.079><c> laptop,</c><00:00:36.640><c> your</c>
+
+00:00:36.950 --> 00:00:36.960 align:start position:0%
+your MacBook, your Windows laptop, your
+ 
+
+00:00:36.960 --> 00:00:39.510 align:start position:0%
+your MacBook, your Windows laptop, your
+Android<00:00:37.360><c> or</c><00:00:37.600><c> iPhone</c><00:00:38.160><c> from</c><00:00:38.640><c> anywhere</c><00:00:39.120><c> in</c><00:00:39.360><c> the</c>
+
+00:00:39.510 --> 00:00:39.520 align:start position:0%
+Android or iPhone from anywhere in the
+ 
+
+00:00:39.520 --> 00:00:41.670 align:start position:0%
+Android or iPhone from anywhere in the
+world.<00:00:39.920><c> An</c><00:00:40.160><c> average</c><00:00:40.480><c> person</c><00:00:40.879><c> here</c><00:00:41.200><c> spends</c>
+
+00:00:41.670 --> 00:00:41.680 align:start position:0%
+world. An average person here spends
+ 
+
+00:00:41.680 --> 00:00:45.110 align:start position:0%
+world. An average person here spends
+anywhere<00:00:42.160><c> from</c><00:00:42.640><c> 10</c><00:00:43.360><c> up</c><00:00:43.520><c> to</c><00:00:43.920><c> $50</c><00:00:44.640><c> a</c><00:00:44.879><c> month</c>
+
+00:00:45.110 --> 00:00:45.120 align:start position:0%
+anywhere from 10 up to $50 a month
+ 
+
+00:00:45.120 --> 00:00:47.430 align:start position:0%
+anywhere from 10 up to $50 a month
+behind<00:00:45.600><c> storage,</c><00:00:46.160><c> including</c><00:00:46.719><c> myself</c><00:00:47.120><c> where</c><00:00:47.360><c> I</c>
+
+00:00:47.430 --> 00:00:47.440 align:start position:0%
+behind storage, including myself where I
+ 
+
+00:00:47.440 --> 00:00:49.110 align:start position:0%
+behind storage, including myself where I
+used<00:00:47.600><c> to</c><00:00:47.760><c> spend</c><00:00:48.000><c> money</c><00:00:48.160><c> for</c><00:00:48.480><c> Google</c><00:00:48.800><c> Drive,</c>
+
+00:00:49.110 --> 00:00:49.120 align:start position:0%
+used to spend money for Google Drive,
+ 
+
+00:00:49.120 --> 00:00:51.990 align:start position:0%
+used to spend money for Google Drive,
+for<00:00:49.360><c> One</c><00:00:49.680><c> Drive,</c><00:00:50.079><c> for</c><00:00:50.320><c> iCloud.</c><00:00:51.360><c> But</c><00:00:51.600><c> I'm</c>
+
+00:00:51.990 --> 00:00:52.000 align:start position:0%
+for One Drive, for iCloud. But I'm
+ 
+
+00:00:52.000 --> 00:00:54.470 align:start position:0%
+for One Drive, for iCloud. But I'm
+ending<00:00:52.480><c> all</c><00:00:52.719><c> of</c><00:00:52.879><c> that</c><00:00:53.280><c> with</c><00:00:53.600><c> just</c><00:00:53.840><c> this.</c><00:00:54.239><c> This</c>
+
+00:00:54.470 --> 00:00:54.480 align:start position:0%
+ending all of that with just this. This
+ 
+
+00:00:54.480 --> 00:00:57.990 align:start position:0%
+ending all of that with just this. This
+has<00:00:54.879><c> 8</c><00:00:55.199><c> TB</c><00:00:55.840><c> of</c><00:00:56.000><c> memory,</c><00:00:56.559><c> enough</c><00:00:57.360><c> for</c><00:00:57.600><c> me</c><00:00:57.760><c> to</c>
+
+00:00:57.990 --> 00:00:58.000 align:start position:0%
+has 8 TB of memory, enough for me to
+ 
+
+00:00:58.000 --> 00:01:00.549 align:start position:0%
+has 8 TB of memory, enough for me to
+store<00:00:58.399><c> all</c><00:00:58.640><c> my</c><00:00:58.960><c> images,</c><00:00:59.520><c> my</c><00:00:59.760><c> files,</c><00:01:00.160><c> and</c><00:01:00.399><c> my</c>
+
+00:01:00.549 --> 00:01:00.559 align:start position:0%
+store all my images, my files, and my
+ 
+
+00:01:00.559 --> 00:01:03.029 align:start position:0%
+store all my images, my files, and my
+data<00:01:01.280><c> locally,</c><00:01:01.840><c> and</c><00:01:02.160><c> sync</c><00:01:02.480><c> it</c><00:01:02.640><c> with</c><00:01:02.800><c> my</c>
+
+00:01:03.029 --> 00:01:03.039 align:start position:0%
+data locally, and sync it with my
+ 
+
+00:01:03.039 --> 00:01:05.270 align:start position:0%
+data locally, and sync it with my
+MacBook<00:01:03.600><c> and</c><00:01:03.840><c> my</c><00:01:04.000><c> iPhone</c><00:01:04.559><c> completely</c><00:01:05.040><c> for</c>
+
+00:01:05.270 --> 00:01:05.280 align:start position:0%
+MacBook and my iPhone completely for
+ 
+
+00:01:05.280 --> 00:01:06.950 align:start position:0%
+MacBook and my iPhone completely for
+free<00:01:05.600><c> from</c><00:01:05.920><c> anywhere</c><00:01:06.320><c> in</c><00:01:06.479><c> the</c><00:01:06.640><c> world.</c><00:01:06.799><c> And</c>
+
+00:01:06.950 --> 00:01:06.960 align:start position:0%
+free from anywhere in the world. And
+ 
+
+00:01:06.960 --> 00:01:09.420 align:start position:0%
+free from anywhere in the world. And
+yes,<00:01:07.600><c> you</c><00:01:07.920><c> are</c><00:01:08.080><c> not</c><00:01:08.320><c> paying</c><00:01:08.720><c> a</c><00:01:08.960><c> single</c><00:01:09.360><c> penny</c>
+
+00:01:09.420 --> 00:01:09.430 align:start position:0%
+yes, you are not paying a single penny
+ 
+
+00:01:09.430 --> 00:01:11.910 align:start position:0%
+yes, you are not paying a single penny
+[music]<00:01:09.760><c> for</c><00:01:10.000><c> any</c><00:01:10.240><c> of</c><00:01:10.400><c> this.</c><00:01:10.960><c> This</c><00:01:11.360><c> completely</c>
+
+00:01:11.910 --> 00:01:11.920 align:start position:0%
+[music] for any of this. This completely
+ 
+
+00:01:11.920 --> 00:01:16.310 align:start position:0%
+[music] for any of this. This completely
+runs<00:01:12.240><c> locally</c><00:01:13.119><c> on</c><00:01:13.360><c> just</c><00:01:14.320><c> 15</c><00:01:14.640><c> to</c><00:01:14.960><c> 20</c><00:01:15.200><c> W</c><00:01:15.520><c> of</c><00:01:15.760><c> power</c>
+
+00:01:16.310 --> 00:01:16.320 align:start position:0%
+runs locally on just 15 to 20 W of power
+ 
+
+00:01:16.320 --> 00:01:19.109 align:start position:0%
+runs locally on just 15 to 20 W of power
+on<00:01:16.640><c> this</c><00:01:16.880><c> Raspberry</c><00:01:17.360><c> Pi.</c><00:01:17.680><c> A</c><00:01:17.920><c> quick</c><00:01:18.080><c> note</c><00:01:18.640><c> to</c>
+
+00:01:19.109 --> 00:01:19.119 align:start position:0%
+on this Raspberry Pi. A quick note to
+ 
+
+00:01:19.119 --> 00:01:21.109 align:start position:0%
+on this Raspberry Pi. A quick note to
+actually<00:01:19.600><c> set</c><00:01:19.840><c> up</c><00:01:20.000><c> your</c><00:01:20.240><c> Raspberry</c><00:01:20.640><c> Pi,</c><00:01:20.960><c> to</c>
+
+00:01:21.109 --> 00:01:21.119 align:start position:0%
+actually set up your Raspberry Pi, to
+ 
+
+00:01:21.119 --> 00:01:23.429 align:start position:0%
+actually set up your Raspberry Pi, to
+set<00:01:21.280><c> up</c><00:01:21.439><c> your</c><00:01:21.680><c> micro</c><00:01:22.000><c> SD</c><00:01:22.400><c> card</c><00:01:22.640><c> to</c><00:01:22.880><c> load</c><00:01:23.200><c> the</c>
+
+00:01:23.429 --> 00:01:23.439 align:start position:0%
+set up your micro SD card to load the
+ 
+
+00:01:23.439 --> 00:01:26.710 align:start position:0%
+set up your micro SD card to load the
+data<00:01:23.680><c> on,</c><00:01:24.240><c> all</c><00:01:24.479><c> of</c><00:01:24.720><c> that</c><00:01:25.439><c> is</c><00:01:25.680><c> done</c><00:01:26.159><c> step</c><00:01:26.479><c> by</c>
+
+00:01:26.710 --> 00:01:26.720 align:start position:0%
+data on, all of that is done step by
+ 
+
+00:01:26.720 --> 00:01:28.710 align:start position:0%
+data on, all of that is done step by
+step<00:01:26.960><c> in</c><00:01:27.280><c> this</c><00:01:27.520><c> video</c><00:01:27.759><c> that</c><00:01:28.000><c> is</c><00:01:28.159><c> flashing</c><00:01:28.560><c> on</c>
+
+00:01:28.710 --> 00:01:28.720 align:start position:0%
+step in this video that is flashing on
+ 
+
+00:01:28.720 --> 00:01:30.469 align:start position:0%
+step in this video that is flashing on
+the<00:01:28.880><c> I</c><00:01:29.040><c> button</c><00:01:29.360><c> and</c><00:01:29.520><c> also</c><00:01:29.759><c> link</c><00:01:30.000><c> below</c><00:01:30.159><c> in</c><00:01:30.320><c> the</c>
+
+00:01:30.469 --> 00:01:30.479 align:start position:0%
+the I button and also link below in the
+ 
+
+00:01:30.479 --> 00:01:32.310 align:start position:0%
+the I button and also link below in the
+description.<00:01:31.280><c> So,</c><00:01:31.439><c> I'm</c><00:01:31.600><c> not</c><00:01:31.759><c> going</c><00:01:31.920><c> to</c><00:01:32.000><c> repeat</c>
+
+00:01:32.310 --> 00:01:32.320 align:start position:0%
+description. So, I'm not going to repeat
+ 
+
+00:01:32.320 --> 00:01:33.910 align:start position:0%
+description. So, I'm not going to repeat
+that<00:01:32.560><c> again</c><00:01:32.799><c> to</c><00:01:33.040><c> make</c><00:01:33.200><c> this</c><00:01:33.439><c> video</c><00:01:33.680><c> even</c>
+
+00:01:33.910 --> 00:01:33.920 align:start position:0%
+that again to make this video even
+ 
+
+00:01:33.920 --> 00:01:35.830 align:start position:0%
+that again to make this video even
+longer.<00:01:34.400><c> Please</c><00:01:34.720><c> follow</c><00:01:34.960><c> that.</c><00:01:35.280><c> It's</c><00:01:35.600><c> super</c>
+
+00:01:35.830 --> 00:01:35.840 align:start position:0%
+longer. Please follow that. It's super
+ 
+
+00:01:35.840 --> 00:01:38.390 align:start position:0%
+longer. Please follow that. It's super
+easy<00:01:36.000><c> to</c><00:01:36.240><c> set</c><00:01:36.400><c> the</c><00:01:36.560><c> setup</c><00:01:36.960><c> micro</c><00:01:37.280><c> SD</c><00:01:37.600><c> card</c><00:01:37.840><c> up.</c>
+
+00:01:38.390 --> 00:01:38.400 align:start position:0%
+easy to set the setup micro SD card up.
+ 
+
+00:01:38.400 --> 00:01:40.469 align:start position:0%
+easy to set the setup micro SD card up.
+But<00:01:38.640><c> once</c><00:01:38.960><c> that</c><00:01:39.200><c> is</c><00:01:39.439><c> ready</c><00:01:39.680><c> and</c><00:01:40.000><c> you're</c>
+
+00:01:40.469 --> 00:01:40.479 align:start position:0%
+But once that is ready and you're
+ 
+
+00:01:40.479 --> 00:01:43.270 align:start position:0%
+But once that is ready and you're
+actually<00:01:40.960><c> ready</c><00:01:41.119><c> to</c><00:01:41.439><c> SSH</c><00:01:42.000><c> into</c><00:01:42.240><c> the</c><00:01:42.320><c> Pi,</c><00:01:42.960><c> let's</c>
+
+00:01:43.270 --> 00:01:43.280 align:start position:0%
+actually ready to SSH into the Pi, let's
+ 
+
+00:01:43.280 --> 00:01:45.429 align:start position:0%
+actually ready to SSH into the Pi, let's
+continue<00:01:43.680><c> from</c><00:01:43.920><c> there.</c><00:01:44.560><c> And</c><00:01:44.799><c> basically</c><00:01:45.200><c> to</c>
+
+00:01:45.429 --> 00:01:45.439 align:start position:0%
+continue from there. And basically to
+ 
+
+00:01:45.439 --> 00:01:47.749 align:start position:0%
+continue from there. And basically to
+give<00:01:45.600><c> you</c><00:01:45.840><c> idea</c><00:01:46.159><c> in</c><00:01:46.399><c> this</c><00:01:46.560><c> video,</c><00:01:47.040><c> first</c><00:01:47.439><c> we</c>
+
+00:01:47.749 --> 00:01:47.759 align:start position:0%
+give you idea in this video, first we
+ 
+
+00:01:47.759 --> 00:01:50.870 align:start position:0%
+give you idea in this video, first we
+will<00:01:47.920><c> learn</c><00:01:48.240><c> how</c><00:01:48.479><c> to</c><00:01:48.720><c> initialize</c><00:01:49.520><c> the</c><00:01:50.240><c> NVME</c>
+
+00:01:50.870 --> 00:01:50.880 align:start position:0%
+will learn how to initialize the NVME
+ 
+
+00:01:50.880 --> 00:01:53.990 align:start position:0%
+will learn how to initialize the NVME
+SSD<00:01:51.439><c> on</c><00:01:51.759><c> the</c><00:01:52.000><c> Raspberry</c><00:01:52.479><c> Pi.</c><00:01:53.360><c> Then</c><00:01:53.600><c> we'll</c>
+
+00:01:53.990 --> 00:01:54.000 align:start position:0%
+SSD on the Raspberry Pi. Then we'll
+ 
+
+00:01:54.000 --> 00:01:56.630 align:start position:0%
+SSD on the Raspberry Pi. Then we'll
+install<00:01:54.479><c> Nextcloud.</c><00:01:55.600><c> Then</c><00:01:55.759><c> we'll</c><00:01:56.079><c> install</c>
+
+00:01:56.630 --> 00:01:56.640 align:start position:0%
+install Nextcloud. Then we'll install
+ 
+
+00:01:56.640 --> 00:01:59.350 align:start position:0%
+install Nextcloud. Then we'll install
+Tail<00:01:57.040><c> Scale.</c><00:01:57.840><c> That</c><00:01:58.079><c> will</c><00:01:58.320><c> basically</c><00:01:58.799><c> allow</c><00:01:59.119><c> us</c>
+
+00:01:59.350 --> 00:01:59.360 align:start position:0%
+Tail Scale. That will basically allow us
+ 
+
+00:01:59.360 --> 00:02:01.749 align:start position:0%
+Tail Scale. That will basically allow us
+to<00:01:59.680><c> SSH</c><00:02:00.320><c> from</c><00:02:00.640><c> anywhere</c><00:02:01.040><c> in</c><00:02:01.280><c> the</c><00:02:01.520><c> world.</c>
+
+00:02:01.749 --> 00:02:01.759 align:start position:0%
+to SSH from anywhere in the world.
+ 
+
+00:02:01.759 --> 00:02:04.389 align:start position:0%
+to SSH from anywhere in the world.
+Finally,<00:02:02.560><c> we</c><00:02:02.880><c> will</c><00:02:03.119><c> basically</c><00:02:03.920><c> go</c><00:02:04.159><c> through</c>
+
+00:02:04.389 --> 00:02:04.399 align:start position:0%
+Finally, we will basically go through
+ 
+
+00:02:04.399 --> 00:02:07.030 align:start position:0%
+Finally, we will basically go through
+the<00:02:04.719><c> architecture</c><00:02:05.360><c> of</c><00:02:05.600><c> the</c><00:02:05.840><c> local</c><00:02:06.240><c> AI</c><00:02:06.640><c> bot</c>
+
+00:02:07.030 --> 00:02:07.040 align:start position:0%
+the architecture of the local AI bot
+ 
+
+00:02:07.040 --> 00:02:09.910 align:start position:0%
+the architecture of the local AI bot
+that<00:02:07.360><c> runs</c><00:02:07.759><c> on</c><00:02:08.000><c> the</c><00:02:08.160><c> Pi</c><00:02:08.479><c> that</c><00:02:08.720><c> lets</c><00:02:08.959><c> you</c><00:02:09.200><c> do</c><00:02:09.759><c> all</c>
+
+00:02:09.910 --> 00:02:09.920 align:start position:0%
+that runs on the Pi that lets you do all
+ 
+
+00:02:09.920 --> 00:02:12.309 align:start position:0%
+that runs on the Pi that lets you do all
+the<00:02:10.160><c> smart</c><00:02:10.560><c> things</c><00:02:11.039><c> with</c><00:02:11.360><c> the</c><00:02:11.520><c> NAS</c><00:02:12.311><c> [music]</c>
+
+00:02:12.309 --> 00:02:12.319 align:start position:0%
+the smart things with the NAS [music]
+ 
+
+00:02:12.319 --> 00:02:14.949 align:start position:0%
+the smart things with the NAS [music]
+and<00:02:12.879><c> then</c><00:02:13.120><c> we'll</c><00:02:13.440><c> wrap</c><00:02:13.680><c> this</c><00:02:14.000><c> video</c><00:02:14.239><c> up</c><00:02:14.560><c> with</c>
+
+00:02:14.949 --> 00:02:14.959 align:start position:0%
+and then we'll wrap this video up with
+ 
+
+00:02:14.959 --> 00:02:17.990 align:start position:0%
+and then we'll wrap this video up with
+future<00:02:15.440><c> plans</c><00:02:16.160><c> to</c><00:02:16.560><c> expand</c><00:02:17.040><c> this</c><00:02:17.360><c> into</c><00:02:17.680><c> even</c>
+
+00:02:17.990 --> 00:02:18.000 align:start position:0%
+future plans to expand this into even
+ 
+
+00:02:18.000 --> 00:02:22.390 align:start position:0%
+future plans to expand this into even
+bigger<00:02:18.400><c> project.</c>
+
+00:02:22.390 --> 00:02:22.400 align:start position:0%
+ 
+ 
+
+00:02:22.400 --> 00:02:24.550 align:start position:0%
+ 
+All<00:02:22.480><c> right,</c><00:02:22.800><c> to</c><00:02:23.040><c> build</c><00:02:23.280><c> this</c><00:02:23.680><c> first</c><00:02:24.160><c> you</c><00:02:24.319><c> would</c>
+
+00:02:24.550 --> 00:02:24.560 align:start position:0%
+All right, to build this first you would
+ 
+
+00:02:24.560 --> 00:02:26.790 align:start position:0%
+All right, to build this first you would
+of<00:02:24.720><c> course</c><00:02:25.040><c> need</c><00:02:25.280><c> a</c><00:02:25.520><c> Raspberry</c><00:02:26.080><c> Pi.</c><00:02:26.480><c> In</c><00:02:26.640><c> this</c>
+
+00:02:26.790 --> 00:02:26.800 align:start position:0%
+of course need a Raspberry Pi. In this
+ 
+
+00:02:26.800 --> 00:02:28.790 align:start position:0%
+of course need a Raspberry Pi. In this
+case,<00:02:26.959><c> this</c><00:02:27.120><c> is</c><00:02:27.200><c> a</c><00:02:27.360><c> Raspberry</c><00:02:27.380><c> [music]</c><00:02:27.840><c> Pi</c><00:02:28.160><c> 58</c>
+
+00:02:28.790 --> 00:02:28.800 align:start position:0%
+case, this is a Raspberry [music] Pi 58
+ 
+
+00:02:28.800 --> 00:02:32.630 align:start position:0%
+case, this is a Raspberry [music] Pi 58
+GB<00:02:29.360><c> version.</c><00:02:30.160><c> It's</c><00:02:30.400><c> plenty</c><00:02:30.800><c> fast.</c><00:02:31.520><c> Should</c><00:02:32.000><c> be</c>
+
+00:02:32.630 --> 00:02:32.640 align:start position:0%
+GB version. It's plenty fast. Should be
+ 
+
+00:02:32.640 --> 00:02:34.470 align:start position:0%
+GB version. It's plenty fast. Should be
+perfectly<00:02:33.440><c> okay</c><00:02:33.760><c> for</c><00:02:34.000><c> the</c><00:02:34.160><c> kind</c><00:02:34.239><c> of</c><00:02:34.319><c> stuff</c>
+
+00:02:34.470 --> 00:02:34.480 align:start position:0%
+perfectly okay for the kind of stuff
+ 
+
+00:02:34.480 --> 00:02:35.830 align:start position:0%
+perfectly okay for the kind of stuff
+that<00:02:34.581><c> [music]</c><00:02:34.640><c> you're</c><00:02:34.879><c> trying</c><00:02:34.959><c> to</c><00:02:35.120><c> do.</c><00:02:35.680><c> So,</c>
+
+00:02:35.830 --> 00:02:35.840 align:start position:0%
+that [music] you're trying to do. So,
+ 
+
+00:02:35.840 --> 00:02:37.750 align:start position:0%
+that [music] you're trying to do. So,
+that's<00:02:36.080><c> that.</c><00:02:36.640><c> Of</c><00:02:36.800><c> course,</c><00:02:36.959><c> to</c><00:02:37.200><c> power</c><00:02:37.440><c> this,</c>
+
+00:02:37.750 --> 00:02:37.760 align:start position:0%
+that's that. Of course, to power this,
+ 
+
+00:02:37.760 --> 00:02:40.710 align:start position:0%
+that's that. Of course, to power this,
+you<00:02:37.920><c> would</c><00:02:38.080><c> need</c><00:02:38.400><c> a</c><00:02:38.720><c> power</c><00:02:39.040><c> brick.</c><00:02:39.760><c> I</c><00:02:40.319><c> really,</c>
+
+00:02:40.710 --> 00:02:40.720 align:start position:0%
+you would need a power brick. I really,
+ 
+
+00:02:40.720 --> 00:02:42.949 align:start position:0%
+you would need a power brick. I really,
+really<00:02:41.200><c> recommend</c><00:02:41.680><c> you</c><00:02:42.000><c> to</c><00:02:42.160><c> invest</c><00:02:42.480><c> in</c><00:02:42.640><c> a</c>
+
+00:02:42.949 --> 00:02:42.959 align:start position:0%
+really recommend you to invest in a
+ 
+
+00:02:42.959 --> 00:02:44.949 align:start position:0%
+really recommend you to invest in a
+decent<00:02:43.360><c> power</c><00:02:43.599><c> brick.</c><00:02:43.840><c> This</c><00:02:44.000><c> is</c><00:02:44.080><c> a</c><00:02:44.239><c> 25</c><00:02:44.640><c> watt</c>
+
+00:02:44.949 --> 00:02:44.959 align:start position:0%
+decent power brick. This is a 25 watt
+ 
+
+00:02:44.959 --> 00:02:46.790 align:start position:0%
+decent power brick. This is a 25 watt
+one.<00:02:45.519><c> This</c><00:02:45.760><c> is</c><00:02:45.840><c> what</c><00:02:46.000><c> I</c><00:02:46.239><c> would</c><00:02:46.400><c> recommend.</c>
+
+00:02:46.790 --> 00:02:46.800 align:start position:0%
+one. This is what I would recommend.
+ 
+
+00:02:46.800 --> 00:02:49.990 align:start position:0%
+one. This is what I would recommend.
+Don't<00:02:47.040><c> buy</c><00:02:47.360><c> the</c><00:02:47.599><c> cheap</c><00:02:47.920><c> ones.</c><00:02:49.360><c> Underpowering</c>
+
+00:02:49.990 --> 00:02:50.000 align:start position:0%
+Don't buy the cheap ones. Underpowering
+ 
+
+00:02:50.000 --> 00:02:52.470 align:start position:0%
+Don't buy the cheap ones. Underpowering
+a<00:02:50.160><c> Raspberry</c><00:02:50.560><c> Pi</c><00:02:51.440><c> does</c><00:02:51.611><c> [music]</c><00:02:51.760><c> not</c><00:02:52.080><c> end</c><00:02:52.239><c> up</c>
+
+00:02:52.470 --> 00:02:52.480 align:start position:0%
+a Raspberry Pi does [music] not end up
+ 
+
+00:02:52.480 --> 00:02:54.710 align:start position:0%
+a Raspberry Pi does [music] not end up
+well<00:02:52.720><c> in</c><00:02:52.879><c> a</c><00:02:53.120><c> lot</c><00:02:53.200><c> of</c><00:02:53.280><c> cases.</c><00:02:53.840><c> So,</c><00:02:54.080><c> invest</c><00:02:54.319><c> in</c><00:02:54.480><c> a</c>
+
+00:02:54.710 --> 00:02:54.720 align:start position:0%
+well in a lot of cases. So, invest in a
+ 
+
+00:02:54.720 --> 00:02:56.630 align:start position:0%
+well in a lot of cases. So, invest in a
+good<00:02:54.879><c> one.</c><00:02:55.440><c> Needless</c><00:02:55.840><c> to</c><00:02:56.000><c> say,</c><00:02:56.239><c> you</c><00:02:56.400><c> need</c>
+
+00:02:56.630 --> 00:02:56.640 align:start position:0%
+good one. Needless to say, you need
+ 
+
+00:02:56.640 --> 00:02:59.509 align:start position:0%
+good one. Needless to say, you need
+somewhere<00:02:57.040><c> to</c><00:02:57.200><c> store</c><00:02:57.519><c> all</c><00:02:57.680><c> of</c><00:02:57.760><c> the</c><00:02:58.000><c> data.</c><00:02:58.879><c> This</c>
+
+00:02:59.509 --> 00:02:59.519 align:start position:0%
+somewhere to store all of the data. This
+ 
+
+00:02:59.519 --> 00:03:04.550 align:start position:0%
+somewhere to store all of the data. This
+is<00:02:59.840><c> a</c><00:03:00.400><c> 8</c><00:03:00.959><c> terabte</c><00:03:02.159><c> NVME</c><00:03:02.879><c> M.2</c><00:03:03.440><c> SSD.</c><00:03:04.239><c> You</c>
+
+00:03:04.550 --> 00:03:04.560 align:start position:0%
+is a 8 terabte NVME M.2 SSD. You
+ 
+
+00:03:04.560 --> 00:03:06.869 align:start position:0%
+is a 8 terabte NVME M.2 SSD. You
+certainly<00:03:04.959><c> don't</c><00:03:05.200><c> need</c><00:03:05.360><c> that</c><00:03:05.680><c> big.</c><00:03:06.159><c> I</c><00:03:06.560><c> just</c>
+
+00:03:06.869 --> 00:03:06.879 align:start position:0%
+certainly don't need that big. I just
+ 
+
+00:03:06.879 --> 00:03:09.287 align:start position:0%
+certainly don't need that big. I just
+had<00:03:07.120><c> this</c><00:03:07.440><c> for</c><00:03:07.760><c> some</c><00:03:08.000><c> other</c><00:03:08.319><c> work</c><00:03:08.959><c> and</c>
+
+00:03:09.287 --> 00:03:09.297 align:start position:0%
+had this for some other work and
+ 
+
+00:03:09.297 --> 00:03:09.509 align:start position:0%
+had this for some other work and
+&gt;&gt; [music]
+
+00:03:09.509 --> 00:03:09.519 align:start position:0%
+&gt;&gt; [music]
+ 
+
+00:03:09.519 --> 00:03:11.589 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; um<00:03:09.599><c> I</c><00:03:09.920><c> just</c><00:03:10.080><c> wanted</c><00:03:10.239><c> to</c><00:03:10.480><c> test</c><00:03:10.640><c> it.</c><00:03:11.040><c> So,</c><00:03:11.280><c> this</c><00:03:11.440><c> is</c>
+
+00:03:11.589 --> 00:03:11.599 align:start position:0%
+&gt;&gt; um I just wanted to test it. So, this is
+ 
+
+00:03:11.599 --> 00:03:14.309 align:start position:0%
+&gt;&gt; um I just wanted to test it. So, this is
+that<00:03:12.400><c> um</c><00:03:12.560><c> this</c><00:03:12.800><c> is</c><00:03:12.959><c> certainly</c><00:03:13.440><c> overkill,</c><00:03:14.080><c> but</c>
+
+00:03:14.309 --> 00:03:14.319 align:start position:0%
+that um this is certainly overkill, but
+ 
+
+00:03:14.319 --> 00:03:18.229 align:start position:0%
+that um this is certainly overkill, but
+it's<00:03:14.959><c> lot</c><00:03:15.200><c> it's</c><00:03:15.599><c> futurep</c><00:03:16.000><c> proof.</c><00:03:16.400><c> 8</c><00:03:16.640><c> TB</c><00:03:17.519><c> NVME</c>
+
+00:03:18.229 --> 00:03:18.239 align:start position:0%
+it's lot it's futurep proof. 8 TB NVME
+ 
+
+00:03:18.239 --> 00:03:22.869 align:start position:0%
+it's lot it's futurep proof. 8 TB NVME
+M.2<00:03:19.200><c> is</c><00:03:20.000><c> plenty</c><00:03:20.400><c> fast.</c><00:03:21.840><c> So,</c><00:03:22.080><c> that's</c><00:03:22.480><c> the</c><00:03:22.720><c> other</c>
+
+00:03:22.869 --> 00:03:22.879 align:start position:0%
+M.2 is plenty fast. So, that's the other
+ 
+
+00:03:22.879 --> 00:03:24.710 align:start position:0%
+M.2 is plenty fast. So, that's the other
+thing<00:03:23.040><c> you</c><00:03:23.280><c> would</c><00:03:23.440><c> need.</c><00:03:23.840><c> Then</c><00:03:24.239><c> the</c><00:03:24.480><c> most</c>
+
+00:03:24.710 --> 00:03:24.720 align:start position:0%
+thing you would need. Then the most
+ 
+
+00:03:24.720 --> 00:03:26.470 align:start position:0%
+thing you would need. Then the most
+important<00:03:25.120><c> thing</c><00:03:25.200><c> that</c><00:03:25.440><c> you</c><00:03:25.599><c> would</c><00:03:25.760><c> need</c><00:03:26.000><c> is</c>
+
+00:03:26.470 --> 00:03:26.480 align:start position:0%
+important thing that you would need is
+ 
+
+00:03:26.480 --> 00:03:29.589 align:start position:0%
+important thing that you would need is
+an<00:03:27.040><c> adapter,</c><00:03:27.680><c> a</c><00:03:27.920><c> hat</c><00:03:28.239><c> that</c><00:03:28.480><c> sits</c><00:03:28.800><c> on</c><00:03:28.959><c> the</c><00:03:29.120><c> Pi</c>
+
+00:03:29.589 --> 00:03:29.599 align:start position:0%
+an adapter, a hat that sits on the Pi
+ 
+
+00:03:29.599 --> 00:03:32.212 align:start position:0%
+an adapter, a hat that sits on the Pi
+where<00:03:29.840><c> you</c><00:03:30.080><c> can</c><00:03:30.239><c> stick</c><00:03:30.480><c> your</c><00:03:30.879><c> NVME</c><00:03:31.519><c> SSD</c><00:03:32.000><c> to.</c>
+
+00:03:32.212 --> 00:03:32.222 align:start position:0%
+where you can stick your NVME SSD to.
+ 
+
+00:03:32.222 --> 00:03:34.309 align:start position:0%
+where you can stick your NVME SSD to.
+[music]<00:03:32.319><c> For</c><00:03:32.560><c> that,</c><00:03:32.799><c> we're</c><00:03:33.120><c> using</c><00:03:33.760><c> one</c><00:03:34.000><c> from</c>
+
+00:03:34.309 --> 00:03:34.319 align:start position:0%
+[music] For that, we're using one from
+ 
+
+00:03:34.319 --> 00:03:37.110 align:start position:0%
+[music] For that, we're using one from
+Frenov.<00:03:35.040><c> So,</c><00:03:35.519><c> I've</c><00:03:35.840><c> also</c><00:03:36.159><c> used</c><00:03:36.480><c> products</c><00:03:36.879><c> from</c>
+
+00:03:37.110 --> 00:03:37.120 align:start position:0%
+Frenov. So, I've also used products from
+ 
+
+00:03:37.120 --> 00:03:39.589 align:start position:0%
+Frenov. So, I've also used products from
+FOV<00:03:37.760><c> before,</c><00:03:38.319><c> for</c><00:03:38.480><c> example,</c><00:03:39.040><c> such</c><00:03:39.200><c> as</c><00:03:39.360><c> their</c>
+
+00:03:39.589 --> 00:03:39.599 align:start position:0%
+FOV before, for example, such as their
+ 
+
+00:03:39.599 --> 00:03:41.509 align:start position:0%
+FOV before, for example, such as their
+display<00:03:40.080><c> as</c><00:03:40.319><c> being</c><00:03:40.560><c> shown</c><00:03:40.799><c> here.</c><00:03:41.200><c> So,</c><00:03:41.360><c> I</c>
+
+00:03:41.509 --> 00:03:41.519 align:start position:0%
+display as being shown here. So, I
+ 
+
+00:03:41.519 --> 00:03:43.270 align:start position:0%
+display as being shown here. So, I
+really<00:03:41.760><c> like</c><00:03:41.920><c> their</c><00:03:42.159><c> product.</c><00:03:42.480><c> So,</c><00:03:42.640><c> FOV,</c><00:03:43.120><c> if</c>
+
+00:03:43.270 --> 00:03:43.280 align:start position:0%
+really like their product. So, FOV, if
+ 
+
+00:03:43.280 --> 00:03:45.270 align:start position:0%
+really like their product. So, FOV, if
+you're<00:03:43.440><c> watching,</c><00:03:44.000><c> big</c><00:03:44.319><c> shout</c><00:03:44.480><c> out.</c><00:03:45.040><c> You</c>
+
+00:03:45.270 --> 00:03:45.280 align:start position:0%
+you're watching, big shout out. You
+ 
+
+00:03:45.280 --> 00:03:47.910 align:start position:0%
+you're watching, big shout out. You
+provide<00:03:45.760><c> really</c><00:03:46.799><c> this</c><00:03:46.959><c> one</c><00:03:47.120><c> is</c><00:03:47.360><c> pretty</c><00:03:47.599><c> cheap.</c>
+
+00:03:47.910 --> 00:03:47.920 align:start position:0%
+provide really this one is pretty cheap.
+ 
+
+00:03:47.920 --> 00:03:50.949 align:start position:0%
+provide really this one is pretty cheap.
+It<00:03:48.159><c> costs</c><00:03:48.560><c> like</c><00:03:48.959><c> $15</c><00:03:49.599><c> Canadian</c><00:03:50.159><c> dollars.</c><00:03:50.720><c> So,</c>
+
+00:03:50.949 --> 00:03:50.959 align:start position:0%
+It costs like $15 Canadian dollars. So,
+ 
+
+00:03:50.959 --> 00:03:53.110 align:start position:0%
+It costs like $15 Canadian dollars. So,
+let's<00:03:51.200><c> unbox</c><00:03:51.599><c> it</c><00:03:52.000><c> and</c><00:03:52.319><c> see</c><00:03:52.480><c> what</c><00:03:52.720><c> it</c><00:03:52.879><c> comes</c>
+
+00:03:53.110 --> 00:03:53.120 align:start position:0%
+let's unbox it and see what it comes
+ 
+
+00:03:53.120 --> 00:03:55.750 align:start position:0%
+let's unbox it and see what it comes
+with.<00:03:53.840><c> This,</c><00:03:54.080><c> in</c><00:03:54.319><c> theory,</c><00:03:54.720><c> should</c><00:03:55.120><c> support</c>
+
+00:03:55.750 --> 00:03:55.760 align:start position:0%
+with. This, in theory, should support
+ 
+
+00:03:55.760 --> 00:03:57.830 align:start position:0%
+with. This, in theory, should support
+this<00:03:56.239><c> slot.</c><00:03:56.640><c> So,</c><00:03:56.799><c> we'll</c><00:03:57.120><c> I'm</c><00:03:57.360><c> actually</c>
+
+00:03:57.830 --> 00:03:57.840 align:start position:0%
+this slot. So, we'll I'm actually
+ 
+
+00:03:57.840 --> 00:03:59.110 align:start position:0%
+this slot. So, we'll I'm actually
+unboxing<00:03:58.480><c> this</c><00:03:58.640><c> for</c><00:03:58.799><c> the</c><00:03:58.959><c> first</c><00:03:59.077><c> [music]</c>
+
+00:03:59.110 --> 00:03:59.120 align:start position:0%
+unboxing this for the first [music]
+ 
+
+00:03:59.120 --> 00:04:02.550 align:start position:0%
+unboxing this for the first [music]
+time.<00:03:59.360><c> So,</c><00:03:59.519><c> let's</c><00:03:59.680><c> see</c><00:03:59.760><c> if</c><00:04:00.000><c> it</c><00:04:00.239><c> does.</c><00:04:01.599><c> Okay,</c><00:04:02.080><c> so</c>
+
+00:04:02.550 --> 00:04:02.560 align:start position:0%
+time. So, let's see if it does. Okay, so
+ 
+
+00:04:02.560 --> 00:04:05.670 align:start position:0%
+time. So, let's see if it does. Okay, so
+it<00:04:02.879><c> does</c><00:04:03.200><c> come</c><00:04:03.519><c> with</c><00:04:04.159><c> uh</c><00:04:04.400><c> some</c><00:04:04.799><c> uh</c><00:04:05.040><c> standoffs</c>
+
+00:04:05.670 --> 00:04:05.680 align:start position:0%
+it does come with uh some uh standoffs
+ 
+
+00:04:05.680 --> 00:04:08.789 align:start position:0%
+it does come with uh some uh standoffs
+in<00:04:05.920><c> the</c><00:04:06.080><c> bag.</c><00:04:07.360><c> Uh</c><00:04:07.592><c> [music]</c><00:04:08.080><c> it</c><00:04:08.319><c> also</c><00:04:08.560><c> comes</c>
+
+00:04:08.789 --> 00:04:08.799 align:start position:0%
+in the bag. Uh [music] it also comes
+ 
+
+00:04:08.799 --> 00:04:11.429 align:start position:0%
+in the bag. Uh [music] it also comes
+with<00:04:09.040><c> its</c><00:04:09.360><c> own</c><00:04:09.760><c> nice</c><00:04:10.319><c> uh</c><00:04:10.560><c> screwdriver,</c><00:04:11.200><c> which</c>
+
+00:04:11.429 --> 00:04:11.439 align:start position:0%
+with its own nice uh screwdriver, which
+ 
+
+00:04:11.439 --> 00:04:13.830 align:start position:0%
+with its own nice uh screwdriver, which
+is<00:04:11.599><c> really</c><00:04:11.840><c> good,</c><00:04:12.080><c> although</c><00:04:12.319><c> I</c><00:04:12.560><c> have</c><00:04:12.720><c> mine.</c><00:04:13.439><c> Um</c>
+
+00:04:13.830 --> 00:04:13.840 align:start position:0%
+is really good, although I have mine. Um
+ 
+
+00:04:13.840 --> 00:04:15.589 align:start position:0%
+is really good, although I have mine. Um
+and<00:04:14.159><c> most</c><00:04:14.400><c> importantly,</c><00:04:14.879><c> it</c><00:04:15.040><c> also</c><00:04:15.280><c> comes</c><00:04:15.439><c> with</c>
+
+00:04:15.589 --> 00:04:15.599 align:start position:0%
+and most importantly, it also comes with
+ 
+
+00:04:15.599 --> 00:04:17.030 align:start position:0%
+and most importantly, it also comes with
+a<00:04:15.840><c> ribbon</c><00:04:16.107><c> [music]</c><00:04:16.160><c> connector</c><00:04:16.479><c> that</c><00:04:16.720><c> you</c>
+
+00:04:17.030 --> 00:04:17.040 align:start position:0%
+a ribbon [music] connector that you
+ 
+
+00:04:17.040 --> 00:04:19.749 align:start position:0%
+a ribbon [music] connector that you
+would<00:04:17.359><c> actually</c><00:04:17.600><c> need</c><00:04:17.840><c> to</c><00:04:18.000><c> get</c><00:04:18.160><c> this</c><00:04:18.479><c> working.</c>
+
+00:04:19.749 --> 00:04:19.759 align:start position:0%
+would actually need to get this working.
+ 
+
+00:04:19.759 --> 00:04:21.990 align:start position:0%
+would actually need to get this working.
+So,<00:04:20.639><c> uh,</c><00:04:20.880><c> be</c><00:04:21.040><c> really</c><00:04:21.359><c> careful</c><00:04:21.680><c> with</c><00:04:21.840><c> this</c>
+
+00:04:21.990 --> 00:04:22.000 align:start position:0%
+So, uh, be really careful with this
+ 
+
+00:04:22.000 --> 00:04:23.830 align:start position:0%
+So, uh, be really careful with this
+ribbon<00:04:22.400><c> connectors.</c><00:04:22.880><c> These</c><00:04:23.120><c> things</c><00:04:23.360><c> can</c><00:04:23.600><c> tend</c>
+
+00:04:23.830 --> 00:04:23.840 align:start position:0%
+ribbon connectors. These things can tend
+ 
+
+00:04:23.840 --> 00:04:25.922 align:start position:0%
+ribbon connectors. These things can tend
+to<00:04:24.080><c> just</c><00:04:24.320><c> snap</c><00:04:24.560><c> and</c><00:04:24.800><c> break,</c><00:04:25.199><c> right?</c><00:04:25.759><c> So,</c>
+
+00:04:25.922 --> 00:04:25.932 align:start position:0%
+to just snap and break, right? So,
+ 
+
+00:04:25.932 --> 00:04:28.150 align:start position:0%
+to just snap and break, right? So,
+[music]<00:04:26.400><c> handle</c><00:04:26.800><c> that</c><00:04:27.040><c> with</c><00:04:27.280><c> care.</c><00:04:27.919><c> So,</c>
+
+00:04:28.150 --> 00:04:28.160 align:start position:0%
+[music] handle that with care. So,
+ 
+
+00:04:28.160 --> 00:04:31.830 align:start position:0%
+[music] handle that with care. So,
+taking<00:04:28.479><c> out</c><00:04:28.800><c> the</c><00:04:29.199><c> PI</c><00:04:30.320><c> NVME</c><00:04:30.960><c> had.</c><00:04:31.440><c> Yeah,</c><00:04:31.680><c> this</c>
+
+00:04:31.830 --> 00:04:31.840 align:start position:0%
+taking out the PI NVME had. Yeah, this
+ 
+
+00:04:31.840 --> 00:04:35.670 align:start position:0%
+taking out the PI NVME had. Yeah, this
+thing<00:04:32.080><c> was</c><00:04:32.240><c> just</c><00:04:32.960><c> um</c><00:04:33.520><c> some</c><00:04:33.840><c> $18</c><00:04:35.199><c> Canadian</c>
+
+00:04:35.670 --> 00:04:35.680 align:start position:0%
+thing was just um some $18 Canadian
+ 
+
+00:04:35.680 --> 00:04:37.350 align:start position:0%
+thing was just um some $18 Canadian
+dollars.<00:04:36.080><c> Yeah,</c><00:04:36.400><c> let's</c><00:04:36.720><c> let's</c><00:04:37.040><c> actually</c>
+
+00:04:37.350 --> 00:04:37.360 align:start position:0%
+dollars. Yeah, let's let's actually
+ 
+
+00:04:37.360 --> 00:04:42.469 align:start position:0%
+dollars. Yeah, let's let's actually
+install<00:04:37.723><c> [music]</c><00:04:37.759><c> this.</c>
+
+00:04:42.469 --> 00:04:42.479 align:start position:0%
+ 
+ 
+
+00:04:42.479 --> 00:04:44.310 align:start position:0%
+ 
+Uh,<00:04:42.800><c> there</c><00:04:42.960><c> you</c><00:04:43.120><c> go.</c><00:04:43.280><c> So,</c><00:04:43.520><c> this</c><00:04:43.680><c> is</c><00:04:43.840><c> how</c><00:04:44.080><c> it</c>
+
+00:04:44.310 --> 00:04:44.320 align:start position:0%
+Uh, there you go. So, this is how it
+ 
+
+00:04:44.320 --> 00:04:47.350 align:start position:0%
+Uh, there you go. So, this is how it
+should<00:04:44.639><c> look</c><00:04:44.880><c> like.</c><00:04:46.320><c> And</c><00:04:46.479><c> the</c><00:04:46.720><c> whole</c><00:04:46.880><c> idea</c><00:04:47.120><c> is</c>
+
+00:04:47.350 --> 00:04:47.360 align:start position:0%
+should look like. And the whole idea is
+ 
+
+00:04:47.360 --> 00:04:49.110 align:start position:0%
+should look like. And the whole idea is
+then<00:04:47.919><c> yeah</c><00:04:48.203><c> [music]</c><00:04:48.560><c> uh</c><00:04:48.720><c> this</c><00:04:48.880><c> thing</c>
+
+00:04:49.110 --> 00:04:49.120 align:start position:0%
+then yeah [music] uh this thing
+ 
+
+00:04:49.120 --> 00:04:51.749 align:start position:0%
+then yeah [music] uh this thing
+basically<00:04:49.520><c> just</c><00:04:49.759><c> sits</c><00:04:50.080><c> on</c><00:04:50.320><c> top</c><00:04:50.880><c> like</c><00:04:51.120><c> that.</c>
+
+00:04:51.749 --> 00:04:51.759 align:start position:0%
+basically just sits on top like that.
+ 
+
+00:04:51.759 --> 00:04:53.430 align:start position:0%
+basically just sits on top like that.
+All right.<00:04:52.000><c> So</c><00:04:52.160><c> the</c><00:04:52.320><c> next</c><00:04:52.479><c> step</c><00:04:52.720><c> is</c><00:04:52.960><c> to</c><00:04:53.280><c> of</c>
+
+00:04:53.430 --> 00:04:53.440 align:start position:0%
+All right. So the next step is to of
+ 
+
+00:04:53.440 --> 00:04:55.830 align:start position:0%
+All right. So the next step is to of
+course<00:04:53.759><c> connect</c><00:04:54.080><c> the</c><00:04:54.320><c> connector</c><00:04:54.800><c> here.</c><00:04:55.360><c> Again</c>
+
+00:04:55.830 --> 00:04:55.840 align:start position:0%
+course connect the connector here. Again
+ 
+
+00:04:55.840 --> 00:04:57.830 align:start position:0%
+course connect the connector here. Again
+just<00:04:56.080><c> like</c><00:04:56.240><c> the</c><00:04:56.639><c> monitor</c><00:04:57.040><c> the</c><00:04:57.280><c> idea</c><00:04:57.440><c> is</c><00:04:57.680><c> you</c>
+
+00:04:57.830 --> 00:04:57.840 align:start position:0%
+just like the monitor the idea is you
+ 
+
+00:04:57.840 --> 00:05:00.638 align:start position:0%
+just like the monitor the idea is you
+want<00:04:58.000><c> to</c><00:04:58.240><c> first</c><00:04:58.639><c> pull</c><00:04:58.880><c> it</c><00:04:59.360><c> and</c><00:04:59.600><c> then</c><00:05:00.240><c> press</c><00:05:00.479><c> and</c>
+
+00:05:00.638 --> 00:05:00.648 align:start position:0%
+want to first pull it and then press and
+ 
+
+00:05:00.648 --> 00:05:03.510 align:start position:0%
+want to first pull it and then press and
+[music]<00:05:00.800><c> pull.</c><00:05:01.199><c> Right.</c><00:05:01.520><c> So</c><00:05:01.680><c> that</c><00:05:02.000><c> basically</c>
+
+00:05:03.510 --> 00:05:03.520 align:start position:0%
+[music] pull. Right. So that basically
+ 
+
+00:05:03.520 --> 00:05:06.629 align:start position:0%
+[music] pull. Right. So that basically
+uh<00:05:04.240><c> brings</c><00:05:04.639><c> out</c><00:05:04.800><c> the</c><00:05:04.960><c> latch.</c><00:05:05.440><c> So</c><00:05:05.680><c> my</c><00:05:05.919><c> idea</c><00:05:06.160><c> is</c><00:05:06.400><c> I</c>
+
+00:05:06.629 --> 00:05:06.639 align:start position:0%
+uh brings out the latch. So my idea is I
+ 
+
+00:05:06.639 --> 00:05:08.390 align:start position:0%
+uh brings out the latch. So my idea is I
+actually<00:05:06.960><c> want</c><00:05:07.120><c> to</c><00:05:07.280><c> install</c><00:05:07.680><c> this</c><00:05:08.000><c> on</c><00:05:08.160><c> the</c>
+
+00:05:08.390 --> 00:05:08.400 align:start position:0%
+actually want to install this on the
+ 
+
+00:05:08.400 --> 00:05:10.629 align:start position:0%
+actually want to install this on the
+top.<00:05:08.960><c> So</c><00:05:09.199><c> for</c><00:05:09.440><c> that</c><00:05:09.680><c> of</c><00:05:09.919><c> course</c><00:05:10.080><c> I</c><00:05:10.320><c> would</c><00:05:10.479><c> need</c>
+
+00:05:10.629 --> 00:05:10.639 align:start position:0%
+top. So for that of course I would need
+ 
+
+00:05:10.639 --> 00:05:13.350 align:start position:0%
+top. So for that of course I would need
+to<00:05:10.880><c> basically</c><00:05:11.440><c> create</c><00:05:11.919><c> this</c><00:05:12.479><c> um</c><00:05:12.720><c> extended</c>
+
+00:05:13.350 --> 00:05:13.360 align:start position:0%
+to basically create this um extended
+ 
+
+00:05:13.360 --> 00:05:15.189 align:start position:0%
+to basically create this um extended
+standoffs<00:05:14.160><c> which</c><00:05:14.400><c> is</c><00:05:14.419><c> [music]</c><00:05:14.560><c> basically</c><00:05:14.880><c> by</c>
+
+00:05:15.189 --> 00:05:15.199 align:start position:0%
+standoffs which is [music] basically by
+ 
+
+00:05:15.199 --> 00:05:26.310 align:start position:0%
+standoffs which is [music] basically by
+connecting<00:05:15.600><c> two.</c><00:05:16.000><c> So</c><00:05:16.240><c> let's</c><00:05:16.560><c> just</c><00:05:16.720><c> do</c><00:05:16.960><c> that</c>
+
+00:05:26.310 --> 00:05:26.320 align:start position:0%
+ 
+ 
+
+00:05:26.320 --> 00:05:29.029 align:start position:0%
+ 
+part.<00:05:26.800><c> Please</c><00:05:27.039><c> be</c><00:05:27.280><c> careful</c><00:05:28.160><c> while</c><00:05:28.479><c> installing</c>
+
+00:05:29.029 --> 00:05:29.039 align:start position:0%
+part. Please be careful while installing
+ 
+
+00:05:29.039 --> 00:05:31.350 align:start position:0%
+part. Please be careful while installing
+this.<00:05:29.360><c> And</c><00:05:29.600><c> once</c><00:05:30.160><c> you</c><00:05:30.320><c> fit</c><00:05:30.560><c> it,</c><00:05:30.800><c> you</c><00:05:31.039><c> basically</c>
+
+00:05:31.350 --> 00:05:31.360 align:start position:0%
+this. And once you fit it, you basically
+ 
+
+00:05:31.360 --> 00:05:33.350 align:start position:0%
+this. And once you fit it, you basically
+again<00:05:31.840><c> press</c><00:05:32.240><c> both</c><00:05:32.560><c> of</c><00:05:32.720><c> them</c><00:05:32.880><c> at</c><00:05:33.120><c> the</c><00:05:33.280><c> same</c>
+
+00:05:33.350 --> 00:05:33.360 align:start position:0%
+again press both of them at the same
+ 
+
+00:05:33.360 --> 00:05:39.830 align:start position:0%
+again press both of them at the same
+time<00:05:33.600><c> so</c><00:05:33.759><c> that</c><00:05:33.919><c> it</c><00:05:34.160><c> like</c><00:05:34.320><c> fixes,</c><00:05:34.880><c> right?</c>
+
+00:05:39.830 --> 00:05:39.840 align:start position:0%
+ 
+ 
+
+00:05:39.840 --> 00:05:41.909 align:start position:0%
+ 
+It's<00:05:40.160><c> not</c><00:05:40.400><c> quite</c><00:05:40.639><c> a</c><00:05:40.880><c> hat,</c><00:05:41.199><c> but</c><00:05:41.360><c> this</c><00:05:41.520><c> is</c><00:05:41.680><c> how</c>
+
+00:05:41.909 --> 00:05:41.919 align:start position:0%
+It's not quite a hat, but this is how
+ 
+
+00:05:41.919 --> 00:05:43.990 align:start position:0%
+It's not quite a hat, but this is how
+you<00:05:42.320><c> Now,</c><00:05:42.560><c> bear</c><00:05:42.720><c> in</c><00:05:42.880><c> mind</c><00:05:43.039><c> if</c><00:05:43.280><c> you</c><00:05:43.360><c> have</c><00:05:43.440><c> a</c><00:05:43.680><c> fan</c>
+
+00:05:43.990 --> 00:05:44.000 align:start position:0%
+you Now, bear in mind if you have a fan
+ 
+
+00:05:44.000 --> 00:05:45.590 align:start position:0%
+you Now, bear in mind if you have a fan
+module<00:05:44.400><c> that</c><00:05:44.639><c> goes</c><00:05:44.800><c> in</c><00:05:45.039><c> there,</c><00:05:45.280><c> you</c><00:05:45.520><c> could</c>
+
+00:05:45.590 --> 00:05:45.600 align:start position:0%
+module that goes in there, you could
+ 
+
+00:05:45.600 --> 00:05:47.510 align:start position:0%
+module that goes in there, you could
+totally<00:05:45.919><c> do</c><00:05:46.080><c> that.</c><00:05:46.400><c> I</c><00:05:46.639><c> don't</c><00:05:46.800><c> have</c><00:05:47.039><c> for</c><00:05:47.280><c> this</c>
+
+00:05:47.510 --> 00:05:47.520 align:start position:0%
+totally do that. I don't have for this
+ 
+
+00:05:47.520 --> 00:05:49.830 align:start position:0%
+totally do that. I don't have for this
+purpose.<00:05:48.320><c> I</c><00:05:48.560><c> will</c><00:05:48.720><c> get</c><00:05:48.960><c> one</c><00:05:49.120><c> in</c><00:05:49.280><c> the</c><00:05:49.440><c> future.</c>
+
+00:05:49.830 --> 00:05:49.840 align:start position:0%
+purpose. I will get one in the future.
+ 
+
+00:05:49.840 --> 00:05:52.550 align:start position:0%
+purpose. I will get one in the future.
+But<00:05:50.240><c> by</c><00:05:50.400><c> the</c><00:05:50.560><c> way,</c><00:05:50.800><c> links</c><00:05:51.120><c> to</c><00:05:51.680><c> everything</c><00:05:52.240><c> you</c>
+
+00:05:52.550 --> 00:05:52.560 align:start position:0%
+But by the way, links to everything you
+ 
+
+00:05:52.560 --> 00:05:54.310 align:start position:0%
+But by the way, links to everything you
+need<00:05:52.880><c> will</c><00:05:53.199><c> be</c><00:05:53.360><c> in</c><00:05:53.520><c> the</c><00:05:53.680><c> description</c><00:05:54.080><c> down</c>
+
+00:05:54.310 --> 00:05:54.320 align:start position:0%
+need will be in the description down
+ 
+
+00:05:54.320 --> 00:05:55.990 align:start position:0%
+need will be in the description down
+below,<00:05:54.639><c> so</c><00:05:54.800><c> feel</c><00:05:54.960><c> free</c><00:05:55.199><c> to</c><00:05:55.360><c> check</c><00:05:55.520><c> it</c><00:05:55.680><c> out</c><00:05:55.759><c> from</c>
+
+00:05:55.990 --> 00:05:56.000 align:start position:0%
+below, so feel free to check it out from
+ 
+
+00:05:56.000 --> 00:05:59.830 align:start position:0%
+below, so feel free to check it out from
+there.
+
+00:05:59.830 --> 00:05:59.840 align:start position:0%
+ 
+ 
+
+00:05:59.840 --> 00:06:01.590 align:start position:0%
+ 
+Once<00:06:00.160><c> assembled,</c><00:06:00.639><c> this</c><00:06:00.800><c> is</c><00:06:00.880><c> how</c><00:06:01.039><c> the</c><00:06:01.199><c> hardware</c>
+
+00:06:01.590 --> 00:06:01.600 align:start position:0%
+Once assembled, this is how the hardware
+ 
+
+00:06:01.600 --> 00:06:03.270 align:start position:0%
+Once assembled, this is how the hardware
+should<00:06:01.840><c> look</c><00:06:02.000><c> like.</c><00:06:02.240><c> So,</c><00:06:02.320><c> the</c><00:06:02.479><c> hat</c><00:06:02.720><c> fits</c><00:06:03.039><c> in</c>
+
+00:06:03.270 --> 00:06:03.280 align:start position:0%
+should look like. So, the hat fits in
+ 
+
+00:06:03.280 --> 00:06:04.629 align:start position:0%
+should look like. So, the hat fits in
+perfectly.<00:06:03.759><c> This</c><00:06:03.919><c> is</c><00:06:04.000><c> how</c><00:06:04.080><c> the</c><00:06:04.240><c> ribbon</c>
+
+00:06:04.629 --> 00:06:04.639 align:start position:0%
+perfectly. This is how the ribbon
+ 
+
+00:06:04.639 --> 00:06:06.629 align:start position:0%
+perfectly. This is how the ribbon
+connector<00:06:05.360><c> gets</c><00:06:05.494><c> [music]</c><00:06:05.680><c> connected</c><00:06:06.080><c> here.</c>
+
+00:06:06.629 --> 00:06:06.639 align:start position:0%
+connector gets [music] connected here.
+ 
+
+00:06:06.639 --> 00:06:08.710 align:start position:0%
+connector gets [music] connected here.
+And<00:06:06.800><c> you</c><00:06:07.039><c> still</c><00:06:07.280><c> have</c><00:06:07.440><c> your</c><00:06:07.680><c> Ethernet</c><00:06:08.160><c> port</c><00:06:08.479><c> in</c>
+
+00:06:08.710 --> 00:06:08.720 align:start position:0%
+And you still have your Ethernet port in
+ 
+
+00:06:08.720 --> 00:06:09.909 align:start position:0%
+And you still have your Ethernet port in
+case<00:06:08.800><c> you</c><00:06:09.039><c> want</c><00:06:09.120><c> to</c><00:06:09.280><c> connect</c><00:06:09.440><c> it</c><00:06:09.600><c> to</c><00:06:09.759><c> your</c>
+
+00:06:09.909 --> 00:06:09.919 align:start position:0%
+case you want to connect it to your
+ 
+
+00:06:09.919 --> 00:06:12.309 align:start position:0%
+case you want to connect it to your
+local<00:06:10.240><c> router.</c><00:06:10.960><c> I</c><00:06:11.199><c> will</c><00:06:11.440><c> not</c><00:06:11.600><c> do</c><00:06:11.759><c> that</c><00:06:11.919><c> in</c><00:06:12.160><c> this</c>
+
+00:06:12.309 --> 00:06:12.319 align:start position:0%
+local router. I will not do that in this
+ 
+
+00:06:12.319 --> 00:06:14.629 align:start position:0%
+local router. I will not do that in this
+case.<00:06:12.560><c> I'll</c><00:06:12.880><c> just</c><00:06:13.120><c> make</c><00:06:13.280><c> it</c><00:06:13.520><c> talk</c><00:06:14.240><c> to</c><00:06:14.479><c> the</c>
+
+00:06:14.629 --> 00:06:14.639 align:start position:0%
+case. I'll just make it talk to the
+ 
+
+00:06:14.639 --> 00:06:17.909 align:start position:0%
+case. I'll just make it talk to the
+Wi-Fi.<00:06:16.000><c> And</c><00:06:16.160><c> then</c><00:06:16.639><c> your</c><00:06:16.880><c> SD</c><00:06:17.360><c> card</c><00:06:17.600><c> goes</c><00:06:17.759><c> in</c>
+
+00:06:17.909 --> 00:06:17.919 align:start position:0%
+Wi-Fi. And then your SD card goes in
+ 
+
+00:06:17.919 --> 00:06:19.749 align:start position:0%
+Wi-Fi. And then your SD card goes in
+here.<00:06:18.240><c> This</c><00:06:18.319><c> is</c><00:06:18.479><c> where</c><00:06:18.720><c> the</c><00:06:18.960><c> you'll</c><00:06:19.280><c> boot</c><00:06:19.520><c> the</c>
+
+00:06:19.749 --> 00:06:19.759 align:start position:0%
+here. This is where the you'll boot the
+ 
+
+00:06:19.759 --> 00:06:22.629 align:start position:0%
+here. This is where the you'll boot the
+OS<00:06:20.160><c> for</c><00:06:20.400><c> the</c><00:06:20.639><c> first</c><00:06:20.880><c> time.</c><00:06:21.520><c> Um,</c><00:06:21.840><c> again,</c><00:06:22.319><c> a</c>
+
+00:06:22.629 --> 00:06:22.639 align:start position:0%
+OS for the first time. Um, again, a
+ 
+
+00:06:22.639 --> 00:06:24.950 align:start position:0%
+OS for the first time. Um, again, a
+detailed<00:06:23.120><c> video</c><00:06:23.440><c> of</c><00:06:23.680><c> me</c><00:06:23.919><c> doing</c><00:06:24.240><c> that</c><00:06:24.720><c> should</c>
+
+00:06:24.950 --> 00:06:24.960 align:start position:0%
+detailed video of me doing that should
+ 
+
+00:06:24.960 --> 00:06:27.510 align:start position:0%
+detailed video of me doing that should
+be<00:06:25.120><c> flashing</c><00:06:25.520><c> up</c><00:06:25.759><c> here.</c><00:06:26.400><c> Um,</c><00:06:26.800><c> and</c><00:06:27.039><c> I</c><00:06:27.199><c> actually</c>
+
+00:06:27.510 --> 00:06:27.520 align:start position:0%
+be flashing up here. Um, and I actually
+ 
+
+00:06:27.520 --> 00:06:29.830 align:start position:0%
+be flashing up here. Um, and I actually
+did<00:06:27.680><c> a</c><00:06:28.080><c> stepby-step</c><00:06:28.880><c> instruction</c><00:06:29.440><c> showing</c>
+
+00:06:29.830 --> 00:06:29.840 align:start position:0%
+did a stepby-step instruction showing
+ 
+
+00:06:29.840 --> 00:06:32.469 align:start position:0%
+did a stepby-step instruction showing
+how<00:06:30.160><c> to</c><00:06:30.560><c> prepare</c><00:06:30.960><c> the</c><00:06:31.199><c> SD</c><00:06:31.600><c> card</c><00:06:32.160><c> and</c><00:06:32.349><c> [music]</c>
+
+00:06:32.469 --> 00:06:32.479 align:start position:0%
+how to prepare the SD card and [music]
+ 
+
+00:06:32.479 --> 00:06:34.309 align:start position:0%
+how to prepare the SD card and [music]
+SSH<00:06:33.039><c> it</c><00:06:33.280><c> for</c><00:06:33.440><c> the</c><00:06:33.600><c> first</c><00:06:33.759><c> time.</c><00:06:34.080><c> Please</c>
+
+00:06:34.309 --> 00:06:34.319 align:start position:0%
+SSH it for the first time. Please
+ 
+
+00:06:34.319 --> 00:06:36.469 align:start position:0%
+SSH it for the first time. Please
+consider<00:06:34.800><c> watching</c><00:06:35.039><c> that</c><00:06:35.360><c> video</c><00:06:35.919><c> so</c><00:06:36.160><c> that</c><00:06:36.319><c> you</c>
+
+00:06:36.469 --> 00:06:36.479 align:start position:0%
+consider watching that video so that you
+ 
+
+00:06:36.479 --> 00:06:38.710 align:start position:0%
+consider watching that video so that you
+get<00:06:36.720><c> detailed</c><00:06:37.280><c> instructions</c><00:06:37.840><c> on</c><00:06:38.080><c> how</c><00:06:38.240><c> to</c><00:06:38.479><c> set</c>
+
+00:06:38.710 --> 00:06:38.720 align:start position:0%
+get detailed instructions on how to set
+ 
+
+00:06:38.720 --> 00:06:40.550 align:start position:0%
+get detailed instructions on how to set
+this<00:06:38.880><c> up</c><00:06:39.120><c> properly.</c><00:06:39.680><c> Right.</c><00:06:40.000><c> All</c><00:06:40.000><c> right.</c><00:06:40.400><c> So</c>
+
+00:06:40.550 --> 00:06:40.560 align:start position:0%
+this up properly. Right. All right. So
+ 
+
+00:06:40.560 --> 00:06:42.070 align:start position:0%
+this up properly. Right. All right. So
+now<00:06:40.800><c> let's</c><00:06:41.039><c> connect</c><00:06:41.280><c> this</c><00:06:41.520><c> to</c><00:06:41.680><c> the</c><00:06:41.840><c> power</c>
+
+00:06:42.070 --> 00:06:42.080 align:start position:0%
+now let's connect this to the power
+ 
+
+00:06:42.080 --> 00:06:44.870 align:start position:0%
+now let's connect this to the power
+adapter,<00:06:42.800><c> turn</c><00:06:42.960><c> it</c><00:06:43.120><c> on,</c><00:06:43.360><c> and</c><00:06:43.600><c> then</c><00:06:43.840><c> let's</c><00:06:44.319><c> SSH</c>
+
+00:06:44.870 --> 00:06:44.880 align:start position:0%
+adapter, turn it on, and then let's SSH
+ 
+
+00:06:44.880 --> 00:06:46.309 align:start position:0%
+adapter, turn it on, and then let's SSH
+in<00:06:45.120><c> for</c><00:06:45.360><c> the</c><00:06:45.449><c> [music]</c><00:06:45.520><c> first</c><00:06:45.759><c> time</c><00:06:45.840><c> and</c><00:06:46.160><c> see</c>
+
+00:06:46.309 --> 00:06:46.319 align:start position:0%
+in for the [music] first time and see
+ 
+
+00:06:46.319 --> 00:06:50.469 align:start position:0%
+in for the [music] first time and see
+how<00:06:46.560><c> things</c><00:06:46.800><c> go.</c>
+
+00:06:50.469 --> 00:06:50.479 align:start position:0%
+ 
+ 
+
+00:06:50.479 --> 00:06:52.629 align:start position:0%
+ 
+So<00:06:50.639><c> I</c><00:06:50.960><c> have</c><00:06:51.039><c> a</c><00:06:51.280><c> full</c><00:06:51.600><c> guide</c><00:06:51.919><c> written</c><00:06:52.240><c> on</c><00:06:52.400><c> the</c>
+
+00:06:52.629 --> 00:06:52.639 align:start position:0%
+So I have a full guide written on the
+ 
+
+00:06:52.639 --> 00:06:54.950 align:start position:0%
+So I have a full guide written on the
+site<00:06:52.880><c> which</c><00:06:53.199><c> also</c><00:06:53.520><c> will</c><00:06:53.759><c> be</c><00:06:54.000><c> down</c><00:06:54.400><c> linked</c><00:06:54.800><c> in</c>
+
+00:06:54.950 --> 00:06:54.960 align:start position:0%
+site which also will be down linked in
+ 
+
+00:06:54.960 --> 00:06:57.590 align:start position:0%
+site which also will be down linked in
+the<00:06:55.199><c> description</c><00:06:55.440><c> to</c><00:06:55.680><c> my</c><00:06:55.840><c> GitHub</c><00:06:56.240><c> repo</c><00:06:56.960><c> which</c>
+
+00:06:57.590 --> 00:06:57.600 align:start position:0%
+the description to my GitHub repo which
+ 
+
+00:06:57.600 --> 00:06:59.510 align:start position:0%
+the description to my GitHub repo which
+gives<00:06:57.840><c> you</c><00:06:58.080><c> all</c><00:06:58.319><c> of</c><00:06:58.479><c> the</c><00:06:58.639><c> steps</c><00:06:58.880><c> to</c><00:06:59.120><c> do</c><00:06:59.199><c> this.</c>
+
+00:06:59.510 --> 00:06:59.520 align:start position:0%
+gives you all of the steps to do this.
+ 
+
+00:06:59.520 --> 00:07:01.270 align:start position:0%
+gives you all of the steps to do this.
+But<00:06:59.599><c> the</c><00:06:59.840><c> first</c><00:07:00.000><c> step</c><00:07:00.319><c> of</c><00:07:00.560><c> course</c><00:07:00.639><c> is</c><00:07:00.880><c> to</c><00:07:01.120><c> first</c>
+
+00:07:01.270 --> 00:07:01.280 align:start position:0%
+But the first step of course is to first
+ 
+
+00:07:01.280 --> 00:07:04.070 align:start position:0%
+But the first step of course is to first
+of<00:07:01.440><c> all</c><00:07:01.680><c> SSH</c><00:07:02.240><c> into</c><00:07:02.479><c> it.</c><00:07:03.120><c> And</c><00:07:03.360><c> then</c><00:07:03.520><c> we</c><00:07:03.759><c> want</c><00:07:03.919><c> to</c>
+
+00:07:04.070 --> 00:07:04.080 align:start position:0%
+of all SSH into it. And then we want to
+ 
+
+00:07:04.080 --> 00:07:06.550 align:start position:0%
+of all SSH into it. And then we want to
+change<00:07:04.319><c> the</c><00:07:04.639><c> boot</c><00:07:04.960><c> order</c><00:07:05.919><c> such</c><00:07:06.240><c> that</c><00:07:06.400><c> the</c>
+
+00:07:06.550 --> 00:07:06.560 align:start position:0%
+change the boot order such that the
+ 
+
+00:07:06.560 --> 00:07:08.950 align:start position:0%
+change the boot order such that the
+Raspberry<00:07:07.039><c> Pi</c><00:07:07.360><c> actually</c><00:07:07.759><c> boots</c><00:07:08.479><c> with</c><00:07:08.800><c> the</c>
+
+00:07:08.950 --> 00:07:08.960 align:start position:0%
+Raspberry Pi actually boots with the
+ 
+
+00:07:08.960 --> 00:07:11.510 align:start position:0%
+Raspberry Pi actually boots with the
+NVME<00:07:09.599><c> and</c><00:07:09.759><c> not</c><00:07:10.000><c> the</c><00:07:10.160><c> SSD.</c><00:07:10.720><c> So</c><00:07:10.880><c> that's</c><00:07:11.199><c> fairly</c>
+
+00:07:11.510 --> 00:07:11.520 align:start position:0%
+NVME and not the SSD. So that's fairly
+ 
+
+00:07:11.520 --> 00:07:13.510 align:start position:0%
+NVME and not the SSD. So that's fairly
+simple.<00:07:11.840><c> I'm</c><00:07:12.080><c> just</c><00:07:12.240><c> doing</c><00:07:12.400><c> that</c><00:07:12.639><c> right</c><00:07:12.880><c> now.</c>
+
+00:07:13.510 --> 00:07:13.520 align:start position:0%
+simple. I'm just doing that right now.
+ 
+
+00:07:13.520 --> 00:07:15.589 align:start position:0%
+simple. I'm just doing that right now.
+And<00:07:13.759><c> just</c><00:07:13.919><c> give</c><00:07:14.000><c> it</c><00:07:14.160><c> a</c><00:07:14.319><c> while</c><00:07:14.560><c> for</c><00:07:14.960><c> the</c><00:07:15.280><c> process</c>
+
+00:07:15.589 --> 00:07:15.599 align:start position:0%
+And just give it a while for the process
+ 
+
+00:07:15.599 --> 00:07:18.230 align:start position:0%
+And just give it a while for the process
+to<00:07:15.840><c> finish.</c><00:07:16.560><c> And</c><00:07:16.880><c> after</c><00:07:17.199><c> it</c><00:07:17.440><c> finishes,</c><00:07:18.000><c> you</c>
+
+00:07:18.230 --> 00:07:18.240 align:start position:0%
+to finish. And after it finishes, you
+ 
+
+00:07:18.240 --> 00:07:21.189 align:start position:0%
+to finish. And after it finishes, you
+need<00:07:18.319><c> to</c><00:07:18.479><c> do</c><00:07:18.639><c> a</c><00:07:18.880><c> complete</c><00:07:19.599><c> recycle.</c><00:07:20.639><c> So</c><00:07:20.800><c> once</c>
+
+00:07:21.189 --> 00:07:21.199 align:start position:0%
+need to do a complete recycle. So once
+ 
+
+00:07:21.199 --> 00:07:22.790 align:start position:0%
+need to do a complete recycle. So once
+you<00:07:21.360><c> do</c><00:07:21.520><c> the</c><00:07:21.680><c> pseudo</c><00:07:22.080><c> reboot</c><00:07:22.479><c> from</c><00:07:22.639><c> the</c>
+
+00:07:22.790 --> 00:07:22.800 align:start position:0%
+you do the pseudo reboot from the
+ 
+
+00:07:22.800 --> 00:07:25.029 align:start position:0%
+you do the pseudo reboot from the
+Raspberry<00:07:23.280><c> Pi</c><00:07:23.599><c> config,</c><00:07:24.000><c> as</c><00:07:24.160><c> you</c><00:07:24.319><c> saw,</c>
+
+00:07:25.029 --> 00:07:25.039 align:start position:0%
+Raspberry Pi config, as you saw,
+ 
+
+00:07:25.039 --> 00:07:27.029 align:start position:0%
+Raspberry Pi config, as you saw,
+basically<00:07:25.360><c> it'll</c><00:07:25.680><c> get</c><00:07:25.840><c> disconnected</c><00:07:26.800><c> and</c>
+
+00:07:27.029 --> 00:07:27.039 align:start position:0%
+basically it'll get disconnected and
+ 
+
+00:07:27.039 --> 00:07:28.950 align:start position:0%
+basically it'll get disconnected and
+then<00:07:27.280><c> it'll</c><00:07:27.680><c> try</c><00:07:27.840><c> to</c><00:07:28.000><c> reboot.</c><00:07:28.479><c> But</c><00:07:28.639><c> what</c><00:07:28.800><c> I</c>
+
+00:07:28.950 --> 00:07:28.960 align:start position:0%
+then it'll try to reboot. But what I
+ 
+
+00:07:28.960 --> 00:07:30.550 align:start position:0%
+then it'll try to reboot. But what I
+want<00:07:29.039><c> you</c><00:07:29.199><c> to</c><00:07:29.360><c> do</c><00:07:29.599><c> is</c><00:07:29.840><c> basically</c><00:07:29.990><c> [music]</c>
+
+00:07:30.550 --> 00:07:30.560 align:start position:0%
+want you to do is basically [music]
+ 
+
+00:07:30.560 --> 00:07:32.710 align:start position:0%
+want you to do is basically [music]
+stop<00:07:30.800><c> the</c><00:07:31.039><c> reboot,</c><00:07:31.520><c> take</c><00:07:31.680><c> the</c><00:07:31.840><c> ribbon,</c><00:07:32.479><c> take</c>
+
+00:07:32.710 --> 00:07:32.720 align:start position:0%
+stop the reboot, take the ribbon, take
+ 
+
+00:07:32.720 --> 00:07:34.710 align:start position:0%
+stop the reboot, take the ribbon, take
+the<00:07:32.880><c> power</c><00:07:33.120><c> cable</c><00:07:33.440><c> out,</c><00:07:33.919><c> wait</c><00:07:34.160><c> for</c><00:07:34.479><c> 10</c>
+
+00:07:34.710 --> 00:07:34.720 align:start position:0%
+the power cable out, wait for 10
+ 
+
+00:07:34.720 --> 00:07:37.430 align:start position:0%
+the power cable out, wait for 10
+seconds,<00:07:35.199><c> and</c><00:07:35.440><c> then</c><00:07:36.240><c> power</c><00:07:36.479><c> it</c><00:07:36.720><c> back</c><00:07:36.880><c> in,</c><00:07:37.199><c> and</c>
+
+00:07:37.430 --> 00:07:37.440 align:start position:0%
+seconds, and then power it back in, and
+ 
+
+00:07:37.440 --> 00:07:39.510 align:start position:0%
+seconds, and then power it back in, and
+then<00:07:37.680><c> we'll</c><00:07:38.080><c> basically</c><00:07:38.560><c> continue</c><00:07:38.880><c> with</c><00:07:39.039><c> it.</c>
+
+00:07:39.510 --> 00:07:39.520 align:start position:0%
+then we'll basically continue with it.
+ 
+
+00:07:39.520 --> 00:07:41.830 align:start position:0%
+then we'll basically continue with it.
+Otherwise,<00:07:40.000><c> this</c><00:07:40.319><c> doesn't</c><00:07:40.639><c> just</c><00:07:40.960><c> give</c><00:07:41.120><c> the</c><00:07:41.440><c> OS</c>
+
+00:07:41.830 --> 00:07:41.840 align:start position:0%
+Otherwise, this doesn't just give the OS
+ 
+
+00:07:41.840 --> 00:07:45.589 align:start position:0%
+Otherwise, this doesn't just give the OS
+a<00:07:42.160><c> hard</c><00:07:42.639><c> reboot</c><00:07:43.199><c> to</c><00:07:43.520><c> basically</c><00:07:44.560><c> identify</c><00:07:45.120><c> the</c>
+
+00:07:45.589 --> 00:07:45.599 align:start position:0%
+a hard reboot to basically identify the
+ 
+
+00:07:45.599 --> 00:07:48.870 align:start position:0%
+a hard reboot to basically identify the
+SSD<00:07:46.160><c> onto</c><00:07:46.560><c> it.</c><00:07:47.599><c> Once</c><00:07:47.919><c> that's</c><00:07:48.240><c> done,</c><00:07:48.560><c> we</c><00:07:48.720><c> can</c>
+
+00:07:48.870 --> 00:07:48.880 align:start position:0%
+SSD onto it. Once that's done, we can
+ 
+
+00:07:48.880 --> 00:07:52.629 align:start position:0%
+SSD onto it. Once that's done, we can
+come<00:07:49.039><c> in</c><00:07:49.280><c> and</c><00:07:49.520><c> pass</c><00:07:49.759><c> the</c><00:07:50.000><c> lsk</c><00:07:51.120><c> command</c><00:07:51.599><c> to</c><00:07:52.240><c> now</c>
+
+00:07:52.629 --> 00:07:52.639 align:start position:0%
+come in and pass the lsk command to now
+ 
+
+00:07:52.639 --> 00:07:54.629 align:start position:0%
+come in and pass the lsk command to now
+see<00:07:52.800><c> that</c><00:07:53.120><c> the</c><00:07:53.360><c> Raspberry</c><00:07:53.840><c> Pi</c><00:07:54.160><c> actually</c>
+
+00:07:54.629 --> 00:07:54.639 align:start position:0%
+see that the Raspberry Pi actually
+ 
+
+00:07:54.639 --> 00:07:57.270 align:start position:0%
+see that the Raspberry Pi actually
+detects<00:07:55.120><c> the</c><00:07:55.360><c> NVME</c><00:07:56.000><c> SSDs,</c><00:07:56.560><c> which</c><00:07:56.800><c> is</c><00:07:56.960><c> very</c>
+
+00:07:57.270 --> 00:07:57.280 align:start position:0%
+detects the NVME SSDs, which is very
+ 
+
+00:07:57.280 --> 00:07:59.589 align:start position:0%
+detects the NVME SSDs, which is very
+important.<00:07:58.160><c> And</c><00:07:58.400><c> then</c><00:07:58.639><c> once</c><00:07:58.879><c> it</c><00:07:59.120><c> does,</c>
+
+00:07:59.589 --> 00:07:59.599 align:start position:0%
+important. And then once it does,
+ 
+
+00:07:59.599 --> 00:08:02.309 align:start position:0%
+important. And then once it does,
+basically,<00:08:00.080><c> we</c><00:08:00.240><c> will</c><00:08:00.400><c> start</c><00:08:00.720><c> to</c><00:08:00.960><c> unmount</c><00:08:02.160><c> uh</c>
+
+00:08:02.309 --> 00:08:02.319 align:start position:0%
+basically, we will start to unmount uh
+ 
+
+00:08:02.319 --> 00:08:05.029 align:start position:0%
+basically, we will start to unmount uh
+the<00:08:02.639><c> SD</c><00:08:03.120><c> card</c><00:08:03.840><c> um</c><00:08:04.000><c> and</c><00:08:04.240><c> then</c><00:08:04.705><c> [music]</c>
+
+00:08:05.029 --> 00:08:05.039 align:start position:0%
+the SD card um and then [music]
+ 
+
+00:08:05.039 --> 00:08:09.280 align:start position:0%
+the SD card um and then [music]
+completely<00:08:05.759><c> wipe</c><00:08:06.800><c> the</c><00:08:07.360><c> uh</c><00:08:07.520><c> SD</c><00:08:07.919><c> card</c><00:08:08.240><c> out.</c><00:08:09.039><c> I</c>
+
+00:08:09.280 --> 00:08:09.290 align:start position:0%
+completely wipe the uh SD card out. I
+ 
+
+00:08:09.290 --> 00:08:11.589 align:start position:0%
+completely wipe the uh SD card out. I
+[music]<00:08:09.680><c> purposely</c><00:08:10.240><c> run</c><00:08:10.560><c> everything</c><00:08:11.039><c> as</c><00:08:11.280><c> is</c>
+
+00:08:11.589 --> 00:08:11.599 align:start position:0%
+[music] purposely run everything as is
+ 
+
+00:08:11.599 --> 00:08:13.589 align:start position:0%
+[music] purposely run everything as is
+just<00:08:11.840><c> to</c><00:08:12.080><c> show</c><00:08:12.240><c> you</c><00:08:12.400><c> that</c><00:08:12.639><c> the</c><00:08:12.879><c> process</c><00:08:13.280><c> will</c>
+
+00:08:13.589 --> 00:08:13.599 align:start position:0%
+just to show you that the process will
+ 
+
+00:08:13.599 --> 00:08:16.869 align:start position:0%
+just to show you that the process will
+fail.<00:08:14.160><c> If</c><00:08:14.400><c> your</c><00:08:14.560><c> NVME</c><00:08:15.520><c> drive</c><00:08:15.919><c> is</c><00:08:16.240><c> greater</c><00:08:16.560><c> than</c>
+
+00:08:16.869 --> 00:08:16.879 align:start position:0%
+fail. If your NVME drive is greater than
+ 
+
+00:08:16.879 --> 00:08:19.510 align:start position:0%
+fail. If your NVME drive is greater than
+2<00:08:17.039><c> TB,</c><00:08:17.759><c> this</c><00:08:18.000><c> whole</c><00:08:18.240><c> process</c><00:08:18.720><c> will</c><00:08:19.039><c> basically</c>
+
+00:08:19.510 --> 00:08:19.520 align:start position:0%
+2 TB, this whole process will basically
+ 
+
+00:08:19.520 --> 00:08:21.589 align:start position:0%
+2 TB, this whole process will basically
+fail.<00:08:19.770><c> [music]</c><00:08:20.000><c> So</c><00:08:20.160><c> the</c><00:08:20.319><c> RPI</c><00:08:20.879><c> clone</c><00:08:21.199><c> GitHub</c>
+
+00:08:21.589 --> 00:08:21.599 align:start position:0%
+fail. [music] So the RPI clone GitHub
+ 
+
+00:08:21.599 --> 00:08:23.990 align:start position:0%
+fail. [music] So the RPI clone GitHub
+repo<00:08:21.919><c> by</c><00:08:22.160><c> Jeff</c><00:08:22.400><c> Curling</c><00:08:22.879><c> will</c><00:08:23.199><c> fail.</c><00:08:23.599><c> So</c><00:08:23.759><c> we</c>
+
+00:08:23.990 --> 00:08:24.000 align:start position:0%
+repo by Jeff Curling will fail. So we
+ 
+
+00:08:24.000 --> 00:08:25.589 align:start position:0%
+repo by Jeff Curling will fail. So we
+have<00:08:24.080><c> to</c><00:08:24.240><c> come</c><00:08:24.400><c> up</c><00:08:24.560><c> with</c><00:08:24.720><c> a</c><00:08:24.879><c> different</c><00:08:25.120><c> way</c><00:08:25.360><c> to</c>
+
+00:08:25.589 --> 00:08:25.599 align:start position:0%
+have to come up with a different way to
+ 
+
+00:08:25.599 --> 00:08:27.589 align:start position:0%
+have to come up with a different way to
+format<00:08:26.000><c> our</c><00:08:26.160><c> SD</c><00:08:26.479><c> card.</c><00:08:26.720><c> So</c><00:08:26.879><c> for</c><00:08:27.039><c> that,</c><00:08:27.280><c> first</c>
+
+00:08:27.589 --> 00:08:27.599 align:start position:0%
+format our SD card. So for that, first
+ 
+
+00:08:27.599 --> 00:08:31.510 align:start position:0%
+format our SD card. So for that, first
+I'll<00:08:27.919><c> copy</c><00:08:28.879><c> the</c><00:08:29.199><c> boot</c><00:08:30.240><c> uh</c><00:08:30.879><c> all</c><00:08:31.120><c> the</c><00:08:31.280><c> boot</c>
+
+00:08:31.510 --> 00:08:31.520 align:start position:0%
+I'll copy the boot uh all the boot
+ 
+
+00:08:31.520 --> 00:08:33.670 align:start position:0%
+I'll copy the boot uh all the boot
+information<00:08:32.240><c> and</c><00:08:32.560><c> the</c><00:08:32.800><c> file</c><00:08:33.279><c> system</c>
+
+00:08:33.670 --> 00:08:33.680 align:start position:0%
+information and the file system
+ 
+
+00:08:33.680 --> 00:08:36.149 align:start position:0%
+information and the file system
+information<00:08:34.240><c> onto</c><00:08:34.640><c> the</c><00:08:34.800><c> SSD</c><00:08:35.360><c> first</c><00:08:35.760><c> from</c><00:08:36.000><c> the</c>
+
+00:08:36.149 --> 00:08:36.159 align:start position:0%
+information onto the SSD first from the
+ 
+
+00:08:36.159 --> 00:08:38.949 align:start position:0%
+information onto the SSD first from the
+SD<00:08:36.560><c> card.</c><00:08:37.279><c> And</c><00:08:37.599><c> then</c><00:08:37.919><c> basically</c><00:08:38.320><c> we</c><00:08:38.640><c> have</c><00:08:38.719><c> to</c>
+
+00:08:38.949 --> 00:08:38.959 align:start position:0%
+SD card. And then basically we have to
+ 
+
+00:08:38.959 --> 00:08:41.750 align:start position:0%
+SD card. And then basically we have to
+configure<00:08:39.360><c> it</c><00:08:39.519><c> in</c><00:08:39.839><c> such</c><00:08:40.080><c> a</c><00:08:40.320><c> way</c><00:08:40.479><c> that</c><00:08:40.800><c> now</c><00:08:41.519><c> we</c>
+
+00:08:41.750 --> 00:08:41.760 align:start position:0%
+configure it in such a way that now we
+ 
+
+00:08:41.760 --> 00:08:45.190 align:start position:0%
+configure it in such a way that now we
+can<00:08:42.159><c> perfectly</c><00:08:43.519><c> um</c><00:08:43.760><c> unmount</c><00:08:44.240><c> it</c><00:08:44.399><c> and</c><00:08:44.640><c> boot</c><00:08:44.880><c> it.</c>
+
+00:08:45.190 --> 00:08:45.200 align:start position:0%
+can perfectly um unmount it and boot it.
+ 
+
+00:08:45.200 --> 00:08:47.110 align:start position:0%
+can perfectly um unmount it and boot it.
+And<00:08:45.360><c> then</c><00:08:45.519><c> again</c><00:08:45.760><c> we'll</c><00:08:46.080><c> do</c><00:08:46.160><c> the</c><00:08:46.399><c> same</c><00:08:46.640><c> step</c><00:08:46.880><c> of</c>
+
+00:08:47.110 --> 00:08:47.120 align:start position:0%
+And then again we'll do the same step of
+ 
+
+00:08:47.120 --> 00:08:50.310 align:start position:0%
+And then again we'll do the same step of
+waiting<00:08:47.360><c> for</c><00:08:47.600><c> 10</c><00:08:47.920><c> seconds.</c>
+
+00:08:50.310 --> 00:08:50.320 align:start position:0%
+waiting for 10 seconds.
+ 
+
+00:08:50.320 --> 00:08:52.870 align:start position:0%
+waiting for 10 seconds.
+All<00:08:50.399><c> right.</c><00:08:50.720><c> So</c><00:08:50.880><c> the</c><00:08:51.120><c> SD</c><00:08:51.519><c> card</c><00:08:51.839><c> is</c><00:08:52.160><c> now</c><00:08:52.480><c> out</c><00:08:52.720><c> of</c>
+
+00:08:52.870 --> 00:08:52.880 align:start position:0%
+All right. So the SD card is now out of
+ 
+
+00:08:52.880 --> 00:08:56.790 align:start position:0%
+All right. So the SD card is now out of
+this.<00:08:53.440><c> Now</c><00:08:54.160><c> in</c><00:08:54.480><c> theory</c><00:08:55.120><c> if</c><00:08:55.360><c> I</c><00:08:55.600><c> should</c><00:08:56.320><c> try</c><00:08:56.560><c> to</c>
+
+00:08:56.790 --> 00:08:56.800 align:start position:0%
+this. Now in theory if I should try to
+ 
+
+00:08:56.800 --> 00:08:59.670 align:start position:0%
+this. Now in theory if I should try to
+SSH<00:08:57.440><c> in</c><00:08:58.080><c> we</c><00:08:58.399><c> should</c><00:08:58.560><c> be</c><00:08:58.800><c> able</c><00:08:59.040><c> to</c><00:08:59.071><c> [music]</c>
+
+00:08:59.670 --> 00:08:59.680 align:start position:0%
+SSH in we should be able to [music]
+ 
+
+00:08:59.680 --> 00:09:01.910 align:start position:0%
+SSH in we should be able to [music]
+basically<00:09:00.240><c> see</c><00:09:00.560><c> this</c><00:09:00.800><c> work.</c><00:09:01.200><c> So</c><00:09:01.440><c> let's</c><00:09:01.680><c> go</c>
+
+00:09:01.910 --> 00:09:01.920 align:start position:0%
+basically see this work. So let's go
+ 
+
+00:09:01.920 --> 00:09:04.389 align:start position:0%
+basically see this work. So let's go
+into<00:09:02.160><c> the</c><00:09:02.320><c> terminal</c><00:09:02.720><c> again</c><00:09:03.279><c> try</c><00:09:03.440><c> to</c><00:09:03.600><c> SSH</c><00:09:04.160><c> in</c>
+
+00:09:04.389 --> 00:09:04.399 align:start position:0%
+into the terminal again try to SSH in
+ 
+
+00:09:04.399 --> 00:09:06.630 align:start position:0%
+into the terminal again try to SSH in
+and<00:09:04.640><c> see</c><00:09:04.966><c> [music]</c><00:09:05.200><c> if</c><00:09:05.519><c> this</c><00:09:05.680><c> thing</c><00:09:05.920><c> works.</c><00:09:06.320><c> Of</c>
+
+00:09:06.630 --> 00:09:06.640 align:start position:0%
+and see [music] if this thing works. Of
+ 
+
+00:09:06.640 --> 00:09:08.230 align:start position:0%
+and see [music] if this thing works. Of
+course,<00:09:06.800><c> this</c><00:09:06.959><c> is</c><00:09:07.040><c> the</c><00:09:07.279><c> scary</c><00:09:07.600><c> bit,</c><00:09:07.839><c> but</c><00:09:08.080><c> the</c>
+
+00:09:08.230 --> 00:09:08.240 align:start position:0%
+course, this is the scary bit, but the
+ 
+
+00:09:08.240 --> 00:09:10.230 align:start position:0%
+course, this is the scary bit, but the
+SSH<00:09:08.720><c> did</c><00:09:08.959><c> work.</c><00:09:09.360><c> All</c><00:09:09.360><c> right,</c><00:09:09.680><c> now</c><00:09:09.920><c> we</c><00:09:10.080><c> are</c>
+
+00:09:10.230 --> 00:09:10.240 align:start position:0%
+SSH did work. All right, now we are
+ 
+
+00:09:10.240 --> 00:09:12.710 align:start position:0%
+SSH did work. All right, now we are
+officially<00:09:10.800><c> ready</c><00:09:11.040><c> to</c><00:09:11.279><c> install</c><00:09:11.839><c> Next</c><00:09:12.320><c> Cloud</c>
+
+00:09:12.710 --> 00:09:12.720 align:start position:0%
+officially ready to install Next Cloud
+ 
+
+00:09:12.720 --> 00:09:15.990 align:start position:0%
+officially ready to install Next Cloud
+onto<00:09:13.040><c> your</c><00:09:13.279><c> Raspberry</c><00:09:13.760><c> Pi</c><00:09:14.080><c> SSD</c><00:09:15.040><c> such</c><00:09:15.360><c> that</c><00:09:15.680><c> now</c>
+
+00:09:15.990 --> 00:09:16.000 align:start position:0%
+onto your Raspberry Pi SSD such that now
+ 
+
+00:09:16.000 --> 00:09:18.710 align:start position:0%
+onto your Raspberry Pi SSD such that now
+basically<00:09:16.480><c> this</c><00:09:16.720><c> SSD</c><00:09:17.279><c> will</c><00:09:17.600><c> be</c><00:09:18.240><c> easily</c>
+
+00:09:18.710 --> 00:09:18.720 align:start position:0%
+basically this SSD will be easily
+ 
+
+00:09:18.720 --> 00:09:21.190 align:start position:0%
+basically this SSD will be easily
+accessible<00:09:19.360><c> from</c><00:09:19.680><c> anywhere</c><00:09:20.080><c> on</c><00:09:20.320><c> our</c><00:09:20.560><c> Mac</c><00:09:20.959><c> or</c>
+
+00:09:21.190 --> 00:09:21.200 align:start position:0%
+accessible from anywhere on our Mac or
+ 
+
+00:09:21.200 --> 00:09:23.430 align:start position:0%
+accessible from anywhere on our Mac or
+mobile<00:09:21.600><c> or</c><00:09:21.920><c> from</c><00:09:22.080><c> anywhere</c><00:09:22.399><c> in</c><00:09:22.640><c> the</c><00:09:22.800><c> world.</c>
+
+00:09:23.430 --> 00:09:23.440 align:start position:0%
+mobile or from anywhere in the world.
+ 
+
+00:09:23.440 --> 00:09:26.070 align:start position:0%
+mobile or from anywhere in the world.
+This<00:09:23.680><c> is</c><00:09:24.000><c> where</c><00:09:24.320><c> the</c><00:09:24.640><c> magic</c><00:09:24.959><c> happens.</c><00:09:25.600><c> It's</c>
+
+00:09:26.070 --> 00:09:26.080 align:start position:0%
+This is where the magic happens. It's
+ 
+
+00:09:26.080 --> 00:09:28.710 align:start position:0%
+This is where the magic happens. It's
+literally<00:09:26.640><c> an</c><00:09:26.959><c> open-source</c><00:09:27.760><c> version</c><00:09:28.399><c> of,</c>
+
+00:09:28.710 --> 00:09:28.720 align:start position:0%
+literally an open-source version of,
+ 
+
+00:09:28.720 --> 00:09:31.030 align:start position:0%
+literally an open-source version of,
+let's<00:09:28.959><c> say,</c><00:09:29.120><c> iCloud</c><00:09:29.600><c> or</c><00:09:29.839><c> Google</c><00:09:30.160><c> Drive.</c><00:09:30.880><c> That</c>
+
+00:09:31.030 --> 00:09:31.040 align:start position:0%
+let's say, iCloud or Google Drive. That
+ 
+
+00:09:31.040 --> 00:09:32.790 align:start position:0%
+let's say, iCloud or Google Drive. That
+is<00:09:31.200><c> the</c><00:09:31.360><c> main</c><00:09:31.519><c> driver</c><00:09:31.920><c> for</c><00:09:32.160><c> this</c><00:09:32.399><c> video.</c><00:09:32.640><c> So,</c>
+
+00:09:32.790 --> 00:09:32.800 align:start position:0%
+is the main driver for this video. So,
+ 
+
+00:09:32.800 --> 00:09:34.710 align:start position:0%
+is the main driver for this video. So,
+let's<00:09:33.040><c> install</c><00:09:33.360><c> that.</c><00:09:33.760><c> Set</c><00:09:34.000><c> everything</c><00:09:34.320><c> up.</c>
+
+00:09:34.710 --> 00:09:34.720 align:start position:0%
+let's install that. Set everything up.
+ 
+
+00:09:34.720 --> 00:09:37.430 align:start position:0%
+let's install that. Set everything up.
+install<00:09:35.120><c> tail</c><00:09:35.440><c> scale</c><00:09:36.160><c> and</c><00:09:36.406><c> [music]</c><00:09:36.480><c> then</c><00:09:37.279><c> um</c>
+
+00:09:37.430 --> 00:09:37.440 align:start position:0%
+install tail scale and [music] then um
+ 
+
+00:09:37.440 --> 00:09:39.269 align:start position:0%
+install tail scale and [music] then um
+I'll<00:09:37.760><c> show</c><00:09:37.839><c> you</c><00:09:38.080><c> everything</c><00:09:38.720><c> on</c><00:09:38.959><c> on</c><00:09:39.120><c> the</c>
+
+00:09:39.269 --> 00:09:39.279 align:start position:0%
+I'll show you everything on on the
+ 
+
+00:09:39.279 --> 00:09:41.430 align:start position:0%
+I'll show you everything on on the
+terminal<00:09:39.680><c> step</c><00:09:39.920><c> by</c><00:09:40.160><c> step.</c><00:09:40.720><c> So</c><00:09:40.880><c> now</c><00:09:41.040><c> that</c><00:09:41.279><c> we</c>
+
+00:09:41.430 --> 00:09:41.440 align:start position:0%
+terminal step by step. So now that we
+ 
+
+00:09:41.440 --> 00:09:45.030 align:start position:0%
+terminal step by step. So now that we
+know<00:09:41.600><c> that</c><00:09:41.839><c> the</c><00:09:42.320><c> it</c><00:09:42.640><c> boots</c><00:09:43.040><c> out</c><00:09:43.200><c> of</c><00:09:43.360><c> the</c><00:09:43.519><c> SSD</c><00:09:44.720><c> uh</c>
+
+00:09:45.030 --> 00:09:45.040 align:start position:0%
+know that the it boots out of the SSD uh
+ 
+
+00:09:45.040 --> 00:09:46.870 align:start position:0%
+know that the it boots out of the SSD uh
+after<00:09:45.360><c> removing</c><00:09:45.760><c> the</c><00:09:45.920><c> SD</c><00:09:46.240><c> card,</c><00:09:46.480><c> we're</c><00:09:46.720><c> ready</c>
+
+00:09:46.870 --> 00:09:46.880 align:start position:0%
+after removing the SD card, we're ready
+ 
+
+00:09:46.880 --> 00:09:48.710 align:start position:0%
+after removing the SD card, we're ready
+to<00:09:47.040><c> install</c><00:09:47.519><c> NextCloud,</c><00:09:48.160><c> which</c><00:09:48.320><c> is</c><00:09:48.480><c> this</c>
+
+00:09:48.710 --> 00:09:48.720 align:start position:0%
+to install NextCloud, which is this
+ 
+
+00:09:48.720 --> 00:09:51.030 align:start position:0%
+to install NextCloud, which is this
+open-source<00:09:49.440><c> software</c><00:09:49.920><c> that</c><00:09:50.240><c> basically</c><00:09:50.640><c> lets</c>
+
+00:09:51.030 --> 00:09:51.040 align:start position:0%
+open-source software that basically lets
+ 
+
+00:09:51.040 --> 00:09:54.870 align:start position:0%
+open-source software that basically lets
+us<00:09:51.920><c> manage</c><00:09:52.399><c> all</c><00:09:52.640><c> of</c><00:09:52.800><c> the</c><00:09:52.959><c> files</c><00:09:54.000><c> just</c><00:09:54.320><c> like</c><00:09:54.800><c> you</c>
+
+00:09:54.870 --> 00:09:54.880 align:start position:0%
+us manage all of the files just like you
+ 
+
+00:09:54.880 --> 00:09:57.590 align:start position:0%
+us manage all of the files just like you
+know<00:09:55.120><c> iCloud</c><00:09:55.680><c> does</c><00:09:55.920><c> or</c><00:09:56.240><c> one</c><00:09:56.399><c> drive</c><00:09:56.720><c> does.</c><00:09:57.279><c> Once</c>
+
+00:09:57.590 --> 00:09:57.600 align:start position:0%
+know iCloud does or one drive does. Once
+ 
+
+00:09:57.600 --> 00:09:59.350 align:start position:0%
+know iCloud does or one drive does. Once
+that's<00:09:57.839><c> installed</c><00:09:58.320><c> with</c><00:09:58.560><c> Snap,</c><00:09:59.120><c> you</c><00:09:59.279><c> can</c>
+
+00:09:59.350 --> 00:09:59.360 align:start position:0%
+that's installed with Snap, you can
+ 
+
+00:09:59.360 --> 00:10:03.430 align:start position:0%
+that's installed with Snap, you can
+basically<00:09:59.839><c> go</c><00:10:00.160><c> into</c><00:10:00.560><c> the</c><00:10:01.360><c> uh</c><00:10:01.760><c> um</c><00:10:02.640><c> IP</c><00:10:03.040><c> address</c>
+
+00:10:03.430 --> 00:10:03.440 align:start position:0%
+basically go into the uh um IP address
+ 
+
+00:10:03.440 --> 00:10:05.829 align:start position:0%
+basically go into the uh um IP address
+of<00:10:03.680><c> your</c><00:10:03.839><c> Raspberry</c><00:10:04.320><c> Pi</c><00:10:04.640><c> with</c><00:10:04.959><c> the</c><00:10:05.279><c> port</c><00:10:05.600><c> and</c>
+
+00:10:05.829 --> 00:10:05.839 align:start position:0%
+of your Raspberry Pi with the port and
+ 
+
+00:10:05.839 --> 00:10:07.670 align:start position:0%
+of your Raspberry Pi with the port and
+you<00:10:06.000><c> should</c><00:10:06.160><c> see</c><00:10:06.399><c> Nextcloud</c><00:10:06.959><c> app.</c><00:10:07.279><c> It's</c>
+
+00:10:07.670 --> 00:10:07.680 align:start position:0%
+you should see Nextcloud app. It's
+ 
+
+00:10:07.680 --> 00:10:09.350 align:start position:0%
+you should see Nextcloud app. It's
+fairly<00:10:08.160><c> easy</c><00:10:08.399><c> to</c><00:10:08.560><c> set</c><00:10:08.720><c> it</c><00:10:08.800><c> up.</c><00:10:09.040><c> Now,</c><00:10:09.200><c> I'm</c>
+
+00:10:09.350 --> 00:10:09.360 align:start position:0%
+fairly easy to set it up. Now, I'm
+ 
+
+00:10:09.360 --> 00:10:11.030 align:start position:0%
+fairly easy to set it up. Now, I'm
+actually<00:10:09.680><c> doing</c><00:10:09.839><c> the</c><00:10:10.160><c> same</c><00:10:10.399><c> thing</c><00:10:10.560><c> on</c><00:10:10.800><c> my</c>
+
+00:10:11.030 --> 00:10:11.040 align:start position:0%
+actually doing the same thing on my
+ 
+
+00:10:11.040 --> 00:10:13.030 align:start position:0%
+actually doing the same thing on my
+mobile<00:10:11.519><c> and</c><00:10:11.760><c> it's</c><00:10:12.000><c> super</c><00:10:12.240><c> easy</c><00:10:12.399><c> to</c><00:10:12.560><c> do.</c><00:10:12.720><c> As</c><00:10:12.880><c> you</c>
+
+00:10:13.030 --> 00:10:13.040 align:start position:0%
+mobile and it's super easy to do. As you
+ 
+
+00:10:13.040 --> 00:10:15.110 align:start position:0%
+mobile and it's super easy to do. As you
+can<00:10:13.120><c> see,</c><00:10:13.279><c> the</c><00:10:13.440><c> file</c><00:10:13.760><c> just</c><00:10:13.920><c> appears.</c><00:10:14.640><c> Once</c>
+
+00:10:15.110 --> 00:10:15.120 align:start position:0%
+can see, the file just appears. Once
+ 
+
+00:10:15.120 --> 00:10:16.710 align:start position:0%
+can see, the file just appears. Once
+next<00:10:15.360><c> cloud</c><00:10:15.680><c> is</c><00:10:15.839><c> installed,</c><00:10:16.320><c> we</c><00:10:16.560><c> will</c>
+
+00:10:16.710 --> 00:10:16.720 align:start position:0%
+next cloud is installed, we will
+ 
+
+00:10:16.720 --> 00:10:18.630 align:start position:0%
+next cloud is installed, we will
+basically<00:10:17.120><c> install</c><00:10:17.519><c> Tailcale,</c><00:10:18.240><c> which</c><00:10:18.480><c> is</c>
+
+00:10:18.630 --> 00:10:18.640 align:start position:0%
+basically install Tailcale, which is
+ 
+
+00:10:18.640 --> 00:10:21.750 align:start position:0%
+basically install Tailcale, which is
+basically<00:10:19.040><c> a</c><00:10:19.680><c> VPN</c><00:10:20.320><c> mesh</c><00:10:20.720><c> network</c><00:10:21.120><c> that</c><00:10:21.440><c> allows</c>
+
+00:10:21.750 --> 00:10:21.760 align:start position:0%
+basically a VPN mesh network that allows
+ 
+
+00:10:21.760 --> 00:10:23.269 align:start position:0%
+basically a VPN mesh network that allows
+you<00:10:21.920><c> to</c><00:10:22.160><c> access</c><00:10:22.480><c> your</c><00:10:22.720><c> device</c><00:10:23.040><c> from</c>
+
+00:10:23.269 --> 00:10:23.279 align:start position:0%
+you to access your device from
+ 
+
+00:10:23.279 --> 00:10:25.190 align:start position:0%
+you to access your device from
+everywhere.<00:10:24.000><c> So</c><00:10:24.160><c> you</c><00:10:24.320><c> have</c><00:10:24.399><c> to</c><00:10:24.560><c> authenticate</c>
+
+00:10:25.190 --> 00:10:25.200 align:start position:0%
+everywhere. So you have to authenticate
+ 
+
+00:10:25.200 --> 00:10:28.150 align:start position:0%
+everywhere. So you have to authenticate
+yourself<00:10:25.680><c> first</c><00:10:26.000><c> and</c><00:10:26.399><c> add</c><00:10:26.880><c> every</c><00:10:27.360><c> device</c><00:10:27.839><c> to</c>
+
+00:10:28.150 --> 00:10:28.160 align:start position:0%
+yourself first and add every device to
+ 
+
+00:10:28.160 --> 00:10:29.990 align:start position:0%
+yourself first and add every device to
+one<00:10:28.480><c> Gmail</c><00:10:28.959><c> account.</c><00:10:29.279><c> That's</c><00:10:29.519><c> how</c><00:10:29.680><c> you</c><00:10:29.839><c> can</c>
+
+00:10:29.990 --> 00:10:30.000 align:start position:0%
+one Gmail account. That's how you can
+ 
+
+00:10:30.000 --> 00:10:32.710 align:start position:0%
+one Gmail account. That's how you can
+manage<00:10:30.399><c> everything.</c><00:10:31.360><c> Um</c><00:10:32.000><c> you</c><00:10:32.082><c> [music]</c><00:10:32.240><c> know</c>
+
+00:10:32.710 --> 00:10:32.720 align:start position:0%
+manage everything. Um you [music] know
+ 
+
+00:10:32.720 --> 00:10:34.949 align:start position:0%
+manage everything. Um you [music] know
+everything<00:10:33.040><c> is</c><00:10:33.279><c> under</c><00:10:33.600><c> one</c><00:10:34.240><c> uh</c><00:10:34.480><c> account.</c><00:10:34.800><c> So</c>
+
+00:10:34.949 --> 00:10:34.959 align:start position:0%
+everything is under one uh account. So
+ 
+
+00:10:34.959 --> 00:10:37.030 align:start position:0%
+everything is under one uh account. So
+that'll<00:10:35.279><c> help</c><00:10:35.440><c> you</c><00:10:35.600><c> to</c><00:10:35.760><c> basically</c><00:10:36.640><c> uh</c><00:10:36.800><c> sync</c>
+
+00:10:37.030 --> 00:10:37.040 align:start position:0%
+that'll help you to basically uh sync
+ 
+
+00:10:37.040 --> 00:10:39.590 align:start position:0%
+that'll help you to basically uh sync
+all<00:10:37.279><c> your</c><00:10:37.760><c> devices</c><00:10:38.240><c> across</c><00:10:38.640><c> your</c><00:10:38.880><c> phone.</c>
+
+00:10:39.590 --> 00:10:39.600 align:start position:0%
+all your devices across your phone.
+ 
+
+00:10:39.600 --> 00:10:41.350 align:start position:0%
+all your devices across your phone.
+Needless<00:10:40.000><c> to</c><00:10:40.160><c> say</c><00:10:40.320><c> you</c><00:10:40.480><c> also</c><00:10:40.720><c> have</c><00:10:40.800><c> to</c><00:10:40.959><c> install</c>
+
+00:10:41.350 --> 00:10:41.360 align:start position:0%
+Needless to say you also have to install
+ 
+
+00:10:41.360 --> 00:10:43.509 align:start position:0%
+Needless to say you also have to install
+tail<00:10:41.760><c> scale</c><00:10:42.000><c> on</c><00:10:42.160><c> your</c><00:10:42.320><c> mobile</c><00:10:42.720><c> just</c><00:10:42.880><c> as</c><00:10:43.040><c> I</c><00:10:43.279><c> said</c>
+
+00:10:43.509 --> 00:10:43.519 align:start position:0%
+tail scale on your mobile just as I said
+ 
+
+00:10:43.519 --> 00:10:45.750 align:start position:0%
+tail scale on your mobile just as I said
+and<00:10:43.760><c> basically</c><00:10:44.240><c> add</c><00:10:44.527><c> [music]</c><00:10:44.720><c> every</c><00:10:45.440><c> uh</c><00:10:45.519><c> add</c>
+
+00:10:45.750 --> 00:10:45.760 align:start position:0%
+and basically add [music] every uh add
+ 
+
+00:10:45.760 --> 00:10:47.750 align:start position:0%
+and basically add [music] every uh add
+your<00:10:46.000><c> mobile</c><00:10:46.320><c> to</c><00:10:46.560><c> the</c><00:10:46.800><c> same</c><00:10:47.120><c> tail</c><00:10:47.440><c> scale</c>
+
+00:10:47.750 --> 00:10:47.760 align:start position:0%
+your mobile to the same tail scale
+ 
+
+00:10:47.760 --> 00:10:50.150 align:start position:0%
+your mobile to the same tail scale
+account<00:10:48.320><c> with</c><00:10:48.560><c> which</c><00:10:48.800><c> you</c><00:10:48.959><c> add</c><00:10:49.120><c> your</c><00:10:49.360><c> MacBook</c>
+
+00:10:50.150 --> 00:10:50.160 align:start position:0%
+account with which you add your MacBook
+ 
+
+00:10:50.160 --> 00:10:52.230 align:start position:0%
+account with which you add your MacBook
+and<00:10:50.480><c> the</c><00:10:50.640><c> Raspberry</c><00:10:51.120><c> Pi.</c><00:10:51.732><c> [music]</c><00:10:51.839><c> So</c>
+
+00:10:52.230 --> 00:10:52.240 align:start position:0%
+and the Raspberry Pi. [music] So
+ 
+
+00:10:52.240 --> 00:10:54.389 align:start position:0%
+and the Raspberry Pi. [music] So
+everything<00:10:52.560><c> is</c><00:10:52.720><c> under</c><00:10:53.040><c> one</c><00:10:53.360><c> VPN</c><00:10:53.839><c> mesh.</c><00:10:54.240><c> This</c>
+
+00:10:54.389 --> 00:10:54.399 align:start position:0%
+everything is under one VPN mesh. This
+ 
+
+00:10:54.399 --> 00:10:56.069 align:start position:0%
+everything is under one VPN mesh. This
+allows<00:10:54.720><c> you</c><00:10:54.880><c> to,</c><00:10:55.360><c> you</c><00:10:55.519><c> know,</c><00:10:55.680><c> access</c>
+
+00:10:56.069 --> 00:10:56.079 align:start position:0%
+allows you to, you know, access
+ 
+
+00:10:56.079 --> 00:10:58.230 align:start position:0%
+allows you to, you know, access
+everything<00:10:56.720><c> from</c><00:10:56.972><c> [music]</c><00:10:57.440><c> uh</c><00:10:57.600><c> anywhere.</c><00:10:58.079><c> So</c>
+
+00:10:58.230 --> 00:10:58.240 align:start position:0%
+everything from [music] uh anywhere. So
+ 
+
+00:10:58.240 --> 00:11:00.389 align:start position:0%
+everything from [music] uh anywhere. So
+right<00:10:58.399><c> now,</c><00:10:58.560><c> as</c><00:10:58.720><c> you</c><00:10:58.880><c> can</c><00:10:58.959><c> see,</c><00:10:59.120><c> I'm</c><00:10:59.360><c> on</c><00:10:59.519><c> my</c><00:11:00.160><c> uh</c>
+
+00:11:00.389 --> 00:11:00.399 align:start position:0%
+right now, as you can see, I'm on my uh
+ 
+
+00:11:00.399 --> 00:11:03.269 align:start position:0%
+right now, as you can see, I'm on my uh
+device<00:11:01.279><c> uh</c><00:11:01.440><c> network,</c><00:11:02.000><c> not</c><00:11:02.160><c> the</c><00:11:02.320><c> Wi-Fi,</c><00:11:02.720><c> but</c><00:11:02.959><c> I</c>
+
+00:11:03.269 --> 00:11:03.279 align:start position:0%
+device uh network, not the Wi-Fi, but I
+ 
+
+00:11:03.279 --> 00:11:06.630 align:start position:0%
+device uh network, not the Wi-Fi, but I
+can<00:11:03.440><c> still</c><00:11:03.680><c> basically</c><00:11:04.240><c> access</c><00:11:04.640><c> files</c><00:11:05.600><c> bas</c><00:11:06.399><c> I'm</c>
+
+00:11:06.630 --> 00:11:06.640 align:start position:0%
+can still basically access files bas I'm
+ 
+
+00:11:06.640 --> 00:11:08.949 align:start position:0%
+can still basically access files bas I'm
+just<00:11:06.800><c> uploading</c><00:11:07.120><c> a</c><00:11:07.360><c> random</c><00:11:07.680><c> PDF</c><00:11:08.320><c> onto</c><00:11:08.640><c> the</c>
+
+00:11:08.949 --> 00:11:08.959 align:start position:0%
+just uploading a random PDF onto the
+ 
+
+00:11:08.959 --> 00:11:11.110 align:start position:0%
+just uploading a random PDF onto the
+mask<00:11:09.360><c> just</c><00:11:09.519><c> to</c><00:11:09.680><c> show</c><00:11:10.079><c> you</c><00:11:10.160><c> know</c><00:11:10.320><c> the</c><00:11:10.480><c> sync</c><00:11:10.800><c> is</c>
+
+00:11:11.110 --> 00:11:11.120 align:start position:0%
+mask just to show you know the sync is
+ 
+
+00:11:11.120 --> 00:11:12.027 align:start position:0%
+mask just to show you know the sync is
+pretty<00:11:11.360><c> fast.</c>
+
+00:11:12.027 --> 00:11:12.037 align:start position:0%
+pretty fast.
+ 
+
+00:11:12.037 --> 00:11:12.069 align:start position:0%
+pretty fast.
+&gt;&gt; [music]
+
+00:11:12.069 --> 00:11:12.079 align:start position:0%
+&gt;&gt; [music]
+ 
+
+00:11:12.079 --> 00:11:14.310 align:start position:0%
+&gt;&gt; [music]
+&gt;&gt; So,<00:11:12.320><c> as</c><00:11:12.480><c> you</c><00:11:12.640><c> can</c><00:11:12.720><c> see,</c><00:11:12.959><c> I</c><00:11:13.200><c> recently</c><00:11:13.920><c> created</c>
+
+00:11:14.310 --> 00:11:14.320 align:start position:0%
+&gt;&gt; So, as you can see, I recently created
+ 
+
+00:11:14.320 --> 00:11:16.550 align:start position:0%
+&gt;&gt; So, as you can see, I recently created
+this<00:11:14.560><c> folder</c><00:11:15.040><c> called</c><00:11:15.279><c> iPhone</c><00:11:15.760><c> uploads</c><00:11:16.320><c> and</c>
+
+00:11:16.550 --> 00:11:16.560 align:start position:0%
+this folder called iPhone uploads and
+ 
+
+00:11:16.560 --> 00:11:19.430 align:start position:0%
+this folder called iPhone uploads and
+basically<00:11:17.040><c> uploaded</c><00:11:17.440><c> that</c><00:11:17.760><c> logo</c><00:11:18.160><c> PDF</c><00:11:18.959><c> and</c>
+
+00:11:19.430 --> 00:11:19.440 align:start position:0%
+basically uploaded that logo PDF and
+ 
+
+00:11:19.440 --> 00:11:22.310 align:start position:0%
+basically uploaded that logo PDF and
+voila,<00:11:20.079><c> it</c><00:11:20.480><c> comes</c><00:11:20.800><c> up</c><00:11:21.040><c> nice</c><00:11:21.279><c> and</c><00:11:21.519><c> clean.</c><00:11:21.839><c> So,</c>
+
+00:11:22.310 --> 00:11:22.320 align:start position:0%
+voila, it comes up nice and clean. So,
+ 
+
+00:11:22.320 --> 00:11:24.310 align:start position:0%
+voila, it comes up nice and clean. So,
+the<00:11:22.560><c> sync</c><00:11:23.040><c> is</c><00:11:23.360><c> pretty</c><00:11:23.680><c> good.</c><00:11:23.920><c> Like,</c><00:11:24.079><c> it's</c>
+
+00:11:24.310 --> 00:11:24.320 align:start position:0%
+the sync is pretty good. Like, it's
+ 
+
+00:11:24.320 --> 00:11:26.150 align:start position:0%
+the sync is pretty good. Like, it's
+instantaneous<00:11:25.120><c> almost.</c><00:11:25.440><c> It</c><00:11:25.600><c> just</c><00:11:25.760><c> depends</c><00:11:26.000><c> on</c>
+
+00:11:26.150 --> 00:11:26.160 align:start position:0%
+instantaneous almost. It just depends on
+ 
+
+00:11:26.160 --> 00:11:28.389 align:start position:0%
+instantaneous almost. It just depends on
+your<00:11:26.399><c> upload</c><00:11:26.720><c> speeds.</c><00:11:27.360><c> And</c><00:11:27.600><c> since</c><00:11:27.920><c> this</c><00:11:28.160><c> is</c>
+
+00:11:28.389 --> 00:11:28.399 align:start position:0%
+your upload speeds. And since this is
+ 
+
+00:11:28.399 --> 00:11:30.470 align:start position:0%
+your upload speeds. And since this is
+running<00:11:28.720><c> on</c><00:11:28.959><c> the</c><00:11:29.200><c> SSD,</c><00:11:29.760><c> this</c><00:11:30.000><c> thing</c><00:11:30.160><c> is</c>
+
+00:11:30.470 --> 00:11:30.480 align:start position:0%
+running on the SSD, this thing is
+ 
+
+00:11:30.480 --> 00:11:32.630 align:start position:0%
+running on the SSD, this thing is
+blazing<00:11:30.959><c> fast,</c><00:11:31.440><c> right?</c><00:11:31.760><c> Repeating</c><00:11:32.160><c> the</c><00:11:32.399><c> same</c>
+
+00:11:32.630 --> 00:11:32.640 align:start position:0%
+blazing fast, right? Repeating the same
+ 
+
+00:11:32.640 --> 00:11:35.269 align:start position:0%
+blazing fast, right? Repeating the same
+process.<00:11:33.279><c> So,</c><00:11:33.600><c> I'm</c><00:11:33.920><c> also</c><00:11:34.240><c> installing</c><00:11:34.800><c> Next</c>
+
+00:11:35.269 --> 00:11:35.279 align:start position:0%
+process. So, I'm also installing Next
+ 
+
+00:11:35.279 --> 00:11:38.310 align:start position:0%
+process. So, I'm also installing Next
+Cloud<00:11:36.320><c> um</c><00:11:36.480><c> onto</c><00:11:36.880><c> my</c><00:11:37.040><c> Mac.</c><00:11:37.680><c> And</c><00:11:37.920><c> this</c><00:11:38.079><c> will</c>
+
+00:11:38.310 --> 00:11:38.320 align:start position:0%
+Cloud um onto my Mac. And this will
+ 
+
+00:11:38.320 --> 00:11:41.030 align:start position:0%
+Cloud um onto my Mac. And this will
+basically<00:11:38.880><c> allow</c><00:11:39.200><c> me</c><00:11:39.440><c> to</c><00:11:39.680><c> sync</c><00:11:40.079><c> files</c>
+
+00:11:41.030 --> 00:11:41.040 align:start position:0%
+basically allow me to sync files
+ 
+
+00:11:41.040 --> 00:11:42.813 align:start position:0%
+basically allow me to sync files
+completely<00:11:41.600><c> out</c><00:11:41.839><c> of</c><00:11:41.920><c> the</c><00:11:42.160><c> box</c><00:11:42.480><c> just</c><00:11:42.720><c> like</c>
+
+00:11:42.813 --> 00:11:42.823 align:start position:0%
+completely out of the box just like
+ 
+
+00:11:42.823 --> 00:11:45.910 align:start position:0%
+completely out of the box just like
+[music]<00:11:42.880><c> you</c><00:11:43.040><c> would</c><00:11:43.279><c> do</c><00:11:43.600><c> on</c><00:11:44.399><c> um</c><00:11:44.880><c> you</c><00:11:45.040><c> know</c>
+
+00:11:45.910 --> 00:11:45.920 align:start position:0%
+[music] you would do on um you know
+ 
+
+00:11:45.920 --> 00:11:49.190 align:start position:0%
+[music] you would do on um you know
+Google<00:11:46.320><c> Drive</c><00:11:46.640><c> or</c><00:11:46.959><c> let's</c><00:11:47.200><c> say</c><00:11:47.440><c> iCloud.</c><00:11:48.399><c> So</c><00:11:48.880><c> it</c>
+
+00:11:49.190 --> 00:11:49.200 align:start position:0%
+Google Drive or let's say iCloud. So it
+ 
+
+00:11:49.200 --> 00:11:51.670 align:start position:0%
+Google Drive or let's say iCloud. So it
+so<00:11:49.440><c> you</c><00:11:49.680><c> can</c><00:11:49.920><c> actually</c><00:11:50.399><c> find</c><00:11:50.800><c> the</c><00:11:51.040><c> next</c><00:11:51.360><c> cloud</c>
+
+00:11:51.670 --> 00:11:51.680 align:start position:0%
+so you can actually find the next cloud
+ 
+
+00:11:51.680 --> 00:11:53.670 align:start position:0%
+so you can actually find the next cloud
+as<00:11:51.839><c> a</c><00:11:52.000><c> part</c><00:11:52.160><c> of</c><00:11:52.320><c> your</c><00:11:52.480><c> files.</c><00:11:53.200><c> So</c><00:11:53.360><c> you</c><00:11:53.519><c> just</c>
+
+00:11:53.670 --> 00:11:53.680 align:start position:0%
+as a part of your files. So you just
+ 
+
+00:11:53.680 --> 00:11:55.430 align:start position:0%
+as a part of your files. So you just
+drag<00:11:53.920><c> and</c><00:11:54.079><c> drop</c><00:11:54.320><c> and</c><00:11:54.480><c> it</c><00:11:54.720><c> automatically</c>
+
+00:11:55.430 --> 00:11:55.440 align:start position:0%
+drag and drop and it automatically
+ 
+
+00:11:55.440 --> 00:11:57.750 align:start position:0%
+drag and drop and it automatically
+syncs.<00:11:56.160><c> Uh</c><00:11:56.480><c> there</c><00:11:56.640><c> is</c><00:11:56.800><c> an</c><00:11:56.959><c> option</c><00:11:57.279><c> to</c><00:11:57.519><c> add</c>
+
+00:11:57.750 --> 00:11:57.760 align:start position:0%
+syncs. Uh there is an option to add
+ 
+
+00:11:57.760 --> 00:12:00.710 align:start position:0%
+syncs. Uh there is an option to add
+whatever<00:11:58.480><c> big</c><00:11:58.720><c> folder</c><00:11:59.120><c> you</c><00:11:59.440><c> want</c><00:12:00.000><c> but</c><00:12:00.240><c> I</c><00:12:00.560><c> just</c>
+
+00:12:00.710 --> 00:12:00.720 align:start position:0%
+whatever big folder you want but I just
+ 
+
+00:12:00.720 --> 00:12:02.550 align:start position:0%
+whatever big folder you want but I just
+chose<00:12:01.120><c> a</c><00:12:01.360><c> particular</c><00:12:01.680><c> folder.</c><00:12:02.240><c> All</c><00:12:02.240><c> right.</c>
+
+00:12:02.550 --> 00:12:02.560 align:start position:0%
+chose a particular folder. All right.
+ 
+
+00:12:02.560 --> 00:12:05.190 align:start position:0%
+chose a particular folder. All right.
+Now<00:12:02.800><c> that</c><00:12:03.040><c> we</c><00:12:03.279><c> have</c><00:12:03.680><c> all</c><00:12:03.920><c> of</c><00:12:04.160><c> this</c><00:12:04.560><c> working</c>
+
+00:12:05.190 --> 00:12:05.200 align:start position:0%
+Now that we have all of this working
+ 
+
+00:12:05.200 --> 00:12:07.829 align:start position:0%
+Now that we have all of this working
+just<00:12:05.600><c> fine,</c><00:12:06.160><c> the</c><00:12:06.480><c> next</c><00:12:06.639><c> step</c><00:12:06.959><c> is</c><00:12:07.120><c> to</c><00:12:07.360><c> basically</c>
+
+00:12:07.829 --> 00:12:07.839 align:start position:0%
+just fine, the next step is to basically
+ 
+
+00:12:07.839 --> 00:12:11.509 align:start position:0%
+just fine, the next step is to basically
+deploy<00:12:08.240><c> the</c><00:12:08.560><c> local</c><00:12:09.440><c> Quen</c><00:12:09.839><c> 3.5</c><00:12:10.639><c> model</c><00:12:11.040><c> onto</c><00:12:11.360><c> the</c>
+
+00:12:11.509 --> 00:12:11.519 align:start position:0%
+deploy the local Quen 3.5 model onto the
+ 
+
+00:12:11.519 --> 00:12:14.230 align:start position:0%
+deploy the local Quen 3.5 model onto the
+Pi<00:12:11.920><c> for</c><00:12:12.079><c> the</c><00:12:12.320><c> smart</c><00:12:12.639><c> brain.</c><00:12:13.519><c> And</c><00:12:13.760><c> that</c><00:12:13.920><c> is</c><00:12:14.079><c> what</c>
+
+00:12:14.230 --> 00:12:14.240 align:start position:0%
+Pi for the smart brain. And that is what
+ 
+
+00:12:14.240 --> 00:12:16.710 align:start position:0%
+Pi for the smart brain. And that is what
+we're<00:12:14.480><c> going</c><00:12:14.560><c> to</c><00:12:15.040><c> walk</c><00:12:15.360><c> step</c><00:12:15.680><c> by</c><00:12:15.920><c> step</c><00:12:16.240><c> in</c><00:12:16.480><c> this</c>
+
+00:12:16.710 --> 00:12:16.720 align:start position:0%
+we're going to walk step by step in this
+ 
+
+00:12:16.720 --> 00:12:19.190 align:start position:0%
+we're going to walk step by step in this
+section.<00:12:17.519><c> So</c><00:12:17.839><c> keep</c><00:12:18.079><c> watching.</c><00:12:18.480><c> So</c><00:12:18.720><c> for</c><00:12:18.959><c> this</c>
+
+00:12:19.190 --> 00:12:19.200 align:start position:0%
+section. So keep watching. So for this
+ 
+
+00:12:19.200 --> 00:12:21.350 align:start position:0%
+section. So keep watching. So for this
+part,<00:12:19.440><c> I'm</c><00:12:19.760><c> actually</c><00:12:20.079><c> going</c><00:12:20.320><c> with</c><00:12:20.560><c> the</c><00:12:20.880><c> latest</c>
+
+00:12:21.350 --> 00:12:21.360 align:start position:0%
+part, I'm actually going with the latest
+ 
+
+00:12:21.360 --> 00:12:23.829 align:start position:0%
+part, I'm actually going with the latest
+Quen<00:12:22.000><c> 3.5.8</c>
+
+00:12:23.829 --> 00:12:23.839 align:start position:0%
+Quen 3.5.8
+ 
+
+00:12:23.839 --> 00:12:25.430 align:start position:0%
+Quen 3.5.8
+billion<00:12:24.160><c> parameter</c><00:12:24.639><c> model.</c><00:12:24.959><c> They</c><00:12:25.200><c> just</c>
+
+00:12:25.430 --> 00:12:25.440 align:start position:0%
+billion parameter model. They just
+ 
+
+00:12:25.440 --> 00:12:28.069 align:start position:0%
+billion parameter model. They just
+released<00:12:25.760><c> it</c><00:12:26.000><c> literally</c><00:12:26.399><c> a</c><00:12:26.720><c> week</c><00:12:26.880><c> back.</c><00:12:27.760><c> So</c>
+
+00:12:28.069 --> 00:12:28.079 align:start position:0%
+released it literally a week back. So
+ 
+
+00:12:28.079 --> 00:12:30.790 align:start position:0%
+released it literally a week back. So
+this<00:12:28.240><c> is</c><00:12:28.399><c> the</c><00:12:28.560><c> latest</c><00:12:28.959><c> from</c><00:12:29.279><c> Quen.</c><00:12:30.079><c> is</c><00:12:30.480><c> really</c>
+
+00:12:30.790 --> 00:12:30.800 align:start position:0%
+this is the latest from Quen. is really
+ 
+
+00:12:30.800 --> 00:12:33.190 align:start position:0%
+this is the latest from Quen. is really
+good<00:12:31.040><c> and</c><00:12:31.360><c> fast</c><00:12:31.680><c> and</c><00:12:32.000><c> great</c><00:12:32.160><c> at</c><00:12:32.399><c> like</c><00:12:32.560><c> agentic</c>
+
+00:12:33.190 --> 00:12:33.200 align:start position:0%
+good and fast and great at like agentic
+ 
+
+00:12:33.200 --> 00:12:35.190 align:start position:0%
+good and fast and great at like agentic
+work.<00:12:33.600><c> So</c><00:12:33.760><c> the</c><00:12:34.000><c> whole</c><00:12:34.160><c> idea</c><00:12:34.399><c> is</c><00:12:34.639><c> of</c><00:12:34.800><c> course</c><00:12:34.959><c> you</c>
+
+00:12:35.190 --> 00:12:35.200 align:start position:0%
+work. So the whole idea is of course you
+ 
+
+00:12:35.200 --> 00:12:37.829 align:start position:0%
+work. So the whole idea is of course you
+have<00:12:35.360><c> your</c><00:12:35.600><c> mobile</c><00:12:36.079><c> phone</c><00:12:36.320><c> and</c><00:12:36.639><c> your</c><00:12:37.279><c> computer</c>
+
+00:12:37.829 --> 00:12:37.839 align:start position:0%
+have your mobile phone and your computer
+ 
+
+00:12:37.839 --> 00:12:39.590 align:start position:0%
+have your mobile phone and your computer
+as<00:12:38.079><c> the</c><00:12:38.399><c> you</c><00:12:38.480><c> know</c><00:12:38.560><c> the</c><00:12:38.800><c> user</c><00:12:39.040><c> devices</c><00:12:39.440><c> that</c>
+
+00:12:39.590 --> 00:12:39.600 align:start position:0%
+as the you know the user devices that
+ 
+
+00:12:39.600 --> 00:12:43.110 align:start position:0%
+as the you know the user devices that
+you<00:12:39.760><c> can</c><00:12:39.920><c> chat</c><00:12:40.240><c> with</c><00:12:41.200><c> um</c><00:12:41.839><c> u</c><00:12:42.000><c> with</c><00:12:42.399><c> your</c><00:12:42.639><c> NAS</c>
+
+00:12:43.110 --> 00:12:43.120 align:start position:0%
+you can chat with um u with your NAS
+ 
+
+00:12:43.120 --> 00:12:44.629 align:start position:0%
+you can chat with um u with your NAS
+right<00:12:43.279><c> so</c><00:12:43.519><c> this</c><00:12:43.680><c> is</c><00:12:43.760><c> the</c><00:12:44.000><c> mobile</c><00:12:44.240><c> phone</c><00:12:44.480><c> that</c>
+
+00:12:44.629 --> 00:12:44.639 align:start position:0%
+right so this is the mobile phone that
+ 
+
+00:12:44.639 --> 00:12:46.550 align:start position:0%
+right so this is the mobile phone that
+you're<00:12:44.800><c> watching</c><00:12:45.040><c> this</c><00:12:45.279><c> on</c><00:12:45.600><c> right</c><00:12:46.160><c> and</c><00:12:46.320><c> then</c>
+
+00:12:46.550 --> 00:12:46.560 align:start position:0%
+you're watching this on right and then
+ 
+
+00:12:46.560 --> 00:12:48.949 align:start position:0%
+you're watching this on right and then
+that<00:12:46.880><c> basically</c><00:12:47.360><c> will</c><00:12:47.680><c> talk</c><00:12:47.920><c> to</c><00:12:48.000><c> a</c><00:12:48.240><c> chat</c><00:12:48.480><c> UI</c>
+
+00:12:48.949 --> 00:12:48.959 align:start position:0%
+that basically will talk to a chat UI
+ 
+
+00:12:48.959 --> 00:12:50.949 align:start position:0%
+that basically will talk to a chat UI
+which<00:12:49.200><c> basically</c><00:12:49.600><c> we</c><00:12:49.920><c> are</c><00:12:50.160><c> making</c><00:12:50.480><c> with</c><00:12:50.800><c> you</c>
+
+00:12:50.949 --> 00:12:50.959 align:start position:0%
+which basically we are making with you
+ 
+
+00:12:50.959 --> 00:12:53.430 align:start position:0%
+which basically we are making with you
+know<00:12:51.200><c> static</c><00:12:51.519><c> HTML</c><00:12:52.160><c> very</c><00:12:52.480><c> simple</c><00:12:52.720><c> so</c><00:12:52.959><c> it</c><00:12:53.200><c> looks</c>
+
+00:12:53.430 --> 00:12:53.440 align:start position:0%
+know static HTML very simple so it looks
+ 
+
+00:12:53.440 --> 00:12:55.910 align:start position:0%
+know static HTML very simple so it looks
+like<00:12:53.600><c> that</c><00:12:54.800><c> again</c><00:12:55.120><c> everything</c><00:12:55.440><c> will</c><00:12:55.680><c> be</c><00:12:55.760><c> down</c>
+
+00:12:55.910 --> 00:12:55.920 align:start position:0%
+like that again everything will be down
+ 
+
+00:12:55.920 --> 00:12:57.509 align:start position:0%
+like that again everything will be down
+in<00:12:56.160><c> the</c><00:12:56.320><c> description</c><00:12:56.720><c> so</c><00:12:56.959><c> all</c><00:12:57.040><c> you</c><00:12:57.120><c> have</c><00:12:57.279><c> to</c><00:12:57.360><c> do</c>
+
+00:12:57.509 --> 00:12:57.519 align:start position:0%
+in the description so all you have to do
+ 
+
+00:12:57.519 --> 00:12:59.269 align:start position:0%
+in the description so all you have to do
+is<00:12:57.680><c> just</c><00:12:57.839><c> clone</c><00:12:58.160><c> my</c><00:12:58.320><c> repo</c><00:12:58.639><c> and</c><00:12:58.880><c> that's</c><00:12:59.040><c> it</c>
+
+00:12:59.269 --> 00:12:59.279 align:start position:0%
+is just clone my repo and that's it
+ 
+
+00:12:59.279 --> 00:13:02.310 align:start position:0%
+is just clone my repo and that's it
+that's<00:12:59.600><c> that's</c><00:12:59.920><c> all</c><00:13:00.800><c> um</c><00:13:01.120><c> of</c><00:13:01.279><c> course</c><00:13:01.519><c> the</c><00:13:01.920><c> NAS</c>
+
+00:13:02.310 --> 00:13:02.320 align:start position:0%
+that's that's all um of course the NAS
+ 
+
+00:13:02.320 --> 00:13:04.470 align:start position:0%
+that's that's all um of course the NAS
+needs<00:13:02.560><c> to</c><00:13:02.720><c> have</c><00:13:02.880><c> its</c><00:13:03.200><c> own</c><00:13:04.000><c> uh</c><00:13:04.043><c> [music]</c><00:13:04.240><c> you</c>
+
+00:13:04.470 --> 00:13:04.480 align:start position:0%
+needs to have its own uh [music] you
+ 
+
+00:13:04.480 --> 00:13:07.269 align:start position:0%
+needs to have its own uh [music] you
+know<00:13:04.800><c> brain</c><00:13:05.519><c> that</c><00:13:06.079><c> not</c><00:13:06.320><c> only</c><00:13:06.639><c> receives</c><00:13:07.040><c> the</c>
+
+00:13:07.269 --> 00:13:07.279 align:start position:0%
+know brain that not only receives the
+ 
+
+00:13:07.279 --> 00:13:10.310 align:start position:0%
+know brain that not only receives the
+messages<00:13:08.000><c> but</c><00:13:08.320><c> also</c><00:13:08.720><c> passes</c><00:13:09.120><c> it</c><00:13:09.360><c> to</c><00:13:09.760><c> again</c><00:13:10.079><c> an</c>
+
+00:13:10.310 --> 00:13:10.320 align:start position:0%
+messages but also passes it to again an
+ 
+
+00:13:10.320 --> 00:13:12.629 align:start position:0%
+messages but also passes it to again an
+orchestrator<00:13:11.040><c> kind</c><00:13:11.200><c> of</c><00:13:11.360><c> a</c><00:13:12.000><c> workflow.</c><00:13:12.480><c> It's</c>
+
+00:13:12.629 --> 00:13:12.639 align:start position:0%
+orchestrator kind of a workflow. It's
+ 
+
+00:13:12.639 --> 00:13:15.829 align:start position:0%
+orchestrator kind of a workflow. It's
+the<00:13:12.959><c> exact</c><00:13:13.600><c> same</c><00:13:13.920><c> kind</c><00:13:14.079><c> of</c><00:13:14.240><c> mentality</c><00:13:14.800><c> that</c><00:13:15.200><c> I</c>
+
+00:13:15.829 --> 00:13:15.839 align:start position:0%
+the exact same kind of mentality that I
+ 
+
+00:13:15.839 --> 00:13:18.069 align:start position:0%
+the exact same kind of mentality that I
+showed<00:13:16.079><c> you</c><00:13:16.320><c> guys</c><00:13:16.480><c> when</c><00:13:16.720><c> I</c><00:13:16.959><c> built</c><00:13:17.279><c> my</c><00:13:17.600><c> own</c>
+
+00:13:18.069 --> 00:13:18.079 align:start position:0%
+showed you guys when I built my own
+ 
+
+00:13:18.079 --> 00:13:20.150 align:start position:0%
+showed you guys when I built my own
+local<00:13:18.480><c> AI</c><00:13:18.800><c> agent</c><00:13:19.120><c> on</c><00:13:19.279><c> the</c><00:13:19.360><c> Raspberry</c><00:13:19.760><c> Pi.</c>
+
+00:13:20.150 --> 00:13:20.160 align:start position:0%
+local AI agent on the Raspberry Pi.
+ 
+
+00:13:20.160 --> 00:13:22.470 align:start position:0%
+local AI agent on the Raspberry Pi.
+Please<00:13:20.320><c> watch</c><00:13:20.560><c> that</c><00:13:20.800><c> video</c><00:13:21.519><c> uh</c><00:13:21.600><c> cuz</c><00:13:21.920><c> that</c><00:13:22.160><c> goes</c>
+
+00:13:22.470 --> 00:13:22.480 align:start position:0%
+Please watch that video uh cuz that goes
+ 
+
+00:13:22.480 --> 00:13:25.190 align:start position:0%
+Please watch that video uh cuz that goes
+in<00:13:22.720><c> even</c><00:13:23.040><c> more</c><00:13:23.360><c> depth.</c><00:13:24.000><c> Um</c><00:13:24.399><c> then</c><00:13:24.720><c> of</c><00:13:24.959><c> course</c>
+
+00:13:25.190 --> 00:13:25.200 align:start position:0%
+in even more depth. Um then of course
+ 
+
+00:13:25.200 --> 00:13:27.910 align:start position:0%
+in even more depth. Um then of course
+there's<00:13:25.680><c> Olama</c><00:13:26.800><c> um</c><00:13:27.040><c> because</c><00:13:27.360><c> that's</c><00:13:27.600><c> the</c>
+
+00:13:27.910 --> 00:13:27.920 align:start position:0%
+there's Olama um because that's the
+ 
+
+00:13:27.920 --> 00:13:29.829 align:start position:0%
+there's Olama um because that's the
+local<00:13:28.240><c> brain</c><00:13:28.639><c> that's</c><00:13:29.040><c> running</c><00:13:29.279><c> the</c><00:13:29.440><c> Quen</c>
+
+00:13:29.829 --> 00:13:29.839 align:start position:0%
+local brain that's running the Quen
+ 
+
+00:13:29.839 --> 00:13:31.590 align:start position:0%
+local brain that's running the Quen
+model<00:13:30.320><c> and</c><00:13:30.560><c> the</c><00:13:30.720><c> orchestrator</c><00:13:31.360><c> then</c>
+
+00:13:31.590 --> 00:13:31.600 align:start position:0%
+model and the orchestrator then
+ 
+
+00:13:31.600 --> 00:13:34.310 align:start position:0%
+model and the orchestrator then
+basically<00:13:32.480><c> uh</c><00:13:32.639><c> reroutes</c><00:13:33.279><c> all</c><00:13:33.519><c> your</c><00:13:33.760><c> requests</c>
+
+00:13:34.310 --> 00:13:34.320 align:start position:0%
+basically uh reroutes all your requests
+ 
+
+00:13:34.320 --> 00:13:36.710 align:start position:0%
+basically uh reroutes all your requests
+depending<00:13:34.720><c> on</c><00:13:34.880><c> what</c><00:13:35.120><c> it</c><00:13:35.279><c> decides</c><00:13:35.839><c> to</c><00:13:36.480><c> uh</c><00:13:36.560><c> the</c>
+
+00:13:36.710 --> 00:13:36.720 align:start position:0%
+depending on what it decides to uh the
+ 
+
+00:13:36.720 --> 00:13:40.629 align:start position:0%
+depending on what it decides to uh the
+Quen<00:13:37.360><c> um</c><00:13:37.519><c> 3.5</c><00:13:38.160><c> model</c><00:13:39.360><c> and</c><00:13:39.760><c> not</c><00:13:40.000><c> only</c><00:13:40.160><c> that</c><00:13:40.399><c> it</c>
+
+00:13:40.629 --> 00:13:40.639 align:start position:0%
+Quen um 3.5 model and not only that it
+ 
+
+00:13:40.639 --> 00:13:42.629 align:start position:0%
+Quen um 3.5 model and not only that it
+also<00:13:40.880><c> needs</c><00:13:41.120><c> to</c><00:13:41.279><c> have</c><00:13:41.440><c> its</c><00:13:41.760><c> own</c><00:13:42.000><c> like</c><00:13:42.240><c> tool</c>
+
+00:13:42.629 --> 00:13:42.639 align:start position:0%
+also needs to have its own like tool
+ 
+
+00:13:42.639 --> 00:13:46.230 align:start position:0%
+also needs to have its own like tool
+chest<00:13:43.040><c> right</c><00:13:43.279><c> so</c><00:13:44.160><c> uh</c><00:13:44.959><c> it</c><00:13:45.200><c> it</c><00:13:45.440><c> has</c><00:13:45.680><c> bunch</c><00:13:46.000><c> of</c>
+
+00:13:46.230 --> 00:13:46.240 align:start position:0%
+chest right so uh it it has bunch of
+ 
+
+00:13:46.240 --> 00:13:48.470 align:start position:0%
+chest right so uh it it has bunch of
+functionalities<00:13:47.120><c> tools</c><00:13:47.920><c> that</c><00:13:48.240><c> the</c>
+
+00:13:48.470 --> 00:13:48.480 align:start position:0%
+functionalities tools that the
+ 
+
+00:13:48.480 --> 00:13:51.190 align:start position:0%
+functionalities tools that the
+orchestrator<00:13:49.120><c> then</c><00:13:49.519><c> you</c><00:13:49.680><c> know</c><00:13:49.839><c> gives</c>
+
+00:13:51.190 --> 00:13:51.200 align:start position:0%
+orchestrator then you know gives
+ 
+
+00:13:51.200 --> 00:13:52.949 align:start position:0%
+orchestrator then you know gives
+delegates<00:13:51.839><c> to</c><00:13:52.000><c> different</c><00:13:52.240><c> tools</c><00:13:52.639><c> depending</c>
+
+00:13:52.949 --> 00:13:52.959 align:start position:0%
+delegates to different tools depending
+ 
+
+00:13:52.959 --> 00:13:54.790 align:start position:0%
+delegates to different tools depending
+on<00:13:53.120><c> what</c><00:13:53.279><c> you</c><00:13:53.519><c> day,</c><00:13:53.839><c> right?</c><00:13:54.240><c> So</c><00:13:54.399><c> for</c><00:13:54.639><c> the</c>
+
+00:13:54.790 --> 00:13:54.800 align:start position:0%
+on what you day, right? So for the
+ 
+
+00:13:54.800 --> 00:13:57.110 align:start position:0%
+on what you day, right? So for the
+tools,<00:13:55.120><c> you</c><00:13:55.279><c> have</c><00:13:55.519><c> search</c><00:13:55.920><c> files,</c><00:13:56.480><c> you</c><00:13:56.639><c> have</c>
+
+00:13:57.110 --> 00:13:57.120 align:start position:0%
+tools, you have search files, you have
+ 
+
+00:13:57.120 --> 00:13:59.110 align:start position:0%
+tools, you have search files, you have
+list<00:13:57.519><c> file</c><00:13:57.839><c> properties,</c><00:13:58.480><c> you</c><00:13:58.639><c> can,</c><00:13:58.800><c> you</c><00:13:58.959><c> know,</c>
+
+00:13:59.110 --> 00:13:59.120 align:start position:0%
+list file properties, you can, you know,
+ 
+
+00:13:59.120 --> 00:14:01.750 align:start position:0%
+list file properties, you can, you know,
+read<00:13:59.360><c> your</c><00:13:59.680><c> files,</c><00:14:00.480><c> you</c><00:14:00.720><c> can</c><00:14:01.040><c> uh</c><00:14:01.199><c> list</c><00:14:01.440><c> one</c><00:14:01.680><c> of</c>
+
+00:14:01.750 --> 00:14:01.760 align:start position:0%
+read your files, you can uh list one of
+ 
+
+00:14:01.760 --> 00:14:03.189 align:start position:0%
+read your files, you can uh list one of
+the<00:14:01.920><c> recent</c><00:14:02.160><c> files</c><00:14:02.480><c> and</c><00:14:02.639><c> these</c><00:14:02.800><c> are</c><00:14:02.959><c> like</c>
+
+00:14:03.189 --> 00:14:03.199 align:start position:0%
+the recent files and these are like
+ 
+
+00:14:03.199 --> 00:14:06.069 align:start position:0%
+the recent files and these are like
+simple<00:14:04.160><c> um</c><00:14:04.399><c> Linux</c><00:14:04.880><c> commands</c><00:14:05.199><c> that</c><00:14:05.440><c> you</c><00:14:05.680><c> type</c>
+
+00:14:06.069 --> 00:14:06.079 align:start position:0%
+simple um Linux commands that you type
+ 
+
+00:14:06.079 --> 00:14:08.230 align:start position:0%
+simple um Linux commands that you type
+anyways,<00:14:06.480><c> but</c><00:14:06.800><c> then</c><00:14:07.040><c> you're</c><00:14:07.360><c> just</c><00:14:07.680><c> packaging</c>
+
+00:14:08.230 --> 00:14:08.240 align:start position:0%
+anyways, but then you're just packaging
+ 
+
+00:14:08.240 --> 00:14:10.949 align:start position:0%
+anyways, but then you're just packaging
+it<00:14:08.399><c> and</c><00:14:08.720><c> giving</c><00:14:08.959><c> it</c><00:14:09.120><c> to</c><00:14:09.279><c> your</c><00:14:09.519><c> agent</c><00:14:10.160><c> to</c><00:14:10.560><c> do</c><00:14:10.720><c> all</c>
+
+00:14:10.949 --> 00:14:10.959 align:start position:0%
+it and giving it to your agent to do all
+ 
+
+00:14:10.959 --> 00:14:13.189 align:start position:0%
+it and giving it to your agent to do all
+of<00:14:11.040><c> that</c><00:14:11.279><c> for</c><00:14:11.440><c> you.</c><00:14:11.920><c> Uh</c><00:14:12.240><c> and</c><00:14:12.480><c> all</c><00:14:12.720><c> you</c><00:14:12.880><c> do</c><00:14:13.040><c> is</c>
+
+00:14:13.189 --> 00:14:13.199 align:start position:0%
+of that for you. Uh and all you do is
+ 
+
+00:14:13.199 --> 00:14:15.030 align:start position:0%
+of that for you. Uh and all you do is
+just<00:14:13.360><c> talk</c><00:14:13.600><c> to</c><00:14:13.680><c> it</c><00:14:13.839><c> in</c><00:14:14.000><c> a</c><00:14:14.160><c> natural</c><00:14:14.560><c> language.</c>
+
+00:14:15.030 --> 00:14:15.040 align:start position:0%
+just talk to it in a natural language.
+ 
+
+00:14:15.040 --> 00:14:17.590 align:start position:0%
+just talk to it in a natural language.
+You<00:14:15.199><c> just</c><00:14:15.360><c> like</c><00:14:16.000><c> send</c><00:14:16.240><c> a</c><00:14:16.480><c> text</c><00:14:16.880><c> that</c><00:14:17.199><c> hey,</c><00:14:17.440><c> what</c>
+
+00:14:17.590 --> 00:14:17.600 align:start position:0%
+You just like send a text that hey, what
+ 
+
+00:14:17.600 --> 00:14:19.590 align:start position:0%
+You just like send a text that hey, what
+is<00:14:17.760><c> this</c><00:14:18.000><c> file</c><00:14:18.240><c> about?</c><00:14:18.639><c> Or</c><00:14:19.040><c> you</c><00:14:19.199><c> know,</c><00:14:19.360><c> could</c>
+
+00:14:19.590 --> 00:14:19.600 align:start position:0%
+is this file about? Or you know, could
+ 
+
+00:14:19.600 --> 00:14:21.750 align:start position:0%
+is this file about? Or you know, could
+you<00:14:20.000><c> arrange</c><00:14:20.399><c> my</c><00:14:20.560><c> files</c><00:14:20.800><c> and</c><00:14:20.959><c> it'll</c><00:14:21.199><c> do</c><00:14:21.360><c> that.</c>
+
+00:14:21.750 --> 00:14:21.760 align:start position:0%
+you arrange my files and it'll do that.
+ 
+
+00:14:21.760 --> 00:14:23.509 align:start position:0%
+you arrange my files and it'll do that.
+So<00:14:22.000><c> this</c><00:14:22.240><c> is</c><00:14:22.399><c> exactly</c><00:14:22.800><c> what</c><00:14:22.959><c> I'm</c><00:14:23.199><c> doing</c><00:14:23.279><c> here.</c>
+
+00:14:23.509 --> 00:14:23.519 align:start position:0%
+So this is exactly what I'm doing here.
+ 
+
+00:14:23.519 --> 00:14:25.110 align:start position:0%
+So this is exactly what I'm doing here.
+I<00:14:23.680><c> can</c><00:14:23.839><c> you</c><00:14:24.000><c> know</c><00:14:24.079><c> converse</c><00:14:24.399><c> with</c><00:14:24.560><c> it</c><00:14:24.800><c> and</c><00:14:24.959><c> then</c>
+
+00:14:25.110 --> 00:14:25.120 align:start position:0%
+I can you know converse with it and then
+ 
+
+00:14:25.120 --> 00:14:27.350 align:start position:0%
+I can you know converse with it and then
+I<00:14:25.279><c> can</c><00:14:25.440><c> ask</c><00:14:25.839><c> hey</c><00:14:26.079><c> can</c><00:14:26.240><c> you</c><00:14:26.480><c> tell</c><00:14:26.720><c> me</c><00:14:26.880><c> about</c><00:14:27.120><c> this</c>
+
+00:14:27.350 --> 00:14:27.360 align:start position:0%
+I can ask hey can you tell me about this
+ 
+
+00:14:27.360 --> 00:14:29.030 align:start position:0%
+I can ask hey can you tell me about this
+particular<00:14:27.760><c> file</c><00:14:28.160><c> then</c><00:14:28.320><c> it</c><00:14:28.480><c> will</c><00:14:28.639><c> just</c><00:14:28.880><c> go</c>
+
+00:14:29.030 --> 00:14:29.040 align:start position:0%
+particular file then it will just go
+ 
+
+00:14:29.040 --> 00:14:30.949 align:start position:0%
+particular file then it will just go
+ahead<00:14:29.279><c> and</c><00:14:29.839><c> tell</c><00:14:30.000><c> me</c><00:14:30.160><c> about</c><00:14:30.399><c> that.</c><00:14:30.639><c> Then</c><00:14:30.800><c> I</c><00:14:30.880><c> can</c>
+
+00:14:30.949 --> 00:14:30.959 align:start position:0%
+ahead and tell me about that. Then I can
+ 
+
+00:14:30.959 --> 00:14:33.590 align:start position:0%
+ahead and tell me about that. Then I can
+ask<00:14:31.120><c> it</c><00:14:31.279><c> hey</c><00:14:31.680><c> is</c><00:14:32.000><c> do</c><00:14:32.160><c> we</c><00:14:32.399><c> have</c><00:14:32.560><c> more</c><00:14:32.800><c> storage?</c><00:14:33.440><c> I</c>
+
+00:14:33.590 --> 00:14:33.600 align:start position:0%
+ask it hey is do we have more storage? I
+ 
+
+00:14:33.600 --> 00:14:35.750 align:start position:0%
+ask it hey is do we have more storage? I
+mean<00:14:33.760><c> the</c><00:14:33.920><c> options</c><00:14:34.240><c> are</c><00:14:34.480><c> kind</c><00:14:34.639><c> of</c><00:14:34.720><c> endless.</c>
+
+00:14:35.750 --> 00:14:35.760 align:start position:0%
+mean the options are kind of endless.
+ 
+
+00:14:35.760 --> 00:14:38.069 align:start position:0%
+mean the options are kind of endless.
+But<00:14:36.000><c> bear</c><00:14:36.240><c> in</c><00:14:36.399><c> mind</c><00:14:36.560><c> that</c><00:14:36.880><c> this</c><00:14:37.040><c> is</c><00:14:37.279><c> still</c><00:14:37.760><c> a</c>
+
+00:14:38.069 --> 00:14:38.079 align:start position:0%
+But bear in mind that this is still a
+ 
+
+00:14:38.079 --> 00:14:40.310 align:start position:0%
+But bear in mind that this is still a
+teeny<00:14:38.480><c> tiny</c><00:14:38.800><c> model</c><00:14:39.279><c> running</c><00:14:39.600><c> locally</c><00:14:40.000><c> on</c><00:14:40.160><c> a</c>
+
+00:14:40.310 --> 00:14:40.320 align:start position:0%
+teeny tiny model running locally on a
+ 
+
+00:14:40.320 --> 00:14:42.629 align:start position:0%
+teeny tiny model running locally on a
+Pi.<00:14:40.639><c> It's</c><00:14:40.880><c> not</c><00:14:41.040><c> that</c><00:14:41.360><c> capable</c><00:14:41.760><c> enough</c><00:14:42.320><c> but</c><00:14:42.480><c> I'm</c>
+
+00:14:42.629 --> 00:14:42.639 align:start position:0%
+Pi. It's not that capable enough but I'm
+ 
+
+00:14:42.639 --> 00:14:43.990 align:start position:0%
+Pi. It's not that capable enough but I'm
+just<00:14:42.800><c> trying</c><00:14:42.959><c> to</c><00:14:43.120><c> show</c><00:14:43.279><c> you</c><00:14:43.519><c> guys</c><00:14:43.680><c> what's</c>
+
+00:14:43.990 --> 00:14:44.000 align:start position:0%
+just trying to show you guys what's
+ 
+
+00:14:44.000 --> 00:14:46.550 align:start position:0%
+just trying to show you guys what's
+possible.<00:14:45.120><c> All</c><00:14:45.120><c> right.</c><00:14:45.440><c> So</c><00:14:45.600><c> if</c><00:14:45.760><c> you</c><00:14:45.920><c> enjoyed</c>
+
+00:14:46.550 --> 00:14:46.560 align:start position:0%
+possible. All right. So if you enjoyed
+ 
+
+00:14:46.560 --> 00:14:48.949 align:start position:0%
+possible. All right. So if you enjoyed
+watching<00:14:46.880><c> the</c><00:14:47.199><c> video</c><00:14:47.760><c> please</c><00:14:48.079><c> give</c><00:14:48.240><c> a</c><00:14:48.480><c> like</c>
+
+00:14:48.949 --> 00:14:48.959 align:start position:0%
+watching the video please give a like
+ 
+
+00:14:48.959 --> 00:14:51.670 align:start position:0%
+watching the video please give a like
+and<00:14:49.440><c> give</c><00:14:49.680><c> a</c><00:14:49.920><c> comment</c><00:14:50.240><c> down</c><00:14:50.480><c> below.</c><00:14:51.279><c> telling</c>
+
+00:14:51.670 --> 00:14:51.680 align:start position:0%
+and give a comment down below. telling
+ 
+
+00:14:51.680 --> 00:14:54.790 align:start position:0%
+and give a comment down below. telling
+if<00:14:51.920><c> you</c><00:14:52.079><c> have</c><00:14:52.240><c> any</c><00:14:52.560><c> questions.</c><00:14:53.519><c> Again,</c><00:14:54.399><c> all</c><00:14:54.639><c> of</c>
+
+00:14:54.790 --> 00:14:54.800 align:start position:0%
+if you have any questions. Again, all of
+ 
+
+00:14:54.800 --> 00:14:57.670 align:start position:0%
+if you have any questions. Again, all of
+the<00:14:55.120><c> code</c><00:14:55.680><c> shown</c><00:14:56.079><c> below</c><00:14:56.480><c> will</c><00:14:56.720><c> be</c><00:14:56.880><c> in</c><00:14:57.120><c> the</c><00:14:57.360><c> in</c>
+
+00:14:57.670 --> 00:14:57.680 align:start position:0%
+the code shown below will be in the in
+ 
+
+00:14:57.680 --> 00:14:59.590 align:start position:0%
+the code shown below will be in the in
+my<00:14:57.839><c> GitHub</c><00:14:58.240><c> repo</c><00:14:58.560><c> down</c><00:14:58.800><c> below.</c><00:14:59.040><c> So,</c><00:14:59.279><c> feel</c><00:14:59.440><c> free</c>
+
+00:14:59.590 --> 00:14:59.600 align:start position:0%
+my GitHub repo down below. So, feel free
+ 
+
+00:14:59.600 --> 00:15:02.230 align:start position:0%
+my GitHub repo down below. So, feel free
+to<00:15:00.240><c> use</c><00:15:00.399><c> it,</c><00:15:00.720><c> clone</c><00:15:01.040><c> it.</c><00:15:01.519><c> If</c><00:15:01.760><c> you</c><00:15:01.920><c> have</c><00:15:02.000><c> any</c>
+
+00:15:02.230 --> 00:15:02.240 align:start position:0%
+to use it, clone it. If you have any
+ 
+
+00:15:02.240 --> 00:15:05.110 align:start position:0%
+to use it, clone it. If you have any
+issues,<00:15:02.639><c> raise</c><00:15:02.880><c> a</c><00:15:03.120><c> PR,</c><00:15:03.760><c> raise</c><00:15:04.000><c> a</c><00:15:04.240><c> issue.</c><00:15:04.800><c> I'll</c>
+
+00:15:05.110 --> 00:15:05.120 align:start position:0%
+issues, raise a PR, raise a issue. I'll
+ 
+
+00:15:05.120 --> 00:15:07.590 align:start position:0%
+issues, raise a PR, raise a issue. I'll
+be<00:15:05.279><c> happy</c><00:15:05.440><c> to</c><00:15:05.760><c> resolve</c><00:15:06.240><c> all</c><00:15:06.480><c> of</c><00:15:06.639><c> them</c><00:15:07.360><c> with</c>
+
+00:15:07.590 --> 00:15:07.600 align:start position:0%
+be happy to resolve all of them with
+ 
+
+00:15:07.600 --> 00:15:09.750 align:start position:0%
+be happy to resolve all of them with
+time.<00:15:08.079><c> My</c><00:15:08.320><c> plans</c><00:15:08.639><c> moving</c><00:15:08.959><c> forward</c><00:15:09.199><c> will</c><00:15:09.440><c> be</c><00:15:09.519><c> to</c>
+
+00:15:09.750 --> 00:15:09.760 align:start position:0%
+time. My plans moving forward will be to
+ 
+
+00:15:09.760 --> 00:15:11.750 align:start position:0%
+time. My plans moving forward will be to
+basically<00:15:10.160><c> integrate</c><00:15:10.720><c> this</c><00:15:11.040><c> with</c><00:15:11.279><c> my</c><00:15:11.440><c> local</c>
+
+00:15:11.750 --> 00:15:11.760 align:start position:0%
+basically integrate this with my local
+ 
+
+00:15:11.760 --> 00:15:14.629 align:start position:0%
+basically integrate this with my local
+AI<00:15:12.160><c> agent</c><00:15:12.560><c> Jansky</c><00:15:13.680><c> for</c><00:15:13.920><c> which</c><00:15:14.160><c> the</c><00:15:14.399><c> video</c>
+
+00:15:14.629 --> 00:15:14.639 align:start position:0%
+AI agent Jansky for which the video
+ 
+
+00:15:14.639 --> 00:15:16.710 align:start position:0%
+AI agent Jansky for which the video
+should<00:15:14.880><c> also</c><00:15:15.199><c> be</c><00:15:15.360><c> flashing</c><00:15:15.760><c> up</c><00:15:16.000><c> there</c><00:15:16.399><c> and</c>
+
+00:15:16.710 --> 00:15:16.720 align:start position:0%
+should also be flashing up there and
+ 
+
+00:15:16.720 --> 00:15:18.629 align:start position:0%
+should also be flashing up there and
+basically<00:15:17.199><c> giving</c><00:15:17.519><c> all</c><00:15:17.680><c> this</c><00:15:18.000><c> ability</c><00:15:18.399><c> to</c>
+
+00:15:18.629 --> 00:15:18.639 align:start position:0%
+basically giving all this ability to
+ 
+
+00:15:18.639 --> 00:15:22.069 align:start position:0%
+basically giving all this ability to
+Jansky<00:15:19.440><c> or</c><00:15:19.839><c> you</c><00:15:20.000><c> know</c><00:15:20.160><c> an</c><00:15:20.480><c> open</c><00:15:20.880><c> claw</c><00:15:21.519><c> or</c><00:15:21.839><c> any</c>
+
+00:15:22.069 --> 00:15:22.079 align:start position:0%
+Jansky or you know an open claw or any
+ 
+
+00:15:22.079 --> 00:15:25.110 align:start position:0%
+Jansky or you know an open claw or any
+of<00:15:22.320><c> those</c><00:15:22.959><c> cloud</c><00:15:23.360><c> AI</c><00:15:23.680><c> models</c><00:15:24.399><c> but</c><00:15:24.639><c> I'm</c><00:15:24.880><c> also</c>
+
+00:15:25.110 --> 00:15:25.120 align:start position:0%
+of those cloud AI models but I'm also
+ 
+
+00:15:25.120 --> 00:15:27.430 align:start position:0%
+of those cloud AI models but I'm also
+happy<00:15:25.360><c> to</c><00:15:25.519><c> integrate</c><00:15:26.000><c> all</c><00:15:26.240><c> of</c><00:15:26.399><c> those</c><00:15:26.639><c> here</c><00:15:27.279><c> and</c>
+
+00:15:27.430 --> 00:15:27.440 align:start position:0%
+happy to integrate all of those here and
+ 
+
+00:15:27.440 --> 00:15:29.189 align:start position:0%
+happy to integrate all of those here and
+I<00:15:27.680><c> will</c><00:15:27.839><c> catch</c><00:15:28.000><c> you</c><00:15:28.160><c> guys</c><00:15:28.320><c> in</c><00:15:28.480><c> the</c><00:15:28.639><c> next</c><00:15:28.800><c> one.</c>
+
+00:15:29.189 --> 00:15:29.199 align:start position:0%
+I will catch you guys in the next one.
+ 
+
+00:15:29.199 --> 00:15:32.639 align:start position:0%
+I will catch you guys in the next one.
+Until<00:15:29.600><c> then,</c><00:15:30.079><c> let's</c><00:15:30.399><c> keep</c>
+
