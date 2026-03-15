@@ -1,48 +1,60 @@
 # Video Analysis: I Wasted Hundreds of Hours on OpenClaw Until I Found These
 
-**Speaker:** Nino (Vibe with AI)
+**Speaker:** Craig Hewitt
 **Channel:** Craig Hewitt
 **Video ID:** MhLM-12ENOM
 **Upload Date:** 2026-03-13
-**Duration:** ~13 minutes
+**Duration:** 13 min 17 sec
 
 ---
 
 ## Summary
-Nino from the "Vibe with AI" channel walks through his multi-agent Discord setup powered by OpenClaw. He manages a team of five persistent AI agents -- Henry (Chief of Staff), Nexus (CTO), Ivy (Researcher), Nox (Security Officer), and Mr. X (Social Media) -- all running 24/7 on a Mac Mini. The video specifically addresses how to set up Discord so that each agent has its own identity and dedicated communication channel.
 
-The core tutorial covers creating separate Discord bot applications for each agent via discord.com/developers, configuring permissions (view channel, send message, read message history, and manage channels for the main agent), generating OAuth2 invite URLs, and distributing bot tokens to the main agent. This allows the user to talk directly to any department head in its own channel, bypassing the limitation of only communicating through the main agent.
+Craig Hewitt shares seven hard-won lessons from approximately six weeks of daily OpenClaw usage for his business. He covers memory optimization through QMD (created by Shopify CEO Toby Lutke), model selection via OpenRouter to reduce costs, using Perplexity Sonar Pro as a superior search tool within OpenClaw, organizing specialized sub-agents under a primary router agent (his is named Janet), and building a "watchdog" service that automatically restarts the gateway when it crashes.
 
-A key architectural insight is the 5-minute conversation summary system: after five minutes of inactivity, each agent automatically posts a detailed summary to its department work channel and a one-liner to a shared status channel. This ensures Henry (the main agent) stays informed about all conversations and actions across the team without needing direct access to every channel.
+He also explains how to save money by routing the heartbeat function to a cheap model like Gemini Flash 3 instead of expensive models like Opus 4.6, and discusses using Google's new CLI for Google Drive integration so his agent can write content and drop it into a shared folder. Craig positions OpenClaw as a "second brain" and dispatcher for his business, while noting that Claude Code and Codex remain more valuable for actual code-building tasks.
 
 ## Key Topics
-- Multi-agent Discord server architecture with OpenClaw
-- Persistent agents with heartbeat systems (waking up on intervals)
-- Discord bot creation via discord.com/developers
-- OAuth2 permissions and bot token management
-- Direct communication channels to individual AI agents
-- Automatic conversation summarization and cross-agent awareness
-- Taskboard integration for proactive agent work
+- OpenClaw memory optimization and QMD (Quantized Memory Documents)
+- Model selection and cost optimization via OpenRouter
+- Perplexity Sonar Pro as a search model replacement for Brave API
+- Specialized sub-agent architecture (router + child agents)
+- Watchdog service for automatic gateway restart
+- Heartbeat model optimization (cheap models for health checks)
+- Google CLI for Google Drive integration and content sharing
+- Communication channels: Telegram vs Discord vs Slack
 
 ## Tools & Technologies Mentioned
 - OpenClaw (AI agent platform)
-- Discord (communication platform / bot hosting)
-- Telegram (original communication channel)
-- Mac Mini (hardware for running agents)
-- discord.com/developers (bot management portal)
+- QMD (Quantized Memory Documents by Toby Lutke / Shopify)
+- OpenRouter (model routing service)
+- Perplexity Sonar Pro (search model)
+- Gemini Flash 3 (cheap heartbeat model)
+- Opus 4.6 (Anthropic model)
+- Codex (OpenAI coding model)
+- Claude Code
+- Google CLI (Google Drive, Docs, Gmail, Calendar)
+- Gogg (Peter Steinberger's Google Workspace tool)
+- Telegram, Discord, Slack (communication integrations)
+- GitHub (config backup)
 
 ## Strategies Found
-No specific trading strategies with concrete entry/exit rules were presented. This video focuses entirely on AI agent infrastructure and Discord setup.
+
+No specific trading strategies with concrete entry/exit rules were presented. This video focuses on AI agent configuration and productivity optimization.
 
 ## Notable Quotes / Insights
-- "If you don't want to set up a sub agent that only gets called when executing a task, but you want to create agents that are awake 24/7, that have a heartbeat, they wake up continuously, think proactively and push your project forward -- you need to tell your main bot to set up persistent agents."
-- "The problem is with OpenClaw and Discord, you can only set up one channel per agent. You cannot give multiple agents access to multiple channels."
-- "I've set up in the configuration that if five minutes pass after my last message, they automatically have to assume the conversation is over for now and they have to post a detailed summary."
+- "OpenClaw has been called the most important software released maybe ever. Not by me, but by industry experts."
+- "The real unlock is QMD" for solving OpenClaw's memory compaction problem.
+- "You don't need to use Opus 4.6 or Codex 5.3 for everything. You should be picking and choosing how you use models for different things."
+- "OpenRouter kind of manages all these models on their own... so you're not sending your data to an untrusted third party."
+- "Watchdog basically pings every 5 minutes the gateway and if it's down it just restarts it automatically."
+- "At the end of the day OpenClaw is a tool but... Claude Code and Codex are maybe more valuable even to me as a business person."
 
 ## Actionable Takeaways
-1. Create separate Discord bot applications for each AI agent at discord.com/developers to give them individual identities
-2. Give each bot the minimum permissions: view channel, send message, and read message history; give only the main agent the manage channels permission
-3. Use persistent agents with heartbeat configurations to enable proactive work on intervals (every 30-60 minutes)
-4. Set up automatic conversation summaries that post to department-specific work channels after a period of inactivity
-5. Use a shared status channel with one-liner updates so the chief-of-staff agent can monitor all department activities at a glance
-6. Let the main agent handle Discord channel creation and organization rather than setting it up manually
+1. Enable QMD in OpenClaw to significantly improve memory retention across sessions.
+2. Use OpenRouter to route different tasks to appropriate models, reducing costs while maintaining quality.
+3. Replace the default Brave search with Perplexity Sonar Pro for better search results within OpenClaw.
+4. Organize agents in a parent-child hierarchy with a primary router agent delegating to specialized sub-agents.
+5. Build a watchdog service that pings the gateway every few minutes and auto-restarts on failure, with Telegram notifications.
+6. Switch the heartbeat model to a cheap option like Gemini Flash 3 to avoid burning expensive API credits on health checks.
+7. Use Google CLI for content sharing between the agent's machine and your workspace via shared Google Drive folders.

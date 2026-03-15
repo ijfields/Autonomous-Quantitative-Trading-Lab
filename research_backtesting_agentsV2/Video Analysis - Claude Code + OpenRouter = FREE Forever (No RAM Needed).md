@@ -4,55 +4,49 @@
 **Channel:** Efran | AI Automation
 **Video ID:** Shkx096xonQ
 **Upload Date:** 2026-03-11
-**Duration:** ~6 minutes
+**Duration:** 5 min 37 sec
 
 ---
 
 ## Summary
-Despite the video title suggesting Claude Code and OpenRouter integration, the transcript actually covers six practical OpenClaw use cases that Efran guarantees will improve anyone's daily workflow. The video is presented as the answer to the most common question he receives: "How does OpenClaw actually make my life better?"
 
-The six use cases are: (1) a second brain system built with Next.js that allows the user to save memories via text message and search through them later, (2) automated custom morning briefs delivered at 8 AM via Telegram with news, tasks, and AI-generated recommendations, (3) a Discord-based content factory with separate agents for research, script writing, and thumbnail generation, (4) the "Last 30 Days" skill by Matt Van Horde for market/competitive research across Reddit and X, (5) a goal-driven autonomous task system where OpenClaw generates and completes its own tasks based on brain-dumped life goals, and (6) building custom mission control apps to replace third-party software like Notion and Google Calendar.
+Efran demonstrates how to run Claude Code completely for free by connecting it to free cloud-hosted models through OpenRouter, eliminating the need for local RAM or paid API subscriptions. He explains that even the smallest coding-oriented models like QPOS require 14 GB of VRAM to run locally, which exceeds the base RAM on many computers (e.g., a 16 GB Mac Mini), making local hosting impractical for most users.
 
-Efran also addresses cost concerns, noting that while his Anthropic subscription costs $200/month, cheaper alternatives like MiniMax 2.5 (~$10/month) and GLM5 (~$5/month) exist.
+The tutorial walks through creating a settings.json file with an OpenRouter API key and model identifier, then launching Claude Code. When the initial free model (Qwen Coder) encounters rate-limiting ("too many requests"), Efran shows how to switch to OpenRouter's "free models router," which automatically selects from available free models to improve success rates. He also compares pricing, noting that MiniMax 2.5 (ranked #1 for programming) costs 30 cents per million input tokens versus Opus 4.6 at $5 per million input tokens.
 
 ## Key Topics
-- OpenClaw practical use cases for non-technical users
-- Second brain system via text message + Next.js web app
-- Automated morning briefings with scheduled delivery
-- Multi-agent Discord content factory (research, scripts, thumbnails)
-- Market research using the "Last 30 Days" skill (Reddit + X scraping)
-- Goal-driven autonomous AI task generation
-- Custom mission control / app replacement strategy
-- AI subscription cost comparison (Anthropic vs. MiniMax vs. GLM5)
+- Running Claude Code for free without local model hosting
+- OpenRouter as a model routing layer for accessing free and paid models
+- RAM requirements for local AI models (QPOS: 14 GB, Qwen 3/40B: 290 GB)
+- OpenRouter free models router for automatic model selection
+- Cost comparison between free, budget, and premium models
+- settings.json configuration for Claude Code with OpenRouter
 
 ## Tools & Technologies Mentioned
-- OpenClaw (AI agent platform)
-- Telegram (communication interface)
-- iMessage (communication interface)
-- Discord (multi-agent content factory)
-- Next.js (web app framework for mission control)
-- "Last 30 Days" skill by Matt Van Horde
-- Nano Banana (local image generation)
-- Mac Studio (local AI model hosting)
-- Anthropic / Opus (premium AI model, ~$200/month)
-- MiniMax 2.5 (~$10/month alternative)
-- GLM5 (~$5/month alternative)
-- Notion, Google Calendar, Todoist (apps being replaced)
+- Claude Code (Anthropic CLI)
+- OpenRouter (model routing API)
+- QPOS / Qwen Coder (free models)
+- OpenRouter free models router (auto-selects available free models)
+- MiniMax 2.5 (budget coding model, ranked #1 in programming)
+- Opus 4.6 (premium Anthropic model)
+- Cursor (code editor / IDE)
+- Ollama (local LLM hosting, mentioned as alternative)
+- VS Code / AntiGravity (alternative editors mentioned)
 
 ## Strategies Found
-No specific trading strategies with concrete entry/exit rules were presented. This video focuses on AI agent productivity workflows.
+
+No specific trading strategies with concrete entry/exit rules were presented. This video is a technical tutorial on running Claude Code for free.
 
 ## Notable Quotes / Insights
-- "OpenClaw has the best memory system of any AI tool ever created. It remembers literally everything you tell it."
-- "Brain dump into OpenClaw every goal, mission, objective you have in your life, your personal life, and your career. This gives context to OpenClaw around everything you're trying to accomplish."
-- "The only people that shouldn't be doing what I just recommended are people with no goals or ambitions in your life."
-- "You don't need to use Opus. You can say, 'Hey, use MiniMax instead and you'll save money.' There are expensive ways to do this like Opus and there are cheap ways to do this like MiniMax."
+- "If your computer doesn't have a lot of RAM, you will still be able to run Claude Code for free."
+- "If we run [Qwen 3/40B] on our computer, it will consume 290 gigs of RAM, which will be more expensive than using cloud API."
+- "If we use the free model router, we are going to have a lot more success. And pretty much all our requests will be going through."
+- "The performance of these free models is not going to be as good as Anthropic models."
+- MiniMax 2.5 pricing: 30 cents / 95 cents per million tokens (input/output) vs Opus 4.6 at $5 / $25 per million tokens.
 
 ## Actionable Takeaways
-1. Build a second brain system by telling OpenClaw to create a Next.js app that indexes all conversations and memories, enabling global search
-2. Set up a morning brief with a single prompt specifying what information to include (news, tasks, ideas) and have it delivered at a set time via Telegram
-3. Create a multi-agent Discord content factory with specialized agents for research, writing, and media generation
-4. Install the "Last 30 Days" skill to research market pain points on Reddit and X, then use OpenClaw to build solutions to those challenges
-5. Brain dump all personal and career goals into OpenClaw, then have it generate 4-5 daily tasks that move you toward those goals
-6. Replace paid third-party apps (Notion, Google Calendar, etc.) with custom OpenClaw-built alternatives that integrate with your AI memory
-7. Consider cheaper model alternatives like MiniMax 2.5 or GLM5 if the $200/month Anthropic subscription is too expensive
+1. Create a `settings.json` file in your project folder with the OpenRouter API key and desired model name to connect Claude Code to OpenRouter.
+2. Sign up for OpenRouter (free) and generate an API key from Settings > API Keys.
+3. If a specific free model hits rate limits, switch to the "free models router" which automatically rotates through available free models.
+4. For better quality at low cost, use MiniMax 2.5 (requires OpenRouter credits) at roughly 1/17th the cost of Opus 4.6.
+5. No local GPU or high RAM is needed since all inference runs on OpenRouter's cloud infrastructure.

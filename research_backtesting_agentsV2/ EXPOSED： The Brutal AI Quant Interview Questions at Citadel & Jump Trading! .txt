@@ -1,78 +1,741 @@
-This makes the bot more scalpy by
-letting it jump into trades when the
-spread is just starting to look
-stretched rather than waiting for an
-extra move. And faster response to
-shorten the Zcore look back to 10
-periods. This makes the bot react much
-faster to quick price swings in the oil
-market and steady cadence that kept your
-15-minute check-in time. Okay, cool. So,
-so far still no trades. Let's stop this
-other back test cuz it's really useful
-anymore. Let me check on this for speed.
-I'm going to in the meantime, I'm going
-to get this thing to work on some speed
-improvements. make speed management
-automatic so we don't forget. So first
-of all, we don't have Forex back testing
-for Interactive Brokers. As far as I
-understand it, I don't think that works
-at all. So you're talking about making
-it faster. That doesn't make any sense.
-And second of all, you should read, we
-created a document already on like how
-to do speed improvements in general. Can
-you read that document in the Lumiot
-docs folder and make sure that we're
-following all of that and all those
-instructions there and then give me a
-better game plan for all of this. This
-strategy that we're running here is like
-way too slow. We need to make it at
-least like 10 times faster for the code
-they gave you. It's the ETA is 40
-minutes for a oneweek back test. Like it
-should be more like 40 seconds, you
-know. So I think we need a pretty
-significant speed improvement here. So
-we want to work on that. So what is the
-game plan for all of this? First of all,
-getting at least a 10 maybe 30x
-improvement in speed would be ideal for
-the strategy that I gave you. And then
-we want to talk about seconds level
-futures back testing. And then also
-making sure that crypto is fast and also
-works with seconds level data. and then
-we could focus on forex trading after
-that, but that's less important here.
-Pretty crazy. You can just like talk to
-AI and just tell it like make this
-faster. And that's basically what I've
-been doing and it's been really working
-well. So, it seems like, you know,
-continuous contracts, we got a really
-nice speed boost, but these when you're
-picking the contracts for some reason,
-not yet, but we'll figure it out. We'll
-make this faster, too. Okay, I'll say it
-still does not seem to be trading. Can
-you check the logs to see what is
-happening? I don't know if it has the
-ability to check the logs for running
-back test, but that would be pretty
-useful if it did. So, we have to wait
-until it finishes.
-&gt;&gt; Yeah. Yeah, that would be good.
-&gt;&gt; Yeah, cuz it's trying to get the logs.
-CSV, but that's not going to work cuz
-that doesn't exist yet. Logs are pretty
-clear. So, what do you think about that?
-Put it into the comments. Let me know. I
-respond to all of your comments. So, I'm
-very interested to hear what you thought
-about the video and what do you want to
-see next. And of course, if you're
-interested in any of this stuff, go
-check it out at botsspot.trade.
+Good day. Hello everybody. Brian here
+from quantlabsnet.com.
+I'm going to be showing you some very
+powerful things here uh with AI and how
+it's advanced and how cheap it is now
+with what I built out a week ago or so.
+um going to explain the future. If
+you're looking for a job career or
+you're on the other side of being in HR
+uh in one of these quant training firms
+or any firm really, I'm going to show
+you what you can do now to really throw
+off a lot of cheaters on the interview
+session or if you're on the other side
+trying to get into quant coding,
+research, whatever. I am going to show
+you now best way on the cheapest way to
+really understand the questions that are
+going to be thrown at you. Uh as you
+know as everything's much more expensive
+now. So let's get to it.
+Welcome. All right. So what you're
+looking at is the pretty well the final
+strategy uh report I can put out daily.
+This case I'm using futures only. Uh I
+could do that a whole separate video on
+that. Um I'll do that maybe another day
+or so. Anyways, but this is the kind of
+video uh things you can get for trading,
+setting up strategies, details of why,
+what drives it, the calls. These are
+just basic basic stuff any trader should
+know. I can generate quite a lot of
+these uh strategies per day here in the
+JavaScript which is again all available
+in my website at quantlabsnet.com.
+This is the all news-driven just for the
+last day one day's worth of trading
+news. Okay, for the fut market where
+everybody in most firms are trading a
+lot most likely with options and futures
+as well. And you could see here the
+breakdown of uh what uh trade why they
+traded the target on the expected uh
+sharp ratio winning ratio blah blah blah
+blah blah blah. So out of any of these
+particular strategies an HR person can
+go and ask
+uh just on one strategy. Okay. Um on any
+of these so in here we could focus on
+any of these. So I'm I'm just going to
+focus on let's say Ethereum. Okay. So
+here's uh the logic of this strategy.
+Okay. Now here are key here drivers
+technical positioning how to set up the
+macro drivers
+uh the typical execution and risk notes.
+This is what a typical quant quoter will
+get from a trading desk. they will be
+expected to be able to this up fully
+with little hesitation and and and and
+and get this uh ready for coding
+production within probably a few hours.
+If you're not able to do this, then
+don't even bother getting into this
+field. There are, as I said, ways to get
+around this. So, let's take a look at
+some of the solutions here. So I'm about
+to show you can get it into the trial of
+the these one reports. We have a trial
+on the quant analytics you can get for
+free at quantlabsnet.com.
+On the coding front, what I recommend
+you do is to get from my HFT code.com
+site this Algo trader pro blueprint
+which will help you at a shockingly
+cheap price. The AI says this should be
+at least $200.
+Okay, so let's just get into this. So,
+here I've got my typical project already
+set up with the basics and and I've
+added some real world strategies I'm
+going to focus on. In this case, we're
+going up against rhythmic uh trading
+API. I've done millions of examples of
+that instead of Interactive Brokers. You
+can do the same thing I'm about to show
+you with that with that interactive
+brokers one as well. No different. But I
+want to show you how sophisticated this
+is. Okay. So, we're using uh the Kilo uh
+extension here, Kilo AI in uh in uh VS
+Code, the standard programming editor
+IDE. You can do this with any language,
+but to keep the interviewing easier for
+people, they'll probably keep the Python
+uh use Python. So, let's go back to our
+original.
+So, here's a proposed strategy. We are
+going to use something called an
+Ethereum short fade. You better know
+what that means before you go into an
+interview. You better know what that
+means before you start sending out
+resumes. I've talked about that many
+times before. So, let's copy this.
+Okay. So, what I'm going to do here, I'm
+just going to put it in my editor here.
+I am going to uh copy that there. So
+just to show you how easy this thing is
+or how sophisticate it is. Um this is
+now going to use uh the the um Quen
+coder
+net the latest version of Quinn. Quinn
+is absolutely probably in neck and neck
+with Miniax
+on the cost side. So literally for every
+query you put out you're going to pay no
+more than a penny. So this is g this is
+going to like to tell people do not
+waste your time on books. Do not waste
+your time on the the counselors for
+career and any of this stuff and
+especially don't pay money to
+third-party websites for the same thing.
+You are literally going to waste your
+time. Okay, I am going to tell you that
+right out of the gate. So um let's just
+start with the basics. So let's say and
+so right now you can see here we have uh
+coding and ask mode. So I've got the ask
+mode on uh just some sample questions
+here. Give me typical uh hard questions
+if I was applying to
+uh um I don't know jump street
+uh quant trading or quant coding job.
+Okay. So, uh, off it goes. And it's
+going to, you can see how fast this is.
+This is pretty incredible. So, this
+query is not going to cost me more than,
+um, a penny. Okay. So, um, so there it
+is going out to do the API request
+against quant. the more the more
+specific the uh uh prompt is, the more
+uh it takes time, but it's fairly fast
+and it's going to take if a minute. I'm
+just blabbing here as it does it. It's
+very impressive. I asked it um let me
+show you. So, I asked it for typical um
+uh typical Citadel questions. It can do
+that too. So, these are just typical
+questions you can get for typical
+questions. uh real citadel hard quant
+coding interview questions with model
+answers covering the domains they
+emphasize probability stochastic
+algorithmic trading and system design
+probability fair coin question here's
+the specific answer uh quant stock price
+follow geometric motion okay so that is
+another probability okay using GBM blah
+blah blah blah algorithmic trading and
+market microructure another typical
+classification
+It builds out the scenario build out
+market making bought on exchange with 10
+millisecond latency orderbook updates
+approved UDP multiccast. How would you
+design the system to minimize latency
+and handle out of order packets? Now
+again you can choose any model you want
+on the AI to come up with this. You can
+put in any company you want and it will
+go out and it will well it you'll get
+all the latest questions that are on uh
+on uh on uh the web really for this type
+of question. So you can do it by
+company, you can do it by job. Um so
+here it talks about lock free structures
+uh statistical arbitrage identifying
+pairs and stocks and co-integration.
+uh and this is what you're expected to
+answer with. Now, in this case, it's
+it's it's asking for you to give a
+coding sample exactly for this. Now, you
+could do this day and night. You could
+try to memorize this. I don't recommend
+that. Um here's a rolling window
+question. We have system design low
+latency option pricing engine that
+handles 100,000 quotes per second. Okay,
+these are typical questions. So you're
+going to ask for the pseudo code on the
+on the Python volatility surface
+interpolation
+parallel processing memory pooling
+caching standards and quantitative
+finance and and these are very basic
+questions you're going to be typically
+asked if you if you're in you're you get
+past the HR and your resume gets into
+the inbox of these uh HR recruiters. So
+here you got more programming squ
+questions. Lock free circular buffer for
+a single producer single consumer Q. How
+do you handle the ABA problem? And
+you're going to have to know what an ABA
+is. Lock free circular buffer blah blah
+blah blah with the code ABA problem
+occurs when blah blah blah blah
+financial math you would need to know as
+well. European call option. Now these
+are just generic questions. These are
+going to be questions built around and I
+keep saying it's going to be built
+around futures and options 99% of the
+time. So if you're not focused on quant
+in futures and options, you're cooked
+right out of the gate. Okay? And also
+right in this market now for February
+2026, you're going to be competing
+against other people with IV league uh
+PhD level experience. you're going to be
+being against people that have been laid
+off with 10 15 years experience
+um in the field in in these kind of
+companies. So that's your competition
+right now. So let's go back to our VS
+studio here and here's your answers.
+Okay. So let let let me get this one
+now. Okay. Now remember this is for jump
+street. Okay. So these are just generic
+questions. Okay. Now remember this this
+one query prompt only cost me a penny
+because I'm using a cheaper Chinese
+model which I've gone on about penny to
+get this you're about to see you're
+building a match engine and this is now
+in C++ low latency system now remember
+jumpstreet uh must pro processes 1
+million orders per second with sub 10
+microscond latency current
+implementation uses standard map order
+book why is this suboptimal and what
+data structure would you use instead? So
+here's your answer. Key optimization.
+Got to always explain that in front of
+people. Explain the difference between
+standard vector and standard DQ. When do
+you choose one over the other? Here's
+the table for it. The pros and cons with
+the examples and the example calls.
+Probability and statistics.
+Okay. You observe 10 consecutive price
+increases in stock. What is the pro
+probability the next move is a decrease?
+Assume that they're iid renewing with uh
+probability of 0.5
+as well. And these are very basic
+questions. Your first goaround. Um so
+you're going to pay money for what that
+you think that's the static answer and
+it gets worse. They think they're going
+to get you in front of a quant
+a quant uh expert. Believe me, this is
+going to be the latest thing that um uh
+uh a lot of uh firms would be interested
+in on doing things like role play. Okay,
+but you get the idea here. Okay, we've
+done jumpstream specifically and we've
+done Citadel. Okay, here's another one.
+Implement VWAP strategy in Python uh
+that calculates volume weighted average
+price from tick. How would you optimize
+it for real time processing? Okay,
+voila. Now, let's get it where it's
+going to get even more advanced. So, we
+have some questions here. So, I'm going
+to go into what I just showed you here.
+This is really important to know. So,
+I've got this Ethereum short fade. So,
+let's say your interviewer just randomly
+picks today's the news. We have this
+potential thing happening with Ethereum.
+This is expected once again that you
+need to know. If you go any other way, I
+think you're going to be wasting your
+time and your money. Okay? Because what
+I'm trying to prove now is that the idea
+of these static questions are no longer
+going to work. Why? Because it's this
+makes it more dynamic based upon the
+latest 24hour news cycle. One strategy
+that I can pick out of really 30 just
+for one day. Okay. So this is now I
+think going to be the future. So you're
+not going to be able to use this old way
+of using all these third party rubbish
+now.
+when you have this now capabil
+capability and at the same time you'll
+be most likely forced into an
+environment using I don't know VS code
+then they're going to put you in front
+of some kind of AI thing in this case
+could be kilome or something similar so
+now first thing is going to go as an
+example and this is just for anybody who
+wants to use
+uh just creating strategies out of the
+gate so how fast it is and how good it
+is. Okay, so I'm still using Quen code.
+Next, the latest from Quen. Okay, so now
+I'm going to say create a Python trading
+bot client. Okay, this is using my
+current setup with a server in here and
+a trading client bot, a a brand new one
+from the get-go, but it's going to scan
+all the current files in here. Okay. So
+based on
+these creating rules now it already
+knows it's in Python. I could do this in
+C++.
+I could I could do it in Brainf as well
+if I really wanted to. We're that
+sophisticated.
+So where where we're going here is using
+this Ethereum short fade creating logic.
+Okay. Now, this could this this trading
+logic could come from a trading desk. It
+could come from a portfolio manager, but
+this is what they expect of you to be
+able to do something like this very very
+very quickly. Okay. So, now let's see
+how long it takes.
+So, here's the question. Now, it's going
+to uh go out uh and do its thing. Uh
+let's see what it's doing here.
+So this is now requiring a coding
+implementation,
+right? So it automatically switched over
+to code. Great. So now it's going in
+doing its usual thing that you would
+expect from an AI.
+Okay. And as I said, you can use pretty
+well any AI out any AI model out there
+using the bring your own key, using the
+kilo uh way they do it. It supports
+pretty well anything. Okay. I'm using a
+custom one using OpenAI um protocol.
+Okay? And I don't reveal how I do it,
+but I'm just giving you an idea how this
+is to be done. So you can see how fast
+is working right now. Now, typically if
+you use
+uh I've let me let me explain what I've
+tried as of today with the latest
+updated models.
+Uh I've used Quen sorry uh Quad 4.6 six.
+Uh they're all the same price. Okay. Um
+so same quality code is the same. So you
+can see here it's working. Uh I've done
+it with codecs. I've done the latest
+codecs, the latest Gemini Pro 3.1. I've
+also compared against some Chinese ones.
+I've done it against uh all the majors.
+So um you can see here this is now
+completely done. So now it's evolved.
+it's going to go out and try to run the
+strategy for you. Um, and it's going to
+validate if it works or not. Um, and and
+the old well the current architecture
+set it up. Remember, it's going through
+Reddus message queuing matching it up
+with all the other scripts available in
+this current project and it's connecting
+into the uh C server and then those
+calls are going to get translated for
+the rhythmic API. Okay. Um that's for my
+for my case. Okay. So you can see here
+the code is is is pretty good. Okay. So
+uh if you just go through the highlight
+of the of this strategy here um you can
+see here here's the sharp ratio 2.44
+win ratio is 63%. We have uh some key
+drivers behind it as I said BTC uh ratio
+falling uh $36 million outflow from
+Ethereum investment products. So that's
+going to have a market impact that again
+that just happened in the last 24 hours.
+We have our positioning. What it's
+saying is to decrease open interest on o
+Ethereum perpetual less conviction from
+long set up for accelerate breakdown
+blah blah blah. And here's here's what
+it's going to actually build is the
+trading logic and rules. So it's going
+to use perpetual contracts at 1 and a
+half to 2 and a half% resistance zone.
+Again, you have to know all this stuff
+to explain when you start using it. And
+most interviews now are done in office.
+So you could throw out your idea of
+using uh AI generation tools. I mean you
+shouldn't use them and no employer
+should have you use them. Okay. Avoid
+this trade of BTC simultaneously claims
+2% uh resistance blah blah blah blah. So
+the whole thing is built around that.
+And you can see here now
+we have a working strategy. Okay. So I
+could run it. I could deny it. I'm going
+to say deny. Okay. So now this is where
+it gets very interesting. So let's say a
+HR person, coder, whatever testing your
+knowledge. Okay, let's let's see what it
+did here. Okay, so this is what the AI
+did for this particular strategy for the
+last, as I said, 24 hours with that one
+news event. Um, quoting it as well. And
+this is what it's done. Apply all
+strategy rules for Ethereum short state.
+Here's the summary. in all the position
+uh position uh sizing for you entry
+conditions target
+uh target stops uh target Bitcoin
+correlation check Ethereum Bitcoin uh
+ratio monitoring uh it's also done
+volume confirmation and funding rate
+monitoring maxing your leverage and uh
+giving you a time window along with the
+CSV uh database logging here's the
+strategy logic This is one strategy from
+one day news event. Okay. Monitoring for
+resistance. Confirm BTC. Ethereum
+bitcoin ratios making new lows. Uh goes
+on check BTC isn't reclaiming. Okay.
+Blah blah blah. Run the bot. Okay. So
+that's the new name of the bot. Ethereum
+short fade. Okay. So that's the name of
+our bot. So this is where it gets very
+interesting. Tell me some hard
+uh interview uh job interview questions.
+Okay.
+Questions for this strategy. So here you
+can see tell me some hard job. I know
+quant quant coder
+uh let me just make sure now I'm doing
+this live in front of you. quant coder
+hard job interview questions fors in
+code mode. So off it goes. You can see
+how fast it is. Okay, we're going to
+assume that this runs which it will um
+under cloud uh
+the new coder or codeex usually has a
+capability to generate code flawlessly.
+No no corrections are needed for the
+iteration. This is how advanced we've
+come. Okay. So, off it goes. It's
+already It's already created. Oh,
+actually, no. So, now it's doing its
+thing. It's doing its uh checkpoints and
+blah blah blah blah. This is where it
+gets very interesting because why do you
+need to spend money on this stuff, okay?
+Outside of what I'm showing you here,
+okay? Because what's going to happen is
+it's going to give you real world
+examples. You don't need to talk to
+coding coach or quant whatever coach.
+Each one of these prompts has said well
+you will not spend more than one penny.
+Okay, you can do this all day long and
+you can see the quality of these
+answers. So here it is. These are all
+your answers. So I'm going to copy that.
+Um so I think one thing I should tell
+you is you you you can have it do a code
+review as well if you want. Um but
+whatever. Okay, so I'm going to
+copy all this. This is f this is beyond
+fascinating. I'm glad I'm not looking
+for a job. If I was to look for a job,
+I'd be using this technique
+um to to hire people if I needed. I
+don't think firms really need to have
+employees anymore. Um so here you are
+see the hard coder job interview
+questions specifically for the Ethereum
+short feed. Uh so this is typical with
+technical depth the citadel jump to
+sigma. First question now this is
+strategy logic implementation
+e the e short fade enters at a
+resistance zone of so and so from a
+local low. How would you detect and
+prevent trading during the false
+breakout where price briefly hits the
+resistance zone but quickly reverses for
+the order fills. Code is already there.
+advanced follow-up. How would you use
+the order book depth to confirm
+resistant rejection? You're checking for
+Now, the interviewer doesn't need to
+tell you this, okay? If you're a junior,
+they may do that. Large bid wall
+resistant level, decreasing bid size,
+increasing bid size. Here's my problem
+with a lot of these pretty well uh
+subpar
+uh trading whatever third party
+counseling. They tell you what they want
+you to think on how to do coding
+generally and even the world of quant or
+or the world of just general trading
+algo trading. You can see the difference
+here between the interview. Yes, you're
+going to be asked about coding, but
+you're going to also be challenged on
+the trading concepts that I've always
+stressed in these interview processes.
+Okay? You're usually going to go through
+six, seven, 10, 20 interview qu uh
+rounds. Okay? And then there's a bunch
+of people running these third party
+shops whining about why do you need to
+uh have all these rounds. Well, I'm
+telling you why. Because 99.9%
+of the people out there can't get past
+these kind of interviews especially if
+they're not involving quant coding or
+sorry quant creating knowledge. Okay,
+these are very basic questions and
+typical. So you can see here uh strategy
+requires ETH Bitcoin ratio to make new
+lows. How would you implement a robust
+Ethereum uh Bitcoin ratio calculation
+that handles the trading hours and
+liquidity pattern of Ethereum versus
+Bitcoin? They actually know the code
+based around that. And again, you have
+to make sure you follow within these
+considerations.
+They could ask you a risk management
+question. your strategy fix four
+Ethereum contracts regardless of account
+size or volatility. How would you
+implement dynamic position sizing on
+volatility account equity and
+correlation? Again, you got the code
+with the trading considerations. How
+would you implement a circuit breaker
+system that pauses trading if the
+strategy download exceeds certain
+thresholds? Boom. Again, um then we get
+into like how like look how far we are.
+We're just right here out of 400 plus
+lines. Mark market micro structure
+gradually requiring blah blah blah blah.
+How would you implement an order routing
+algorithm that man man minimizes the
+slippage coding? Okay. More
+considerations statistical analysis and
+back testing. How would you test for
+overfitting in the strategy strategy?
+It's just one strategy randomly picked
+from today. The strategy claims 63% win
+ratio and 2.44. How would you test for
+overfitting in this strategy? What I'm
+also telling you, you cannot cheat your
+way through this. Impossible.
+Impossible. And that's why these jobs
+pay big money. They prefer people with
+the experience. So, if you're coming in
+from a junior level,
+they may not be so challenging like
+this, but let alone if there are any uh
+any any oh, we'll call them red flags.
+So if you don't know the basics here,
+you're throw out. You're gone. Um if
+your p value is this or walk for that
+high parameter. So this takes lots of
+years of experience to get into this
+type of field. There are solutions of
+course. Then we have latency
+considerations. Okay. And you will be
+challenged. And then we have probability
+and stochastic processes.
+Strategy has 3% 63% win ratio.
+but only a 2.6 six to one risk rate
+reward executed value for each trade and
+how does compared to a strategy with a
+50% win ratio and a 3% a 3 to1 risk
+forward fair question right all the
+different strategies they want to see
+how you can analyze this okay
+like I don't know and then and then you
+have all the different strategies then
+we can get into financial mathematics
+now remember this is a quant
+three times I said quantity
+want research, want anything. You got to
+know the math, how would you calculate
+the value of risk and expected shortfall
+for this strategy using uh a historical
+stimulation? So, they may just give you
+V. Yes. If you don't know this stuff,
+you're cooked. Okay? Simple as that. Uh
+so, some more examples. Okay? And
+they're going to challenge you on these
+answers. Okay? And then they're going to
+ask you about inspolation and the
+Ethereum short fade strategy.
+Then we get into machine learning. Okay.
+Alternative data. Let's say um so again
+you strategy using flow Ethereum
+investment pro product inflow. How would
+you incorporate this alternative data
+into your trading model?
+Very simple stuff but 99.9% won't even
+know what any of this is. Why are you
+applying why are you considering going
+into the quant field? Right? Use flow
+data as a feature in a machine learning
+lang uh model. High frequency trading
+concepts. Good God. I get people asking
+me all the time, if you can't answer
+stuff like this, then well, you're
+you're gone, right? How would you
+implement a latency trading uh average
+detection system to avoid being frontr
+run by the front traders? See, here's
+the pseudo logic right here. Okay.
+System design and architecture. How
+would you design a distributed system
+for the strategy that can scale to
+handle multiple uh pairs? Okay, same
+thing. Here's your logic. Uh and again
+that's just in Python. They may have
+asked in C++ which is going to be
+typical and if you're claiming to be an
+FPGA well heaven help you if you don't
+know.
+So again key designs and principles
+these questions cover the depth of
+knowledge required for quant coder
+positions at top firms. This strategy
+provides a rich context for testing
+understanding of probability system
+design market microstructure and
+statistical analysis. I could show you
+another one. You'll have a totally
+different set of questions and scenarios
+you have to go through. And again, as I
+keep saying, it is based upon how many
+we got here? 20 in the last 24 hours.
+And I could generate a new set for
+tomorrow and have a new set of questions
+that you most likely uh they can't
+answer. So, um there's that. And and
+then and then we haven't even talked
+about uh this could be run by an a uh an
+agentic front end. Okay. So um again if
+you want to start properly and get
+really interested on the ultra cheap and
+as I said this thing the AI suggested
+that this has got to be 200 bucks US
+available at the hftcode.com
+if you want to understand some of the
+other concepts at a higher level
+um meaning
+presented like this try try this out
+okay and as you learn it and have are
+really motivated to use the right
+sources the right sources which is
+really AI um and just be able to spend I
+don't know how long it would take to get
+to a point of comfort to ace this stuff
+okay um but this is how I do it if I was
+at a firm okay and I could just have a
+AI with a front end a a gentic AI it
+could ask questions probably get it in a
+point where it could ask questions of
+what's happening in the day of that
+interview if I really wanted to go crazy
+and challenge people. So the idea here
+between these three two things
+is to help people not become and get
+into quant trading at a firm which is
+just what I'm showing you is now going
+to be much much harder. And as I said
+before you're going to be competing
+against people that are getting laid off
+in the industry and are about to get uh
+laid off. We had somebody on our last
+stream last week who was an insider
+worked at an at an HFT firm market
+making. He confirmed everything that I
+talked about. Okay. Meaning that uh he
+sees his job on the line as well. He
+said that the FPGA coders are now trying
+to use AI to make themselves productive
+because the firms and managers know that
+they can use AI to replace everybody. I
+mean, I've just proven it. If you don't
+believe me, keep keep smoking and
+enjoying your pot. That's all I could
+tell you. Anyways, but those are the two
+solutions I would recommend. Okay?
+There's nothing more to say about it.
+But if you're using third-party websites
+and paying for it, if you're paying
+so-called career uh people and that may
+have spently a year, there's a reason
+why they don't stay in the field because
+they can't. They don't know what they're
+talking about. if they cannot present
+the questions specifically around
+trading systems or trading uh quant
+trading research models math they don't
+know what they're talking about they are
+wasting their own time and more
+importantly your time okay um because
+it's not going to be enough okay these
+are just very typical questions and this
+is just from a a Chinese AI which may
+not be the best the cheapest one again
+where you're spending one penny per
+query that this what you're seeing here
+of over 800 lines cost me one penny
+using qu uh quen and this is going to
+get more and more advanced as something
+like deepsek 4 comes out you got to get
+with the times you're going to waste
+your time any other way and only speak
+to and use AI for your source material
+okay nothing better than that doesn't
+matter what the experience is just
+laying it out there and you got your
+options now. It's up to you. Over and
+out. Thanks for watching.

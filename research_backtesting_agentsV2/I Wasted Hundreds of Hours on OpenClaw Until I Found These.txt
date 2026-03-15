@@ -1,287 +1,355 @@
-You set up OpenClaw on Telegram. You
-talk to one agent and that's cool. You
-move it over to Discord and still the
-same thing, one agent. But Discord can
-do so much more than that. Here is how
-you actually set it up to manage a full
-agent team. Look at my Discord channel
-which is connected to my open claw. Here
-you see the icon is my HQ mission
-control and you will see here I have a
-lot of channels working. Here you see my
-agents and I have a direct channel to
-each of my agent Ivy, Nexus, Mr. X and
-Nox. This is how I can manage a multi-
-aent AI team.
-What's up everyone? I'm Nino and welcome
-back to Vibe with AI. Before I get into
-it, a quick thank you. Last week I had
-160 subscribers. I'm now at 560. That
-openclaw video hit over 11,000 views. I
-didn't expect that at all. And
-generally, thank you for all the support
-and comments and subscribers. If you
-have been following along the series,
-you know that I have a team of five
-agents running 24/7 on my Mac Mini,
-Henry, my chief of staff, Nexus, my CTO,
-Ivy, my researcher, and Nox, my security
-officer, and Mr. X on social media. A
-lot of you have asked about the Discord
-setup. How do I actually get five
-separate agents into one server, each
-looking and acting like a different team
-member? That's today's episode. To dive
-into my Discord setup, you quickly also
-have to understand my current setup with
-my agents. I am the founder and CEO.
-Henry is my chief of staff. Henry is my
-main bot or AI agent that was set up
-with Open Clown. I talked directly to
-him all the time through Telegram, also
-through Discord. He was the first bot I
-invited to Discord and he created my sub
-agent Nexus, Ivy, Nox and Mistakes. Each
-of them are department heads and they
-push their own department forward.
-Important here, those are also
-persistent agents. So if you don't want
-to set up a sub agent that only gets
-called when executing a task, but you
-want to create agents that are awake
-24/7, that have a heartbeat, they wake
-up continuously. think proactively and
-push your project forward. You need to
-tell your main bot, your main agent to
-set up persistent agents. That's a setup
-OpenClaw supports. And every agent that
-is listed under this persistent tag
-would be an agent that can wake up or
-can run 24/7. What you want to instill
-in each of those agents is a heartbeat
-MD. Tell it to wake up every half an
-hour, every 45 minutes, every hour,
-whatever you want. You can make them
-check the taskboard if there is any task
-that have been added to the taskboard
-that they could do. You could tell them
-to think proactively about the next
-project or execute tasks three four
-times a day that pushes your project
-forward. I think those are the most
-important tips to install productivity,
-install persistent agent that lead a
-department and look they have already
-sub agents here to do certain tasks. But
-those four agent they think about it
-multiple times a day how they can push
-me forward. They have meetings with
-Henry chief of staff and they lead
-actively their department. So now in
-Telegram I could only talk to Henry.
-Hence I moved the conversation over to
-Discord. When you connect OpenCloud to
-discord the first thing what happens is
-that you would only talk to Henry and
-you wouldn't be able to talk to all of
-your different agents. So now let's look
-how I set this up precisely. You can see
-here when I go to mission control and go
-to server settings and I go to members,
-you will see that Mr. X, Nox, Ivy,
-Nexus, Henry, OpenClaw, and myself are
-all basically invited to my server
-individually. And how you do that, you
-go to a URL that is
-discord.com/developers
-and you will get to a page that looks
-like this. You can see here I created
-five different applications which is
-Henry, Nexus, Ivy, Nox, and Mr. Eggs.
-And I set them all up as separate
-application and then added them to my
-Discord. How this works? You go to new
-application. I call the app example
-agent
-and you can obviously add the name your
-agent has by clicking here. You agree to
-the Discord developer terms and you
-click create.
-You confirm that you're human and then
-you get to the setting. Here again you
-can change the name but that is not
-important for now. What you will have to
-do is you have to go to the bot settings
-and here you have to go down to the
-privileges gateway intent and you need
-to toggle on the server member intent so
-it can see all the members that your
-application or your bot and message
-content intent so it can actually read
-and write messages. So that's step
-number one. Go to bot privileges gateway
-and toggle those two on. You click on
-save changes.
-There you go. Step number two, you go to
-OOTH 2. So in the O section, O2 section,
-you will create a URL with your
-settings. And then when you open the
-URL, you'll be able to invite that
-particular bot or application to your
-discord server. So here we scopes, we're
-clicking on bot. When you click on bot,
-you will get bot permissions. And then
-the general permissions that you want to
-give your bot are few channel,
-send message,
-and read message history.
-This would be the three permissions you
-would give to all your department heads
-in a way persistent sub agents if you
-want to call it that only for your main
-agent which in my case is chief of staff
-that you talk to telegram and all of
-that you want to give one additional
-permission which is manage channels. If
-you toggle that, you can simply just
-tell Henry or your main agent, create a
-bunch of channels on Discord, create all
-the channels to invite my other agents
-and so on. So you don't have to set up
-manually anything on Discord. Your main
-agent will handle everything for you.
-Right? So this is it. And now that we
-have chosen the permissions, let's say
-it would be one of your main agents. You
-get here a generated URL on the bottom
-that you can copy and you open a new
-tab. And when you
-paste this URL, it will open your
-Discord channel that you want to have
-created before
-and it will pop up here. By the way, if
-you want to create a Discord channel,
-just click the plus button here. You
-click add a server, create my own. You
-would say for me and my friends and then
-you would give it a name whatever you
-want to do and you click create. That's
-the first step obviously and then you
-can add all your agent to that channel.
-Example agent add bot to server create
-commands add to server HQ mission
-control and you want to press continue.
-I'm not going to do that at this stage
-because I don't want to invite this
-agent to my application. But basically,
-that's the process. And you just have to
-repeat that four or five times or
-however many agents you might have in
-your orga team. And that will do. Then
-you have created access to all of your
-different agents. Now, the last step
-that you need to do is you go to your
-bot tab again. And here where it says
-token, you press reset token. Yes, do
-it. You need to enter your password of
-your discord
-and then you would get a token here.
-This token you copy and you paste it
-into telegram or you give it to your
-main agent. With the agent being a
-member of your discord channel and the
-token, your main agent can set it all
-up. You would start with your main
-agent, give him the manage channel
-permission, then you would add him to
-your discord. That way he can create
-different channels. Then you would add
-the next agent with the name. Give them
-the three permissions that we discussed.
-You would give the main agent his token.
-You invite him and authorize him to
-Discord. And then your main agent
-creates one channel precisely for you to
-talk only to him. So now I will show you
-how that looks in my setup. You will see
-here my discord channel and I have the
-general channels, the briefing channels,
-the work channels, content and all those
-channels Henry has access to and Henry
-can read. Now I set up agents channel
-which are four direct communication
-channels to my other persistent agents
-that Henry does not have access to. The
-problem is with open claw and discord,
-you can only set up one channel per
-agent. You cannot give multiple agents
-access to multiple channels. As far as I
-understood, that is not supported. So I
-can talk to Nexus.
-Hey, what's next on development?
-And I would get an answer. Nexus is
-typing
-Very nice. I can talk to my Mr. X, head
-of social media. What is next on your
-agenda?
-And Mr. X is typing. And the same way
-for Ivy and Nox, my other department
-heads. There you go. Mr. X replied,
-checking my taskboard and what's on the
-radar. Honestly, my pretty open right
-now. Here's what I have on my plate
-based on your morning session
-immediately today. You mentioned
-recording on Discord sent a video today.
-So he knows he's informed. What are my
-tasks for today that I'm recording? The
-point is I can talk to my social media
-agent directly. The same way I can talk
-to Nexus, my CTO directly. Merge PR2 add
-workflow. There you go. So there's our
-open PR that I need to merge into my
-project and review it. So, how do I make
-sure that Henry, my chief of staff, who
-has to know everything constantly,
-knows about what's going on with the
-conversations and with the actions with
-my agents that I'm talking directly.
-I've set up in the configuration that if
-five minutes pass after my last message,
-they automatically have to assume the
-conversation is over for now and they
-have to post a detailed summary of our
-conversation into their specific work
-channel. So Nexus would be posting in
-dev channel, Mr. X would be posting in
-social media, Nox in security, and Ivy
-in research. On top of that, they also
-post a oneliner in the status channel.
-Here you see an example of Ivy chatted
-with Nino confirmed 5 minute update rule
-details in research. Mr. X YouTube video
-analysis complete. Henry video
-confirmed. Well, you get the idea. a
-quick oneliner like a team update that
-Henry can read and if Henry wants to
-know more details he can then go into
-the channel of dev for example and he
-will get a detailed summary of
-conversations and actions that have been
-taken like that I ensure that nothing
-gets lost what is communicated or talked
-about with my department heads and Henry
-is always up to date that's my current
-setup and I think it's working pretty
-well and I hope you can take something
-away from that. That's it. A full multi-
-aent Discord server. Next episode, I'll
-show you how to give your agent a secure
-email and GitHub account the right way
-with scope tokens and one click to
-revoke. If you build this or you're
-going to build this, drop your Discord
-setup in the comments below and
-subscribe. We're turning I agent into a
-real team, one episode at a time. Hope
-to see you in the next one. This.
+Open Claw has been called the most
+important software released maybe ever.
+Not by me, but by industry experts. And
+no doubt it's changed how we all think
+about AI and autonomous AI agents. But
+if you've used OpenCL, you know it can
+be frustrating to set up and breaks a
+lot and can cost a lot of money if
+you're not careful in how you set it up.
+And in this video, I'm going to share
+seven things that I've learned over the
+last 6 weeks or so in using OpenClaw
+every day for my business. so you can
+use it better and faster and more
+reliably to actually get things done and
+make it useful. The first thing I want
+to talk about is memory. And if you've
+used OpenClaw for extended period of
+time, you know that it just goes
+amnesic. It forgets everything. And it
+is because memory gets compacted and
+sometimes just flushed entirely. There's
+a couple of easy settings that you can
+do to optimize this. And they're just in
+the docs here, so I won't explain them,
+but just point your claw at the docs
+here and say, "Hey, how can we optimize
+our memory storage and capacity so that
+you don't forget as much stuff?" But the
+real unlock is QMD. And again, the
+beauty of OpenClaw here is you can just
+send a link, send this link to your claw
+and say, "Hey, I want to enable QMD.
+Make it happen." But I want to explain
+what this is so you have the context of
+what's going on here. So QMD uh created
+by the CEO of Shopify, Toby Lutkkey, is
+kind of an experimental um he calls it a
+sidecar here that combines a couple of
+different ways to rank and search for
+context that OpenClaw has. And the
+problem I think that OpenClaw creates is
+it remembers everything and it logs all
+of your conversations. Unlike a clawed
+code that just forgets everything after
+a session goes away. The beauty of
+OpenClaw and the way I use it is kind of
+a second brain. Everything is routed
+through OpenClaw and it then dispatches
+agents to go do things. And when that
+happens, you have an enormous amount of
+context that has to get written
+somewhere and it has to be able to go
+retrieve that. And QMD, without getting
+too technical, really does a pretty good
+job of efficiently solving this with
+these kind of three different um
+mechanisms here. So I won't get into the
+technical bits honestly because I don't
+really understand them and I don't think
+we have to just say like hey QMD good
+solution to go from average memory to
+pretty good memory. There's some things
+you can do to optimize from there but if
+you're struggling with memory I would
+say this is a really great place to
+start. Okay, the next one is talking
+about model choice. One of the big
+things that I think openclaw has taught
+us is that like you don't need to use
+opus 4.6 or codeex 5.3
+for everything. You should be picking
+and choosing how you use models for
+different things. An open router to me
+is the solution here. So, as the name
+implies, it's kind of just a router. So,
+a call gets sent from open claw to open
+router and it says, "Hey, I'm going to
+use GPD 5.4. I'm going to use Mini Max
+M2.5. I'm going to use Kimmy K 2.5. I'm
+going to use DeepSseek." And the cool
+thing about this is you can use the
+open- source models often that are
+Chinese and there are concerns
+potentially about like hey what's
+happening with my data when I send my
+API calls especially in a personal tool
+like openclaw to China and Chinese
+hosted infrastructure well open router
+kind of manages all these models on
+their own right and so you're not
+sending your data to a untrusted third
+party you're sending it to open router
+which you know for a lot of us is a
+little more trusted than some non US
+sources if you're in the US. So without
+getting political I think it's a little
+safer way to call some of these open
+source models cuz open router is running
+them themselves. Okay, next one is
+talking about search and I'll use open
+router here again because this is just
+another mechanism of API and LLM calls
+that we're making and this is
+perplexity. And Perplexity often is like
+the the black sheep of the LLM world. I
+use it really for two things in my
+personal life. One is it's actually the
+first app I open every morning. I wake
+up, I'm laying in bed, uh, and I check
+the news on Perplexity, but I also use
+Sonar Pro search as my search tool
+within OpenClaw. So instead of trying to
+go to the web and using the Brave API,
+which kind of is just garbage, if you've
+ever searched using Brave, you know that
+like you don't really get the answers
+that you want like you would in Google.
+Perplexity and their Sonar Pro search
+model really cheap and really effective
+in getting you exactly what you want
+when you tell your claw, hey, go search
+the web for this thing. So pretty easy
+win here. Use this. You can use it via
+open router. you go into the config,
+select the models, and then just add
+this as a search model and then create a
+skill or a rule with your open claw to
+say, hey, when I ask you to go search
+for something, use this model. Okay, so
+the next one is once you get your claw
+set up, so there's plenty of tutorials
+online and I'll create one in the
+future. So if you want a zero to open
+claw running uh kind of tutorial, make
+sure you subscribe so you get that when
+I release it. But once you get your claw
+set up, it'll initially have one agent.
+Mine's name is Janet. And Janet uh can
+do a lot of things by herself, but as
+you get a little more sophisticated, you
+might realize like, hey, my primary
+agent is really just the router. And
+what I really want are specialized sub
+agents that have really special
+capabilities and very specific things
+that they do within my business or my
+personal life. And so, you might imagine
+like, hey, I need a a content agent.
+That's what I have. I need an ops and
+finance agent. I have that, too. I need
+a building agent. And this one really
+for me just routes things to codeex. I
+use codecs uh in like a headless mode
+via GitHub to do all of the code. So I
+might say, "Hey, add this page to my
+site and it dispatches my coding agent.
+It calls uh codec cli creates an issue,
+does all the work, creates a PR." Pretty
+cool. So, these specialized agents can
+have skills and memory and all sorts of
+kind of special instructions that they
+have that your main agent might not be
+able to manage all by themselves. And
+so, the top level agent, Janet in my
+case, really is that primary touch point
+that everything goes through. And then
+from there, she decides who to call
+Ghostbusters to uh to achieve a certain
+thing. I've played around with this uh
+kind of parent and child level agent and
+I've played around with just a flat
+organization to me how I'm using
+OpenClaw today the kind of main router
+agent and then specialized sub aents and
+I only have four of them so we're not
+talking about a lot here is the best way
+because when you have an entirely flat
+organization you essentially are just
+doing more work so you're context
+switching between Slack channels or
+Discord topics or whatever it is and
+it's just not as efficient. So I can
+call Janet, Janet does the work. She
+might delegate that to a sub agent, but
+everything ends up coming back through a
+Janet in the end. And I just find it a
+little more efficient. So I'd love to
+hear how you're managing multiple
+agents, whether it's this kind of parent
+uh and child, not to anthropomorphicize
+them too much. Is that the word? Right.
+When you like make inanimate objects
+real things, not to make them seem like
+people too much, but I think
+increasingly they are. So parent and
+child or flat organization. I'd love to
+hear your experiences and how you're
+doing this. Okay, the next one here is
+actually this is going to be a blog post
+on my website in just a few minutes, but
+I wanted to preview it here first is I
+created a service that we call watchdog.
+And we created watchdog because and if
+you've used this openclaw, you know this
+happens. Say I send a message to Janet
+to my OpenClaw and I say, "Hey, uh, go
+upgrade to the latest OpenClaw version
+or add this model or um, switch the
+model that we're using for the heartbeat
+to this other thing." And I'll talk
+about that in a minute. And then it just
+breaks and it breaks and you can't do
+anything. You can't start a new session
+because something in the config is just
+broken. And you have to go to the
+computer. If it's a laptop, it's in
+another room. It's in a VPS you have to
+SSH into that and you have to run open
+clog gateway restart and kind of restart
+things. Well, what watchdog does it
+basically pings every 5 minutes I think
+for me the gateway and if it's down it
+just restarts it automatically. So it's
+like hey if this is broken just do the
+thing that I would have done if I went
+in logged in the computer anyhow and
+this is magic. This has saved my bacon
+so many times where the gateway's down
+for some reason because I did something
+usually and almost always this happens
+when I'm changing the setup of my open
+claw. You know, truth be told, if you
+don't change the model or the rules or
+the skills or the agents or something
+about, you know, what would live in that
+open claw config area, it really is
+pretty reliable. But if you're upgrading
+or you're changing settings, it can
+break for sure. And so like I push all
+of mine to GitHub every day uh just as a
+backup, but it also has backups built in
+locally. But this watchdog is a really
+great automatic way for this to happen
+to where if it's broken, I know about it
+almost instantly. And if it has to
+restart the gateway because it knows
+that it failed, it just sends me a
+message in Telegram. So you just take
+this concept and just send it to your
+OpenClaw and say, "Hey, just do this."
+And I'll include a bit in the
+description below about how to do this.
+We talked about the heartbeat. So in
+opencloud there's a couple of really
+important concepts and the heartbeat is
+one of them. It's basically like hey is
+this thing on? Are we working or all
+systems go? And this is uh something
+that runs very regularly. I forget the
+default but it's like every minute or
+every couple minutes. The problem is if
+you only have one model working say
+you're running Opus 4.6 from Anthropic.
+Uh that's a really expensive model to
+use for a really basic thing. And so you
+can use again through open router
+something like Gemini flash 3 or Gemini
+3 flash that's really cheap because this
+is just a really basic like hey are you
+awake cool okay great thanks uh maybe
+the okay I'm not great thanks we'll have
+a little bit of context but but that's
+it and so you don't need a very fancy
+model for this you just need something
+that's cheap and efficient using open
+router makes switching this really easy
+if you have open router uh installed and
+selected you just add this model
+identifier
+to your config and say, "Hey, for
+heartbeat, use this model, please." And
+it'll save you a bunch of money. Okay.
+And the last one is if you're having
+your open claw use the Google ecosystem
+at all. So, Google Docs, Google Drive,
+Gmail, Calendar, Google just released a
+CLI. And so, previously, this was kind
+of a homegrown version by Peter
+Steinberger called Gogg, where your
+agent needed a Google Workspace or Gmail
+address. it would log in and it would
+kind of act on its own behalf. And the
+Google CLI just makes this more
+official. So, it's officially from
+Google. And now your agent can do things
+inside Google Drive. And the place I use
+this is actually going back to this blog
+post. I had Janet write this blog post
+for me. And again, she has all the
+context. She knows the history about
+like what was going on, why this
+happened, what we did to fix it. So,
+she's actually the perfect person to
+write this. The problem is she lives on
+a Mac Mini uh over there and I can't
+just go get that article from her very
+easily. The way we use Google Drive is
+that's how we share content. You know,
+content is one of the main things that I
+asked Janet to do for me. Uh and so she
+wrote this and then put it into a shared
+Google Drive folder that we have. So I
+don't need to SSH into that computer. I
+don't need to go do all this fancy
+stuff. She just drops it here. Um, and I
+can take a look at it and I can copy and
+paste this into my blog, which is what
+I'll do in here just a few minutes. Uh,
+but I think that's a really important
+kind of barrier to get over, which is
+like, hey, how do I get content
+especially from where my open claw lives
+into the place where I can go review it
+or do things? This is the reason a lot
+of folks like the Slack integration
+because it actually has a pretty rich
+um, kind of content and uh, media
+preview pane. You can preview long bits
+of content here uh in Slack. Uh I just
+don't like it cuz like I don't need to
+pay for another thing. Uh Telegram and
+or Discord work fine for me depending on
+how fancy a setup I want. Um so I'd
+encourage you if you're looking at, hey,
+how am I going to communicate with my
+claw, Telegram definitely the easiest,
+especially if you just have one main
+agent. If you have a bunch of agents and
+or a bunch of different things they do,
+maybe look at Discord with topic
+channels um that each agent lives in and
+kind of operates out of. So those are
+seven things that I found that make open
+claw immensely
+valuable and useful in my business and
+at the end of the day openclaw is a tool
+but there are other tools in our arsenal
+and claude code and codecs are maybe
+more valuable even to me as a business
+person who's building real things
+writing code creating tools and just
+running a business and so if you want to
+see how I view openclaw versus clawed
+code.

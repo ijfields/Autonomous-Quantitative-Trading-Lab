@@ -4,54 +4,60 @@
 **Channel:** Mikey No Code
 **Video ID:** VMbm1I6sdAs
 **Upload Date:** 2026-03-13
-**Duration:** 25m 46s
+**Duration:** 25 min 46 sec
 
 ---
 
 ## Summary
-Mikey No Code provides a detailed review and live build session using Orchids AI, a new AI-powered development platform that he argues is superior to Cursor, Lovable, V0, and Bolt. The key differentiators he highlights are: (1) Orchids is not locked to a specific stack -- it can build web apps, mobile apps, Python scripts, Slack bots, AI agents, and even hardware-integrated applications from a single platform; and (2) it lets you bring your own API keys, eliminating the markup that other platforms charge for AI usage.
 
-The video follows a complete build session where Mikey creates a pregnancy and period tracker application from scratch using only natural language prompts. He progresses from generating the front-end structure with placeholder data, to building the period tracker, ovulation tracker (with automated predictions), pregnancy tracker, symptom checker, personalized insights dashboard, and finally a dark mode feature. He also demonstrates switching between the desktop client (which supports terminal commands and Claude Code integration) and the web version via project syncing.
+Mikey No Code presents a detailed walkthrough and review of Orchids AI (orchids.app), positioning it as a superior alternative to Cursor, V0, Bolt, and Lovable for AI-assisted app development. The video emphasizes two fundamental differentiators: first, the "stack prison problem" -- unlike other builders that lock you into specific app types (web, mobile, Python, etc.), Orchids supports any stack and any application type from a single platform; second, the "cost trap" -- instead of charging markup on AI usage, Orchids lets you bring your own API keys (Claude, ChatGPT, Gemini, Copilot) and pay at actual cost.
+
+The bulk of the video is a live build session where Mikey creates a full-stack pregnancy and period tracker app step by step. He starts by generating the front-end structure with placeholder data, then iteratively adds real functionality: a period tracker with symptom logging, an ovulation tracker with automated predictions based on period data, a pregnancy tracker with week-by-week insights, a cycles prediction widget on the insights page, a symptom checker for conditions like PCOS and endometriosis, personalized dashboard widgets, and a dark mode toggle. He demonstrates both the desktop app (with integrated terminal where he runs Claude Code directly) and the web version, showing how projects sync seamlessly between the two. He also demonstrates integrating Claude Code through Orchids' terminal panel, emphasizing that no other AI builder lets you bring external AI subscriptions into the platform.
+
+The video cites effectiveness scores: Orchids at 76% vs. Claude Code at 68%, V0 at 64%, and Bolt at 54%.
 
 ## Key Topics
-- Orchids AI platform overview and review
-- Building a full-stack app with natural language prompts
-- Desktop client vs. web browser development
-- Bringing your own API keys (cost savings)
-- Stack-agnostic development (web, mobile, Python, Slack bots, AI agents)
-- Iterative feature building with AI assistance
-- Native Supabase integration (databases/auth), Stripe (payments), deployment tools
-- Claude Code integration within Orchids terminal
-- Project syncing between desktop and web
-- Effectiveness benchmarks (Orchids 76% vs. Claude Code 68%, V0 64%, Bolt 54%)
+
+- Orchids AI as an alternative to Cursor, V0, Bolt, and Lovable
+- Stack prison problem: single-platform support for any stack (web, mobile, Python, AI agents, hardware)
+- Cost trap solution: bring your own API keys (BYOK)
+- Native desktop client with integrated terminal
+- Live build: pregnancy/period tracker app
+- Iterative feature building: period logging, ovulation tracking, pregnancy tracking, symptom checker, personalized insights
+- Desktop-to-web project syncing
+- Claude Code integration via terminal panel
+- Native Supabase integration (databases, authentication)
+- Stripe integration (payments)
+- Built-in deployment and GitHub sync
+- Effectiveness benchmark scores
 
 ## Tools & Technologies Mentioned
-- Orchids AI (orchids.app)
-- Cursor (AI coding tool, compared)
-- Lovable (AI builder, compared)
-- V0 (AI builder, compared)
-- Bolt (AI builder, compared)
-- Claude Code (used within Orchids terminal)
-- Supabase (database/authentication)
-- Stripe (payments)
-- GitHub (sync)
-- ChatGPT, Claude, Gemini, GitHub Copilot (supported API keys)
+
+- Orchids AI (orchids.app) -- desktop and web versions
+- Claude Code (integrated via terminal panel)
+- Supabase (database and authentication integration)
+- Stripe (payment integration)
+- GitHub (project sync)
+- ChatGPT, Gemini, GitHub Copilot (bring your own API keys)
+- Cursor, V0, Bolt, Lovable (competing tools referenced)
 
 ## Strategies Found
-No specific trading strategies with concrete entry/exit rules were presented.
+
+No specific trading strategies with concrete entry/exit rules were presented. This is an AI development tool review.
 
 ## Notable Quotes / Insights
-- "Most AI coding platforms promise the world to you, but then leave you frustrated with broken code and endless debugging sessions."
-- On the "stack prison problem": "Every other builder locks you into a specific type of app. Orchids completely breaks all of that -- one platform, any stack, any type of application."
-- "Most platforms mark up AI usage and charge premium rates inside their ecosystem. Orchids just removes that markup entirely."
-- Orchids scored 76% in effectiveness benchmarks compared to Claude Code at 68%, V0 at 64%, and Bolt at 54%.
+
+- "Most AI tools suffer from two major limitations: the stack prison problem and the cost trap."
 - "No other AI builder gives you the ability to bring your own AI subscriptions into the platform."
+- On benchmarks: "Orchids scored 76% in effectiveness compared to Claude Code at 68%, V0 at 64%, and Bolt at 54%."
+- "What we're building right now could potentially evolve into a mobile companion app, an AI assistant, or something far more advanced without switching platforms at all."
+- The desktop version's terminal access enables running Claude Code directly within the Orchids project environment, creating a hybrid workflow.
 
 ## Actionable Takeaways
-1. Download the Orchids desktop client from orchids.app for full terminal access and more powerful development capabilities.
-2. When starting a project, generate the front-end structure with placeholder data first to visualize the layout before building functionality.
-3. Build features incrementally using natural language prompts -- add one feature at a time and verify each works before proceeding.
-4. Use the desktop terminal to run Claude Code directly within your Orchids project for additional AI assistance.
-5. Sync projects between desktop and web using the three-dot menu in the upper right corner to continue development from anywhere.
-6. Bring your own API keys (Claude, ChatGPT, Gemini, Copilot) to avoid markup fees on AI usage.
-7. Do a final review pass asking Orchids to check for issues and create a proper web-responsive version of any mobile-first design.
+
+1. Download the Orchids desktop client from orchids.app for full terminal access and local development capabilities.
+2. Start any new project by generating the front-end structure with placeholder data first, then iteratively add real functionality -- this prevents the common mistake of building features without a clear visual structure.
+3. Use the desktop terminal panel to integrate Claude Code or other AI tools directly into your Orchids project.
+4. Bring your own API keys to avoid marked-up AI usage fees.
+5. Use the sync feature (three dots menu in desktop app) to seamlessly continue development in the browser from anywhere.
+6. Orchids has native Supabase, Stripe, and GitHub integrations, making it feasible to go from idea to production-ready app without switching platforms.

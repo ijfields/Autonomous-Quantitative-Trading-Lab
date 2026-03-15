@@ -7,82 +7,125 @@
 ---
 
 ## What This Guide Covers
-How to build and deploy a Polymarket binary-bet trading bot that uses liquidation data to predict BTC direction, including the hedging component on Hyperliquid and how to participate in the MoonDev Arena prediction contest.
+
+How to build a Polymarket trading bot that uses liquidation data to trade 5-minute binary BTC markets, hedge on Hyperliquid, and use CVD (Cumulative Volume Delta) from tick data for order flow analysis.
 
 ---
 
-## Step 1: Understand the Polymarket Binary Bet Structure
-1. Polymarket offers 5-minute and 15-minute binary up/down markets on BTC.
-2. You pay approximately $50 for a contract that pays $100 if correct -- a binary outcome.
-3. Direction is all that matters: if BTC goes up even 1 cent, you win the full amount.
-4. This creates extreme effective leverage:
-   - 15-minute markets: approximately 1,400x effective leverage
-   - 5-minute markets: approximately 2,400x effective leverage
-   - Compared to Hyperliquid at 40-50x leverage
-5. 288 trading opportunities per day on the 5-minute market.
-6. Pros: defined risk (you can never lose more than your bet), no liquidation cascades, no funding rates.
-7. Cons: 100% loss on wrong bets (no partial wins), without an edge you bleed the spread quickly.
+## Step 1: Understand the Polymarket 5-Minute Binary Markets
 
-## Step 2: Set Up the MoonDev API for Liquidation Data
-1. Access the MoonDev API (requires API key from MoonDev Zoom sessions or platform).
-2. Key data endpoints used:
-   - BTC liquidation data (Hyperliquid + Binance)
-   - Position snapshots (positions near liquidation)
-   - Tick data (7-day, 30-day, 90-day windows)
-3. The API provides real-time liquidation events showing when traders get liquidated, their position sizes, and the direction (long/short).
+1. Polymarket offers 5-minute and 15-minute binary markets on BTC price direction (up or down).
+2. You bet on whether BTC will be higher or lower at the end of the window.
+3. Binary mechanics: odds are roughly 50/50, so you pay ~$50 for a contract that pays $100 if correct.
+4. If BTC goes up even 1 cent, you win 100% return. The size of the move is irrelevant -- only direction matters.
+5. Effective leverage is approximately 2,400x compared to traditional Hyperliquid perpetual futures (where profit is proportional to price movement).
+6. There are 288 five-minute windows per day (288 potential trades).
 
-## Step 3: Understand the Liquidation Stink Bid Strategy
-1. Monitor liquidation data from the MoonDev API in real time.
-2. Focus on BTC liquidations in the $25,000 to $100,000 range (the "sweet spot" -- not chasing tiny or whale liquidations).
-3. Long liquidations (longs getting wiped) = bearish signal = buy DOWN on Polymarket's 5-minute binary.
-4. Short liquidations (shorts getting wiped) = bullish signal = buy UP on Polymarket's 5-minute binary.
-5. Instead of market buying on Polymarket, place stink bids (limit orders below market price) to get a better entry.
-6. Once the Polymarket leg fills, immediately hedge 40% of the position on Hyperliquid in the opposite direction.
-7. The bot uses 3x leverage on the Hyperliquid hedge side.
+**Key risk:** Without a real edge, you are paying the spread and slowly bleeding. At 288 bets/day, even a 49% win rate drains you fast.
 
-## Step 4: Set Up Your Trading Accounts
-1. **Polymarket**: Create an account, deposit USDC, set up API keys.
-   - Important: Place one small trade through the Polymarket website first to trigger the deposit + allowance flow from your browser wallet to your proxy wallet.
-   - The proxy wallet must have USDC deposited for API trading to work.
-2. **Hyperliquid**: Create an account with a clean private key (separate from any potentially compromised accounts).
-   - Store the private key securely in your .env file.
+---
 
-## Step 5: Deploy the Bot
-1. Clone or create the Python bot code.
-2. Configure your .env file with:
-   - MoonDev API key
-   - Polymarket API credentials
-   - Hyperliquid private key
-3. Set the liquidation range parameters (default: $25,000 to $100,000).
-4. Set the total exposure per trade (default: $25).
-5. Run the bot: `python run_it.py`
-6. Monitor the output for:
-   - Current liquidation totals (long and short)
-   - Trade execution confirmations
-   - Hedge placement confirmations
+## Step 2: Understand the Lick Stinkbot Strategy
 
-## Step 6: Participate in the MoonDev Arena
-1. Go to mundav.com/arena.
-2. Sign up for a free account (username must be one word, no spaces).
-3. Download the historical data CSV files (60 days of BTC data).
-4. Build a Python prediction model with a `predict(data)` function.
-5. Your model receives a dictionary with 60+ keys of live market data every hour:
+The "Lick Stinkbot" is a liquidation-momentum strategy for Polymarket:
+
+1. **Data source:** MoonDev API provides real-time liquidation data from Hyperliquid, Binance, and OKX.
+2. **Signal:** Watch for BTC liquidations in the $25,000 to $100,000 range (the "sweet spot" -- front of the wave, not chasing).
+3. **Direction logic:**
+   - Long liquidations (longs getting stopped out) = bearish signal = buy "down" on Polymarket.
+   - Short liquidations (shorts getting stopped out) = bullish signal = buy "up" on Polymarket.
+4. **Entry method:** Instead of market buying, the bot places a stink bid (limit order) on the Polymarket binary contract.
+5. **Hedge:** Once the Polymarket leg fills, immediately hedge 40% of the position on Hyperliquid in the opposite direction at 3x leverage.
+6. **Hold to expiry:** The 5-minute binary resolves at the end of the window -- no take profit or stop loss needed.
+
+**Important:** The $25K-$100K threshold is an arbitrary starting point, not backtested. This is an idea to test, not a proven strategy.
+
+---
+
+## Step 3: Set Up the Bot Environment
+
+1. Clone or obtain the Lick Stinkbot Python script (available on MoonDev's algo trading roadmap).
+2. Set up your `.env` file with:
+   - MoonDev API key (for liquidation data, tick data, position snapshots)
+   - Polymarket API credentials (API key and secret)
+   - Hyperliquid private key (for the hedge leg)
+3. **Polymarket proxy wallet:** Ensure your proxy wallet (derived from the API key) has USDC deposited. If it shows zero balance, place one small trade through the Polymarket website to trigger the deposit + allowance flow from your browser wallet to the proxy wallet.
+4. Run the bot: `python lick_stinkbot.py`
+5. The bot will display: Hyperliquid balance, liquidation range being monitored, trade history, and current liquidation activity.
+
+---
+
+## Step 4: Understand the Effective Leverage Math
+
+**On Hyperliquid (50x leverage):**
+- You put $100, controlling $5,000 of BTC.
+- If BTC moves 0.1% in 15 minutes, you make $5 (5% return).
+
+**On Polymarket (15-min binary):**
+- You put $100 betting BTC goes up.
+- If BTC goes up even 0.001%, you win. You doubled your money: 100% return.
+- This is where the ~1,400x effective leverage comes from on 15-min markets.
+
+**On Polymarket (5-min binary):**
+- In 5 minutes, BTC moves even less, so Hyperliquid profits are even smaller.
+- But binary still pays 100% for being right.
+- Effective leverage jumps to ~2,400x.
+- 288 opportunities per day (3x more than 15-min markets).
+
+**Pros:** Defined risk (never lose more than your bet), no liquidation cascades, no funding rates, execution simplicity (no stop losses or position sizing needed), edge amplification (even 52-53% accuracy prints money at binary scale).
+
+**Cons:** 100% loss per wrong trade (no partial wins), the 50/50 trap bleeds you without a real edge, leverage comparison can be misleading since risk structure is fundamentally different.
+
+---
+
+## Step 5: Build a CVD Scanner for Order Flow Analysis
+
+CVD (Cumulative Volume Delta) is a powerful order flow indicator built from tick data:
+
+1. **What it tracks:** Running total of buying volume minus selling volume over time at the tick level.
+   - Buy volume = trades hitting the ask (aggressive buyers).
+   - Sell volume = trades hitting the bid (aggressive sellers).
+   - Delta per tick = buy volume - sell volume.
+   - CVD = cumulative sum of all deltas.
+
+2. **Signal patterns:**
+   - Price rising + CVD rising = healthy trend, aggressive buyers driving it.
+   - Price rising + CVD flat/falling = divergence, move driven by short covering not real demand.
+   - Price falling + CVD falling = healthy downtrend, aggressive sellers in control.
+   - Price falling + CVD flat/rising = divergence, buyers stepping in, possible accumulation/reversal.
+
+3. **Algorithmic uses:**
+   - Divergence detection: compare slope of price vs. slope of CVD.
+   - Trend confirmation: only take longs if CVD slope is positive, shorts when negative.
+   - CVD rate of change: sudden spikes indicate aggressive order sweeps (institutional footprints).
+   - CVD at key levels: watch behavior at support/resistance for stronger signals.
+
+4. **Building from tick data:**
+   - Each tick from the MoonDev API includes side (buy/sell) and size.
+   - Compute delta per tick, accumulate into CVD.
+   - Resample on any timeframe as needed.
+   - Use Python's Rich library for flicker-free terminal display (instead of console clear/repaint).
+
+---
+
+## Step 6: Use the MoonDev Arena for Model Testing
+
+1. Visit mundav.com/arena to access the free prediction competition.
+2. Sign up for an account (username must be one word, no spaces).
+3. Download the 60-day historical data CSVs:
    - BTC price ticks
    - Hyperliquid liquidations
    - Binance liquidations
    - Positions near liquidation
-6. Submit your model -- rolling daily contest with MoonDev credit prizes.
-
-## Step 7: Apply the RBI Framework
-1. **Research**: Study the liquidation data, Polymarket binary mechanics, and effective leverage dynamics.
-2. **Back Test**: Use historical data from the MoonDev API to test your prediction model. Verify that your strategy has a positive edge (need above 50% win rate for binary bets).
-3. **Implement**: Only deploy live with real capital after confirming a backtested edge.
-4. Start with tiny bet sizes -- on binary markets, each trade risks 100% of the bet amount.
+4. Build a Python prediction model that takes an hourly data snapshot and predicts BTC direction.
+5. Submit your model -- it runs in a Docker sandbox and receives live data every hour.
+6. Daily winner receives $1,795 MoonDev credit.
+7. You do not need an API key for external data -- the arena server pulls directly from MoonDev API.
 
 ---
 
 ## Key Takeaway
 
-> Polymarket's 5-minute binary markets offer approximately 2,400x effective leverage because the full payout is received for correctly predicting direction regardless of BTC move magnitude -- but without a proven edge above 50%, the 288 daily opportunities will drain your account fast, making backtesting and the RBI framework essential before going live.
+> Polymarket's 5-minute binary BTC markets offer ~2,400x effective leverage with defined risk, but without a proven edge you are just flipping coins. The play is to bet tiny amounts with a data-driven edge (liquidation momentum, CVD divergence, or ML models) hundreds of times per day and let the math compound. Without the edge, it is a casino. With it, it is a printing press.
 
-*Guide derived from: Claude Code Polymarket Trading Bots [1BbKTQOPOGQ].en.vtt*
+*Guide derived from: Claude Code Polymarket Trading Bots.txt*

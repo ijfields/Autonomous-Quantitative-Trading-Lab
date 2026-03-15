@@ -7,69 +7,97 @@
 ---
 
 ## What This Guide Covers
-How to update OpenClaw to version 3.13 with live browser control, and how to run a free local AI model (GLM-4.7-Flash distilled from Claude Opus 4.5) using LM Studio.
+
+How to update to OpenClaw 3.13 and use its new live browser control feature, plus how to download and run the free GLM-4.7-Flash model distilled with Claude Opus 4.5 reasoning locally via LM Studio.
 
 ---
 
-## Step 1: Update OpenClaw to 3.13
+## Step 1: Update OpenClaw to Version 3.13
+
 1. Open your OpenClaw chat interface.
-2. Type "update" in the chat.
+2. Type `update` in the chat.
 3. Wait a few minutes for the gateway to reset.
-4. Verify the update completed by checking the version display.
+4. Confirm the update shows the March 13th version.
+
+---
 
 ## Step 2: Enable Live Chrome Session Attachment
-1. This is the headline feature of OpenClaw 3.13 -- your AI agent can now browse with your real logged-in browser session.
-2. Two new browser profiles are available:
-   - **Profile User**: Uses your real browser session on your screen.
-   - **Chrome Relay**: Uses a special extension to connect more smoothly.
-3. Enable the feature via the settings toggle described in the changelog.
-4. No extensions or extra setup required -- just one toggle.
-5. Your AI agent can now see your Gmail, dashboards, and other logged-in tools.
+
+1. This is the headline feature: your AI agent can now browse the web using your real logged-in browser (Gmail, dashboards, tools).
+2. Enable it via the Chrome DevTools Protocol toggle -- no extensions or extra setup needed.
+3. Two new browser profiles are available:
+   - **Profile User** -- uses your real signed-in browser sitting open on your screen.
+   - **Chrome Relay** -- uses a special extension for smoother connection.
+4. The agent will now automatically prefer your real browser without needing to be told each time.
+5. Smart error handling has been added so transport and tool-level errors recover gracefully instead of crashing.
+
+---
 
 ## Step 3: Configure Docker Timezone (If Using Docker)
-1. Set the environment variable `openclaw_tz` in your Docker configuration.
-2. Use any standard timezone string (e.g., `America/New_York`, `Asia/Bangkok`).
+
+1. Docker containers previously inherited whatever timezone the server used, causing bugs in scheduled tasks and logs.
+2. Set the environment variable `openclaw_tz` to your standard timezone (e.g., `America/New_York`, `Asia/Bangkok`).
 3. Both the gateway container and CLI container will lock to that timezone.
-4. This fixes timestamp bugs and tasks running at wrong times.
 
-## Step 4: Download and Install LM Studio
-1. Go to the LM Studio website and download the installer for your OS.
-2. Install LM Studio on your machine (Mac, Windows, or Linux).
+---
 
-## Step 5: Download the GLM-4.7-Flash Claude Opus Model
-1. Open LM Studio.
-2. Go to the model search section.
-3. Search for "GLM 4.7 flash opus" or "GLM 4.7 claude opus."
-4. Browse the available versions (multiple quantizations available).
-5. Download a version appropriate for your hardware (the model is approximately 18 GB).
-6. Wait for the download to complete.
+## Step 4: Review Additional 3.13 Updates
 
-## Step 6: Run the Model Locally
-1. In LM Studio, click "Use in new chat" on the downloaded model.
-2. Wait for the model to load.
-3. Start chatting -- the model runs entirely on your machine.
-4. No API keys, no subscriptions, no data leaving your machine.
+- **Android app:** Complete redesign -- cleaner chat settings, device/media settings in separate groups, more compact chat composer and session header.
+- **iOS app:** New welcome pager for first-time users; QR scanner no longer auto-opens on install.
+- **Windows gateway:** No longer freezes; status reports fixed.
+- **Ollama/local models:** Internal thinking/reasoning monologue no longer leaks into chat responses.
+- **Security:** Various improvements across the platform.
+- **Telegram, Slack, Discord, scheduled tasks:** Multiple bug fixes.
 
-## Step 7: Apply the Distilled Edge Framework
-1. **Use the local model when:**
-   - Input contains data you don't want on cloud servers
-   - You need to run the same task repeatedly at volume without paying for tokens
-   - Speed is more important than maximum quality
-   - You want to experiment and iterate freely
-2. **Use cloud models when:**
-   - Highest possible quality is non-negotiable
-   - Complex multi-step reasoning chains push the limits of a 30B parameter model
-   - Tasks require real-time web access
+---
 
-## Step 8: Connect Local Models to OpenClaw (Optional)
-1. Local models like GLM-4.7-Flash can be used to power OpenClaw via Ollama.
-2. Configure OpenClaw to point to your local model endpoint.
-3. This gives you a free AI agent powered by local reasoning.
+## Step 5: Download and Run GLM-4.7-Flash with Claude Opus Reasoning
+
+1. Go to [LM Studio](https://lmstudio.ai) and download the desktop app for your platform.
+2. Open LM Studio and go to the model search section.
+3. Search for `GLM 4.7 flash opus` or `GLM 4.7 flash claude`.
+4. Download the model -- the main version is approximately 18 GB.
+5. Multiple quantization options are available (different precision levels affecting size and quality).
+6. Click "Use in New Chat" to load the model.
+7. Start chatting -- the model runs entirely locally with no API keys or subscriptions.
+
+**How the model works (knowledge distillation):**
+- A researcher took ~250 examples of Claude Opus 4.5 working through hard problems with reasoning set to maximum.
+- Those examples were used to train GLM-4.7-Flash (a 30B parameter MoE model by ZhipuAI) to reason similarly.
+- The result is Claude Opus-inspired reasoning running on local hardware for free.
+
+---
+
+## Step 6: Apply the Distilled Edge Framework
+
+Use this framework to decide when to run local vs. cloud models:
+
+**Use local models when:**
+- Input data contains sensitive information you do not want on cloud servers.
+- You need to run the same task repeatedly at high volume without paying for tokens.
+- Speed matters more than maximum quality.
+- You want to experiment and iterate freely.
+
+**Use cloud models (e.g., Claude AI directly) when:**
+- Highest possible quality is non-negotiable.
+- Complex multi-step reasoning chains push the limits of a 30B parameter model.
+- Tasks require real-time web access.
+
+**Prompting tip:** Local models respond to the same prompting principles as cloud models but reward clarity even more. Be specific and structured.
+
+---
+
+## Step 7: Connect Local Models to OpenClaw (Optional)
+
+1. Local models running via Ollama or LM Studio can power OpenClaw agents directly.
+2. Configure OpenClaw to use your local model endpoint instead of a cloud API.
+3. This gives you a fully local, free AI agent setup with no data leaving your machine.
 
 ---
 
 ## Key Takeaway
 
-> OpenClaw 3.13's live Chrome session attachment transforms what your AI agent can do on the web, while GLM-4.7-Flash distilled from Claude Opus 4.5 brings strong reasoning to your local machine for free -- use the Distilled Edge Framework to know when each approach fits best.
+> OpenClaw 3.13's live Chrome session attachment is a game-changer for agent-based web automation, and the free GLM-4.7-Flash model distilled from Claude Opus brings genuinely capable reasoning to local hardware at zero ongoing cost -- though it is not a full replacement for cloud models on complex tasks.
 
-*Guide derived from: OpenClaw 3.13 + FREE GLM-4.7-Flash Claude Opus Local AI [70MEfCwuyZA].en.vtt*
+*Guide derived from: OpenClaw 3.13 + FREE GLM-4.7-Flash Claude Opus Local AI.txt*

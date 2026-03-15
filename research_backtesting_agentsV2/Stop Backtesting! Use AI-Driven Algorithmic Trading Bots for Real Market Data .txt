@@ -1,1171 +1,572 @@
-it really goes into great detail and
-breakdown of this almost holistic view
-of the AI landscape as a good Economist
-he did a predictive analysis of the
-advances in artificial intelligence
-based on three primary drivers this has
-big implications of what's just coming
-out now of yes your business but
-everything else the government's going
-to go oh this is a very big deal because
-we'll now have bet at this next
-Awakening level the danger from AI will
-come from how humans use
-[Music]
-it hey what's going on everybody today
-is June 20 2024 and this is the daily AI
-show live and today we'll be breaking
-down Leopold Ashen Brunner's situational
-awareness paper and there is a ton to
-talk about here uh more than I knew we
-had bit off when we said we were going
-to do the show um I'll be I'll be the
-first to admit it I just had a um not
-layover but it's kind of the way it
-worked out my my flight yesterday I was
-in Austin uh I joined a show yesterday
-from the Austin Hotel much more stable
-camera today um and the I had this long
-period where I was done working with my
-client but it was like they were like oh
-you meet us at the bar whatever blah
-blah blah but then I thought it' be an
-issue with my flight so I just went to
-the airport but BAS basically 4 hours
-then my plane got delayed because of the
-weather out there in Texas so I had a
-very very long self-imposed layover that
-wasn't a layover but I knew that I
-wanted to be prepared for today's show
-so I said I will read situational
-awareness cut to three hours later after
-reading or four hours later after
-reading every single word of it I said
-oh this is a book I
-misunderstood I think somebody had said
-it's like 165 pages but I honestly was
-thinking like oh 165 Pages not real
-pages but the reality is I think this
-was about as long as co-intelligence I
-think it took me longer to read this
-than it did Co co-intelligence um by um
-almost said Eline Ethan mik um end to
-end so I don't know if you guys came
-into it I guess maybe we'll start there
-and talk about who Leopold is and all
-that but did you guys like did you
-understand the the sheer volume and
-breath of situational awareness before
-you dug in did you already know what
-you're were getting into or are you like
-me and com got shocked a little bit I
-didn't know how authoritative and
-scholarly this work uh was and and
-that's the impressive part of this and
-then when you when you guys explain who
-uh Leopold really is and what his
-accomplishments are by the way he's 22
-years old yeah okay uh and you'll hear
-about his accomplishments but you know
-when you put those two things together
-what we're reading here is someone at
-the heart of AI who is a genius
-and a most accomplished scholar in this
-realm from the standpoint of Economics
-so that's my takeaway you know you we'll
-talk about Leo a second I want to hear
-what Beth and Jimmy are about to say but
-you're you're Andy he says in the paper
-at some point um by by sheer happen
-stance or otherwise I am either order of
-magnitude directly related to meaning as
-in working right one order of separation
-or one degree of separation away from
-every person that would be probably
-involved in what he calls the project
-and we'll get into that in a second
-that's a that's an and I know he's not
-he did not come across his bragging
-that's just fact that's just fact like
-you said he's 22 so Beth um where did
-you um what was your take before you got
-into this did you did you know what you
-were getting into or was this like sort
-of a Shakra like it was for me so I knew
-the content of what I was getting into
-but no I didn't know the density
-um and I did a little bit of both I did
-a little bit of reading the the um the
-work on the web and I uh I deep dived
-into uh darar Cash's interview with him
-which is four and a half hours holy crap
-um so listen to us you don't have to
-listen to that then you can go listen to
-that because you'll want to but uh but
-yeah so I I had some sense of it but um
-but the depth and the scholarly
-scholarliness that Andy was talking
-about about yeah that was a surprise how
-about you Jimmy yeah I was going to say
-Jimmy and then Carl Carl joined us as
-well we'll go around the horn here uh by
-the way did I say Beth Jimmy Carl Andy
-and I'm Brian did I say who was here
-today I
-just happened with today's show I was
-saying this to Andy right before we went
-live I said I'm nervous about this show
-I'm never nervous about this show never
-today I said I was nervous and he said
-why I said because it's so big the ideas
-the whole thing is so big that I wordy
-that we're gonna somehow it's gonna
-we're gonna snap our fingers 40 minutes
-it's GNA go by and there'll be have no
-nothing cohesive will have come out of
-it just a bunch of what I feel like is a
-bunch of gibberish rolling around in my
-brain because I just read it yesterday
-and I haven't been able to process it
-but anyway Jimmy what was your take when
-you first sort of got into this well
-that that's a good point that you bring
-up and and hopefully we can in 40
-minutes I think all we can do is really
-give a decent overview yeah we it the
-like everyone's been saying it is very
-material and uh it really goes into uh
-great detail uh and a breakdown of this
-almost holistic view of of the AI
-landscape and so my first impressions is
-I I knew it was going to be a big paper
-um you know going in I didn't really
-know who leop was and that was that that
-was the thing that uh uh most surprised
-me it's like okay so learning about the
-author and learning why this is
-important and why is everybody talking
-about this and so that's I guess that's
-the surprising part but the information
-is fantastic there's also a little bit
-of validation in my own thoughts going
-oh okay cool a person smarter than me
-and who's directly involved in uh you
-know in those circles has pointed these
-things out and like yes awesome uh did I
-have as clear a view of everything as he
-points out absolutely not very there was
-plenty of information in here that was
-like kind of sideswiped me a little bit
-and I was so I'm glad I'm glad we're
-taking this opportunity and if we're
-going to do the paper Justice and do a a
-proper breakdown and review we'll
-probably have to do at least another
-episode uh I will I will put this out
-there now we don't have any plans for
-this so this is like me literally
-talking to you guys I only mentioned it
-once in slack last night and uh Aaron
-who is in Perth so he's 12 hours
-difference was up right it was the next
-it was today for him uh meaning it was
-Thursday and I was like I don't know
-Aron like I think this needs to be like
-its own miniseries now we don't have any
-plans for that but I legit think I we
-could Branch off and go okay hold on
-we're GNA keep doing our shows we're
-going to keep doing interviews we're
-also going to do
-a one two three four five six nine part
-series on situ and we could easily you
-know without the constructs of how long
-an episode EP should be we could just
-long form break that down so if that
-sounds interesting to anybody by the way
-listening to this let us know um I would
-totally be game I think a few of us
-would so we obviously aren't going to do
-that today today is more about like what
-our perception was what did we get out
-of it how do we think it impact business
-all that because you can certainly go
-and I highly recommend everybody to go
-read it on their own um but before we
-get there and we get into that Carl last
-one um the question was I was saying
-before I think you joined I was not
-aware I was I was blindly ignorant to
-the depth of this paper and so I didn't
-really know what I was getting into I
-was saying at I was at the Austin
-Airport and so I had multiple hours of
-nothing yesterday which was actually
-turned out to be perfect because I could
-just sit down and read this word for
-word I did not use a perplexity I didn't
-use a chap GPT I old schooled it right I
-started at at the first word and I read
-it to the end to the last word and took
-my time with it and took breaks and
-walked around the airport as I thought
-about had my in internal monologue so
-did you know what you were sort of
-getting into as you as you got this what
-was your what was your perception before
-like preparing for this particular show
-uh so I remember I watched uh Leopold's
-interview a couple times um like the
-there's like short Snippets but then the
-longer one so I watched that and then
-then I un like you I use perplexity to
-like okay just give me the I need the
-gist of this yeah and then but for me I
-I looked at um the individual parts that
-kind of jumped out of me and it was more
-about National Security and it becomes a
-race and it's funny because of what Elia
-sisk's new super intelligence Inc
-yesterday right it's like he just
-started that and I remember one of the
-points was you know we'll have super
-intelligence it depends on I guess the
-definition of what super intelligence
-will mean by 2025
-2026 although you do say it's like AGI
-will be coming at the end of the decade
-so obviously I think Super intelligence
-is different than AGI although I would
-think it's reversed where super
-intelligence would be things that are
-way smarter than than human intelligence
-so but the the the National Security one
-was was more of like obviously the the
-Hot Topic um that kind of got me it's
-like are we
-competing and I know I don't know nian
-politics but American Poli ICS it's such
-an easy I know the lobbyists are going
-to use this um example and they're just
-going to say well if you do any type of
-Regulation no China's not going to do it
-Russia's not going to do it so why would
-we want
-to slow slow the pace at all I think
-that's enough for 60 70% of the
-politicians in in Washington to be like
-yeah we'll token regulation it get some
-executive orders there yeah we'll meet
-some people will talk but no it's there
-I I just don't think that especially if
-what I think if one politician actually
-gets in and that argument comes to fold
-I was like no this thing is going full
-steam ahead and I think like everything
-is going to go as fast as they can um
-and we just don't know what the other
-countries are doing and then sorry to
-the EU who you know put out the Europe
-like the the their act I was like it the
-the meme and the jokes are going to be
-true you've just out reg you've
-regulated yourself out of the
-race might as well sit in the sidelines
-and cheer for whoever wins I guess and I
-think that's a good pivot real quick
-because we didn't really introduce
-Leopold a little bit Andy uh you could
-probably add some more here as well or
-anybody else in the background for him
-but I threw his his picture up on the
-screen if you want to see what he looks
-like as Andy mentioned he's 22 years old
-I believe uh at the beginning of the
-podcast that uh the uh the host said
-that he graduated valedictorian at 19 at
-Colombia I think I'm right on that one
-so clearly no slouch um he has also
-started a um a uh investment firm I
-believe it is I found it an investment
-firm correct focused on AGI it's called
-for our prosperity and that's actually a
-website that he has I have it up on the
-screen right now so for our prosperity
-uh.com uh with other uh anchor
-investments from Patrick Coulson John
-Coulson Nat Freeman and Daniel gross he
-talks about before that he worked at
-open at open Ai and the super alignment
-team which now has been dissolved and
-there's a lot of news about that um he
-says in a past life I did research on a
-economic growth at Oxford's Global PRI
-uh priorities Institute oh here it is I
-graduated as a valorian from Columbia at
-age 19 sorry I thought that was on
-different page I originally hail from
-Germany and now live in the Great city
-of San Francisco California my
-aspiration is to secure the blessings of
-liberty for our prosperity I'm
-interested in a pretty eclectic mix of
-things from First Amendment law to
-German history to uh topology though I
-though I'm pretty focused on AI these
-days which I think is a is a nice fun
-understatement to start the conversation
-and if you want to see kind of like what
-he has on his which is a much on
-LinkedIn he's definitely much more uh on
-Twitter or X if you want to go follow
-him him that's where you're G to find a
-lot more of his content as well as um
-you know the podcast and things like
-that um but you can see a little bit of
-his background here as well from
-research affiliate and future funds and
-things like that again he's not that old
-so most of this is from only several
-years back um which is really really
-interesting so I wanted to share that
-first just so we had a kind of idea of
-like who are we talking about um I think
-the first question I had in addition to
-that so the the part of him that does
-not show up in his
-CV is that in that his parents that the
-the uh World War II was was um fairly
-close for him the effects of World War
-II which is Again part of this
-perspective that he's bringing to it uh
-his parents are from uh East Germany and
-West Germany right so like they lived in
-that and his grandmother who raised him
-for a little while um was uh alive
-during Nazi Germany right so so um and
-then uh Germany handles their past uh a
-little more directly than than the US
-handles our past so they're a little
-more informed about things that have
-happened in their more immediate past um
-so that is also a piece that comes into
-this that isn't reflected in his
-accomplishments I just want to highlight
-that I think that's a that's a huge call
-I didn't really realize that as much but
-now I'm I'm so glad you said that Beth
-because now it makes me even this is
-great right because this makes me even
-see it through even a slightly different
-lens he talks a lot he most talks about
-China but he talks about like let's call
-it our uh our access our um Access of
-Evil what was it bush used to call it
-the Access of Evil certain people were
-on that list of whatever their Iran and
-China and North Korea and so on and so
-forth and you know politically whoever
-you decide or not decide to put on the
-list the point is clear which is you
-know a big part of this situation
-awareness and what I was going to say
-about what Carl said is situation
-awareness is just what Carl was saying
-or any part the term comes
-from there's only so many people that he
-feels and his reasoning for writing this
-paper who have actual situational where
-is in fact understand the the the
-complexity and the the how vast this
-potential AI can be right where it's
-going to it also Jimmy you brought this
-up and I think it's something we should
-definitely talk about is I will I will
-tell you I because maybe because of
-mainstream media because of whatever
-I sort of r view this AGI this as this
-angle and I will tell you that one of
-the biggest things I brought out of this
-paper is that AGI however you might want
-to Define that and there's several
-different ways to do
-that is really just like a stepping
-stone towards this larger super
-intelligence and then AGI even when he's
-like oh AGI potentially if you just
-follow the charts if you follow the
-graphs and the extrapolation that's
-where his 2027 prediction comes out to
-and he's like I'm not that's not a leap
-I'm literally just looking at where our
-order of magnitudes and he talks a lot
-about that in there you know I'm just
-looking at where we came from gbt 2 to
-four and saying hey if we're at four
-this is where I think we can be if we
-were to get to 2027 right but it's just
-this idea that he doesn't stop at AGI
-it's like oh we have AGI No in fact he's
-talking about hundreds if not thousands
-of orders of intelligence or maybe
-orders of but times intelligence above
-and beyond that which is really really
-mind opening for me about where this
-potentially is going to go and in fact
-in the paper you know it's a situational
-awareness the decade ahead so you can
-kind of see where he's looking at he's
-looking at the next 10 years he's
-looking at the 2030s and saying
-that fundamentally everything will be
-will be different than what we know
-today um anyway that was a big opener
-for me obviously a lot about the the
-national what I want to get to um yeah
-let me throw it back over to you guys
-because honestly this is my problem I
-don't even know where to start with this
-really there's so much different ideas
-in here but the AI one was definitely
-one that was eye opening for sure yeah
-you talk about this um when when you're
-talking about Beyond AGI and he's
-talking about that intelligence
-explosion otherwise sometimes called
-Singularity and this is where we skirt
-some of the science fiction and he makes
-a point that in this next 10 years it's
-not Science Fiction it's completely PL
-and and that's I think I think that's a
-good place to view what he's talking
-about as it this is not this isn't the
-far-flung Future these Concepts and what
-potentially he sees us coming out in the
-next few years is that's reality follow
-the data like you said right follow
-those charts and so I think if anything
-right and calls it situational awareness
-it's you know appropo it
-the the overall intent of the paper or
-the the the essence that I got was here
-is here is all the data that you need
-here's all the information uh you need
-to help inform you of these extreme
-large changes that are going to be
-happening right and whether it's
-positive or negative is how we approach
-it and that's what I get that's what I
-take uh overall take from this paper is
-hey the if you're not aware of these
-things look at this and here is the
-information that supports you know my
-conclusions so start thinking start
-paying attention start being
-aware and just to just to add on to that
-so we're talking about Leopold's paper
-um in mid April darios amay of anthropic
-did a uh did a podcast uh interview with
-asra Klein Ezra Klein interviewed Daria
-s uh and there and he made very similar
-predictions in terms of the timeline
-that we're looking at in that scaling
-right so so half an order of magnitude
-about every six months in terms of leap
-in ability and also in terms of leap of
-cost and compute needed um so uh so
-those things are are married right so if
-if you're going to LEAP you then need uh
-instead of one gwatt or H sorry they
-talk about gigawatts and uh and dollars
-and I don't have the perfect math
-between them but uh but 10 gws is uh is
-decent uh and a doable 100 gws is maybe
-uh more uh needs more intention to be
-able to do it and those are the next
-series of things but what struck me
-about this was that Dar darus amade
-actually
-um is also seeing the the is seem to be
-in agreement about the most
-immediate um next levels that we're
-going to hit and then they d uh they
-diverge in what that means right what
-are going to be the next things that are
-going to happen in relation to that and
-Dario sad said uh like took a sort of
-backseat in some ways and said uh I'm
-right like I'm not going to try to
-predict that and Leopold is like sure
-I'm totally to try to predict that
-because it's important for us to have um
-some concrete things and importantly he
-he says surely towards the end of the
-paper he says look I I clearly will miss
-on many different parts of this I am not
-saying this is absolute or that I
-believe this is the only path he talks
-at at length about the roadblocks ahead
-from all different angles um most of the
-time he's an optimist he says he's an
-optimist you know and that he thinks
-basic on what he knows his experience
-which is extremely valuable in both
-being in San Francisco he talks often
-about the San Francisco parties and how
-much information is transferred there
-that's a whole other conversation but
-just if you're in the conversations if
-you're know like he's just talking about
-the perspective he has but also
-obviously saying look there's there are
-several roadblocks he's just optimistic
-that because of compute because of ai's
-ability to help itself get to the next
-level that he the way I understand it
-this is my perception is that yes we're
-going to run into these roadblocks yes
-we might run out of data but there might
-be Solutions there with synthetic data
-that make it very possible then AI will
-have a part to play in that so it's
-almost like oh AI is g to we we can
-reasonably see the next 12 months or 24
-months that we feel a lot we find a lot
-more comfortable about and that will
-have a rolling effect as it has to
-unlock what we need to get to that next
-step and I I saw that theme a lot in
-this paper was sure we're going to run
-into this most likely but at that time
-our comput abilities our efficiencies
-and algorithms and so on and so forth
-will be also at this level we're not
-going to stop and have today's abilities
-24 months from now so what is that ack
-for us does that allow us to now get
-past it and I I you know it was a very
-compelling argument whether you believe
-it or not or you have a there's many
-people have different opinions of it I'm
-not like all in on this camp but to
-Indy's point I thought it was very very
-well
-written and it stopped short of any
-absolutes or anything it makes a lot of
-comparisons and talks a lot about the
-Manhattan Project um and towards the
-back end of the paper uh chapter or part
-let's call it uh three I'm sorry four
-part four it's called the project and I
-hly didn't know what that was until he
-talked about it but basically what his
-point was
-is I'll try to summarize this and then
-you guys correct me where you think I
-messed this up but in very short
-form like startups are great at what
-startups do and and they can do things
-that are un untangled by government and
-things like that and a lot of the
-advancements in AI probably do need to
-start in the the startup world because
-of their abilities and and how quickly
-they can evolve and stuff
-however he sees us as moving quickly to
-a 2027 2028 2029 time frame where what
-he's worried about is the government's
-going to go oh this is a very big deal
-because we'll now have bet at this next
-Awakening level and the government's
-going to get scared and say okay hold on
-we need a Manhattan Project level of
-security and safety and security be or
-and um and security for
-National aware National Protection right
-and get what might be done and the point
-he brings up is hey whoever was just
-saying Carl was saying I think hey China
-ain't gonna care about you know
-environmental regulations if it means
-the race to a trillion dollar cluster
-and China's like what do we have to you
-know coal mining and fracking and and
-how many people it takes to get there
-great and what he's worried about is
-that right now in San Francisco this
-stuff is being traded freely and so when
-you get to a point of the of the the
-weights that are necessary at a
-superintelligent or AGI you do not China
-or some other actor does not have to go
-through all the work they just need the
-the weights of the model so if they have
-built the infrastructure if they have
-the compute ability and were basically a
-Civ us and the EU and everybody else
-we're just freely giving it out there
-and China already knows it China doesn't
-have to do and build and go through all
-the steps they can simply wait get the
-information because it's not bogged down
-by security and safety regulations like
-a Manhattan Project and simply implement
-the weights on the back end and they
-will have already beaten us on the
-infrastructure side do you guys did do
-you feel like I got that close that's
-how I ran one thing that's funny is is
-that when you when you mention all that
-stuff the first person I keep thinking
-about is Yan laon and he's like none of
-that matters because none of the things
-that we're going to be producing is
-going to be smart enough or Advanced
-enough to do anything crazy that we're
-planning to do and I would I'm assuming
-that he would think leupold's paper and
-so on it's
-like again back to always his points
-like you're not g to we're not going to
-be
-AI is not going to be llms or anything
-that we have now is not going to be even
-remotely as dangerous only as dangerous
-as we make it if we had overtly try to
-make it that way and so when Leupold
-says the Manhattan Project Lon says yeah
-you're crazy that's like yeah yes you
-were talking not even splitting the atom
-like I think it's it's very interesting
-where those two camps are at and what
-one would think versus one would you
-know like would you say that Leopold
-would be a Doomer and like try and I
-don't think he is but then I think he's
-trying to advocate for something else
-but again the view is oh AI is is
-inherently dangerous versus Yan's like
-it's not so so so I think there thanks
-Carl so so in terms of Leopold saying
-that AI Leopold isn't saying that AI is
-inherently dangerous like actually he
-and Yan Lon are saying the same thing
-that the danger from AI will come from
-how humans use it Yan laon is just
-saying I'm not sure humans are going to
-use that it that way and Leupold is like
-I think we should talk about it like
-it's a definite
-possibility um that's a bad
-interpretation of that right yeah no I
-agree with we shouldn't wait to figure
-out like we shouldn't wait to get to a
-point where is
-serious he he's actually saying hey I
-think we have a brief period here he
-calls it the middle ground or the middle
-something I can't remember the term he
-uses this this middle period where we're
-not quite there we're not at 27 28
-29 but we can
-reasonably predict based on current
-trends and patterns on compute and
-algorithmic efficiencies and other
-things that he clearly points out there
-to say should we wait to wake up in 27
-28 or 29 or should we be sounding the
-alarm today to say hey maybe we want to
-put just a little bit more security I
-don't think we're talking building the
-the base in the desert you know if you
-watched Oppenheimer and saw that whole
-story yet but I definitely agree with
-him that maybe we shouldn't be talking
-at bro parties in San Francisco and
-freely talking about about the things
-that are happening and is akin to
-putting a USB drive into a computer to
-to take the information that's necessary
-and his point it doesn't even matter
-right now because any of the Bad actors
-already have all of it just assume it's
-an open conversation web at this point
-and listen I have to agree with that why
-would we want to wait two three four
-years to figure out this is something we
-should have started taking seriously
-three years ago meaning today so who who
-is going to be talking about it though
-like that's the thing is like if you
-talk to any politician they're barely up
-to speed on what half of what exactly
-people know so so even if you even if
-he's raising it right now who is going
-to take that mantle up I I think it was
-a uh I can't remember which podcast it
-was could be Paul rater's one where
-they're talking about like you know the
-I think it was like what was that 1967
-something about going to the the moon
-and and the government's put so much
-money into it and it's like everybody
-like few people think that that's where
-the situation is now but I don't think
-you're going to get that type
-of backing I I just don't see government
-be like yeah I'm going to put seven
-trillion or two trillion dollars into AI
-that would be in in right now and even
-even if you have a political environment
-that was in lock step it'd be very very
-difficult to pass something a bill that
-is outside of Defense so unless you feed
-it into defense which he for some right
-outside of the
-V yeah I don't see any reason why you
-like the the American government and the
-people would stomach that much into a
-technology that half the people don't
-even get don't even use don't even
-understand and just like are putting
-their head down on it this very
-difficult th that's the point right the
-point is they not they're not aware and
-I think that I think this paper is his
-attempt to at least start that
-conversation and you know we are in the
-uh business of AI awareness right AI
-literacy so us Carl it's us it's all on
-us Carl you're you represent all of
-Canada we represent uh all of the United
-States it willon matter I don't get
-anything anyway so what what I talk
-about oh we do we we don't get we'll get
-seven months like okay well thanks
-fantastic well so like comparing it to
-the Manhattan Project the Manhattan
-Project wasn't like a fully informed
-authorization from all of
-Congress right like yeah but you blew up
-like once something blew like I think
-like but there was a war that preceded
-it there was a reason why it actually
-people were actually creating it it
-wasn't just like oh well well we're
-going to start doing this it's like well
-no how do we win the war against Japan
-how do we win the war like wasn't that
-the impetus to actually get something
-moving not hey it's a bunch of research
-let you know we want to do this and we
-want to benefit Humanity no we want to
-destroy people so we can win the war so
-we don't have a World War anymore or we
-don't or we don't have to fight you know
-you know people dying that's a good
-point because a lot of a lot of the
-steps that we've taken in in the last
-few decades or or maybe even longer is
-is very reactionary so I I think this
-section about security is kind of a
-warning of yeah don't react be proactive
-otherwise yes you'll be cleaning up uh
-you know problems down the line I I do
-feel the way to wake people up would be
-like something like
-like even Rob right now there's not very
-much that surprises people it's like oh
-you build a robot that can speak no okay
-fine that's fine like it would have to
-be something like so I don't know I
-don't know if you've ever watched a
-member of The Watchmen but not the movie
-the comics where they faked an alien
-attack so the world would come together
-or like the villain did I feel it would
-require that level of of of of
-catastrophic or some crazy thing to
-bring people be like wait a minute we
-gota pay attention to this like it's not
-just about AI girlfriends anymore it's
-like oh shoot this stuff is like legit
-right it affects the daily life yeah it
-has to affect anything we talk about
-because and it's terrible because then
-you see like people like using it for
-stupid things and you're
-like he he makes a good point and I I I
-want to say this real briefly because I
-want to get Andy I really love to hear
-your your thoughts on all this but he
-makes a really good point of saying that
-a huge misstep would be to believe that
-GPT 5 and intern name there is somehow
-some version of gp4 or whatever that
-next step is that that is absolutely the
-wrong way to think about it so it's
-tough because we only know what we know
-we only know what our experiences are
-and so there's a happy ignorance there
-that goes along with it we go wow this
-AI stuff this generative AI as I was
-talking about yesterday at the client um
-in Austin is is pretty amazing and it
-can do this this and this and so as a
-human you go okay I reasonably
-understand that it can get better at
-writing and that that for any business
-or anybody who's who's limiting their
-beliefs of where this will go to that is
-is a serious misstep
-because forget about all the stuff he
-talks about about the intelligence and
-and the safety and stuff if you're just
-a business today and you believe that in
-in 20 in three years you know in
-2027 that somehow you will just have a
-smarter version of today's AI running
-around and impacting your business and
-your Roi that is a misstep that is a
-huge misstep and so I just want to put
-that out there that I I do agree with
-that and that is absolutely the wrong
-way and hopefully this show over all of
-our episodes over the years will help
-people realize that but that is a
-misstep to believe that it's in some
-like
-traditional growth of it's this smart
-today it'll be that smart tomorrow we're
-talking about o orders of magnitude and
-so things are going to LEAP quickly in
-three years regardless of whether AGI
-happens or we Define it as such or super
-intelligence forget about all that just
-where will we be in three years and if
-you're running a business that's a very
-short period of time we're talking about
-36 months of running a business I I
-think like so I'll give you an example
-yesterday I showed somebody uh gbt 4
-like just the demo of when I was in
-France we recorded the demo I showed
-that person and I said can you I I need
-you to think about your business and I
-want you to think about what this means
-of something that has memory connected
-to your data can see can hear can you
-can speak to it in real time but also
-take actions for you and I was
-like not to you know think about like
-what can you do with this thing and it's
-like the person's like that can replace
-this this this I was like that's where
-you went and I didn't prompt you at it
-you just went there so this has big
-implications of what's just coming out
-now of yes your business but everything
-else and I think it's just like the the
-realization that you could do with that
-because you could see that I could I was
-looking at her eye dilate and like and I
-can see like wait a second
-and just like wait a minute yeah I can
-do this this this like yes you I can do
-this this this yeah everybody will have
-accesses like like you can get excellent
-I'll probably be getting this within a
-month or I don't know whenever they
-release this thing but and then every
-single tool will allow you to do this
-they're not just gonna every single
-company will enable this type of
-activity and more activities after that
-so like and I think like once but we
-need Mass realization of that just that
-alone what that means for for people and
-I think like that's but it's a hard
-thing because unless you actually show
-it and explain it in a way that's like
-related to them no one's going to get
-that you can show them all the demos it
-won't really matter but it's like oh
-wait a minute it's got to be it's got to
-be yeah what's in it for me yep yeah
-it's got to be like how does this impact
-me and my job whatever and oh okay it's
-over there in art okay well that's not
-me I don't do that you're like yeah it's
-running ravage through that
-job and you're like it will be it's not
-there today it will be you know so yeah
-Andy I you've been silent most of this
-time but I would love to hear your
-thoughts on this well I was I was
-excited to hear all of the energetic
-discussion around the implications of
-what Leupold presented let me summarize
-what he did so as a good Economist he
-did a predictive analysis based on uh a
-predictive analysis of the advances in
-artificial intelligence based on three
-primary drivers one increases in
-physical compute capacity huge
-Investments being made by multiple
-Nations to to drive the processing of AI
-the second is algorithmic improvements
-think of that as the the changes to the
-models changes to the math changes to
-approaches and then more importantly a a
-a a third factor that he calls un
-hobbling and I'm going to just describe
-that as okay right now we have hobbled
-AIS they're kind of siloed in their own
-little areas and they're focused on
-single tasks like generating text well
-when you add memory to an AI and then
-give it Chain of Thought kind of
-reasoning capabilities you provide it
-with persistence like that is the the
-objective Pursuit like I'm going to
-persist in following all of the things
-that I have to do in order to get to a
-goal and give it agency so it can act in
-the
-world and then you gang multiple models
-together what you get to very quickly is
-a gang of models that can think through
-problems use tools try different
-approaches do research revise its work
-coordinate with others and complete big
-projects on their own that combination
-of capabilities is Agi that's artificial
-general intelligence it's like imitating
-all the human capabilities that are
-currently offered by remote workers so
-like just plug in an AI that can do
-anything that a remote worker can do as
-a human and there but do it with
-superhuman speed and Mastery that's
-artificial general intelligence but what
-comes after that because of the
-interconnection of these AGI capable
-systems is this intelligence explosion
-so now I just wanted to kind of close
-out I think I just want to read this is
-from Leopold's actual language here he
-says
-superintelligence is AI systems vastly
-smarter than humans capable of Novel
-creative complicated Behavior we can't
-begin to understand perhaps even a small
-civilization of billions of
-agis the power would be vast too
-applying super intelligence to r&amp; D and
-Fields like ml research that solving
-robotics making dramatic leaps across
-other fields of Science and Technology
-within years and an industrial explosion
-would be attendant to that it would also
-superintelligence this explosion like
-Singularity is a term that's been used
-previously for this thanks Beth would
-likely provide a decisive military
-advantage and unfold Untold powers of
-destru Destruction so he there it leads
-into what you guys have been discussing
-which is the Strategic importance of
-aligning that super intelligence with
-human objectives and by the way Leopold
-at Colombia in addition to all of his
-academic Pursuits founded the Colombia
-effective altruism student group
-altruism is literally caring right he's
-this is a caring Soul brilliant mind
-focused on steering Advanced AI
-development and addressing long-term
-impact of that glad he's here I'm going
-to follow him carefully now I didn't I
-didn't really know much about him until
-this paper was released yeah he wasn't
-on my radar U you know I I think he's on
-a lot of people's radar now and
-hopefully he's he's on a lot of people's
-radar because he's say sounded alarm
-that sounds that sounds a lot um but I
-agree with you there was there's so many
-different charts in here that he talks
-about about order is the magnitude of
-where we're going but one of them that
-really stuck out to me that I just want
-to talk about really quickly was his
-number of tokens and so he comes up with
-a idea of assuming that a human thinking
-at roughly 100 tokens per minute and
-working 40 hours a week in fact let me
-just pull it up on the screen here it's
-a really interesting chart because he's
-he's trying to give a a clear a Clear
-Vision of what we're talking about when
-we talk about the ability of like uh
-superintelligent or compute power so
-he's saying basically that at the at the
-top of the chart here he says number of
-tokens hundreds equivalent to me working
-on something for and in this case a few
-minutes and he's like that's chaa we're
-here right now that's the first thing he
-says then it goes to thousands 10
-thousands hundreds of thousands millions
-of tokens and as you work your way
-through this list he tells you what that
-order of magnitude increase is so if we
-go all the way to the bottom he says
-millions of tokens is the equivalent of
-him working on some for multiple months
-now the reason I want to bring this up
-is because I think this brings it back
-to what I would feel like I want to
-leave everybody with because we do try
-to focus on the business yes we can talk
-about security yes we have a lot of
-other conversations on this but
-ultimately what we've always hope for is
-that business people are listening to
-this and going okay what is in it for me
-why should I care about this and I think
-what what I get out of reading this
-among many many other insights is
-were in in a short period of time what I
-feel is
-very likely to happen is you talked
-about it Andy our context windows are
-very short right now when you ask a
-chatab BT to do something it has more
-than likely no prior knowledge it exists
-in that moment it's a very smart high
-schooler whatever label you want to put
-on it at that point and that's sort of
-where it ends and of course we have
-windows and we can go back but all that
-gets very fuzzy as he points out we're
-moving quickly towards a place with
-business and this is my main point to
-this
-where if I was going to give a business
-one piece of advice today you know I
-would say clean your house get your data
-in order but what even more important to
-that I would say is save all of your
-transcripts save all the conversations
-you have even if you don't know what to
-do with it today save it label it put
-data governance on it all that house and
-order stuff as well here's my reasoning
-for it because if Leupold is is is
-predicting the the very near future here
-every business will not just be able to
-have a chat BT that can help them
-through today's today's problem and help
-them foresee or make a predict the
-future it would be the equivalent of a
-of a chat BT or thousands of chat BTS
-going away for multiple months with all
-of your data from your company and then
-coming to you and saying I've been
-thinking about this hard me and my
-thousand friends who are all smarter
-than a human have all collectively been
-thinking about this very hard and this
-is what we've come up with based on your
-business or whatever given that we have
-immediate context everything that's
-happening now you can consider that to
-be a great thing in your business or you
-consider that to be a a negative I
-understand both sides of it but if I'm a
-business that's where I want people to
-focus is you may not know what to do
-today and I can't tell you for certainty
-what will happen but I can tell you that
-if you are organizing and saving what
-you have today the data in multiple
-multi multimodal audio video visual
-whatever all of
-it that's what you need because very
-soon they're going to be models capable
-of looking deep months years deep into
-that data and being able to assist
-businesses that's how you will get ahead
-that's to me how you will get ahead in
-business because guess what everybody
-else will be doing waiting for 2028 to
-come around or whatever that for that
-date is in the future and they're going
-to say oh holy crap did you know it
-could do this we should start Gathering
-our data and the and the Smart Ones are
-going to say we've been Gathering our
-data and we are ready to launch with
-whatever that business is that's how you
-protect yourself in the future of AI in
-my opinion that's what I get so so uh we
-just want to acknowledge the people
-whose minds are blown uh such as Cisco
-thank you very much um and uh and we've
-got your back we will continue to be
-talking about these subjects and doing
-the Deep Dives so that uh so that you
-can do the shallow Dives with
-us yes we will definitely get into this
-more I think Cisco also said uh maybe
-like a three-part series or something
-like that which I think would be super
-cool thank you for the feedback on that
-who knows maybe we will let's see what
-the feedback is and how what the
-reception is to this particular show and
-uh we can always pivot from uh there
-tomorrow we actually do have an
-opportunity to bring up more of this
-should we decide to um because it's our
-two week wrap-up show or not wrap-up
-that's the wrong word for it's a recap
-show um where we're talking about all
-the topics that came up over the last
-two weeks on our show from our news
-shows to all the individual uh show
-topics along the way it's always a great
-time because it sort of opens the the
-floor to all sorts of different ways and
-I always love hearing where people are
-like you know what I want to talk about
-you know um this is on my mind I'll try
-to keep this mostly at tomorrow um but
-like all the different topics and where
-it sort of come back into our lives so
-it's always a really interesting show um
-and so come on back tomorrow to uh hear
-more and of course all next week we
-will'll have lots more AI topics along
-the way so this has been the da show
-make sure you go to the Daily eyes
-show.com especially if you want to get
-on our newsletter list this Sunday will
-be issue number three um we are always
-putting additional information into the
-newsletter that you cannot get on the
-live show so it's a great reason for you
-to go ahead and sign up and of course if
-you go to the Daily show.com you can get
-access to all our past you know episodes
-and live episodes and all the good stuff
-is there there's links to all of it so
-it's a One-Stop shop for you okay that's
-it for today thanks guys for the great
-conversation and we will see you uh
-tomorrow for our two week uh wrapup or
-not wrap-up why do I keep calling a
-wrap-up show all right we'll see you
-tomorrow bye
+Hello everybody. Brian here from
+quantabsnet.com.
+What I'm about to show you is pretty
+incredible. I've uh come up with a new
+way to deploy strategies. We go through
+a phase which is better than back
+testing. Um, and once all a series of
+bots proved to be profitable after a day
+or two, you can then deploy them in real
+trading environments against live money.
+So, let me show you what I'm uh
+referring to here. Okay. So, in here,
+um, I've been running, uh, a bunch of,
+uh, bots here. So, this is just one
+example. You can see them spanned out
+across this uh PowerShell window.
+There's about 12 of them been running
+since Thursday night. And um you know,
+it's all great and all. Somebody want to
+see that. Um so, let me just show you
+what I've pretty well got. Okay, so
+we've got a bunch of PDFs and with the
+magic of uh AI, I'm able to um generally
+see how the bots are doing with their
+logs,
+text files that they generate. There's
+again 12 of them since two nights ago.
+And I'm going to show you how and which
+ones are best performing. So, I have an
+overall comparison of all of the bots
+available uh that have been running. And
+um you can see the periods here from
+February 4th uh to the 26.
+Um and that's all cool. So, let's go
+through this and I'm going to go through
+each detail. I'm just going to show you
+the best performing bots. So, here we
+can measure on a variety of things. So,
+these some of the bots. Okay. So, we
+have a Brent Crew geopolitical risk
+premium bot. This one is supposed to be
+the most profitable stable coin uh peg
+arbitrage. This Ethereum uh stake
+staking premium capture. This one's the
+most profitable. It's an XRP short
+squeeze. Uh we also have um gold silver
+ratio bot, copper aluminum spread, VIX
+call spread. We also have a few um
+Bitcoin bots breakout and ATR. And then
+we have an intraday futures uh bot as
+well. And I just want to show you just
+generally which ones are most
+profitable. Uh there's some other things
+you may want to uh be uh watch for
+throughout this video. Um just because I
+have another report that will show show
+you which trending styles are the best.
+So this one is the uh breakthrough
+goes through the orders. So some of them
+don't have a lot of trades. maybe one
+trade. Um there's a couple of other ones
+like the uh I think this is the stable
+coin one. Yeah. So this is the uh USDT
+arbitrage. Let me see if I have that
+available. So let me just go through
+this. These are available if you take a
+trial of my qua analytics. So here's the
+metrics for uh the XRP. So it's only
+been running for a few hours today. It's
+already up $13,000.
+rate of return at uh 28%. So this is the
+shortest running bot uh today only and
+it's pretty incredible when you look at
+profit factor 4.54 sharp ratio 2.84
+win ratio right now is a 50%
+um and so on. Okay, there's uh this one
+which has been doing very well. This
+one's I started last night 13,000 uh
+dollars
+um which is um the XRP
+squeeze bot. So this is running on uh
+CME. Okay, this is a big winner, one
+stopout. So those are the top two
+winners. Um so oddly enough, even though
+there's bad news in crypto, uh I did put
+up a putting breakdown on on this spot
+as well.
+um on uh the stablecoin one earlier
+today. So you can see here these are the
+top performing bots. So the only ones
+that are doing well the XRP squeeze and
+the stable coin.
+Everything else has lost money. So my
+point here is what's important is you
+let these things run in a test
+environment with real market data and
+then you let them run a day or two and
+just see if they end up being profitable
+or not over that time period and you
+look for these kind of metrics. So once
+you start seeing that these metrics
+profitable, there's no reason not to
+deploy them into the live market once
+you're comfortable with what you're
+seeing. Okay. So what I can do now is I
+can go through each individual
+um bot. So here is the first one I
+mentioned about the stable coin. Um so
+you can see here it's done uh in this
+case $620
+win ratio of 75% total trades at 12 and
+since last uh since today. Okay so this
+is a very very good bot. This will only
+work if your country lets you have
+access to perpetual stable coin uh
+markets for both uh USDC and uh USDT
+which is Tether. So, I'm not going to go
+into the details of it because I said I
+have a coding breakdown on it already.
+Um, but you see the metrics here are
+quite quite detailed. Gives you a
+trading log as well. Um, and this is
+real data. So, this has done very very
+good one day. Okay. So, it's using a box
+spread. Um, and then a reversal as well.
+So, from what the coding breakdown said,
+it's not very dependent on uh the crypto
+market itself. the condition of let's
+say the direction of uh Bitcoin or
+Ethereum. It's all independent, which is
+kind of what you want. So, I'm pretty
+pretty happy about it. Um, but you can
+see here with the charting uh and what
+I'm able to do uh is pretty pretty
+impressive. So, uh let me just see here
+if I can show you if you wanted to take
+a trial and get access to this. Let's go
+to the to the group section. uh do a
+trial for the Quan Analytics and uh I
+could do this all the time, but I'm just
+showing you the process. Now, one last
+step before I go live, be able to um
+take this. Um so, here's the coding
+breakdown on this on the blog. Most
+profitable, lucrative, stable coin, RBOT
+posted. Okay. Um that's the code. Sorry.
+Um let me just show you the uh groups
+here. So, come into the groups. Look for
+uh Quant Finance group here.
+And um
+yeah,
+right here is the uh set of reports I'm
+talking about, right? This this thing
+right here. Um so you can get that. You
+can get the trial again at my homepage
+and just go to the trial right here.
+Okay. Get access to it. Seven days.
+Anyways, um let's get back to this. This
+is very very exciting stuff. So um
+that's the stable coin. uh arbitrage bot
+that's done pretty good. Um let me show
+you the other one
+or the XRP which I really surprised me
+that that would be the most profitable.
+Um so this is the
+XRP short squeeze. Um here you could see
+uh the different um metrics
+runs on uh CME.
+I believe this is running on the MXRP
+uh MXRP which is a new symbol for C CME.
+Um look at that profit. Okay, 13,000 win
+ratio of 50%. So this was launched last
+night. This this has done absolutely
+incredible. Best trade at 56% return.
+Worst trade at 16% which is pretty good.
+Um look at the riskreward one to 3.45.
+That's strong. That's out of six trades.
+Um,
+so here's some of the uh trades from the
+last couple hours or 12 hours. Uh, so we
+have buy sell by sell. Okay, here's the
+profit. I don't know what it starts
+with. So here's the total capital initi
+uh invested $48,000. So not even in a
+full 24h hour period, we got a $17,000
+return. Okay, so this is all virtual as
+I said, but it's using real world market
+data. This is the important thing here.
+Anything over two for a profit factor is
+very good. Here we're at four and a half
+sharp ratio, which is pretty good at
+2.8, but that's estimated because it's
+not enough trading, but that's still
+pretty good with an ROI return on
+investment 28%. In less than one hour in
+one day. Okay. And again this is totally
+um dependent not dependent on direction
+but um this was a very very good bot. So
+the entry is when the short interest is
+greater than two standard volume two
+times exit at uh 25% trailing stop stop
+loss and then there's your position
+sizing as well at 50%.
+So you can see this analysis pretty
+good. All again all generated by AI. Low
+win ratio two trades max monthly trades
+limit blah blah blah. Um
+okay. So we'll leave that. That's pretty
+pretty good. So those are the two most
+pro popular or profitable strategies.
+Okay. So let's start looking at the
+other ones that you would have thought
+was profitable. So, um, let's check out
+this one, which is the Bitcoin. And
+there's two types that were run. These
+were running for the full two days.
+Okay. So, um, there was an ATR one and a
+breakout one. Okay. ATR trend.
+Um, so it lost money. Okay. Two trades.
+Not a lot to go on. But these type of
+stret
+this these type of strategies don't give
+me a lot of confidence from the get-go
+compared to what I've shown before with
+the other two. Um so you can see here um
+it's losing money and that's on each
+position there. So I probably wouldn't
+move ahead with this particular strategy
+either one on the ETR or the breakout.
+Um there's something here that must be
+paid attention to. So configure trading
+session between 5 and 4. Uh CME futures
+trading hours. Log times are in local
+time discrepancy between the local and
+the server time on at the CME which is
+in uh Chicago in Illinois.
+So uh you can see here it goes through
+all the different breakdown and again I
+have that available as I've hinted at.
+So let's go on to the next uh one. Now,
+this one I'm going to show you just out
+of time. I believe uh well,
+I think it's Yeah, this it' be this one.
+I think it's this one. This will tell
+you um the overall which style of
+strategies is most profitable.
+So, in here um you can see here uh I
+don't know
+uh which one this is. So you can see
+here the XRP
+and the uh stable coin strategy has done
+really well. This is from earlier today
+the analysis.
+Okay. Um I think it was either yesterday
+or today. Um anyways so the cryptos
+futures so the BTC these are projected
+now. Okay. So what I'm showing you is
+been running for a couple of days
+against real data. Okay. So some of the
+one I'm showing you here is all
+projected. Okay. So this will go through
+Ethereum futures. Uh we'll look at we
+just looked at the XRP. Uh the USDC
+stable coin we looked at. Um here's the
+different strategies. So even though
+crypto's um doing not great as an asset
+class, there are pockets of strategies
+in terms of trading opportunities. Okay?
+So they exist. So we we've we've tried
+to run a Brent that's losing money. And
+again, what I'm showing you is
+projected. So again, this is gold losing
+money on that one, too. Copper losing
+money. Okay, gasoline. I don't think I
+ran that. Um and then again, you can see
+how detailed this goes. I don't think I
+ran any of the um Forex ones. So this
+one is a short on the usual USD uh
+Japanese yen eurous USD
+um Australian a uh Australian USD
+um so we have some of those and these
+are again projected so I can run and and
+I do project on bond and treasury as
+well um again
+not the greatest okay that I've seen and
+then we have different ones involving
+VIX which I have and there there's just
+multip strategies that AI can pick out
+and now I have the capability to run and
+see how it does against each other
+before I launch it live into the
+markets. So, um let's check out a couple
+other ones here.
+So, uh
+I think it's this one I just Okay.
+Yeah, I just showed you that.
+Okay. Um, let's see here. This might be
+this one here.
+Okay, I think it's this one. Okay, so
+this is a hodge to to get the AI to run
+these this this is going through 500k of
+data logs plus the trading logs for each
+bot. So to to to to get the reports to
+be generated are quite challenging. Uh,
+moving forward, it's going to be a lot
+easier because I'll have fewer bots. um
+uh to to to be looked at. So these are
+the different types of bots again in
+this particular report. So the gold
+silver seem to be profitable. Okay,
+that's what this is telling me. Um
+now
+okay, that's not the best one either.
+Let's uh Okay. Um I showed you the BTC.
+I've shown you the XRP. Let's take a
+look at Ethereum here.
+So this is Ethereum purely. This is um a
+uh staking premium. Okay. Now was this
+profitable or not is the question. Uh
+this one's quite detailed.
+Um
+so you can see here win ratio of 66%
+but still overall it's still lost. Okay.
+So only three. These are very early day
+um
+early day tests. I guess you could say
+like one or two days is not enough. But
+if you want to see what's profitable as
+you test, this one looks good at at a
+win ratio of 66%. I may consider that
+one to run live. So this was only
+running 18 hours.
+Okay. And here's the typical whole time
+and all those three positions.
+800 uh events meaning different type of
+but data uh came in if it was streaming
+whatnot. Um so this is an interesting
+one that the Ethereum particular for
+this one is profitable um quite
+interesting. Okay. So, close that one
+out. And again, you're comparing against
+things like ETF flow
+stake staking using uh another metric of
+the E and Bitcoin uh ratio, Ethereum
+price, support versus support, blah blah
+blah blah blah. Again, this is all 100%
+generated by yeah, every single thing
+I'm showing you here. Um, okay. So, we
+have that. Let's take a look at the um
+uh this one
+oil trading. This is this is another one
+of interest. So this one totally lost
+money. Okay, you can see that that lost
+win ratio. Didn't only one position
+absolutely I wouldn't move forward with
+this but full analysis is there. If you
+get access to it, you can check it out.
+Um let me see if there is the one report
+I wanted to show.
+Uh, let me see here.
+Uh,
+I think it must have been that one.
+Yeah, let's hope it's this one. Okay,
+this is what I want to show. So, here's
+a little more in depth, I believe. Yeah,
+it is. Okay, so this report looked at
+multiple um multiple bots. So we have
+here the gold future. We have a a
+high-grade gold strategy. We have a mini
+gold f uh futures one as well. Okay. So
+these are the order execution.
+Um and and it tries to explain why no
+orders were placed which is kind of
+cool. There's not enough data. The the
+strategy may be overly complicated. So
+we can do that. But what I want to show
+you here. So we have a VWAP, support
+resistance, paired trading, trend
+following, mean reverting and momentum.
+So these are what I wanted to show
+initially of the types of strategies. So
+the number one profitable one is
+momentum breakout and then the mean
+reversion as well. So let's go through
+that roughly. So you can see here these
+are the standard metrics from a
+portfolio management perspective among
+all these bots that have been tested.
+the momentum breakout was the highest.
+So, it had a 1 to 2.5 uh re riskreward
+plus a very good win ratio of 65. But
+meanwhile, you can see here this one at
+70% for trend following
+uh with the risk reward at 1 point uh
+1:3.
+but uh actually it's it's kind of odd
+because anyways I don't think this is in
+order but you can see momentum breakout
+trend following uh done quite well.
+Let's check it out. There's there's
+charts here for that. Okay.
+So you can see here which are the most
+profitable. Okay. Uh these are the
+returns. Okay. So you can see here trend
+following is the number one out there
+for that momentum based and the hard
+part now is what's been happening
+specifically in the stock market the
+markets have not been consistently
+profitable for the last little while
+like couple of weeks or even a couple of
+months. So if they were which they have
+been for let's say 15 years that's why
+people have built well quite quickly
+because of the simple trend following of
+those asset classes of the market
+indices but also we have the momentum
+base but the key here is to look at
+which ones are doing well comparatively
+the VWAP and mean reversion as well.
+Okay. And again, strategy analysis
+report risk-to-reward ratio consistency
+still here with a trend following and
+momentum are best followed by um VWAP as
+well. Okay. So, if we look at the
+overall portfolio metrics and now put
+your portfolio manager hat on
+um these are if you ran everything
+together, you would be hypothetically up
+240%.
+Um let me just make sure I think this is
+for all. Yeah. So this is for if I'm not
+mistaken here. So you can see here for
+momentum
+breakout. Okay. So this is what you
+would have returned estimated based upon
+the these data tests. So we would be up
+annualized at 15% and the volatility is
+super low. Okay. The rat sharp ratio is
+not too bad. Certino's pretty good there
+and that is pretty spectacular. Negative
+point 2.1 max draw down over that time
+period. Meanwhile, we're still estimated
+to get 12% volatility which is very low
+um and an annualized return of that. So
+again, this is pretty strong for
+momentum breakout. And then we get into
+the trend following. I mean this is kind
+of early day testing so it's not
+foolproof but it just kind of gives you
+an early
+hint of what to focus on um but using
+real data and again you can see the the
+the volatile is a little lower again uh
+annualized return 200% which is pretty
+good actually uh sharp ratio 1.68 68
+um win ratio which is very strong at win
+uh 70% win ratio which is very good.
+Okay. and then mean reversion which
+you'd think would do well but if things
+got really bad were all you had were
+mean reverting regimes
+what we would get here uh 120 with a
+hypothetical sorry a return at 78% I'll
+take it but not as strong the volatility
+is still comparable but you can see here
+that the sharp ratio is not as strong at
+0.95
+max draw down still fairly So, okay. And
+then again, when you start to break down
+things, um, these are your top three
+types of strategies. I show this because
+I think it's important to understand
+when you when you hear certain types of
+strategies, those are the ones that will
+do generally well,
+okay? But of course, there's the
+exception with I've shown with the XRP
+and the stable coin strategies, which
+show very early signs of good profit.
+That doesn't mean they'll be forever.
+Um, but in this condition right now,
+those are definitely the ones I'd kind
+of go with with the Ethereum as well.
+And this is outside of uh gold, as I
+said, copper
+uh oil as well.
+And you might be asking, why aren't you
+not seeing the um market indices?
+Because they're not performing all that
+great right now. I mean, they're they're
+very low swings. It's kind of flat. Um,
+you can see here that we have uh gold
+futures
+only 3%
+mini gold at 0.9. You would think that
+why would the mini gold contract be
+lower than the gold contract. Okay, I
+can't explain that. Um, but then when
+you look at the full uh copper, boom,
+1.8. Not bad. All right. So again, we
+can see here based upon the trend style.
+Okay. Now again, these are early early
+days. It's not foolproof, but just kind
+of gives you an idea of what's looking
+good. So the trend based or trend
+following at 2.7
+um average return not bad. Momentum base
+at 2.1 as well. And the risk is fairly
+low or medium. And here you're getting
+poultry
+type of um returns with a high high risk
+and a medium high risk on the mean
+reverting and statistical. So if you
+only focus only on these type of
+strategies,
+um chances are you have a much higher
+probability of getting profit. Okay? And
+and we have to admit the market
+conditions we have right now are pretty
+tough.
+Um and here here we go again. uh gold,
+copper.
+Okay. Uh
+but if you compare this against the
+crypto, oddly enough, the crypto with
+the right strategy conditions
+uh can do really well. Uh which is kind
+of surprising for me um as well. And we
+have the VWAP analysis, the volatility,
+blah blah blah blah blah blah blah blah
+blah. Um yeah, so that's pretty well it.
+I have to say that this is quite an
+interesting um quite an interesting
+analysis. So as I said if you want to
+get access to this stuff take the trial
+quantet.com
+just click on the try button there as I
+said you should be able to find it in
+the in the group section
+um as I showed earlier and uh yeah there
+the code is getting posted uh but that's
+in my lead. Now the other thing when it
+comes to this um I have talked about
+this before
+um you can
+mimic what you're seeing here with this
+at this price which is disgustingly
+cheap. um it will go up fast as we go
+live, we prove profit and more
+importantly if we are able to uh
+generate alpha from it consistently for
+a couple of months then I can guarantee
+we will be able to substantiate
+our claim on analysis because I don't
+think anyone's doing this type of
+analysis looking at real world data and
+analyzing using AI and then going full
+transparency on it um especially in a
+tough market as regarding this. This is
+uh basically if you seen the video with
+interactive brokers, you don't have to
+have interactive brokers. You can just
+use the demo mode paper trading uh with
+Jthon. Um and you can use this
+um quite easily to start your journey.
+Every time somebody asks me where do I
+begin, this is where I point them. Um,
+but uh this will definitely go up at
+hftcode.com.
+Other than that, thanks for watching.
+Have yourselves a good day.
